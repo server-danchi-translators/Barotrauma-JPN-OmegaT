@@ -6,6 +6,22 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>Air quality</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T111309Z" creationid="kakonya" creationdate="20190607T111309Z">
+        <seg>(酸素)環境</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Air quality data not available</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T111311Z" creationid="kakonya" creationdate="20190607T111311Z">
+        <seg>(酸素)データは利用できません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All your unsaved progress will be lost.</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T104422Z" creationid="totochan" creationdate="20190607T104422Z">
@@ -38,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Automatic control</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T111404Z" creationid="kakonya" creationdate="20190607T111404Z">
+        <seg>オートコントロール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ban</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T105037Z" creationid="kakonya" creationdate="20190607T105037Z">
@@ -50,6 +74,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190607T055003Z" creationid="hiru4" creationdate="20190607T055003Z">
         <seg>キャンペーン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T111201Z" creationid="kakonya" creationdate="20190607T111201Z">
+        <seg>キャンセル</seg>
       </tuv>
     </tu>
     <tu>
@@ -118,10 +150,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Critical\nHeat</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T111505Z" creationid="kakonya" creationdate="20190607T111505Z">
+        <seg>致命的\n高温</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Customize</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T101325Z" creationid="totochan" creationdate="20190607T101325Z">
         <seg>カスタマイズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deconstruct</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T111157Z" creationid="kakonya" creationdate="20190607T111157Z">
+        <seg>解体</seg>
       </tuv>
     </tu>
     <tu>
@@ -150,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fission rate</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T111415Z" creationid="kakonya" creationdate="20190607T111415Z">
+        <seg>核分裂率</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Generating more power than the devices in the submarine are consuming may damage junction boxes or cause fires.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T052704Z" creationid="kakonya" creationdate="20190607T052704Z">
@@ -170,6 +226,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T104152Z" creationid="totochan" creationdate="20190607T104152Z">
         <seg>ホストサーバー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hull breach</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T111238Z" creationid="kakonya" creationdate="20190607T111238Z">
+        <seg>船体に異常</seg>
       </tuv>
     </tu>
     <tu>
@@ -278,6 +342,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Load: [kw] kW</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T111413Z" creationid="kakonya" creationdate="20190607T111413Z">
+        <seg>負荷: [kw] kW</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lvl</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T111207Z" creationid="kakonya" creationdate="20190607T111207Z">
+        <seg>レベル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Main Menu</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T104216Z" creationid="totochan" creationdate="20190607T104216Z">
@@ -382,6 +462,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Output: [kw] kW</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T111410Z" creationid="kakonya" creationdate="20190607T111410Z">
+        <seg>出力: [kw] kW</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Password</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T104444Z" creationid="totochan" creationdate="20190607T104444Z">
@@ -394,6 +482,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T105152Z" creationid="kakonya" creationdate="20190607T105152Z">
         <seg>人事交通</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Powered</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T111336Z" creationid="kakonya" creationdate="20190607T111336Z">
+        <seg>電圧</seg>
       </tuv>
     </tu>
     <tu>
@@ -418,6 +514,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T104448Z" creationid="totochan" creationdate="20190607T104448Z">
         <seg>公開サーバーは、「サーバーに参加」タブで利用可能なサーバのリストに示されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pumping speed</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T111348Z" creationid="kakonya" creationdate="20190607T111348Z">
+        <seg>排水速度</seg>
       </tuv>
     </tu>
     <tu>
@@ -630,6 +734,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Turbine output</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T111417Z" creationid="kakonya" creationdate="20190607T111417Z">
+        <seg>原動機出力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Turn it on by interacting with it ({0}) and flip the switch to the “on” position.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T104221Z" creationid="kakonya" creationdate="20190607T104221Z">
@@ -666,6 +778,22 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T103732Z" creationid="kakonya" creationdate="20190607T103732Z">
         <seg>通常では、近くの水検知器やナビゲーション端末から信号を受信しますが、手動で操作も可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Water level</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T111258Z" creationid="kakonya" creationdate="20190607T111258Z">
+        <seg>浸水</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Water level data not available</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T111305Z" creationid="kakonya" creationdate="20190607T111305Z">
+        <seg>浸水データは利用できません</seg>
       </tuv>
     </tu>
     <tu>
