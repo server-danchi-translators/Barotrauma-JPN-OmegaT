@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Aim</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113943Z" creationid="kakonya" creationdate="20190607T113943Z">
+        <seg>狙う</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Aim assist</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113856Z" creationid="kakonya" creationdate="20190607T113839Z">
@@ -154,6 +162,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T105037Z" creationid="kakonya" creationdate="20190607T105037Z">
         <seg>禁止</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Banlist</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T114146Z" creationid="kakonya" creationdate="20190607T114146Z">
+        <seg>禁止リスト</seg>
       </tuv>
     </tu>
     <tu>
@@ -398,6 +414,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Crew orders</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T114107Z" creationid="kakonya" creationdate="20190607T114107Z">
+        <seg>乗員の注文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Critical\nHeat</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T111505Z" creationid="kakonya" creationdate="20190607T111505Z">
@@ -418,6 +442,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T111509Z" creationid="kakonya" creationdate="20190607T111509Z">
         <seg>致命的\n低温</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Crouch</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T114052Z" creationid="kakonya" creationdate="20190607T114052Z">
+        <seg>しゃがむ</seg>
       </tuv>
     </tu>
     <tu>
@@ -482,6 +514,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112841Z" creationid="kakonya" creationdate="20190607T112841Z">
         <seg>説明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deselect</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113907Z" creationid="kakonya" creationdate="20190607T113907Z">
+        <seg>選択を解除</seg>
       </tuv>
     </tu>
     <tu>
@@ -598,6 +638,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>End round by voting</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T114202Z" creationid="kakonya" creationdate="20190607T114202Z">
+        <seg>投票でラウンド終了</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>End round when destination reached</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T114159Z" creationid="kakonya" creationdate="20190607T114159Z">
+        <seg>目的地に到達エンドラウンド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>English</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113209Z" creationid="kakonya" creationdate="20190607T113209Z">
@@ -702,6 +758,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Game mode selection</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T114155Z" creationid="kakonya" creationdate="20190607T114155Z">
+        <seg>ゲームモード選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>General</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113052Z" creationid="kakonya" creationdate="20190607T113052Z">
@@ -726,6 +790,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Grab</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T114117Z" creationid="kakonya" creationdate="20190607T114117Z">
+        <seg>つかむ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Graphics</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113523Z" creationid="kakonya" creationdate="20190607T113523Z">
@@ -738,6 +810,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113548Z" creationid="kakonya" creationdate="20190607T113548Z">
         <seg>HUDスケール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Health</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T114115Z" creationid="kakonya" creationdate="20190607T114115Z">
+        <seg>健康</seg>
       </tuv>
     </tu>
     <tu>
@@ -866,6 +946,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T111531Z" creationid="kakonya" creationdate="20190607T111531Z">
         <seg>核分裂率を増加させると、反応器はより多くの燃料を消費し、より多くの熱を発生させることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Info tab</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T114059Z" creationid="kakonya" creationdate="20190607T114059Z">
+        <seg>情報</seg>
       </tuv>
     </tu>
     <tu>
@@ -1174,6 +1262,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Next character</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T114120Z" creationid="kakonya" creationdate="20190607T114120Z">
+        <seg>次のキャラクター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>None</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T105127Z" creationid="kakonya" creationdate="20190607T105127Z">
@@ -1342,6 +1438,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Previous character</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T114122Z" creationid="kakonya" creationdate="20190607T114122Z">
+        <seg>前のキャラクター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Prospecting</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T110508Z" creationid="kakonya" creationdate="20190607T110508Z">
@@ -1426,6 +1530,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T104437Z" creationid="totochan" creationdate="20190607T104437Z">
         <seg>クエリポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Radio chat</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T114104Z" creationid="kakonya" creationdate="20190607T114104Z">
+        <seg>ラジオチャット</seg>
       </tuv>
     </tu>
     <tu>
@@ -1518,6 +1630,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rounds</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T114140Z" creationid="kakonya" creationdate="20190607T114140Z">
+        <seg>ラウンド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SCRAM</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T111524Z" creationid="kakonya" creationdate="20190607T111524Z">
@@ -1562,6 +1682,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112829Z" creationid="kakonya" creationdate="20190607T112829Z">
         <seg>スコア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113906Z" creationid="kakonya" creationdate="20190607T113906Z">
+        <seg>選択</seg>
       </tuv>
     </tu>
     <tu>
@@ -1614,10 +1742,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Set Default Bindings</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T114125Z" creationid="kakonya" creationdate="20190607T114125Z">
+        <seg>設定されたデフォルトのバインディング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set key bindings to ones that were used in the old pre-alpha versions of Barotrauma (E to select and deselect items, left mouse button to use item the in hand).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T114137Z" creationid="kakonya" creationdate="20190607T114137Z">
+        <seg>（手でアイテムを使用するアイテムを選択し、選択を解除するE、マウスの左ボタン）Barotraumaの古いプレアルファバージョンで使用されたものにキーバインドを設定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set key bindings to the recommended default settings (left mouse button to select items, right mouse button or esc to deselect).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T114131Z" creationid="kakonya" creationdate="20190607T114131Z">
+        <seg>推奨されるデフォルト設定（アイテムを選択し、マウスの左ボタン、選択を解除するには、マウスの右ボタンまたはESC）にキーバインドを設定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Settings</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T104158Z" creationid="totochan" creationdate="20190607T104158Z">
         <seg>設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shoot</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113959Z" creationid="kakonya" creationdate="20190607T113910Z">
+        <seg>撃つ</seg>
       </tuv>
     </tu>
     <tu>
@@ -1698,6 +1858,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T104154Z" creationid="totochan" creationdate="20190607T104154Z">
         <seg>潜水艦エディタ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Submarine selection</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T114153Z" creationid="kakonya" creationdate="20190607T114153Z">
+        <seg>潜水艦の選択</seg>
       </tuv>
     </tu>
     <tu>
@@ -2102,6 +2270,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When enabled, the camera moves according to the direction you point the cursor to.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113905Z" creationid="kakonya" creationdate="20190607T113905Z">
+        <seg>有効にすると、カメラが移動は方向に応じて、にカーソルを合わせます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When enabled, voice chat messages are panned according to the direction of the speaker relative to your position.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113834Z" creationid="kakonya" creationdate="20190607T113834Z">
@@ -2122,6 +2298,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T103045Z" creationid="kakonya" creationdate="20190607T103045Z">
         <seg> {1}を長押しすると溶接します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whitelist</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T114151Z" creationid="kakonya" creationdate="20190607T114151Z">
+        <seg>ホワイトリスト</seg>
       </tuv>
     </tu>
     <tu>
