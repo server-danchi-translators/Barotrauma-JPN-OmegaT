@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ban</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T105037Z" creationid="kakonya" creationdate="20190607T105037Z">
+        <seg>禁止</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Campaign</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190607T055003Z" creationid="hiru4" creationdate="20190607T055003Z">
@@ -58,6 +66,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T055944Z" creationid="kakonya" creationdate="20190607T055944Z">
         <seg>コンテナ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Contains large amounts of adrenaline, which can be extracted using a deconstructor.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T104956Z" creationid="kakonya" creationdate="20190607T104956Z">
+        <seg>デコンストラクタを使用して抽出できます。アドレナリンを大量に含まれています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -90,6 +106,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T104357Z" creationid="kakonya" creationdate="20190607T104357Z">
         <seg>余分な酸素ボンベを分解</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deconstructor</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T104910Z" creationid="kakonya" creationdate="20190607T104910Z">
+        <seg>デコンストラクタ</seg>
       </tuv>
     </tu>
     <tu>
@@ -186,6 +210,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T053706Z" creationid="kakonya" creationdate="20190607T053706Z">
         <seg>水没していると、ジャンクションボックスや電気機器の故障の原因となります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Kick</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T105031Z" creationid="kakonya" creationdate="20190607T105031Z">
+        <seg>キック</seg>
       </tuv>
     </tu>
     <tu>
@@ -322,6 +354,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T104212Z" creationid="totochan" creationdate="20190607T104212Z">
         <seg>リトライ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Revoke ban</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T105041Z" creationid="kakonya" creationdate="20190607T105041Z">
+        <seg>禁止を解除</seg>
       </tuv>
     </tu>
     <tu>
