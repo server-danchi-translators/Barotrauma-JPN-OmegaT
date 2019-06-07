@@ -240,8 +240,8 @@
       <tuv lang="EN-US">
         <seg>Just drag the item into one of the top slots and press the “Deconstruct” button.\n\nIn this case, fabricating a fire extinguisher requires aluminum and sodium.</seg>
       </tuv>
-      <tuv lang="JA" changeid="kakonya" changedate="20190607T111051Z" creationid="kakonya" creationdate="20190607T111051Z">
-        <seg>アイテムを一番上のスロットにドラッグしてディスコントラクタボタンを押します。\n\n今回、消火器を製造するために、アルミニウムとナトリウムが必要です。</seg>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T111143Z" creationid="kakonya" creationdate="20190607T111051Z">
+        <seg>アイテムを一番上のスロットにドラッグしてディスコントラクトボタンを押します。\n\n今回、消火器を製造するために、アルミニウムとナトリウムが必要です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -538,6 +538,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T104158Z" creationid="totochan" creationdate="20190607T104158Z">
         <seg>設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sodium is readily available, but aluminum must be deconstructed from oxygen tanks.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T111117Z" creationid="kakonya" creationdate="20190607T111117Z">
+        <seg>余分な酸素ボンベを分解</seg>
       </tuv>
     </tu>
     <tu>
