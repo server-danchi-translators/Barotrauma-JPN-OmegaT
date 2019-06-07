@@ -470,6 +470,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Salvaging an artifact</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T110519Z" creationid="kakonya" creationdate="20190607T110519Z">
+        <seg>アーティファクトをサルベージ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Save and Quit</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T104213Z" creationid="totochan" creationdate="20190607T104213Z">
