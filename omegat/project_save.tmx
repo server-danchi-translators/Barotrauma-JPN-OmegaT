@@ -518,6 +518,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Crew status</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T140626Z" creationid="totochan" creationdate="20190607T140626Z">
+        <seg>乗員の状態</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Critical\nHeat</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T111505Z" creationid="kakonya" creationdate="20190607T111505Z">
@@ -830,6 +838,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Equip</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T140721Z" creationid="totochan" creationdate="20190607T140721Z">
+        <seg>装備</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Equipment</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T114403Z" creationid="kakonya" creationdate="20190607T114353Z">
@@ -974,6 +990,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Grabbing</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T140658Z" creationid="totochan" creationdate="20190607T140658Z">
+        <seg>掴む</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Graphics</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113523Z" creationid="kakonya" creationdate="20190607T113523Z">
@@ -990,10 +1014,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hands</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T140825Z" creationid="totochan" creationdate="20190607T140825Z">
+        <seg>手</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hatch with Buttons</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T114709Z" creationid="kakonya" creationdate="20190607T114709Z">
         <seg>ハッチ（ボタン制御）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Head</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T140837Z" creationid="totochan" creationdate="20190607T140837Z">
+        <seg>頭</seg>
       </tuv>
     </tu>
     <tu>
@@ -1010,6 +1050,22 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113534Z" creationid="kakonya" creationdate="20190607T113534Z">
         <seg>成果物を引き裂く画面を防ぐことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>High pressure</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T140635Z" creationid="totochan" creationdate="20190607T140635Z">
+        <seg>高圧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hold to drop</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T140747Z" creationid="totochan" creationdate="20190607T140747Z">
+        <seg>長押しで装備を外す</seg>
       </tuv>
     </tu>
     <tu>
@@ -1262,10 +1318,58 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Left arm</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T140827Z" creationid="totochan" creationdate="20190607T140827Z">
+        <seg>左腕</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Left foot</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T140833Z" creationid="totochan" creationdate="20190607T140833Z">
+        <seg>左足</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Left hand</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T140822Z" creationid="totochan" creationdate="20190607T140822Z">
+        <seg>左手</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Left leg</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T140829Z" creationid="totochan" creationdate="20190607T140829Z">
+        <seg>左脚</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Left thigh</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T140846Z" creationid="totochan" creationdate="20190607T140846Z">
+        <seg>左大腿</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Legacy</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T114416Z" creationid="kakonya" creationdate="20190607T114416Z">
         <seg>レガシー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Legs</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T140842Z" creationid="totochan" creationdate="20190607T140842Z">
+        <seg>下肢</seg>
       </tuv>
     </tu>
     <tu>
@@ -1646,6 +1750,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Oxygen low</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T140632Z" creationid="totochan" creationdate="20190607T140632Z">
+        <seg>低酸素</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Particle limit</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113534Z" creationid="kakonya" creationdate="20190607T113534Z">
@@ -1838,6 +1950,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Put to container</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T140753Z" creationid="totochan" creationdate="20190607T140753Z">
+        <seg>コンテナに入れて</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Put to selected character</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T140813Z" creationid="totochan" creationdate="20190607T140813Z">
+        <seg>選択したキャラクター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Query port</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T104437Z" creationid="totochan" creationdate="20190607T104437Z">
@@ -1954,6 +2082,46 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T140256Z" creationid="totochan" creationdate="20190607T140256Z">
         <seg>右</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Right arm</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T140828Z" creationid="totochan" creationdate="20190607T140828Z">
+        <seg>右腕</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Right foot</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T140834Z" creationid="totochan" creationdate="20190607T140834Z">
+        <seg>右足</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Right hand</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T140823Z" creationid="totochan" creationdate="20190607T140823Z">
+        <seg>右手</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Right leg</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T140831Z" creationid="totochan" creationdate="20190607T140831Z">
+        <seg>右脚</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Right thigh</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T140844Z" creationid="totochan" creationdate="20190607T140844Z">
+        <seg>右大腿</seg>
       </tuv>
     </tu>
     <tu>
@@ -2254,6 +2422,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Stun</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T140704Z" creationid="totochan" creationdate="20190607T140704Z">
+        <seg>気絶Stun</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Submarine</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113040Z" creationid="kakonya" creationdate="20190607T113040Z">
@@ -2306,6 +2482,22 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112846Z" creationid="kakonya" creationdate="20190607T112846Z">
         <seg>タグ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tail</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T140840Z" creationid="totochan" creationdate="20190607T140840Z">
+        <seg>尾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Take</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T140749Z" creationid="totochan" creationdate="20190607T140749Z">
+        <seg>取る</seg>
       </tuv>
     </tu>
     <tu>
@@ -2478,6 +2670,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Torso</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T140838Z" creationid="totochan" creationdate="20190607T140838Z">
+        <seg>胴体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Training</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T104145Z" creationid="totochan" creationdate="20190607T104145Z">
@@ -2562,6 +2762,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112509Z" creationid="kakonya" creationdate="20190607T112509Z">
         <seg>UPnPの利用できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unequip</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T140723Z" creationid="totochan" creationdate="20190607T140723Z">
+        <seg>装備を外す</seg>
       </tuv>
     </tu>
     <tu>
@@ -2730,6 +2938,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T114205Z" creationid="kakonya" creationdate="20190607T114205Z">
         <seg>必要な投票：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Waist</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T140848Z" creationid="totochan" creationdate="20190607T140848Z">
+        <seg>腰</seg>
       </tuv>
     </tu>
     <tu>
@@ -2938,6 +3154,30 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112809Z" creationid="kakonya" creationdate="20190607T112809Z">
         <seg>あなたのアイテム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[[key]] Grab</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T140715Z" creationid="totochan" creationdate="20190607T140715Z">
+        <seg>[[key]] 掴む</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[[key]] Heal</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T140717Z" creationid="totochan" creationdate="20190607T140717Z">
+        <seg>[[key]] 治療</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[[key]] Talk</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T140720Z" creationid="totochan" creationdate="20190607T140720Z">
+        <seg>[[key]] 話す</seg>
       </tuv>
     </tu>
     <tu>
