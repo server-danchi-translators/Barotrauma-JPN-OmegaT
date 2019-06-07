@@ -200,8 +200,8 @@
       <tuv lang="EN-US">
         <seg>If you don't have enough materials for fabrication, you can break down items in the deconstructor.</seg>
       </tuv>
-      <tuv lang="JA" changeid="kakonya" changedate="20190607T104819Z" creationid="kakonya" creationdate="20190607T104819Z">
-        <seg>製作に材料が足らないならディコンストラクトで、アイテムを分解することができます。</seg>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T110716Z" creationid="kakonya" creationdate="20190607T104819Z">
+        <seg>製作に材料が足らないならディコンストラクタで、アイテムを分解することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -234,6 +234,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T053706Z" creationid="kakonya" creationdate="20190607T053706Z">
         <seg>水没していると、ジャンクションボックスや電気機器の故障の原因となります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Just drag the item into one of the top slots and press the “Deconstruct” button.\n\nIn this case, fabricating a fire extinguisher requires aluminum and sodium.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T111051Z" creationid="kakonya" creationdate="20190607T111051Z">
+        <seg>アイテムを一番上のスロットにドラッグしてディスコントラクタボタンを押します。\n\n今回、消火器を製造するために、アルミニウムとナトリウムが必要です。</seg>
       </tuv>
     </tu>
     <tu>
