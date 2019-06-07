@@ -280,8 +280,16 @@
       <tuv lang="EN-US">
         <seg>Bled to death.</seg>
       </tuv>
-      <tuv lang="JA" changeid="kakonya" changedate="20190607T122257Z" creationid="kakonya" creationdate="20190607T122257Z">
-        <seg>失血死.</seg>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T231845Z" creationid="kakonya" creationdate="20190607T122257Z">
+        <seg>失血死</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Blood loss</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T231754Z" creationid="kakonya" creationdate="20190607T231754Z">
+        <seg>失血</seg>
       </tuv>
     </tu>
     <tu>
@@ -2830,6 +2838,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Suffocated.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T231733Z" creationid="kakonya" creationdate="20190607T231733Z">
+        <seg>窒息死</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Swarm</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T105202Z" creationid="kakonya" creationdate="20190607T105202Z">
@@ -2966,6 +2982,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The patient is pale and cold.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T231817Z" creationid="kakonya" creationdate="20190607T231817Z">
+        <seg>真っ青になり、寒さを訴えています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The port used to communicate with Steam's server browser and respond to info pings from clients.</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T104440Z" creationid="totochan" creationdate="20190607T104440Z">
@@ -3002,6 +3026,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T111600Z" creationid="kakonya" creationdate="20190607T111600Z">
         <seg>炉心の温度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Their heart beats in an alarmingly rapid fashion.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T231829Z" creationid="kakonya" creationdate="20190607T231829Z">
+        <seg>心拍が上がっています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3562,6 +3594,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T231505Z" creationid="kakonya" creationdate="20190607T231505Z">
         <seg>焼死しました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You have suffocated.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T231744Z" creationid="kakonya" creationdate="20190607T231744Z">
+        <seg>窒息死しました。</seg>
       </tuv>
     </tu>
     <tu>
