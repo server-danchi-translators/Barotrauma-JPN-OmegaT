@@ -14,22 +14,6 @@
   <body>
     <tu>
       <tuv lang="EN-US">
-        <seg>Loading...</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>Loading...</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Press any key to continue</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>Press any key to continue</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>You will not get paid for delivering cargo if any of the cargo goes missing or gets damaged during the transport.</seg>
       </tuv>
       <tuv lang="JA-JP">
@@ -570,14 +554,6 @@
       </tuv>
       <tuv lang="JA-JP">
         <seg>クレジット</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>終了</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>終了</seg>
       </tuv>
     </tu>
     <tu>
@@ -1142,14 +1118,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Are you sure you want to delete the item '[itemname]' from the Steam Workshop?</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>Are you sure you want to delete the item '[itemname]' from the Steam Workshop?</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Uploads the files to the Steam Workshop.</seg>
       </tuv>
       <tuv lang="JA-JP">
@@ -1206,30 +1174,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Publishing '[itemname]' in the Steam Workshop.</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>Publishing '[itemname]' in the Steam Workshop.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>[itemname] is now available in the Steam Workshop!</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>[itemname] is now available in the Steam Workshop!</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Publishing '[itemname]' in the Steam Workshop failed.</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>Publishing '[itemname]' in the Steam Workshop failed.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Select the preview image for the Steam Workshop item.</seg>
       </tuv>
       <tuv lang="JA-JP">
@@ -1242,46 +1186,6 @@
       </tuv>
       <tuv lang="JA-JP">
         <seg>プレビュー画像のファイルサイズは1 MB未満である必要があります。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Cannot edit the Workshop item '[itemname]' because it has not been installed.</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>Cannot edit the Workshop item '[itemname]' because it has not been installed.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Cannot enable the Workshop item '[itemname]' because it has not been installed.</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>Cannot enable the Workshop item '[itemname]' because it has not been installed.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Cannot enable Workshop item '[itemname]'. The file '[filename]' would be overwritten by the item.</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>Cannot enable Workshop item '[itemname]'. The file '[filename]' would be overwritten by the item.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Could not install the file '[filename]'. Workshop items are only allowed to modify files in the Mod folder or add submarine files to the Submarines folder.</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>Could not install the file '[filename]'. Workshop items are only allowed to modify files in the Mod folder or add submarine files to the Submarines folder.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Enabling the workshop item '[itemname]' failed.</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>Enabling the workshop item '[itemname]' failed.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1390,26 +1294,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Cannot remove the submarine file because it's a part of the content package [contentpackage]. Please uninstall the content package through the Steam Workshop menu.</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>Cannot remove the submarine file because it's a part of the content package [contentpackage]. Please uninstall the content package through the Steam Workshop menu.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Are you sure you want to reset the settings?</seg>
       </tuv>
       <tuv lang="JA-JP">
         <seg>設定をリセットしてもよろしいですか？</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>The executable you have launched is not present in the content package [selectedpackage]. Do you want to launch [exename]?</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>The executable you have launched is not present in the content package [selectedpackage]. Do you want to launch [exename]?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1498,46 +1386,6 @@
       </tuv>
       <tuv lang="JA-JP">
         <seg>言語の変更を有効にするには、ゲームを再起動する必要があります。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Content package '[packagepath]' not found.</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>Content package '[packagepath]' not found.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Content package '[packagename]' is not compatible with this version of Barotrauma. The package was made for the version [packageversion]; your game version is [gameversion].</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>Content package '[packagename]' is not compatible with this version of Barotrauma. The package was made for the version [packageversion]; your game version is [gameversion].</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Content package '[packagename]' is not compatible with this version of Barotrauma. The package was made for an unknown version; your game version is [gameversion].</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>Content package '[packagename]' is not compatible with this version of Barotrauma. The package was made for an unknown version; your game version is [gameversion].</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Content package '[packagename]' is marked as a core package but does not contain all the required files for a core package. Missing content file types: [missingfiletypes]</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>Content package '[packagename]' is marked as a core package but does not contain all the required files for a core package. Missing content file types: [missingfiletypes]</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Content package '[packagename]' cannot be marked as a core package because it does not contain all the required files for a core package. Missing content file types: [missingfiletypes]</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>Content package '[packagename]' cannot be marked as a core package because it does not contain all the required files for a core package. Missing content file types: [missingfiletypes]</seg>
       </tuv>
     </tu>
     <tu>
@@ -2302,14 +2150,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>[percentage] % need to be ready</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>[percentage] % need to be ready</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Allow spectating</seg>
       </tuv>
       <tuv lang="JA-JP">
@@ -2490,38 +2330,6 @@
       </tuv>
       <tuv lang="JA-JP">
         <seg>理由：</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>[sub] has made its way to [location].</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>[sub] has made its way to [location].</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>[sub] has arrived at [location].</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>[sub] has arrived at [location].</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>[sub] has returned to [location].</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>[sub] has returned to [location].</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>The ocean has claimed [sub] and its crew.</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>The ocean has claimed [sub] and its crew.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2834,14 +2642,6 @@
       </tuv>
       <tuv lang="JA-JP">
         <seg>多分</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>OK</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>OK</seg>
       </tuv>
     </tu>
     <tu>
@@ -3190,22 +2990,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Charybdis</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>Charybdis</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Coelanth</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>Coelanth</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Crawler</seg>
       </tuv>
       <tuv lang="JA-JP">
@@ -3502,14 +3286,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Do you want to enter [locationname]?</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>Do you want to enter [locationname]?</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Select a mission</seg>
       </tuv>
       <tuv lang="JA-JP">
@@ -3554,22 +3330,6 @@
       </tuv>
       <tuv lang="JA-JP">
         <seg>不整合コンテンツパッケージ</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>The submarine may not be compatible with the currently selected content packages, because it requires the content packages [requiredcontentpackages]. Are you sure you want to choose the submarine?</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>The submarine may not be compatible with the currently selected content packages, because it requires the content packages [requiredcontentpackages]. Are you sure you want to choose the submarine?</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Failed to start a campaign. Submarine [subname] not found.</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>Failed to start a campaign. Submarine [subname] not found.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3742,14 +3502,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Enter [locationname]</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>Enter [locationname]</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>One of your vessels isn't at the exit yet. Do you want to leave it behind?</seg>
       </tuv>
       <tuv lang="JA-JP">
@@ -3770,14 +3522,6 @@
       </tuv>
       <tuv lang="JA-JP">
         <seg>ラウンド終了投票数 [votes]/[max]</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Respawn shuttle dispatching in [time]</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>Respawn shuttle dispatching in [time]</seg>
       </tuv>
     </tu>
     <tu>
@@ -3826,14 +3570,6 @@
       </tuv>
       <tuv lang="JA-JP">
         <seg>潜水艦は、レベルのどちらかの終わりではありません。ミッションを中止し、現在のラウンドを終了しますか？</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>No living players on the server and respawning is not enabled during this round. If no characters revive or rejoin, the server will end round in [time] seconds.</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>No living players on the server and respawning is not enabled during this round. If no characters revive or rejoin, the server will end round in [time] seconds.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3958,14 +3694,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Ping</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>Ping</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Round started</seg>
       </tuv>
       <tuv lang="JA-JP">
@@ -4026,38 +3754,6 @@
       </tuv>
       <tuv lang="JA-JP">
         <seg>互換性を決定することができませんでした（未知のコンテンツパッケージ）</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>This server is not compatible with your version of Barotrauma ([version] required).</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>This server is not compatible with your version of Barotrauma ([version] required).</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Content package '[contentpackage]' (MD5: [hash]) required to play on this server.</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>Content package '[contentpackage]' (MD5: [hash]) required to play on this server.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>You need to enable the content package '[contentpackage]' in the game's settings to play on this server.</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>You need to enable the content package '[contentpackage]' in the game's settings to play on this server.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Content package '[contentpackage]' required to play on this server. You can install the package from the Steam Workshop.</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>Content package '[contentpackage]' required to play on this server. You can install the package from the Steam Workshop.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4174,22 +3870,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Error while connecting to master server { [error] }</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>Error while connecting to master server { [error] }</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Error while connecting to master server (404 - [masterserverurl] not found)</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>Error while connecting to master server (404 - [masterserverurl] not found)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Error while connecting to master server (505 - Service Unavailable). The master server may be down for maintenance or temporarily overloaded. Please try again in a few moments.</seg>
       </tuv>
       <tuv lang="JA-JP">
@@ -4198,34 +3878,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Error while connecting to master server ([statuscode]: [statusdescription])</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>Error while connecting to master server ([statuscode]: [statusdescription])</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Could not connect to the server.</seg>
       </tuv>
       <tuv lang="JA-JP">
         <seg>サーバーに接続できませんでした。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Failed to resolve address '[serverip]:[port]'. Please make sure you have entered a valid IP address.</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>Failed to resolve address '[serverip]:[port]'. Please make sure you have entered a valid IP address.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>CONNECTING</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>CONNECTING</seg>
       </tuv>
     </tu>
     <tu>
@@ -4306,14 +3962,6 @@
       </tuv>
       <tuv lang="JA-JP">
         <seg>サーバー上で解放するスロットを待っています。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Error while reading a message from the server. ([message] [targetsite])</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>Error while reading a message from the server. ([message] [targetsite])</seg>
       </tuv>
     </tu>
     <tu>
@@ -4478,58 +4126,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Steam authentication is no longer valid ([status]).</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>Steam authentication is no longer valid ([status]).</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Too many failed login attempts.</seg>
       </tuv>
       <tuv lang="JA-JP">
         <seg>あまりにも多くの失敗したログイン試行。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Version '[version]' required to connect to the server (your version: '[clientversion]').</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>Version '[version]' required to connect to the server (your version: '[clientversion]').</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>You need the content package [missingcontentpackage] to play on the server.</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>You need the content package [missingcontentpackage] to play on the server.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>You need the content packages [missingcontentpackages] to play on the server.</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>You need the content packages [missingcontentpackages] to play on the server.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>You must disable the content package [incompatiblecontentpackage] before joining.</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>You must disable the content package [incompatiblecontentpackage] before joining.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>You must disable the content packages [incompatiblecontentpackages] before joining.</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>You must disable the content packages [incompatiblecontentpackages] before joining.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4854,38 +4454,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>[PM]</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>[PM]</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Submarine [subname] was selected by the server. Matching file not found in your submarine folder.</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>Submarine [subname] was selected by the server. Matching file not found in your submarine folder.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Could not load submarine [subname]. The file may be corrupted.</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>Could not load submarine [subname]. The file may be corrupted.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Your version of the submarine file [subname] does not match the server's version!\nYour MD5 hash: [myhash]\nServer's MD5 hash: [serverhash]\n</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>Your version of the submarine file [subname] does not match the server's version!\nYour MD5 hash: [myhash]\nServer's MD5 hash: [serverhash]\n</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Submarine not found!</seg>
       </tuv>
       <tuv lang="JA-JP">
@@ -4998,22 +4566,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Downloading [filename]</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>Downloading [filename]</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>File '[filename]' was downloaded successfully.</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>File '[filename]' was downloaded successfully.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Are you sure?</seg>
       </tuv>
       <tuv lang="JA-JP">
@@ -5098,14 +4650,6 @@
       </tuv>
       <tuv lang="JA-JP">
         <seg>インベントリー使い方</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Attack &amp; death</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>Attack &amp; death</seg>
       </tuv>
     </tu>
     <tu>
@@ -5274,14 +4818,6 @@
       </tuv>
       <tuv lang="JA-JP">
         <seg>シャトルは自動的に前哨基地に戻ります。すぐにシャトルを残してください。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Press [chatbutton] to chat. Use [radiobutton] to talk through the radio.</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>Press [chatbutton] to chat. Use [radiobutton] to talk through the radio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6062,14 +5598,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>The researchers of [location2] are eager to know all the details of the encounter, but seem hesitant to answer any questions regarding the vessel. They do however offer you 1,000 credits as reimbursement for your troubles.</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>The researchers of [location2] are eager to know all the details of the encounter, but seem hesitant to answer any questions regarding the vessel. They do however offer you 1,000 credits as reimbursement for your troubles.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Target destroyed</seg>
       </tuv>
       <tuv lang="JA-JP">
@@ -6078,26 +5606,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>The missing vessel appears to have been taken over by some sort of parasitic growth and tried to attack your submarine. It seems to be incapacitated now. You should report the incident to [location2].</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>The missing vessel appears to have been taken over by some sort of parasitic growth and tried to attack your submarine. It seems to be incapacitated now. You should report the incident to [location2].</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Explosive cargo</seg>
       </tuv>
       <tuv lang="JA-JP">
         <seg>爆発物</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>A local arms dealer is offering [reward] credits in exchange for delivering two crates of high explosives to a customer in [location2].</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>A local arms dealer is offering [reward] credits in exchange for delivering two crates of high explosives to a customer in [location2].</seg>
       </tuv>
     </tu>
     <tu>
@@ -6114,14 +5626,6 @@
       </tuv>
       <tuv lang="JA-JP">
         <seg>爆発物</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>A local arms dealer is offering [reward] credits in exchange for delivering two crates of high explosives to a customer in [location2].</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>A local arms dealer is offering [reward] credits in exchange for delivering two crates of high explosives to a customer in [location2].</seg>
       </tuv>
     </tu>
     <tu>
@@ -6166,14 +5670,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Local researchers are offering [reward] credits for delivering a container of husk parasite eggs to [location2].</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>Local researchers are offering [reward] credits for delivering a container of husk parasite eggs to [location2].</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>The husk eggs have been successfully delivered.</seg>
       </tuv>
       <tuv lang="JA-JP">
@@ -6186,14 +5682,6 @@
       </tuv>
       <tuv lang="JA-JP">
         <seg>取扱注意</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Local researchers are offering [reward] credits for delivering a large amount of nitroglycerin to [location2].</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>Local researchers are offering [reward] credits for delivering a large amount of nitroglycerin to [location2].</seg>
       </tuv>
     </tu>
     <tu>
@@ -6214,14 +5702,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>A local clown syndicate is offering [reward] credits for delivering a shipment of clowning supplies to [location2].</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>A local clown syndicate is offering [reward] credits for delivering a shipment of clowning supplies to [location2].</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>The clown gear has been successfully delivered.</seg>
       </tuv>
       <tuv lang="JA-JP">
@@ -6238,14 +5718,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>A consignment of materials for construction needs to be transported to [location2] and the crew chief here is prepared to pay [reward] credits for your trouble.</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>A consignment of materials for construction needs to be transported to [location2] and the crew chief here is prepared to pay [reward] credits for your trouble.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>The materials have been successfully delivered.</seg>
       </tuv>
       <tuv lang="JA-JP">
@@ -6258,14 +5730,6 @@
       </tuv>
       <tuv lang="JA-JP">
         <seg>マイニング前哨材搬送</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>The security team at [location2] needs to be resupplied with materials for weapon fabrication. There's [reward] credits for you if you get these supplies to them.</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>The security team at [location2] needs to be resupplied with materials for weapon fabrication. There's [reward] credits for you if you get these supplies to them.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6286,14 +5750,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>A consignment of medical items needs to be transported to [location2]. There's [reward] credits if you can get them there.</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>A consignment of medical items needs to be transported to [location2]. There's [reward] credits if you can get them there.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>The materials have been successfully delivered.</seg>
       </tuv>
       <tuv lang="JA-JP">
@@ -6310,14 +5766,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>We have a crew member here who needs to get to [location2] in a hurry. The payment is [reward] credits if you get them there in once piece.</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>We have a crew member here who needs to get to [location2] in a hurry. The payment is [reward] credits if you get them there in once piece.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>The personnel have been successfully delivered.</seg>
       </tuv>
       <tuv lang="JA-JP">
@@ -6330,14 +5778,6 @@
       </tuv>
       <tuv lang="JA-JP">
         <seg>試掘</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>The mining crews want to start extracting [resourcename] if you can prove there are enough deposits of it in the area between [location1] and the mining outpost at [location2]. If you can find [quantity] units, you'll be paid a reward of [reward] credits, and you can keep whatever you find.</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>The mining crews want to start extracting [resourcename] if you can prove there are enough deposits of it in the area between [location1] and the mining outpost at [location2]. If you can find [quantity] units, you'll be paid a reward of [reward] credits, and you can keep whatever you find.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6382,14 +5822,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Head over to [location2] and drop a beacon to begin the process of colonizing the area. Payment is [reward] credits when the beacon starts transmitting</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>Head over to [location2] and drop a beacon to begin the process of colonizing the area. Payment is [reward] credits when the beacon starts transmitting</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Beacon deployment location</seg>
       </tuv>
       <tuv lang="JA-JP">
@@ -6410,30 +5842,6 @@
       </tuv>
       <tuv lang="JA-JP">
         <seg>検索し破壊します</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>A Coalition vessel has been dispatched from [location1] to destroy a renegade vessel at the outskirts of [location2].</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>A Coalition vessel has been dispatched from [location1] to destroy a renegade vessel at the outskirts of [location2].</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>A renegade vessel has been detected at the outskirts of [location2]. Treason against the Europa Coalition is punishable by death—eliminate the renegades by any means necessary.</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>A renegade vessel has been detected at the outskirts of [location2]. Treason against the Europa Coalition is punishable by death—eliminate the renegades by any means necessary.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>You're a member of a renegade group opposing the Europa Coalition. According to your informants at [location1], a Coalition vessel has just been dispatched on a mission to take down your boat. Eliminate their crew by any means necessary.</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>You're a member of a renegade group opposing the Europa Coalition. According to your informants at [location1], a Coalition vessel has just been dispatched on a mission to take down your boat. Eliminate their crew by any means necessary.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7722,14 +7130,6 @@
       </tuv>
       <tuv lang="JA-JP">
         <seg>コイルガンのための弾薬。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>UEX</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>UEX</seg>
       </tuv>
     </tu>
     <tu>
@@ -9822,14 +9222,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Antirad</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>Antirad</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Slows down cellular degradation caused by radiation.</seg>
       </tuv>
       <tuv lang="JA-JP">
@@ -10438,26 +9830,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>&lt;!-- No data --&gt;</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>&lt;!-- No data --&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Background Rock 2</seg>
       </tuv>
       <tuv lang="JA-JP">
         <seg>背景ロック2</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>&lt;!-- No data --&gt;</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>&lt;!-- No data --&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10470,26 +9846,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>&lt;!-- No data --&gt;</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>&lt;!-- No data --&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Background Rock 4</seg>
       </tuv>
       <tuv lang="JA-JP">
         <seg>背景ロック4</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>&lt;!-- No data --&gt;</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>&lt;!-- No data --&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11694,14 +11054,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Medbay</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>Medbay</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Engineering</seg>
       </tuv>
       <tuv lang="JA-JP">
@@ -12158,14 +11510,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>[width]x[height] m</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>[width]x[height] m</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Preview image not found</seg>
       </tuv>
       <tuv lang="JA-JP">
@@ -12406,14 +11750,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Berilia</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>Berilia</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Berilia is top of the line when it comes to mass and firepower. Its two engines and three ballasts require a copious amount of power to operate, and keeping the machinery in condition is a handful for even a moderately large crew.</seg>
       </tuv>
       <tuv lang="JA-JP">
@@ -12434,14 +11770,6 @@
       </tuv>
       <tuv lang="JA-JP">
         <seg>別のウェイポイントにリンクするスペースを保持します</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Spawnpoint</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>Spawnpoint</seg>
       </tuv>
     </tu>
     <tu>
@@ -12530,14 +11858,6 @@
       </tuv>
       <tuv lang="JA-JP">
         <seg>ドッキングポートにリンクするスペースを保持します</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Submarine file [file] not found!</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>Submarine file [file] not found!</seg>
       </tuv>
     </tu>
     <tu>
@@ -12762,22 +12082,6 @@
       </tuv>
       <tuv lang="JA-JP">
         <seg>稼働</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>IN</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>IN</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>OUT</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>OUT</seg>
       </tuv>
     </tu>
     <tu>
@@ -13022,14 +12326,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>DANGEROUS PRESSURE</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>DANGEROUS PRESSURE</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>WARNING: Insufficient power</seg>
       </tuv>
       <tuv lang="JA-JP">
@@ -13042,14 +12338,6 @@
       </tuv>
       <tuv lang="JA-JP">
         <seg>自動操縦で\nMaintaining位置。ディスプレイをクリックして、維持するために位置を選択してください。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>AUTOPILOT ON\nAutopilot is set to navigate towards [locationname].</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>AUTOPILOT ON\nAutopilot is set to navigate towards [locationname].</seg>
       </tuv>
     </tu>
     <tu>
@@ -13174,26 +12462,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>[power] kW</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>[power] kW</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Load</seg>
       </tuv>
       <tuv lang="JA-JP">
         <seg>負荷</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>[load] kW</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>[load] kW</seg>
       </tuv>
     </tu>
     <tu>
@@ -13382,14 +12654,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Attempting to fix [itemname]</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>Attempting to fix [itemname]</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Fix</seg>
       </tuv>
       <tuv lang="JA-JP">
@@ -13430,90 +12694,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>You are the traitor! Your secret task is to assassinate [targetname]! Discretion is of utmost concern; sinking the submarine and killing the entire crew will arouse suspicion amongst the fleet. If possible, make the death look like an accident.</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>You are the traitor! Your secret task is to assassinate [targetname]! Discretion is of utmost concern; sinking the submarine and killing the entire crew will arouse suspicion amongst the fleet. If possible, make the death look like an accident.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>It is possible that there are other agents on this submarine. You don't know their names, but you do have a method of communication. Use the code words to greet the agent and code response to respond. Disguise such words in a normal-sounding phrase so the crew doesn't suspect anything.\n\nThe code words are: [codewords].\nThe code response is: [coderesponse].</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>It is possible that there are other agents on this submarine. You don't know their names, but you do have a method of communication. Use the code words to greet the agent and code response to respond. Disguise such words in a normal-sounding phrase so the crew doesn't suspect anything.\n\nThe code words are: [codewords].\nThe code response is: [coderesponse].</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>[traitorname] is the traitor and the target is [targetname].</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>[traitorname] is the traitor and the target is [targetname].</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>[traitorname] was a traitor! [Genderpronounpossessive] task was to assassinate [targetname]. The task was successful.</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>[traitorname] was a traitor! [Genderpronounpossessive] task was to assassinate [targetname]. The task was successful.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>[traitorname] was a traitor! [Genderpronounpossessive] task was to assassinate [targetname]. The task was successful, but the traitor did not make it out alive either.</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>[traitorname] was a traitor! [Genderpronounpossessive] task was to assassinate [targetname]. The task was successful, but the traitor did not make it out alive either.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>[traitorname] was a traitor! [Genderpronounpossessive] task was to assassinate [targetname]. The task was successful, but the traitor was successfully detained.</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>[traitorname] was a traitor! [Genderpronounpossessive] task was to assassinate [targetname]. The task was successful, but the traitor was successfully detained.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>[traitorname] was a traitor! [Genderpronounpossessive] task was to assassinate [targetname]. The task was unsuccessful.</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>[traitorname] was a traitor! [Genderpronounpossessive] task was to assassinate [targetname]. The task was unsuccessful.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>[traitorname] was a traitor! [Genderpronounpossessive] task was to assassinate [targetname], but [genderpronoun] got [genderpronounreflexive] killed before completing it.</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>[traitorname] was a traitor! [Genderpronounpossessive] task was to assassinate [targetname], but [genderpronoun] got [genderpronounreflexive] killed before completing it.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>[traitorname] was a traitor! [Genderpronounpossessive] task was to assassinate [targetname]. The task failed—[genderpronoun] was successfully detained.</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>[traitorname] was a traitor! [Genderpronounpossessive] task was to assassinate [targetname]. The task failed—[genderpronoun] was successfully detained.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Your traitor objective was unsuccessful. You are no longer a traitor, so play nice!</seg>
       </tuv>
       <tuv lang="JA-JP">
         <seg>裏切り者の目的に失敗しました。もはや裏切り者ではないので、素晴らしいプレー！</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>[traitorname] had a secret objective to assassinate you—and the task was successful.</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>[traitorname] had a secret objective to assassinate you—and the task was successful.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14302,30 +13486,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>[count] targets on the sonar at [direction]!</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>[count] targets on the sonar at [direction]!</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>We've got [count] targets at [direction]!</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>We've got [count] targets at [direction]!</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Found [targetname] unconscious in [roomname]!</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>Found [targetname] unconscious in [roomname]!</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Giving first aid to [targetname] in [roomname]!</seg>
       </tuv>
       <tuv lang="JA-JP">
@@ -14346,14 +13506,6 @@
       </tuv>
       <tuv lang="JA-JP">
         <seg>[treatmentlist]  [targetname]を治療する必要があります！</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>[targetname] is back in shape!</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>[targetname] is back in shape!</seg>
       </tuv>
     </tu>
     <tu>
@@ -14522,14 +13674,6 @@
       </tuv>
       <tuv lang="JA-JP">
         <seg>[name]は解雇されます!</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>&lt;!-- No data --&gt;</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>&lt;!-- No data --&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14990,38 +14134,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>[name], repair any damaged systems! I don't care if you don't have the skills—do your best!</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>[name], repair any damaged systems! I don't care if you don't have the skills—do your best!</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>[name], try to fix any broken devices, even if it's something you're not trained for!</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>[name], try to fix any broken devices, even if it's something you're not trained for!</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>[name], repair any damaged devices! Anything you can—I don't care about your training now!</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>[name], repair any damaged devices! Anything you can—I don't care about your training now!</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>I'll take care of broken devices!</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>I'll take care of broken devices!</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Fire in [roomname]!</seg>
       </tuv>
       <tuv lang="JA-JP">
@@ -15074,14 +14186,6 @@
       </tuv>
       <tuv lang="JA-JP">
         <seg>[roomname]で機器の破損！</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Need someone to repair devices in [roomname]!</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>Need someone to repair devices in [roomname]!</seg>
       </tuv>
     </tu>
     <tu>
@@ -15366,14 +14470,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>OK</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>OK</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Minor bleeding</seg>
       </tuv>
       <tuv lang="JA-JP">
@@ -15530,14 +14626,6 @@
       </tuv>
       <tuv lang="JA-JP">
         <seg>喉に移動する何かを感じます。悲鳴をしようが、音が出てきません。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>A strange chitinous appendage bursts out from your mouth. Use it to inject eggs into a living body by pressing [Attack]!</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>A strange chitinous appendage bursts out from your mouth. Use it to inject eggs into a living body by pressing [Attack]!</seg>
       </tuv>
     </tu>
     <tu>
@@ -15774,22 +14862,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>This belongs to [name].</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>This belongs to [name].</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>This belongs to [name], the [job].</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>This belongs to [name], the [job].</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Drop</seg>
       </tuv>
       <tuv lang="JA-JP">
@@ -15978,14 +15050,6 @@
       </tuv>
       <tuv lang="JA-JP">
         <seg>患者はボーッと反応しません。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Barotrauma</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>Barotrauma</seg>
       </tuv>
     </tu>
     <tu>
@@ -16502,322 +15566,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>&lt;!-- No data --&gt;</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>&lt;!-- No data --&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Natural Formation</seg>
       </tuv>
       <tuv lang="JA-JP">
         <seg>自然の形成</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>[name]</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>[name]</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>A new outpost has been established at [previousname].</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>A new outpost has been established at [previousname].</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>A new military outpost has been established at [previousname].</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>A new military outpost has been established at [previousname].</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>A new research outpost has been established at [previousname].</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>A new research outpost has been established at [previousname].</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Colony</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>Colony</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>[name]</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>[name]</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>The city of [name]</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>The city of [name]</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>[name] City</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>[name] City</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>[name] Station</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>[name] Station</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Habitation Outpost</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>Habitation Outpost</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>[name] Habitation Outpost</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>[name] Habitation Outpost</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>[name] Outpost</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>[name] Outpost</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>[previousname] has become [name].</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>[previousname] has become [name].</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>[previousname] has become a city.</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>[previousname] has become a city.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Military Outpost</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>Military Outpost</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>[name]</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>[name]</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>[name] Facility</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>[name] Facility</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>[name] Station</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>[name] Station</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>[name] Fortification</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>[name] Fortification</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Research Outpost</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>Research Outpost</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>[name] Research Facility</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>[name] Research Facility</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>[name] Research Center</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>[name] Research Center</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>[name] Institute of Astrobiology</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>[name] Institute of Astrobiology</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>[name] Biomedical Research Center</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>[name] Biomedical Research Center</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Mining Outpost</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>Mining Outpost</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>[name] Mining Facility</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>[name] Mining Facility</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>[name] Mining Claim</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>[name] Mining Claim</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>[name] Prospecting Outpost</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>[name] Prospecting Outpost</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>[name] Mine</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>[name] Mine</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Breeding Grounds</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>Breeding Grounds</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>[name] Breeding Grounds</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>[name] Breeding Grounds</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>The Hives of [name]</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>The Hives of [name]</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>[previousname] has been depopulated.</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>[previousname] has been depopulated.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Alien Ruins</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>Alien Ruins</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>[name] Ruins</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>[name] Ruins</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>An outpost has been established at [previousname].</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>An outpost has been established at [previousname].</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>A military outpost has been established at [previousname].</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>A military outpost has been established at [previousname].</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>A research outpost has been established at [previousname].</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>A research outpost has been established at [previousname].</seg>
       </tuv>
     </tu>
     <tu>
@@ -17186,14 +15938,6 @@
       </tuv>
       <tuv lang="JA-JP">
         <seg>酸素</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Oxygen is a valuable commodity in underwater Europa. It must be readily available during long transits aboard submarines, which is made possible by oxygen generators. They pump air through ventilation to different rooms and can be used to refill oxygen tanks.\n\nTo refill oxygen tanks, interact ([InteractType.Use]) with the generator to open its inventory. Insert an empty oxygen tank into one of the slots to start refilling it. When the tank is full, drag it back to your inventory or into your diving suit/mask.</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>Oxygen is a valuable commodity in underwater Europa. It must be readily available during long transits aboard submarines, which is made possible by oxygen generators. They pump air through ventilation to different rooms and can be used to refill oxygen tanks.\n\nTo refill oxygen tanks, interact ([InteractType.Use]) with the generator to open its inventory. Insert an empty oxygen tank into one of the slots to start refilling it. When the tank is full, drag it back to your inventory or into your diving suit/mask.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17942,14 +16686,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Mudraptors</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>Mudraptors</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Kill the mudraptor</seg>
       </tuv>
       <tuv lang="JA-JP">
@@ -18202,14 +16938,6 @@
       </tuv>
       <tuv lang="JA-JP">
         <seg>アホイ、船長。任意の受注？</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Glad you made it out of there. Welcome to [OUTPOSTNAME].</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>Glad you made it out of there. Welcome to [OUTPOSTNAME].</seg>
       </tuv>
     </tu>
     <tu>
@@ -18550,106 +17278,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>power_in</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>power_in</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>power_out</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>power_out</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>set_state</seg>
       </tuv>
       <tuv lang="JA-JP">
         <seg>SET_STATE</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>toggle_state</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>toggle_state</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>set_speed</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>set_speed</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>set_targetlevel</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>set_targetlevel</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>signal_in</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>signal_in</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>signal_out</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>signal_out</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>signal_in_[num]</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>signal_in_[num]</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>signal_out_[num]</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>signal_out_[num]</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>position_in</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>position_in</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>trigger_in</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>trigger_in</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>toggle_light</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>toggle_light</seg>
       </tuv>
     </tu>
     <tu>
@@ -18670,186 +17302,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>temperature_out</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>temperature_out</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>meltdown_warning</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>meltdown_warning</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>signal_r</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>signal_r</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>signal_g</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>signal_g</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>signal_b</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>signal_b</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>signal_a</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>signal_a</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>set_output</seg>
       </tuv>
       <tuv lang="JA-JP">
         <seg>SET_OUTPUT</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>signal_store</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>signal_store</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>set_targetsignal</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>set_targetsignal</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>set_frequency</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>set_frequency</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>set_outputtype</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>set_outputtype</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>control_in</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>control_in</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>set_force</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>set_force</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>transducer_in</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>transducer_in</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>velocity_in</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>velocity_in</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>velocity_x_out</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>velocity_x_out</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>velocity_y_out</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>velocity_y_out</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>toggle_docking</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>toggle_docking</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>water_data_in</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>water_data_in</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>oxygen_data_in</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>oxygen_data_in</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>https://barotrauma.gamepedia.com/Barotrauma_Wiki</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>https://barotrauma.gamepedia.com/Barotrauma_Wiki</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>https://discordapp.com/invite/xjeSzWU</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>https://discordapp.com/invite/xjeSzWU</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>https://undertowgames.com/forum/viewforum.php?f=17</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>https://undertowgames.com/forum/viewforum.php?f=17</seg>
       </tuv>
     </tu>
     <tu>
@@ -18898,14 +17354,6 @@
       </tuv>
       <tuv lang="JA-JP">
         <seg>潜水艦内でナビゲートするためにAIのキャラクターで使用されます。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Spawnpoint</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>Spawnpoint</seg>
       </tuv>
     </tu>
     <tu>
@@ -21246,26 +19694,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>&lt;!-- No data --&gt;</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>&lt;!-- No data --&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Back Wall Clean</seg>
       </tuv>
       <tuv lang="JA-JP">
         <seg>後隔壁クリーン</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>&lt;!-- No data --&gt;</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>&lt;!-- No data --&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21278,26 +19710,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>&lt;!-- No data --&gt;</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>&lt;!-- No data --&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Back Wall Window</seg>
       </tuv>
       <tuv lang="JA-JP">
         <seg>後隔壁ウィンドウ</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>&lt;!-- No data --&gt;</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>&lt;!-- No data --&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21310,26 +19726,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>&lt;!-- No data --&gt;</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>&lt;!-- No data --&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Back Wall Orange Panels Window</seg>
       </tuv>
       <tuv lang="JA-JP">
         <seg>後隔壁オレンジパネルウィンドウ</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>&lt;!-- No data --&gt;</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>&lt;!-- No data --&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21342,26 +19742,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>&lt;!-- No data --&gt;</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>&lt;!-- No data --&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Slope Forwards</seg>
       </tuv>
       <tuv lang="JA-JP">
         <seg>スロープを転送</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>&lt;!-- No data --&gt;</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>&lt;!-- No data --&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21374,14 +19758,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>&lt;!-- No data --&gt;</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>&lt;!-- No data --&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Stairs Right</seg>
       </tuv>
       <tuv lang="JA-JP">
@@ -21390,26 +19766,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>&lt;!-- No data --&gt;</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>&lt;!-- No data --&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Stairs Left</seg>
       </tuv>
       <tuv lang="JA-JP">
         <seg>階段左</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>&lt;!-- No data --&gt;</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>&lt;!-- No data --&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21694,14 +20054,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Commonness in [leveltype]</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>Commonness in [leveltype]</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Edit sprite</seg>
       </tuv>
       <tuv lang="JA-JP">
@@ -21834,14 +20186,6 @@
       </tuv>
       <tuv lang="JA-JP">
         <seg>ヒューマノイドから手足を削除すると、現在のクラッシュが原因で無効になっています</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Trying to spawn [config]</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>Trying to spawn [config]</seg>
       </tuv>
     </tu>
     <tu>
@@ -22150,22 +20494,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Ragdoll saved to [path]</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>Ragdoll saved to [path]</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Reset Animations</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>Reset Animations</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>All animations reset</seg>
       </tuv>
       <tuv lang="JA-JP">
@@ -22214,30 +20542,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Couldn't open directory [folder]!</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>Couldn't open directory [folder]!</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Ragdoll deleted from [file]</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>Ragdoll deleted from [file]</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Ragdoll loaded from [file]</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>Ragdoll loaded from [file]</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Save Animation</seg>
       </tuv>
       <tuv lang="JA-JP">
@@ -22254,42 +20558,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Animation of type [type] saved to [path]</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>Animation of type [type] saved to [path]</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Load Animation</seg>
       </tuv>
       <tuv lang="JA-JP">
         <seg>ロードアニメーション</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Animation of type [type] at [file] deleted</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>Animation of type [type] at [file] deleted</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Animation type [type] not implemented!</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>Animation type [type] not implemented!</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Animation of type [type] loaded from [file]</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>Animation of type [type] loaded from [file]</seg>
       </tuv>
     </tu>
     <tu>
@@ -22322,14 +20594,6 @@
       </tuv>
       <tuv lang="JA-JP">
         <seg>新しいキャラクターを作成します。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>No field for [parameter] found!</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>No field for [parameter] found!</seg>
       </tuv>
     </tu>
     <tu>
@@ -22686,38 +20950,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Limb [index]</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>Limb [index]</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Limb [index] Anchor</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>Limb [index] Anchor</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Character Editor Screen: Failed to read HTML at [path]</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>Character Editor Screen: Failed to read HTML at [path]</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Multiple items with the same hierarchy [hierarchy] found ([name]). Cannot continue.</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>Multiple items with the same hierarchy [hierarchy] found ([name]). Cannot continue.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Cannot edit the characters defined in the Vanilla content package!</seg>
       </tuv>
       <tuv lang="JA-JP">
@@ -22770,14 +21002,6 @@
       </tuv>
       <tuv lang="JA-JP">
         <seg>選択された船体ボリューム</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>optimal neutral ballast level is [value]</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>optimal neutral ballast level is [value]</seg>
       </tuv>
     </tu>
     <tu>
@@ -23006,22 +21230,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Illegal symbols in filename ([illegalchar])</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>Illegal symbols in filename ([illegalchar])</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Submarine saved to [filepath].</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>Submarine saved to [filepath].</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Save submarine</seg>
       </tuv>
       <tuv lang="JA-JP">
@@ -23102,14 +21310,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Illegal symbols in filename ([illegalchar])</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>Illegal symbols in filename ([illegalchar])</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>No hulls found in the submarine. Hulls determine the 'borders' of an individual room and are required for water and air distribution to work correctly.</seg>
       </tuv>
       <tuv lang="JA-JP">
@@ -23122,14 +21322,6 @@
       </tuv>
       <tuv lang="JA-JP">
         <seg>潜水艦は、酸素発生器にリンクされていない通気口が含まれています。ベントを選択し、それらをリンクするためのスペースを保持した状態で酸素発生器をクリックしてください。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>The submarine contains [itemname]s which haven't been linked to an ammunition loader. Select the item and click a loader while holding space to link them.</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>The submarine contains [itemname]s which haven't been linked to an ammunition loader. Select the item and click a loader while holding space to link them.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23286,34 +21478,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>This text will be translated to [translation].</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>This text will be translated to [translation].</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>This text will not be translated - text with the tag [tag] not found in the language files.</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>This text will not be translated - text with the tag [tag] not found in the language files.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Insert oxygen tank to refill it</seg>
       </tuv>
       <tuv lang="JA-JP">
         <seg>それを補充するために酸素ボンベを挿入</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Researchers of [location1] need someone to deliver some dangerous chemicals to [location2] for a reward of [reward] credits.</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>Researchers of [location1] need someone to deliver some dangerous chemicals to [location2] for a reward of [reward] credits.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23654,14 +21822,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>charge_out</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>charge_out</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>charge_%</seg>
       </tuv>
       <tuv lang="JA-JP">
@@ -23670,66 +21830,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>set_charge_rate</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>set_charge_rate</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>charge_rate_out</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>charge_rate_out</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>proximity_sensor</seg>
       </tuv>
       <tuv lang="JA-JP">
         <seg>近接センサー</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>signal_[num]</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>signal_[num]</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>signal_[num]</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>signal_[num]</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>state_out</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>state_out</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>position_out</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>position_out</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>trigger_out</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>trigger_out</seg>
       </tuv>
     </tu>
     <tu>
@@ -23770,38 +21874,6 @@
       </tuv>
       <tuv lang="JA-JP">
         <seg>誰もが、現時点では、ドクターの診察を必要とは思いません。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Workshop item [itemname] was updated succesfully.</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>Workshop item [itemname] was updated succesfully.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Failed to update workshop item [itemname]. [errormessage]</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>Failed to update workshop item [itemname]. [errormessage]</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>File [path] not found.</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>File [path] not found.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>The [loser] vessel has been defeated by the [winner] crew!</seg>
-      </tuv>
-      <tuv lang="JA-JP">
-        <seg>The [loser] vessel has been defeated by the [winner] crew!</seg>
       </tuv>
     </tu>
   </body>
