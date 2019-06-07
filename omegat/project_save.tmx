@@ -238,6 +238,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bled to death.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T122257Z" creationid="kakonya" creationdate="20190607T122257Z">
+        <seg>失血死.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Borderless windowed</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113528Z" creationid="kakonya" creationdate="20190607T113528Z">
@@ -2714,6 +2722,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113058Z" creationid="kakonya" creationdate="20190607T113058Z">
         <seg>それはゲームが動作するために必要なコアパッケージであるため、コンテンツパッケージの選択を解除することはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You have bled to death.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T122308Z" creationid="kakonya" creationdate="20190607T122308Z">
+        <seg>失血死しました.</seg>
       </tuv>
     </tu>
     <tu>
