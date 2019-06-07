@@ -118,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All Steam features have been disabled—you will not be able to use the Steam Workshop or join servers that use Steam.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T141218Z" creationid="totochan" creationdate="20190607T141218Z">
+        <seg>すべてのスチーム機能が無効になって-あなたがされている蒸気ワークショップを使用するか、またはスチームを使用するサーバーに参加することはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All your unsaved progress will be lost.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112312Z" creationid="totochan" creationdate="20190607T104422Z">
@@ -350,6 +358,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Carrier</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T141258Z" creationid="totochan" creationdate="20190607T141258Z">
+        <seg>キャリアー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Change note</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112940Z" creationid="kakonya" creationdate="20190607T112940Z">
@@ -486,6 +502,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Could not delete file '[file]'!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T141202Z" creationid="totochan" creationdate="20190607T141202Z">
+        <seg>ファイル '[file]'を削除できませんでした！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Could not install the file '[filename]'.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113023Z" creationid="kakonya" creationdate="20190607T113023Z">
@@ -506,6 +530,22 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T104338Z" creationid="kakonya" creationdate="20190607T104338Z">
         <seg>クラフティング、パート1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Crawler</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T141308Z" creationid="totochan" creationdate="20190607T141308Z">
+        <seg>クローラ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T141229Z" creationid="totochan" creationdate="20190607T141229Z">
+        <seg>作成</seg>
       </tuv>
     </tu>
     <tu>
@@ -774,6 +814,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do you want to replace it?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T141238Z" creationid="totochan" creationdate="20190607T141238Z">
+        <seg>取り替えたいですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Don't show this again</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T141241Z" creationid="totochan" creationdate="20190607T141241Z">
+        <seg>再びこのメッセージを表示しません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Done</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T141023Z" creationid="totochan" creationdate="20190607T141023Z">
@@ -866,6 +922,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113037Z" creationid="kakonya" creationdate="20190607T113037Z">
         <seg>[itemName]を修復することができません！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>End Worm</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T141310Z" creationid="totochan" creationdate="20190607T141310Z">
+        <seg>エンドワーム</seg>
       </tuv>
     </tu>
     <tu>
@@ -1010,6 +1074,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T111415Z" creationid="kakonya" creationdate="20190607T111415Z">
         <seg>核分裂率</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fractal Guardian</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T141313Z" creationid="totochan" creationdate="20190607T141313Z">
+        <seg>フラクタルガーディアン</seg>
       </tuv>
     </tu>
     <tu>
@@ -1222,6 +1294,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Human</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T141319Z" creationid="totochan" creationdate="20190607T141319Z">
+        <seg>人間</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Human Husk</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T141324Z" creationid="totochan" creationdate="20190607T141324Z">
+        <seg>人間ハスク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Husk</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T141333Z" creationid="totochan" creationdate="20190607T141333Z">
+        <seg>ハスク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>IP address</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T140410Z" creationid="totochan" creationdate="20190607T140410Z">
@@ -1306,6 +1402,22 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T114059Z" creationid="kakonya" creationdate="20190607T114059Z">
         <seg>情報</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Initializing Steam client failed (steam_api64.dll not found).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T141211Z" creationid="totochan" creationdate="20190607T141211Z">
+        <seg>Steamクライアントを初期化する（steam_api64.dll見つからない）が失敗しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Initializing Steam client failed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T141221Z" creationid="totochan" creationdate="20190607T141221Z">
+        <seg>Steamクライアントの初期化に失敗しました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1766,6 +1878,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>My character</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T141254Z" creationid="totochan" creationdate="20190607T141254Z">
+        <seg>プレイモード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Name</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T141125Z" creationid="totochan" creationdate="20190607T141125Z">
@@ -1970,6 +2090,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113006Z" creationid="kakonya" creationdate="20190607T113006Z">
         <seg>ファイル用に別の潜水艦フォルダを作成してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please make sure Steam is running and you are logged in to an account.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T141225Z" creationid="totochan" creationdate="20190607T141225Z">
+        <seg>スチームが実行されている、アカウントにログインしていることを確認してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2214,6 +2342,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reset</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T141233Z" creationid="totochan" creationdate="20190607T141233Z">
+        <seg>リセット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Resolution</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113523Z" creationid="kakonya" creationdate="20190607T113523Z">
@@ -2378,6 +2514,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112829Z" creationid="kakonya" creationdate="20190607T112829Z">
         <seg>スコア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Search</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T141250Z" creationid="totochan" creationdate="20190607T141250Z">
+        <seg>検索</seg>
       </tuv>
     </tu>
     <tu>
@@ -3110,6 +3254,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Video</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T141243Z" creationid="totochan" creationdate="20190607T141243Z">
+        <seg>ビデオ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Voice activity</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113739Z" creationid="kakonya" creationdate="20190607T113739Z">
@@ -3170,6 +3322,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T140848Z" creationid="totochan" creationdate="20190607T140848Z">
         <seg>腰</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Walls</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T141231Z" creationid="totochan" creationdate="20190607T141231Z">
+        <seg>隔壁</seg>
       </tuv>
     </tu>
     <tu>
