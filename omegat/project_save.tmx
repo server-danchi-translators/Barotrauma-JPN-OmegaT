@@ -310,6 +310,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Burned to death.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T231436Z" creationid="kakonya" creationdate="20190607T231436Z">
+        <seg>焼死</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Campaign</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190607T055003Z" creationid="hiru4" creationdate="20190607T055003Z">
@@ -2974,6 +2982,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The skin is pale and clammy, and the lips turning blue.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T231615Z" creationid="kakonya" creationdate="20190607T231615Z">
+        <seg>冷や汗とチアノーゼが出て唇が真っ青です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The temperature is optimal when the bar is between the red indicators.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T111606Z" creationid="kakonya" creationdate="20190607T111606Z">
@@ -3538,6 +3554,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T122308Z" creationid="kakonya" creationdate="20190607T122308Z">
         <seg>失血死しました.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You have burned to death.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T231505Z" creationid="kakonya" creationdate="20190607T231505Z">
+        <seg>焼死しました</seg>
       </tuv>
     </tu>
     <tu>
