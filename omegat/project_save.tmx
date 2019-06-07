@@ -166,10 +166,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Turn on nearby pump to drain excess water</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T103124Z" creationid="kakonya" creationdate="20190607T103124Z">
+        <seg>排水するために、近くのポンプをオンにする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unequip or drop an item by double-clicking it while it is in use.\n\nWhen welding tool is equipped, hold {0} to aim.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T102940Z" creationid="kakonya" creationdate="20190607T102940Z">
         <seg>アイテムをダブルクリックして、装備を解除、またはドロップします。\n\n装備中 に{0} で目的位置に使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Water pumps</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T103054Z" creationid="kakonya" creationdate="20190607T103054Z">
+        <seg>ウォーターポンプ</seg>
       </tuv>
     </tu>
     <tu>
