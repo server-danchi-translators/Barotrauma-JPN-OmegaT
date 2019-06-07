@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10,6 +10,54 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190607T055003Z" creationid="hiru4" creationdate="20190607T055003Z">
         <seg>キャンペーン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Doors</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T054849Z" creationid="kakonya" creationdate="20190607T054849Z">
+        <seg>ドア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Generating more power than the devices in the submarine are consuming may damage junction boxes or cause fires.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T052704Z" creationid="kakonya" creationdate="20190607T052704Z">
+        <seg>発電過多になると、ジャンクションボックスがの損傷や、火災の原因になります。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Junction boxes and other electrical devices may get damaged if they stay submerged too long.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T053706Z" creationid="kakonya" creationdate="20190607T053706Z">
+        <seg>水没していると、ジャンクションボックスや電気機器の故障の原因となります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Letting the submarine's nuclear reactor overheat may cause fires.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T054352Z" creationid="kakonya" creationdate="20190607T054352Z">
+        <seg>潜水艦の原子炉の過熱しすぎは、火災の原因になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open the door by pushing the adjacent button</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T055358Z" creationid="kakonya" creationdate="20190607T055358Z">
+        <seg>近くのボタンを押してドアを開ける</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You will not get paid for delivering cargo if any of the cargo goes missing or gets damaged during the transport.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T052451Z" creationid="kakonya" creationdate="20190607T052451Z">
+        <seg>貨物を紛失したり、破損した場合は配達報酬はありません。</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
