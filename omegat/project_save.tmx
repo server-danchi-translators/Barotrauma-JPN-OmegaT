@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Any</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T141018Z" creationid="totochan" creationdate="20190607T141018Z">
+        <seg>どれか</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Apply</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113212Z" creationid="kakonya" creationdate="20190607T113212Z">
@@ -146,6 +154,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113214Z" creationid="kakonya" creationdate="20190607T113214Z">
         <seg>変更を適用しますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Are you sure you want to delete '[file]'?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T141154Z" creationid="totochan" creationdate="20190607T141154Z">
+        <seg>'[file]'を削除してもよろしいですか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -226,6 +242,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T111853Z" creationid="kakonya" creationdate="20190607T111853Z">
         <seg>自動操縦</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Back</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T141044Z" creationid="totochan" creationdate="20190607T141044Z">
+        <seg>戻る</seg>
       </tuv>
     </tu>
     <tu>
@@ -362,6 +386,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112636Z" creationid="kakonya" creationdate="20190607T112636Z">
         <seg>下のボタンを始めるために「Modsを探す]をクリックしてください！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Close</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T141020Z" creationid="totochan" creationdate="20190607T141020Z">
+        <seg>閉じる</seg>
       </tuv>
     </tu>
     <tu>
@@ -598,6 +630,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Days</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T141048Z" creationid="totochan" creationdate="20190607T141048Z">
+        <seg>日</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Deconstruct</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T111157Z" creationid="kakonya" creationdate="20190607T111157Z">
@@ -618,6 +658,22 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T104910Z" creationid="kakonya" creationdate="20190607T104910Z">
         <seg>デコンストラクタ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T141025Z" creationid="totochan" creationdate="20190607T141025Z">
+        <seg>削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete file?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T141131Z" creationid="totochan" creationdate="20190607T141131Z">
+        <seg>ファイルを削除する？</seg>
       </tuv>
     </tu>
     <tu>
@@ -650,6 +706,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113907Z" creationid="kakonya" creationdate="20190607T113907Z">
         <seg>選択を解除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Destination</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T141119Z" creationid="totochan" creationdate="20190607T141119Z">
+        <seg>行き先</seg>
       </tuv>
     </tu>
     <tu>
@@ -710,6 +774,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Done</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T141023Z" creationid="totochan" creationdate="20190607T141023Z">
+        <seg>完了</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Door with Buttons</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T114623Z" creationid="kakonya" creationdate="20190607T114623Z">
@@ -730,6 +802,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T140253Z" creationid="totochan" creationdate="20190607T140253Z">
         <seg>ダウン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Editing</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T141008Z" creationid="totochan" creationdate="20190607T141008Z">
+        <seg>編集</seg>
       </tuv>
     </tu>
     <tu>
@@ -854,10 +934,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Error</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T141009Z" creationid="totochan" creationdate="20190607T141009Z">
+        <seg>エラー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fabricator</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T114934Z" creationid="kakonya" creationdate="20190607T114934Z">
         <seg>ファブリケーター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Female</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T140931Z" creationid="totochan" creationdate="20190607T140931Z">
+        <seg>女性</seg>
       </tuv>
     </tu>
     <tu>
@@ -1074,6 +1170,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T104152Z" creationid="totochan" creationdate="20190607T104152Z">
         <seg>ホストサーバー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hours</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T141057Z" creationid="totochan" creationdate="20190607T141057Z">
+        <seg>時間</seg>
       </tuv>
     </tu>
     <tu>
@@ -1398,6 +1502,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Load</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T141027Z" creationid="totochan" creationdate="20190607T141027Z">
+        <seg>負荷</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Load Game</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T104149Z" creationid="totochan" creationdate="20190607T104149Z">
@@ -1454,6 +1566,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Male</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T140929Z" creationid="totochan" creationdate="20190607T140929Z">
+        <seg>男性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Manage campaign</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T105051Z" creationid="kakonya" creationdate="20190607T105051Z">
@@ -1466,6 +1586,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T105124Z" creationid="kakonya" creationdate="20190607T105124Z">
         <seg>権限管理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Manage players</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T141116Z" creationid="totochan" creationdate="20190607T141116Z">
+        <seg>プレイや管理</seg>
       </tuv>
     </tu>
     <tu>
@@ -1506,6 +1634,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T104443Z" creationid="totochan" creationdate="20190607T104443Z">
         <seg>最大プレイヤー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Maybe</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T140905Z" creationid="totochan" creationdate="20190607T140905Z">
+        <seg>多分</seg>
       </tuv>
     </tu>
     <tu>
@@ -1630,6 +1766,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T141125Z" creationid="totochan" creationdate="20190607T141125Z">
+        <seg>名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Navigation Terminal</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T114817Z" creationid="kakonya" creationdate="20190607T114817Z">
@@ -1646,6 +1790,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Next</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T141123Z" creationid="totochan" creationdate="20190607T141123Z">
+        <seg>次</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Next character</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T114120Z" creationid="kakonya" creationdate="20190607T114120Z">
@@ -1658,6 +1810,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T114546Z" creationid="kakonya" creationdate="20190607T114546Z">
         <seg>内蔵ボタンはありません - 手動で配線する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No to All</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T140903Z" creationid="totochan" creationdate="20190607T140903Z">
+        <seg>すべて、いいえ</seg>
       </tuv>
     </tu>
     <tu>
@@ -1706,6 +1866,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T055358Z" creationid="kakonya" creationdate="20190607T055358Z">
         <seg>近くのボタンを押してドアを開ける</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Order</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T140949Z" creationid="totochan" creationdate="20190607T140949Z">
+        <seg>命令</seg>
       </tuv>
     </tu>
     <tu>
@@ -1858,6 +2026,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112856Z" creationid="kakonya" creationdate="20190607T112856Z">
         <seg>プレビュー画像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Previous</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T141121Z" creationid="totochan" creationdate="20190607T141121Z">
+        <seg>前</seg>
       </tuv>
     </tu>
     <tu>
@@ -2046,6 +2222,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Respawn shuttle</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T141005Z" creationid="totochan" creationdate="20190607T141005Z">
+        <seg>リスポーンシャトル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Restart required</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113230Z" creationid="kakonya" creationdate="20190607T113230Z">
@@ -2170,6 +2354,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112522Z" creationid="kakonya" creationdate="20190607T112522Z">
         <seg>サンドボックス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T141032Z" creationid="totochan" creationdate="20190607T141032Z">
+        <seg>保存</seg>
       </tuv>
     </tu>
     <tu>
@@ -2330,6 +2522,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112515Z" creationid="kakonya" creationdate="20190607T112515Z">
         <seg>シングルプレーヤー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Skills</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T140909Z" creationid="totochan" creationdate="20190607T140909Z">
+        <seg>スキル</seg>
       </tuv>
     </tu>
     <tu>
@@ -2686,6 +2886,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Trait</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T140927Z" creationid="totochan" creationdate="20190607T140927Z">
+        <seg>trait</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Transfer items between character and container inventory by dragging or double-clicking.\n\nWhen in a character’s inventory, items can be equipped by double-clicking on them or by pressing the corresponding quick-slot key.\n\nTo close the interface, press {1}.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T102136Z" creationid="kakonya" creationdate="20190607T102136Z">
@@ -2786,6 +2994,22 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113723Z" creationid="kakonya" creationdate="20190607T113723Z">
         <seg>残念ながら、Mac OS Xでは、システムのデフォルトを使用する上での入力デバイスを変更する方法はありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unknown</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T141014Z" creationid="totochan" creationdate="20190607T141014Z">
+        <seg>不明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unlimited</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T141128Z" creationid="totochan" creationdate="20190607T141128Z">
+        <seg>アンリミテッド</seg>
       </tuv>
     </tu>
     <tu>
@@ -2950,6 +3174,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Warning</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T141012Z" creationid="totochan" creationdate="20190607T141012Z">
+        <seg>警告</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Water level</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T111258Z" creationid="kakonya" creationdate="20190607T111258Z">
@@ -3050,6 +3282,22 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113005Z" creationid="kakonya" creationdate="20190607T113005Z">
         <seg>ワークショップのアイテムはのみのModフォルダ内のファイルを変更したり、潜水艦のフォルダに海底ファイルを追加することが許可されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yes</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T140852Z" creationid="totochan" creationdate="20190607T140852Z">
+        <seg>はい</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yes to All</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T140857Z" creationid="totochan" creationdate="20190607T140857Z">
+        <seg>すべて、はい</seg>
       </tuv>
     </tu>
     <tu>
