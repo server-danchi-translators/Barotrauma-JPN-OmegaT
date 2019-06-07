@@ -6,10 +6,34 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>All your unsaved progress will be lost.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T104422Z" creationid="totochan" creationdate="20190607T104422Z">
+        <seg>すべての未保存の進行状況が失われます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Are you sure you want to quit the game?</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T104218Z" creationid="totochan" creationdate="20190607T104218Z">
         <seg>ゲームを終了してもよろしいですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Are you sure you want to stop the mission and load the previous save file?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T104425Z" creationid="totochan" creationdate="20190607T104425Z">
+        <seg>ミッションを中止し、以前保存したファイルをロードしますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Attempt UPnP port forwarding</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T104450Z" creationid="totochan" creationdate="20190607T104450Z">
+        <seg>UPnPのポートフォワーディングを試みます</seg>
       </tuv>
     </tu>
     <tu>
@@ -94,6 +118,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If clients don't see your server in the server list or if authenticating their Steam ID fails, you may need to enable UPnP port forwarding or forward the port manually.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T104442Z" creationid="totochan" creationdate="20190607T104442Z">
+        <seg>クライアントがサーバリストにまたはその蒸気IDが失敗した認証を行う場合は、サーバーが表示されない場合は、UPnPのポートフォワーディングを有効にするか、手動でポートを転送する必要があるかもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If clients fail to connect to your server, you may need to enable UPnP port forwarding or forward the port manually.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T104436Z" creationid="totochan" creationdate="20190607T104436Z">
+        <seg>クライアントがサーバーへの接続に失敗した場合、UPnPポートフォワーディングを有効にするか、手動でポートを転送する必要があるかもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Interact with items and devices with {4} button.\n\nOpen this door by pressing {5} while your cursor is over it.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T055925Z" creationid="kakonya" creationdate="20190607T055925Z">
@@ -158,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Max players</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T104443Z" creationid="totochan" creationdate="20190607T104443Z">
+        <seg>最大プレイヤー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Most submarines are equipped with stationary batteries that can be used as a temporary source of backup power in the case of a reactor failure.</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190607T060003Z" creationid="hiru4" creationdate="20190607T060003Z">
@@ -198,6 +246,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Password</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T104444Z" creationid="totochan" creationdate="20190607T104444Z">
+        <seg>パスワード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Public server</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T104445Z" creationid="totochan" creationdate="20190607T104445Z">
+        <seg>公開サーバー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Public servers are shown in the list of available servers in the 'Join Server' tab.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T104448Z" creationid="totochan" creationdate="20190607T104448Z">
+        <seg>公開サーバーは、「サーバーに参加」タブで利用可能なサーバのリストに示されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Query port</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T104437Z" creationid="totochan" creationdate="20190607T104437Z">
+        <seg>クエリポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Repair leak</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T102151Z" creationid="kakonya" creationdate="20190607T102151Z">
@@ -230,6 +310,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Server name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T104429Z" creationid="totochan" creationdate="20190607T104429Z">
+        <seg>サーバーの名前</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Server port</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T104430Z" creationid="totochan" creationdate="20190607T104430Z">
+        <seg>サーバポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Settings</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T104158Z" creationid="totochan" creationdate="20190607T104158Z">
@@ -250,6 +346,22 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T104154Z" creationid="totochan" creationdate="20190607T104154Z">
         <seg>潜水艦エディタ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The port used to communicate with Steam's server browser and respond to info pings from clients.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T104440Z" creationid="totochan" creationdate="20190607T104440Z">
+        <seg>ポートは、スチームのサーバーブラウザと通信し、クライアントからの情報のpingに応答するために使用しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The port used to communicate with clients.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T104432Z" creationid="totochan" creationdate="20190607T104432Z">
+        <seg>ポートはクライアントとの通信に使用されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -298,6 +410,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T103124Z" creationid="kakonya" creationdate="20190607T103124Z">
         <seg>排水するために、近くのポンプをオンにする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>UPnP can be used for forwarding ports on your router to allow players to join the server.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T104454Z" creationid="totochan" creationdate="20190607T104454Z">
+        <seg>UPnPは、プレイヤーがサーバーへの参加を許可するようにルータに転送ポートのために使用することができます。</seg>
       </tuv>
     </tu>
     <tu>
