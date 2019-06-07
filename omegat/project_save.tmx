@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Crafting, part 1</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T104338Z" creationid="kakonya" creationdate="20190607T104338Z">
+        <seg>クラフティング、パート1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Credits</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T104202Z" creationid="totochan" creationdate="20190607T104202Z">
@@ -74,6 +82,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T101325Z" creationid="totochan" creationdate="20190607T101325Z">
         <seg>カスタマイズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deconstruct an extra oxygen tank</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T104357Z" creationid="kakonya" creationdate="20190607T104357Z">
+        <seg>余分な酸素ボンベを分解</seg>
       </tuv>
     </tu>
     <tu>
@@ -130,6 +146,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T104436Z" creationid="totochan" creationdate="20190607T104436Z">
         <seg>クライアントがサーバーへの接続に失敗した場合、UPnPポートフォワーディングを有効にするか、手動でポートを転送する必要があるかもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you don't have enough materials for fabrication, you can break down items in the deconstructor.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T104819Z" creationid="kakonya" creationdate="20190607T104819Z">
+        <seg>製作に材料が足らないならディコンストラクトで、アイテムを分解することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -346,6 +370,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T104154Z" creationid="totochan" creationdate="20190607T104154Z">
         <seg>潜水艦エディタ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The fabricator is a device that can take different kinds of materials and turn them into useful items.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T104617Z" creationid="kakonya" creationdate="20190607T104617Z">
+        <seg>ファブリケーターはいろんな材料を使用し、有用なアイテムに変えることができる装置です。</seg>
       </tuv>
     </tu>
     <tu>
