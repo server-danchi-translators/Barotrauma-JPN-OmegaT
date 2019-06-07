@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If an overheated reactor is not shut down, it will eventually lead to a nuclear meltdown.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190607T085931Z" creationid="urakata" creationdate="20190607T085931Z">
+        <seg>過熱炉がシャットダウンされていない場合、それは最終的には炉心溶融につながります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Interact with items and devices with {4} button.\n\nOpen this door by pressing {5} while your cursor is over it.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T055925Z" creationid="kakonya" creationdate="20190607T055925Z">
