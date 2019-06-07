@@ -3,7 +3,7 @@
   <pressanykey>Press any key to continue</pressanykey> <!-- Loading Screen tips --> <loadingscreentip>貨物を紛失したり、破損した場合は配達報酬はありません。</loadingscreentip>
   <loadingscreentip>発電過多になると、ジャンクションボックスがの損傷や、火災の原因になります。.</loadingscreentip>
   <loadingscreentip>水没していると、ジャンクションボックスや電気機器の故障の原因となります。</loadingscreentip>
-  <loadingscreentip>潜水艦の原子炉の過熱しすぎは、火災の原因になります。過熱炉をシャットダウンしないと、それは最終的には炉心溶融につながります。</loadingscreentip>
+  <loadingscreentip>潜水艦の原子炉の過熱しすぎは、火災の原因になります。過熱炉をシャットダウンしないと、しまいには炉心溶融します。</loadingscreentip>
   <loadingscreentip>.</loadingscreentip>
   <loadingscreentip>Railgun shells and depth charges include a compartment that can hold additional explosives.</loadingscreentip>
   <loadingscreentip>Passive sonar can be used to detect nearby sound sources without attracting unwanted attention. You can also get a rough idea of your surroundings based on the sounds reflected from the ice walls.</loadingscreentip>
@@ -2096,11 +2096,11 @@
   <mechanic.opendoorobjective>近くのボタンを押してドアを開ける</mechanic.opendoorobjective>
   <mechanic.opendoortext> {0}, {1}, {2}, {3} で移動 {4} でアイテムや機器の使用\n\nカーソルを合わせて {5}でドアを開く</mechanic.opendoortext> <!-- Room 2 --> <mechanic.equipment>コンテナ</mechanic.equipment>
   <mechanic.equipmentobjective>ロッカーから装備を入手する</mechanic.equipmentobjective>
-  <mechanic.equipmenttext>Items are stored in containers of different sizes. You can see what’s inside one by interacting with it ({0}). Transfer items between character and container inventory by dragging or double-clicking.\n\nWhen in a character’s inventory, items can be equipped by double-clicking on them or by pressing the corresponding quick-slot key.\n\nTo close the interface, press {1}.</mechanic.equipmenttext> <!-- Room 3 --> <mechanic.welding>Leaks</mechanic.welding>
-  <mechanic.weldingobjective>Repair leak</mechanic.weldingobjective>
-  <mechanic.weldingtext>To repair leaks in hulls, equip the welding tool by double-clicking on it. Some items, like the welding tool, require two free hands to use. Unequip or drop an item by double-clicking it while it is in use.\n\nWhen welding tool is equipped, hold {0} to aim. While aiming, hold {1} to weld.</mechanic.weldingtext>
-  <mechanic.drain>Water pumps</mechanic.drain>
-  <mechanic.drainobjective>Turn on nearby pump to drain excess water</mechanic.drainobjective>
+  <mechanic.equipmenttext>アイテムはいろいろなサイズのコンテナに格納されています。 ({0})中のものを見ることができます. ドラッグまたはダブルクリックでアイテムを移動します。\n\nインベントリの中のアイテムをダブルクリックか、クイックスロットキーを押すことで装備できます。\n\n {1}で閉じる.</mechanic.equipmenttext> <!-- Room 3 --> <mechanic.welding>水漏れ</mechanic.welding>
+  <mechanic.weldingobjective>水漏れの修理</mechanic.weldingobjective>
+  <mechanic.weldingtext>船体の水漏れを修理するために、ダブルクリックで溶接工具を装備する溶接ツールやいくつかのアイテムは、両手が空いてないと使用できません。アイテムをダブルクリックして、装備を解除、またはドロップします。\n\n装備中 に{0} で目的位置に使用します。 {1}を長押しすると溶接します。</mechanic.weldingtext>
+  <mechanic.drain>ウォーターポンプ</mechanic.drain>
+  <mechanic.drainobjective>排水するために、近くのポンプをオンにする</mechanic.drainobjective>
   <mechanic.draintext>When the sub is flooded, use pumps to drain excess water. Usually pumps receive signals from nearby water detectors or navigation terminals, but some can be operated manually. This pump is programmed to only pump water out. Turn it on by interacting with it ({0}) and flip the switch to the “on” position.</mechanic.draintext> <!-- Room 4 --> <mechanic.deconstruct>Crafting, part 1</mechanic.deconstruct>
   <mechanic.deconstructobjective>Deconstruct an extra oxygen tank</mechanic.deconstructobjective>
   <mechanic.deconstructtext>The fabricator is a device that can take different kinds of materials and turn them into useful items. If you don't have enough materials for fabrication, you can break down items in the deconstructor. Just drag the item into one of the top slots and press the “Deconstruct” button.\n\nIn this case, fabricating a fire extinguisher requires aluminum and sodium. Sodium is readily available, but aluminum must be deconstructed from oxygen tanks.</mechanic.deconstructtext>
@@ -2125,7 +2125,7 @@
   <engineer.radio.submarine>Looks like the electrical room’s seen better days. See if you can get it online, then start up the reactor.</engineer.radio.submarine>
   <engineer.radio.complete>Good work. We may yet make it out of this alive.</engineer.radio.complete> <!-- Room 2 --> <engineer.equipment>コンテナ</engineer.equipment>
   <engineer.equipmentobjective>Retrieve equipment from the cabinet</engineer.equipmentobjective>
-  <engineer.equipmenttext>Items are stored in containers of different sizes. You can see what’s inside one by interacting with it ({0}). Transfer items between character and container inventory by dragging or double-clicking.\n\nWhen in a character’s inventory, items can be equipped by double-clicking on them or by pressing the corresponding quick-slot key.\n\nTo close the interface, press {1}.</engineer.equipmenttext> <!-- Room 3 --> <engineer.reactor>Reactor</engineer.reactor>
+  <engineer.equipmenttext>アイテムはいろいろなサイズのコンテナに格納されています。 ({0})中のものを見ることができます. ドラッグまたはダブルクリックでアイテムを移動します。\n\nインベントリの中のアイテムをダブルクリックか、クイックスロットキーを押すことで装備できます。\n\n {1}で閉じる.</engineer.equipmenttext> <!-- Room 3 --> <engineer.reactor>Reactor</engineer.reactor>
   <engineer.reactorobjective>Power up the reactor</engineer.reactorobjective>
   <engineer.reactortext>Nuclear reactors provide power to submarines and outposts. They require fuel to create heat and a crew member to regulate the output.\n\nDrag a fuel rod to the item slot on the left side. Multiple fuel rods create more heat, but in normal circumstances one is enough and any more might lead to overheating.\n\nStart by setting the fission rate so that the needle is on green, then do the same for turbine output. You can see load and output values to the right. Try to keep the output as close to load as possible. When the output is lower it leads to power outages and, when it’s higher, overvoltage and fires.\n\nWhen the reactor operator leaves the interface, it’s recommended to turn automatic control on. It responds to any fluctuations in grid load, but is considerably slower than a human operator.</engineer.reactortext> <!-- Room 4 --> <engineer.repairjunctionbox>Maintenance</engineer.repairjunctionbox>
   <engineer.repairjunctionboxobjective>Repair the broken junction box</engineer.repairjunctionboxobjective>
@@ -2144,7 +2144,7 @@
   <officer.radio.submarine>Welcome aboard. I need you to make sure we’re ready to deal with whatever comes after us when we leave. Start inspecting the weaponry.</officer.radio.submarine>
   <officer.radio.complete>Outstanding. Now get ready. Once the rest of the crew arrives, we’re out of here.</officer.radio.complete> <!-- Room 2 --> <officer.equipment>コンテナ</officer.equipment>
   <officer.equipmentobjective>Retrieve equipment from the cabinet</officer.equipmentobjective>
-  <officer.equipmenttext>Items are stored in containers of different sizes. You can see what’s inside one by interacting with it ({0}). Transfer items between character and container inventory by dragging or double-clicking.\n\nWhen in a character’s inventory, items can be equipped by double-clicking on them or by pressing the corresponding quick-slot key.\n\nTo close the interface, press {1}.</officer.equipmenttext>
+  <officer.equipmenttext>アイテムはいろいろなサイズのコンテナに格納されています。 ({0})中のものを見ることができます. ドラッグまたはダブルクリックでアイテムを移動します。\n\nインベントリの中のアイテムをダブルクリックか、クイックスロットキーを押すことで装備できます。\n\n {1}で閉じる.</officer.equipmenttext>
   <officer.meleeweapon>Melee weapons</officer.meleeweapon>
   <officer.meleeweaponobjective>Equip a melee weapon and protective gear</officer.meleeweaponobjective>
   <officer.meleeweapontext>Equip a weapon by double-clicking it in your inventory. Weapons require at least one free hand. Wearable equipment can either be double-clicked or dragged into their corresponding slots in the character inventory.\n\nReady the weapon by holding {0} and swing it by clicking {1}.</officer.meleeweapontext> <!-- Room 3 --> <officer.crawler>Crawlers</officer.crawler>
@@ -2166,7 +2166,7 @@
   <doctor.radio.assistantburnshealed>I guess that’ll do. Make your way to the sub; it’s too dangerous to stay here.</doctor.radio.assistantburnshealed>
   <doctor.radio.enteredsub>Good. Everyone’s here. Check up on everybody while we get the vessel ready for transit.</doctor.radio.enteredsub> <!-- Room 3 --> <doctor.supplies>コンテナ</doctor.supplies>
   <doctor.suppliesobjective>Find medical supplies</doctor.suppliesobjective>
-  <doctor.suppliestext>Items are stored in containers of different sizes. You can see what’s inside one by interacting with it ({0}). Transfer items between character and container inventory by dragging or double-clicking.\n\nWhen in a character’s inventory, items can be equipped by double-clicking on them or by pressing the corresponding quick-slot key.\n\nTo close the interface, press {1}.</doctor.suppliestext>
+  <doctor.suppliestext>アイテムはいろいろなサイズのコンテナに格納されています。 ({0})中のものを見ることができます. ドラッグまたはダブルクリックでアイテムを移動します。\n\nインベントリの中のアイテムをダブルクリックか、クイックスロットキーを押すことで装備できます。\n\n {1}で閉じる.</doctor.suppliestext>
   <doctor.openmedicalinterface>Medical interface</doctor.openmedicalinterface>
   <doctor.openmedicalinterfaceobjective>Open medical interface</doctor.openmedicalinterfaceobjective>
   <doctor.openmedicalinterfacetext>Press {0} or click your health bar to enter the medical interface.</doctor.openmedicalinterfacetext>
