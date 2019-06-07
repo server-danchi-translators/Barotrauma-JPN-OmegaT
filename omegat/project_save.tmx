@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Are you sure you want to quit the game?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T104218Z" creationid="totochan" creationdate="20190607T104218Z">
+        <seg>ゲームを終了してもよろしいですか？</seg>
+      </tuv>
+    </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Campaign</seg>
@@ -14,10 +22,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Character Editor</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T104156Z" creationid="totochan" creationdate="20190607T104156Z">
+        <seg>キャラクターエディタ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Containers</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T055944Z" creationid="kakonya" creationdate="20190607T055944Z">
         <seg>コンテナ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Credits</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T104202Z" creationid="totochan" creationdate="20190607T104202Z">
+        <seg>クレジット</seg>
       </tuv>
     </tu>
     <tu>
@@ -54,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Host Server</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T104152Z" creationid="totochan" creationdate="20190607T104152Z">
+        <seg>ホストサーバー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If an overheated reactor is not shut down, it will eventually lead to a nuclear meltdown.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T101552Z" creationid="urakata" creationdate="20190607T085931Z">
@@ -74,6 +106,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T101734Z" creationid="kakonya" creationdate="20190607T101734Z">
         <seg>アイテムはいろいろなサイズのコンテナに格納されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Join Server</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T104151Z" creationid="totochan" creationdate="20190607T104151Z">
+        <seg>サーバーに参加</seg>
       </tuv>
     </tu>
     <tu>
@@ -102,6 +142,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Load Game</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T104149Z" creationid="totochan" creationdate="20190607T104149Z">
+        <seg>ロードゲーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Main Menu</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T104216Z" creationid="totochan" creationdate="20190607T104216Z">
+        <seg>メインメニュー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Most submarines are equipped with stationary batteries that can be used as a temporary source of backup power in the case of a reactor failure.</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190607T060003Z" creationid="hiru4" creationdate="20190607T060003Z">
@@ -126,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>New Game</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T104147Z" creationid="totochan" creationdate="20190607T104147Z">
+        <seg>新しいゲーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Open the door by pushing the adjacent button</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T055358Z" creationid="kakonya" creationdate="20190607T055358Z">
@@ -142,10 +206,50 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Resume</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T104208Z" creationid="totochan" creationdate="20190607T104208Z">
+        <seg>継続</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Retry</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T104212Z" creationid="totochan" creationdate="20190607T104212Z">
+        <seg>リトライ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save and Quit</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T104213Z" creationid="totochan" creationdate="20190607T104213Z">
+        <seg>保存して終了</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Settings</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T104158Z" creationid="totochan" creationdate="20190607T104158Z">
+        <seg>設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Some items, like the welding tool, require two free hands to use.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T102437Z" creationid="kakonya" creationdate="20190607T102424Z">
         <seg>溶接ツールやいくつかのアイテムは、両手が空いてないと使用できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Submarine Editor</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T104154Z" creationid="totochan" creationdate="20190607T104154Z">
+        <seg>潜水艦エディタ</seg>
       </tuv>
     </tu>
     <tu>
@@ -162,6 +266,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T102232Z" creationid="kakonya" creationdate="20190607T102232Z">
         <seg>船体の水漏れを修理するために、ダブルクリックで溶接工具を装備する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Training</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T104145Z" creationid="totochan" creationdate="20190607T104145Z">
+        <seg>トレーニング</seg>
       </tuv>
     </tu>
     <tu>
