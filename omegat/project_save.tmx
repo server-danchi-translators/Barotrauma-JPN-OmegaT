@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -56,8 +56,8 @@
       <tuv lang="EN-US">
         <seg>If an overheated reactor is not shut down, it will eventually lead to a nuclear meltdown.</seg>
       </tuv>
-      <tuv lang="JA" changeid="kakonya" changedate="20190607T101349Z" creationid="urakata" creationdate="20190607T085931Z">
-        <seg>過熱炉をシャットダウンしないと、それは最終的には炉心溶融につながります。</seg>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T101552Z" creationid="urakata" creationdate="20190607T085931Z">
+        <seg>過熱炉をシャットダウンしないと、しまいには炉心溶融します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -66,6 +66,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T055925Z" creationid="kakonya" creationdate="20190607T055925Z">
         <seg> {4} でアイテムや機器の使用\n\nカーソルを合わせて {5}でドアを開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Items are stored in containers of different sizes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T101734Z" creationid="kakonya" creationdate="20190607T101734Z">
+        <seg>アイテムはいろいろなサイズのコンテナに格納されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -114,6 +122,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T055358Z" creationid="kakonya" creationdate="20190607T055358Z">
         <seg>近くのボタンを押してドアを開ける</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can see what’s inside one by interacting with it ({0}).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T101848Z" creationid="kakonya" creationdate="20190607T101848Z">
+        <seg> ({0})中のものを見ることができます.</seg>
       </tuv>
     </tu>
     <tu>
