@@ -1046,6 +1046,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Equip the fire extinguisher like you would a welding tool.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T235128Z" creationid="kakonya" creationdate="20190607T235112Z">
+        <seg>溶接ツールと同じように、消火器は両手で装備します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Equipment</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T114403Z" creationid="kakonya" creationdate="20190607T114353Z">
@@ -2342,6 +2350,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Put out the fire</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T235034Z" creationid="kakonya" creationdate="20190607T235034Z">
+        <seg>消火する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Put to container</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T140753Z" creationid="totochan" creationdate="20190607T140753Z">
@@ -3106,6 +3122,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T231829Z" creationid="kakonya" creationdate="20190607T231829Z">
         <seg>心拍が上がっています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then aim by holding down {0} and dispense by holding down {1}.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T235227Z" creationid="kakonya" creationdate="20190607T235227Z">
+        <seg> {0}を押し続けて狙いを定め、{1}を押すことで使用します。</seg>
       </tuv>
     </tu>
     <tu>
