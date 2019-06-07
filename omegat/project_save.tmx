@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Leaks</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T102142Z" creationid="kakonya" creationdate="20190607T102142Z">
+        <seg>水漏れ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Letting the submarine's nuclear reactor overheat may cause fires.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T054352Z" creationid="kakonya" creationdate="20190607T054352Z">
@@ -122,6 +130,30 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T055358Z" creationid="kakonya" creationdate="20190607T055358Z">
         <seg>近くのボタンを押してドアを開ける</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Repair leak</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T102151Z" creationid="kakonya" creationdate="20190607T102151Z">
+        <seg>水漏れの修理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some items, like the welding tool, require two free hands to use.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T102424Z" creationid="kakonya" creationdate="20190607T102424Z">
+        <seg>溶接ツールのようないくつかのアイテムは、両手が空いてないと使用できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To repair leaks in hulls, equip the welding tool by double-clicking on it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T102232Z" creationid="kakonya" creationdate="20190607T102232Z">
+        <seg>船体の水漏れを修理するために、ダブルクリックで溶接工具を装備する</seg>
       </tuv>
     </tu>
     <tu>
