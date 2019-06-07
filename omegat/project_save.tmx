@@ -1366,6 +1366,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Husk infection</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T232954Z" creationid="kakonya" creationdate="20190607T232954Z">
+        <seg>ハスク感染</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>IP address</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T140410Z" creationid="totochan" creationdate="20190607T140410Z">
