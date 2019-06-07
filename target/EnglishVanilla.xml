@@ -3,8 +3,8 @@
   <pressanykey>Press any key to continue</pressanykey> <!-- Loading Screen tips --> <loadingscreentip>貨物を紛失したり、破損した場合は配達報酬はありません。</loadingscreentip>
   <loadingscreentip>発電過多になると、ジャンクションボックスがの損傷や、火災の原因になります。.</loadingscreentip>
   <loadingscreentip>水没していると、ジャンクションボックスや電気機器の故障の原因となります。</loadingscreentip>
-  <loadingscreentip>潜水艦の原子炉の過熱しすぎは、火災の原因になります。If an overheated reactor is not shut down, it will eventually lead to a nuclear meltdown.</loadingscreentip>
-  <loadingscreentip>Most submarines are equipped with stationary batteries that can be used as a temporary source of backup power in the case of a reactor failure.</loadingscreentip>
+  <loadingscreentip>潜水艦の原子炉の過熱しすぎは、火災の原因になります。過熱炉をシャットダウンしないと、それは最終的には炉心溶融につながります。</loadingscreentip>
+  <loadingscreentip>.</loadingscreentip>
   <loadingscreentip>Railgun shells and depth charges include a compartment that can hold additional explosives.</loadingscreentip>
   <loadingscreentip>Passive sonar can be used to detect nearby sound sources without attracting unwanted attention. You can also get a rough idea of your surroundings based on the sounds reflected from the ice walls.</loadingscreentip>
   <loadingscreentip>There are many ways to get past locked doors, including forcing them open with a crowbar or rewiring them to a button you have access to.</loadingscreentip>
@@ -55,8 +55,8 @@
   <loadingscreentip>The Europa Coalition started off as a trade and cooperation agreement between the two largest Europan settlements and a handful of private paramilitary groups, but gradually grew to become what is essentially the Europan government.</loadingscreentip>
   <loadingscreentip>The much-ridiculed initiative to help submariners cope in a high-stress environment by including professional entertainers in the crews was promptly deemed a failure and discontinued.</loadingscreentip>
   <loadingscreentip>Most vessels avoid venturing outside the tunnels and cracks within Europa's icy crust—the vast, empty Abyss between the surface layers and the rocky interior hosts many of Europa's largest and most dangerous inhabitants.</loadingscreentip> <!-- Main menu labels --> <campaignlabel>キャンペーン</campaignlabel>
-  <multiplayerlabel>Multiplayer</multiplayerlabel>
-  <customizelabel>Customize</customizelabel> <!-- Main menu buttons --> <tutorialbutton>Training</tutorialbutton>
+  <multiplayerlabel>マルチプレイ</multiplayerlabel>
+  <customizelabel>カスタマイズ</customizelabel> <!-- Main menu buttons --> <tutorialbutton>Training</tutorialbutton>
   <newgamebutton>New Game</newgamebutton>
   <loadgamebutton>Load Game</loadgamebutton>
   <joinserverbutton>Join Server</joinserverbutton>
@@ -2094,8 +2094,8 @@
   <mechanic.radio.submarine>Welcome aboard. First thing you need to do is to check the engine and ballast pumps, see if they’re in need of maintenance.</mechanic.radio.submarine>
   <mechanic.radio.complete>Well done. Let’s wait for the others to make their way here. Can’t very well operate the sub with just the two of us.</mechanic.radio.complete> <!-- Room 1 --> <mechanic.opendoor>ドア</mechanic.opendoor>
   <mechanic.opendoorobjective>近くのボタンを押してドアを開ける</mechanic.opendoorobjective>
-  <mechanic.opendoortext>Move by pressing {0}, {1}, {2}, {3} buttons. Interact with items and devices with {4} button.\n\nOpen this door by pressing {5} while your cursor is over it.</mechanic.opendoortext> <!-- Room 2 --> <mechanic.equipment>Containers</mechanic.equipment>
-  <mechanic.equipmentobjective>Get your equipment from the locker</mechanic.equipmentobjective>
+  <mechanic.opendoortext> {0}, {1}, {2}, {3} で移動 {4} でアイテムや機器の使用\n\nカーソルを合わせて {5}でドアを開く</mechanic.opendoortext> <!-- Room 2 --> <mechanic.equipment>コンテナ</mechanic.equipment>
+  <mechanic.equipmentobjective>ロッカーから装備を入手する</mechanic.equipmentobjective>
   <mechanic.equipmenttext>Items are stored in containers of different sizes. You can see what’s inside one by interacting with it ({0}). Transfer items between character and container inventory by dragging or double-clicking.\n\nWhen in a character’s inventory, items can be equipped by double-clicking on them or by pressing the corresponding quick-slot key.\n\nTo close the interface, press {1}.</mechanic.equipmenttext> <!-- Room 3 --> <mechanic.welding>Leaks</mechanic.welding>
   <mechanic.weldingobjective>Repair leak</mechanic.weldingobjective>
   <mechanic.weldingtext>To repair leaks in hulls, equip the welding tool by double-clicking on it. Some items, like the welding tool, require two free hands to use. Unequip or drop an item by double-clicking it while it is in use.\n\nWhen welding tool is equipped, hold {0} to aim. While aiming, hold {1} to weld.</mechanic.weldingtext>
@@ -2123,7 +2123,7 @@
   <engineer.radio.faultywiring>Some of the wiring seems to be faulty. Find some wire and do a quick fix, otherwise we’re without power.</engineer.radio.faultywiring>
   <engineer.radio.changeofplans>Change of plans. Come to the sub. We’re gonna blow this joint.</engineer.radio.changeofplans>
   <engineer.radio.submarine>Looks like the electrical room’s seen better days. See if you can get it online, then start up the reactor.</engineer.radio.submarine>
-  <engineer.radio.complete>Good work. We may yet make it out of this alive.</engineer.radio.complete> <!-- Room 2 --> <engineer.equipment>Containers</engineer.equipment>
+  <engineer.radio.complete>Good work. We may yet make it out of this alive.</engineer.radio.complete> <!-- Room 2 --> <engineer.equipment>コンテナ</engineer.equipment>
   <engineer.equipmentobjective>Retrieve equipment from the cabinet</engineer.equipmentobjective>
   <engineer.equipmenttext>Items are stored in containers of different sizes. You can see what’s inside one by interacting with it ({0}). Transfer items between character and container inventory by dragging or double-clicking.\n\nWhen in a character’s inventory, items can be equipped by double-clicking on them or by pressing the corresponding quick-slot key.\n\nTo close the interface, press {1}.</engineer.equipmenttext> <!-- Room 3 --> <engineer.reactor>Reactor</engineer.reactor>
   <engineer.reactorobjective>Power up the reactor</engineer.reactorobjective>
@@ -2142,7 +2142,7 @@
   <officer.radio.somethingbig>I’m reading something big on the sonar. Load the coilgun and see if you can take it down.</officer.radio.somethingbig>
   <officer.radio.hammerheaddead>Nice shooting. Bad news is, this station is unsalvageable. Come down to the sub—we’re leaving before it’s too late.</officer.radio.hammerheaddead>
   <officer.radio.submarine>Welcome aboard. I need you to make sure we’re ready to deal with whatever comes after us when we leave. Start inspecting the weaponry.</officer.radio.submarine>
-  <officer.radio.complete>Outstanding. Now get ready. Once the rest of the crew arrives, we’re out of here.</officer.radio.complete> <!-- Room 2 --> <officer.equipment>Containers</officer.equipment>
+  <officer.radio.complete>Outstanding. Now get ready. Once the rest of the crew arrives, we’re out of here.</officer.radio.complete> <!-- Room 2 --> <officer.equipment>コンテナ</officer.equipment>
   <officer.equipmentobjective>Retrieve equipment from the cabinet</officer.equipmentobjective>
   <officer.equipmenttext>Items are stored in containers of different sizes. You can see what’s inside one by interacting with it ({0}). Transfer items between character and container inventory by dragging or double-clicking.\n\nWhen in a character’s inventory, items can be equipped by double-clicking on them or by pressing the corresponding quick-slot key.\n\nTo close the interface, press {1}.</officer.equipmenttext>
   <officer.meleeweapon>Melee weapons</officer.meleeweapon>
@@ -2164,7 +2164,7 @@
   <doctor.radio.knockeddown>That was a big one. Are you okay? Get yourself patched up, fast. We need a medic here stat.</doctor.radio.knockeddown>
   <doctor.radio.assistantburns>They’ve got a nasty burn. You don’t have any bandages with you, do you? Get them to follow you while you go find some.</doctor.radio.assistantburns>
   <doctor.radio.assistantburnshealed>I guess that’ll do. Make your way to the sub; it’s too dangerous to stay here.</doctor.radio.assistantburnshealed>
-  <doctor.radio.enteredsub>Good. Everyone’s here. Check up on everybody while we get the vessel ready for transit.</doctor.radio.enteredsub> <!-- Room 3 --> <doctor.supplies>Containers</doctor.supplies>
+  <doctor.radio.enteredsub>Good. Everyone’s here. Check up on everybody while we get the vessel ready for transit.</doctor.radio.enteredsub> <!-- Room 3 --> <doctor.supplies>コンテナ</doctor.supplies>
   <doctor.suppliesobjective>Find medical supplies</doctor.suppliesobjective>
   <doctor.suppliestext>Items are stored in containers of different sizes. You can see what’s inside one by interacting with it ({0}). Transfer items between character and container inventory by dragging or double-clicking.\n\nWhen in a character’s inventory, items can be equipped by double-clicking on them or by pressing the corresponding quick-slot key.\n\nTo close the interface, press {1}.</doctor.suppliestext>
   <doctor.openmedicalinterface>Medical interface</doctor.openmedicalinterface>
