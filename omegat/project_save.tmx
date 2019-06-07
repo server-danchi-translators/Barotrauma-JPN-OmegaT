@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add to whitelist</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T140412Z" creationid="totochan" creationdate="20190607T140412Z">
+        <seg>ホワイトリストに追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Affects how close the cursor has to be to an item to highlight it.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113840Z" creationid="kakonya" creationdate="20190607T113840Z">
@@ -72,8 +80,8 @@
       <tuv lang="EN-US">
         <seg>Aim</seg>
       </tuv>
-      <tuv lang="JA" changeid="kakonya" changedate="20190607T113943Z" creationid="kakonya" creationdate="20190607T113943Z">
-        <seg>狙う</seg>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T140248Z" creationid="kakonya" creationdate="20190607T113943Z">
+        <seg>照準</seg>
       </tuv>
     </tu>
     <tu>
@@ -334,6 +342,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Chat</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T140310Z" creationid="totochan" creationdate="20190607T140310Z">
+        <seg>チャット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Chromatic aberration</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113546Z" creationid="kakonya" creationdate="20190607T113546Z">
@@ -474,6 +490,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112834Z" creationid="kakonya" creationdate="20190607T112834Z">
         <seg>クリエイター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creature Attack</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T140300Z" creationid="totochan" creationdate="20190607T140300Z">
+        <seg>クリーチャーの攻撃</seg>
       </tuv>
     </tu>
     <tu>
@@ -690,6 +714,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T054849Z" creationid="kakonya" creationdate="20190607T054849Z">
         <seg>ドア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Down</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T140253Z" creationid="totochan" creationdate="20190607T140253Z">
+        <seg>ダウン</seg>
       </tuv>
     </tu>
     <tu>
@@ -1030,6 +1062,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>IP address</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T140410Z" creationid="totochan" creationdate="20190607T140410Z">
+        <seg>IPアドレス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If an overheated reactor is not shut down, it will eventually lead to a nuclear meltdown.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T101552Z" creationid="urakata" creationdate="20190607T085931Z">
@@ -1118,6 +1158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Interval:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T140336Z" creationid="totochan" creationdate="20190607T140336Z">
+        <seg>間隔：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Inventory scale</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113612Z" creationid="kakonya" creationdate="20190607T113549Z">
@@ -1202,6 +1250,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T102142Z" creationid="kakonya" creationdate="20190607T102142Z">
         <seg>水漏れ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Left</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T140255Z" creationid="totochan" creationdate="20190607T140255Z">
+        <seg>左</seg>
       </tuv>
     </tu>
     <tu>
@@ -1370,6 +1426,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113631Z" creationid="kakonya" creationdate="20190607T113631Z">
         <seg>マイク音量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Minimum players to respawn:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T140351Z" creationid="totochan" creationdate="20190607T140351Z">
+        <seg>最小プレイヤーはリスポーンします：</seg>
       </tuv>
     </tu>
     <tu>
@@ -1646,6 +1710,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Please wait...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T140138Z" creationid="totochan" creationdate="20190607T140138Z">
+        <seg>お待ちください...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Popular Mods</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112533Z" creationid="kakonya" creationdate="20190607T112533Z">
@@ -1822,6 +1894,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remove</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T140423Z" creationid="totochan" creationdate="20190607T140423Z">
+        <seg>削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Repair leak</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T102151Z" creationid="kakonya" creationdate="20190607T102151Z">
@@ -1870,10 +1950,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Right</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T140256Z" creationid="totochan" creationdate="20190607T140256Z">
+        <seg>右</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rounds</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T114140Z" creationid="kakonya" creationdate="20190607T114140Z">
         <seg>ラウンド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Run</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T140307Z" creationid="totochan" creationdate="20190607T140307Z">
+        <seg>走る</seg>
       </tuv>
     </tu>
     <tu>
@@ -1954,6 +2050,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113011Z" creationid="kakonya" creationdate="20190607T113011Z">
         <seg>スチームワークショップアイテムのプレビュー画像を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Server</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T140329Z" creationid="totochan" creationdate="20190607T140329Z">
+        <seg>サーバ</seg>
       </tuv>
     </tu>
     <tu>
@@ -2114,6 +2218,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113542Z" creationid="kakonya" creationdate="20190607T113542Z">
         <seg>鏡面反射照明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Start</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T140145Z" creationid="totochan" creationdate="20190607T140145Z">
+        <seg>開始</seg>
       </tuv>
     </tu>
     <tu>
@@ -2478,6 +2590,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Up</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T140252Z" creationid="totochan" creationdate="20190607T140252Z">
+        <seg>アップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Update item</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112954Z" creationid="kakonya" creationdate="20190607T112954Z">
@@ -2538,6 +2658,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T114842Z" creationid="kakonya" creationdate="20190607T114842Z">
         <seg>潜水艦の概略ならびに各部屋の状態を表示するために使用可能なデバイス。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T140213Z" creationid="totochan" creationdate="20190607T140213Z">
+        <seg>使用</seg>
       </tuv>
     </tu>
     <tu>
