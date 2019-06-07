@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Borderless windowed</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113528Z" creationid="kakonya" creationdate="20190607T113528Z">
+        <seg>ボーダレスウィンドウ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Browse...</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112858Z" creationid="kakonya" creationdate="20190607T112858Z">
@@ -210,6 +218,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T104156Z" creationid="totochan" creationdate="20190607T104156Z">
         <seg>キャラクターエディタ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chromatic aberration</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113546Z" creationid="kakonya" creationdate="20190607T113546Z">
+        <seg>色収差</seg>
       </tuv>
     </tu>
     <tu>
@@ -306,6 +322,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113023Z" creationid="kakonya" creationdate="20190607T113023Z">
         <seg>ファイル '[file]'を削除できませんでした！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Could not start voice capture; suitable capture device not found.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113520Z" creationid="kakonya" creationdate="20190607T113520Z">
+        <seg>音声キャプチャを開始できませんでした。適したキャプチャデバイスが見つかりません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -438,6 +462,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Display mode</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113524Z" creationid="kakonya" creationdate="20190607T113524Z">
+        <seg>ディスプレイモード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do you want to apply the settings or discard the changes?</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113220Z" creationid="kakonya" creationdate="20190607T113220Z">
@@ -466,6 +498,30 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112821Z" creationid="kakonya" creationdate="20190607T112821Z">
         <seg>有効</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable vertical sync</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113529Z" creationid="kakonya" creationdate="20190607T113529Z">
+        <seg>垂直同期を有効</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enables a subtle color distortion effect at the edges of the screen.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113547Z" creationid="kakonya" creationdate="20190607T113547Z">
+        <seg>画面の端に微妙な色の歪み効果を可能にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enables specular lighting, an effect which creates brighter spots of light on shiny objects.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113543Z" creationid="kakonya" creationdate="20190607T113543Z">
+        <seg>鏡面反射照明、光沢のあるオブジェクトへの光の明るいスポットを作成する効果を可能にします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -574,6 +630,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fullscreen</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113526Z" creationid="kakonya" creationdate="20190607T113526Z">
+        <seg>全画面表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>General</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113052Z" creationid="kakonya" creationdate="20190607T113052Z">
@@ -594,6 +658,30 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T060100Z" creationid="kakonya" creationdate="20190607T060100Z">
         <seg>ロッカーから装備を入手する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Graphics</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113523Z" creationid="kakonya" creationdate="20190607T113523Z">
+        <seg>グラフィックス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HUD scale</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113548Z" creationid="kakonya" creationdate="20190607T113548Z">
+        <seg>HUDスケール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Helps prevent screen tearing artifacts.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113534Z" creationid="kakonya" creationdate="20190607T113534Z">
+        <seg>成果物を引き裂く画面を防ぐことができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -710,6 +798,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Inventory scale</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113549Z" creationid="kakonya" creationdate="20190607T113549Z">
+        <seg>在庫スケール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Item</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113041Z" creationid="kakonya" creationdate="20190607T113041Z">
@@ -782,6 +878,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lighting resolution</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113541Z" creationid="kakonya" creationdate="20190607T113541Z">
+        <seg>照明解像度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Line of sight effect</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113535Z" creationid="kakonya" creationdate="20190607T113535Z">
+        <seg>視覚効果のライン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Load Game</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T104149Z" creationid="totochan" creationdate="20190607T104149Z">
@@ -794,6 +906,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T111413Z" creationid="kakonya" creationdate="20190607T111413Z">
         <seg>負荷: [kw] kW</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lower values improve performance, but cause shadows to appear more pixellated.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113541Z" creationid="kakonya" creationdate="20190607T113541Z">
+        <seg>値を小さくするとパフォーマンスが向上しますが、影がよりピクセル化表示される場合があり。</seg>
       </tuv>
     </tu>
     <tu>
@@ -878,6 +998,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Missing content file types: [missingfiletypes]</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113439Z" creationid="kakonya" creationdate="20190607T113439Z">
+        <seg>コンテンツパッケージがありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mission</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112524Z" creationid="kakonya" creationdate="20190607T112524Z">
@@ -942,10 +1070,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note that the game won't be paused when a multiplayer session is active.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113517Z" creationid="kakonya" creationdate="20190607T113517Z">
+        <seg>マルチセッションがアクティブなときにゲームが一時停止されないことに注意してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Only select this if you wish to create a mod that replaces all the Vanilla files.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112924Z" creationid="kakonya" creationdate="20190607T112924Z">
         <seg>すべてのバニラのファイルを置き換えMODを作成したい場合にのみ、これを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Opaque</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113538Z" creationid="kakonya" creationdate="20190607T113538Z">
+        <seg>オペーク</seg>
       </tuv>
     </tu>
     <tu>
@@ -990,10 +1134,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Particle limit</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113534Z" creationid="kakonya" creationdate="20190607T113534Z">
+        <seg>粒子の制限</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Password</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T104444Z" creationid="totochan" creationdate="20190607T104444Z">
         <seg>パスワード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pause on focus lost</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113451Z" creationid="kakonya" creationdate="20190607T113451Z">
+        <seg>失われた焦点に一時停止</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pauses the game when its window is not in focus.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113458Z" creationid="kakonya" creationdate="20190607T113458Z">
+        <seg>そのウィンドウにフォーカスがないときに、ゲームを一時停止します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1174,6 +1342,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Resolution</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113523Z" creationid="kakonya" creationdate="20190607T113523Z">
+        <seg>解像度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Restart required</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113230Z" creationid="kakonya" creationdate="20190607T113230Z">
@@ -1350,6 +1526,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Specular lighting</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113542Z" creationid="kakonya" creationdate="20190607T113542Z">
+        <seg>鏡面反射照明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Steam Workshop</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112122Z" creationid="kakonya" creationdate="20190607T112122Z">
@@ -1386,6 +1570,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T105202Z" creationid="kakonya" creationdate="20190607T105202Z">
         <seg>スウォーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Synchronizes the game's frame rate with your monitor's refresh rate.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113532Z" creationid="kakonya" creationdate="20190607T113532Z">
+        <seg>お使いのモニタのリフレッシュレートとゲームのフレームレートを同期化します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1442,6 +1634,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T111550Z" creationid="kakonya" creationdate="20190607T111550Z">
         <seg>より高い原動機出力は、より多くの反応器が電気を生成することを試みます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The package was made for an unknown version; your game version is [gameversion].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113431Z" creationid="kakonya" creationdate="20190607T113431Z">
+        <seg>パッケージはバージョン[packageversion]用に作られました。 あなたのゲームのバージョンは[gameversion]です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1546,6 +1746,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T102136Z" creationid="kakonya" creationdate="20190607T102136Z">
         <seg>ドラッグまたはダブルクリックでアイテムを移動します。\n\nインベントリの中のアイテムをダブルクリックか、クイックスロットキーを押すことで装備できます。\n\n {1}で閉じる.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Transparent</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113538Z" creationid="kakonya" creationdate="20190607T113538Z">
+        <seg>トランスペアレント</seg>
       </tuv>
     </tu>
     <tu>
@@ -1698,6 +1906,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T103045Z" creationid="kakonya" creationdate="20190607T103045Z">
         <seg> {1}を長押しすると溶接します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Windowed</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113527Z" creationid="kakonya" creationdate="20190607T113527Z">
+        <seg>ウィンドウ表示</seg>
       </tuv>
     </tu>
     <tu>
