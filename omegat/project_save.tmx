@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10,6 +10,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190607T055003Z" creationid="hiru4" creationdate="20190607T055003Z">
         <seg>キャンペーン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Containers</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T055944Z" creationid="kakonya" creationdate="20190607T055944Z">
+        <seg>コンテナ</seg>
       </tuv>
     </tu>
     <tu>
@@ -26,6 +34,22 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T052704Z" creationid="kakonya" creationdate="20190607T052704Z">
         <seg>発電過多になると、ジャンクションボックスがの損傷や、火災の原因になります。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Get your equipment from the locker</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T060100Z" creationid="kakonya" creationdate="20190607T060100Z">
+        <seg>ロッカーから装備を入手する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Interact with items and devices with {4} button.\n\nOpen this door by pressing {5} while your cursor is over it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T055925Z" creationid="kakonya" creationdate="20190607T055925Z">
+        <seg> {4} でアイテムや機器の使用\n\nカーソルを合わせて {5}でドアを開く</seg>
       </tuv>
     </tu>
     <tu>
@@ -50,6 +74,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190607T060003Z" creationid="hiru4" creationdate="20190607T060003Z">
         <seg>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move by pressing {0}, {1}, {2}, {3} buttons.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T055623Z" creationid="kakonya" creationdate="20190607T055623Z">
+        <seg> {0}, {1}, {2}, {3} で移動</seg>
       </tuv>
     </tu>
     <tu>
