@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Autopilot</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T111853Z" creationid="kakonya" creationdate="20190607T111853Z">
+        <seg>自動操縦</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ban</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T105037Z" creationid="kakonya" creationdate="20190607T105037Z">
@@ -234,6 +242,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T111521Z" creationid="kakonya" creationdate="20190607T111521Z">
         <seg>燃料切れ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fuel Rods</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T111844Z" creationid="kakonya" creationdate="20190607T111844Z">
+        <seg>燃料棒</seg>
       </tuv>
     </tu>
     <tu>
@@ -438,6 +454,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Maintain position</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T112049Z" creationid="kakonya" creationdate="20190607T112049Z">
+        <seg>位置を維持</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Manage campaign</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T105051Z" creationid="kakonya" creationdate="20190607T105051Z">
@@ -466,6 +490,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T105122Z" creationid="kakonya" creationdate="20190607T105122Z">
         <seg>設定管理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Manual steering</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T111851Z" creationid="kakonya" creationdate="20190607T111851Z">
+        <seg>手動操縦</seg>
       </tuv>
     </tu>
     <tu>
