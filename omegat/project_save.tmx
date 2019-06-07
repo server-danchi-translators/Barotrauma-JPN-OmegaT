@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This pump is programmed to only pump water out.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T103938Z" creationid="kakonya" creationdate="20190607T103938Z">
+        <seg>ポンプは水を排水するだけのプログラムがされています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To repair leaks in hulls, equip the welding tool by double-clicking on it.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T102232Z" creationid="kakonya" creationdate="20190607T102232Z">
@@ -182,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Usually pumps receive signals from nearby water detectors or navigation terminals, but some can be operated manually.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T103732Z" creationid="kakonya" creationdate="20190607T103732Z">
+        <seg>通常では、近くの水検知器やナビゲーション端末から信号を受信しますが、手動で操作も可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Water pumps</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T103054Z" creationid="kakonya" creationdate="20190607T103054Z">
@@ -192,8 +208,8 @@
       <tuv lang="EN-US">
         <seg>When the sub is flooded, use pumps to drain excess water.</seg>
       </tuv>
-      <tuv lang="JA" changeid="kakonya" changedate="20190607T103541Z" creationid="kakonya" creationdate="20190607T103541Z">
-        <seg>潜水艦</seg>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T103638Z" creationid="kakonya" creationdate="20190607T103541Z">
+        <seg>潜水艦に浸水したら、ポンプを使用して余分な水を排水する。</seg>
       </tuv>
     </tu>
     <tu>
