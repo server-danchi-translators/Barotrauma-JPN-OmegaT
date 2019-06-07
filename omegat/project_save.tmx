@@ -38,6 +38,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Apply</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113212Z" creationid="kakonya" creationdate="20190607T113212Z">
+        <seg>適用します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Apply changes?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113214Z" creationid="kakonya" creationdate="20190607T113214Z">
+        <seg>変更を適用しますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Are you sure you want to delete the item '[itemname]' from the Steam Workshop?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T112959Z" creationid="kakonya" creationdate="20190607T112959Z">
+        <seg>乗組員の [charactername]首にしてもよろしいですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Are you sure you want to quit the game?</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T104218Z" creationid="totochan" creationdate="20190607T104218Z">
@@ -46,10 +70,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Are you sure you want to reset the settings?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113150Z" creationid="kakonya" creationdate="20190607T113150Z">
+        <seg>設定をリセットしてもよろしいですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Are you sure you want to stop the mission and load the previous save file?</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T104425Z" creationid="totochan" creationdate="20190607T104425Z">
         <seg>ミッションを中止し、以前保存したファイルをロードしますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Art</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113044Z" creationid="kakonya" creationdate="20190607T113044Z">
+        <seg>アート</seg>
       </tuv>
     </tu>
     <tu>
@@ -118,6 +158,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cannot edit the Workshop item '[itemname]' because it has not been installed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113033Z" creationid="kakonya" creationdate="20190607T113033Z">
+        <seg>[itemName]を修復することができません！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot enable Workshop item '[itemname]'.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113020Z" creationid="kakonya" creationdate="20190607T113020Z">
+        <seg>[itemName]を修復することができません！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot enable the Workshop item '[itemname]' because it has not been installed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113029Z" creationid="kakonya" creationdate="20190607T113029Z">
+        <seg>[itemName]を修復することができません！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot remove the submarine file because it's a part of the content package [contentpackage].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113148Z" creationid="kakonya" creationdate="20190607T113148Z">
+        <seg>バニラのコンテンツパッケージで定義された潜水艦を編集することはできません！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cargo</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T105133Z" creationid="kakonya" creationdate="20190607T105133Z">
@@ -182,6 +254,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Content package</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113054Z" creationid="kakonya" creationdate="20190607T113054Z">
+        <seg>コンテンツパッケージ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Content package '[packagename]' is not compatible with this version of Barotrauma.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113237Z" creationid="kakonya" creationdate="20190607T113237Z">
+        <seg>このワークショップのアイテムは、気圧障害のバージョンと互換性がありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Content package '[packagepath]' not found.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113233Z" creationid="kakonya" creationdate="20190607T113233Z">
+        <seg>コンテンツパッケージに保存： [path]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Content packages</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112820Z" creationid="kakonya" creationdate="20190607T112820Z">
@@ -202,6 +298,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112920Z" creationid="kakonya" creationdate="20190607T112920Z">
         <seg>コアパッケージは、ゲームをせずに実行されませんすべてのコアファイル（実行可能ファイル、設定ファイル）を含有する特殊なコンテンツ・パッケージです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Could not install the file '[filename]'.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113023Z" creationid="kakonya" creationdate="20190607T113023Z">
+        <seg>ファイル '[file]'を削除できませんでした！</seg>
       </tuv>
     </tu>
     <tu>
@@ -294,6 +398,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Delete item</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T112955Z" creationid="kakonya" creationdate="20190607T112955Z">
+        <seg>アイテムを削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deletes the item from Steam Workshop.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T112958Z" creationid="kakonya" creationdate="20190607T112958Z">
+        <seg>スチームワークショップからアイテムを削除します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Description</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112841Z" creationid="kakonya" creationdate="20190607T112841Z">
@@ -306,6 +426,30 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112520Z" creationid="kakonya" creationdate="20190607T112520Z">
         <seg>デベロッパーサンドボックス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Discard</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113227Z" creationid="kakonya" creationdate="20190607T113227Z">
+        <seg>捨てます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do you want to apply the settings or discard the changes?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113220Z" creationid="kakonya" creationdate="20190607T113220Z">
+        <seg>設定を適用するか、変更を破棄しますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do you want to launch [exename]?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113206Z" creationid="kakonya" creationdate="20190607T113206Z">
+        <seg>取り替えたいですか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -326,10 +470,58 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enabling the workshop item '[itemname]' failed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113037Z" creationid="kakonya" creationdate="20190607T113037Z">
+        <seg>[itemName]を修復することができません！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>English</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113209Z" creationid="kakonya" creationdate="20190607T113209Z">
+        <seg>英語</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Environment</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113046Z" creationid="kakonya" creationdate="20190607T113046Z">
+        <seg>環境</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File is not present in the Workshop item folder and will not be included in the Workshop item.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113002Z" creationid="kakonya" creationdate="20190607T113002Z">
+        <seg>ファイルには、ワークショップのアイテムフォルダに存在しないとワークショップのアイテムには含まれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File not found.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113004Z" creationid="kakonya" creationdate="20190607T113004Z">
+        <seg>ファイルが見つかりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>File size</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112839Z" creationid="kakonya" creationdate="20190607T112839Z">
         <seg>ファイルサイズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File will be included in the Workshop item.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113001Z" creationid="kakonya" creationdate="20190607T113001Z">
+        <seg>ファイルには、ワークショップのアイテムに含まれます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -378,6 +570,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T111844Z" creationid="kakonya" creationdate="20190607T111844Z">
         <seg>燃料棒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113052Z" creationid="kakonya" creationdate="20190607T113052Z">
+        <seg>一般的な</seg>
       </tuv>
     </tu>
     <tu>
@@ -486,6 +686,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Incompatible</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113038Z" creationid="kakonya" creationdate="20190607T113038Z">
+        <seg>非対応</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Increasing the fission rate makes the reactor consume more fuel and generate more heat.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T111531Z" creationid="kakonya" creationdate="20190607T111531Z">
@@ -498,6 +706,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T055925Z" creationid="kakonya" creationdate="20190607T055925Z">
         <seg> {4} でアイテムや機器の使用\n\nカーソルを合わせて {5}でドアを開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Item</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113041Z" creationid="kakonya" creationdate="20190607T113041Z">
+        <seg>アイテム</seg>
       </tuv>
     </tu>
     <tu>
@@ -538,6 +754,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T105031Z" creationid="kakonya" creationdate="20190607T105031Z">
         <seg>キック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Language</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113208Z" creationid="kakonya" creationdate="20190607T113208Z">
+        <seg>言語</seg>
       </tuv>
     </tu>
     <tu>
@@ -782,6 +1006,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Please create a separate subfolder for the files.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113006Z" creationid="kakonya" creationdate="20190607T113006Z">
+        <seg>ファイル用に別の潜水艦フォルダを作成してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please uninstall the content package through the Steam Workshop menu.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113150Z" creationid="kakonya" creationdate="20190607T113150Z">
+        <seg>スチームワークショップアイテムのプレビュー画像を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please wait</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113008Z" creationid="kakonya" creationdate="20190607T113008Z">
+        <seg>お待ちください</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Popular Mods</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112533Z" creationid="kakonya" creationdate="20190607T112533Z">
@@ -862,6 +1110,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Publishing '[itemname]' in the Steam Workshop failed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113010Z" creationid="kakonya" creationdate="20190607T113010Z">
+        <seg>スチームワークショップにファイルをアップロードします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Publishing '[itemname]' in the Steam Workshop.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113009Z" creationid="kakonya" creationdate="20190607T113009Z">
+        <seg>スチームワークショップにファイルをアップロードします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pumping speed</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T111348Z" creationid="kakonya" creationdate="20190607T111348Z">
@@ -894,10 +1158,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reload the configuration file of the Workshop item (metadata.xml inside the item's folder) and add all new files in it to the file list.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113007Z" creationid="kakonya" creationdate="20190607T113007Z">
+        <seg>ワークショップのアイテム（アイテムのフォルダ内のmetadata.xml）の設定ファイルを再ロードし、ファイルリストにして、すべての新しいファイルを追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Repair leak</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T102151Z" creationid="kakonya" creationdate="20190607T102151Z">
         <seg>水漏れの修理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Restart required</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113230Z" creationid="kakonya" creationdate="20190607T113230Z">
+        <seg>再起動が必要</seg>
       </tuv>
     </tu>
     <tu>
@@ -990,6 +1270,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select the preview image for the Steam Workshop item.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113011Z" creationid="kakonya" creationdate="20190607T113011Z">
+        <seg>スチームワークショップアイテムのプレビュー画像を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Server log</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T105056Z" creationid="kakonya" creationdate="20190607T105056Z">
@@ -1070,6 +1358,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Submarine</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113040Z" creationid="kakonya" creationdate="20190607T113040Z">
+        <seg>潜水艦</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Submarine Editor</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T104154Z" creationid="totochan" creationdate="20190607T104154Z">
@@ -1118,6 +1414,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The file '[filename]' would be overwritten by the item.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113022Z" creationid="kakonya" creationdate="20190607T113022Z">
+        <seg>ファイルには、ワークショップのアイテムに含まれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The file size of the preview image has to be less than 1 MB.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113014Z" creationid="kakonya" creationdate="20190607T113014Z">
+        <seg>プレビュー画像のファイルサイズは1 MB未満である必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The heat is used to spin the turbine, which generates electricity.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T111541Z" creationid="kakonya" creationdate="20190607T111541Z">
@@ -1130,6 +1442,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T111550Z" creationid="kakonya" creationdate="20190607T111550Z">
         <seg>より高い原動機出力は、より多くの反応器が電気を生成することを試みます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The package was made for the version [packageversion]; your game version is [gameversion].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113423Z" creationid="kakonya" creationdate="20190607T113423Z">
+        <seg>パッケージはバージョン[packageversion]用に作られました。 あなたのゲームのバージョンは[gameversion]です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1170,6 +1490,22 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112922Z" creationid="kakonya" creationdate="20190607T112922Z">
         <seg>常に1つだけ選択されたコアパッケージが存在する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This Workshop item is not compatible with your version of Barotrauma.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113040Z" creationid="kakonya" creationdate="20190607T113040Z">
+        <seg>このワークショップのアイテムは、気圧障害のバージョンと互換性がありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This may be desirable if you want the mod to use Vanilla files that the players already have—otherwise you should copy the file to the Workshop item folder.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113002Z" creationid="kakonya" creationdate="20190607T113002Z">
+        <seg>modはプレイヤーが既に持っているそうしないと、ワークショップのアイテムフォルダにファイルをコピーする必要がありますバニラのファイルを使用する場合、これは望ましいことであろう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1286,10 +1622,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Update item</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T112954Z" creationid="kakonya" creationdate="20190607T112954Z">
+        <seg>アイテムを更新します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Updated</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112837Z" creationid="kakonya" creationdate="20190607T112837Z">
         <seg>更新</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Uploads the files to the Steam Workshop.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113000Z" creationid="kakonya" creationdate="20190607T113000Z">
+        <seg>スチームワークショップにファイルをアップロードします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1350,6 +1702,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Workshop items are only allowed to modify files in the Mod folder or add submarine files to the Submarines folder.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113005Z" creationid="kakonya" creationdate="20190607T113005Z">
+        <seg>ワークショップのアイテムはのみのModフォルダ内のファイルを変更したり、潜水艦のフォルダに海底ファイルを追加することが許可されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can either select an existing submarine or a content package from the 'Your items' menu at the left, or create an entirely new item by clicking the 'Create a new item' button.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112854Z" creationid="kakonya" creationdate="20190607T112854Z">
@@ -1382,10 +1742,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You cannot deselect the content package because it is a core package required for the game to work.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113058Z" creationid="kakonya" creationdate="20190607T113058Z">
+        <seg>それはゲームが動作するために必要なコアパッケージであるため、コンテンツパッケージの選択を解除することはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You haven't subscribed to any mods on the Steam Workshop.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112745Z" creationid="kakonya" creationdate="20190607T112614Z">
         <seg>スチームワークショップ上のModsに登録していません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may switch it by selecting another core package.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113059Z" creationid="kakonya" creationdate="20190607T113059Z">
+        <seg>他のコアパッケージを選択して切り替えることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You need to restart the game for the language change to take effect.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113233Z" creationid="kakonya" creationdate="20190607T113233Z">
+        <seg>言語の変更を有効にするには、ゲームを再起動する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You need to restart the game for the resolution changes to take effect.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113232Z" creationid="kakonya" creationdate="20190607T113232Z">
+        <seg>解像度の変更を有効にするには、ゲームを再起動する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1410,6 +1802,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112809Z" creationid="kakonya" creationdate="20190607T112809Z">
         <seg>あなたのアイテム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[itemname] is now available in the Steam Workshop!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113009Z" creationid="kakonya" creationdate="20190607T113009Z">
+        <seg>スチームワークショップにファイルをアップロードします。</seg>
       </tuv>
     </tu>
     <tu>
