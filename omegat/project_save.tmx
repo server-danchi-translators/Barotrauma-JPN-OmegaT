@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Transfer items between character and container inventory by dragging or double-clicking.\n\nWhen in a character’s inventory, items can be equipped by double-clicking on them or by pressing the corresponding quick-slot key.\n\nTo close the interface, press {1}.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T102136Z" creationid="kakonya" creationdate="20190607T102136Z">
+        <seg>ドラッグまたはダブルクリックでアイテムを移動します。\n\nインベントリの中のアイテムをダブルクリックか、クイックスロットキーを押すことで装備できます。\n\n {1}で閉じる.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can see what’s inside one by interacting with it ({0}).</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T101848Z" creationid="kakonya" creationdate="20190607T101848Z">
