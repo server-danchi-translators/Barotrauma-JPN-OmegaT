@@ -2198,6 +2198,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The [loser] vessel has been defeated by the [winner] crew!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="spears" changedate="20190607T133657Z" creationid="spears" creationdate="20190607T133657Z">
+        <seg>[client] は、サーバーから追い出されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The fabricator is a device that can take different kinds of materials and turn them into useful items.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T104617Z" creationid="kakonya" creationdate="20190607T104617Z">
