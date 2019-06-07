@@ -144,8 +144,8 @@
       <tuv lang="EN-US">
         <seg>Some items, like the welding tool, require two free hands to use.</seg>
       </tuv>
-      <tuv lang="JA" changeid="kakonya" changedate="20190607T102424Z" creationid="kakonya" creationdate="20190607T102424Z">
-        <seg>溶接ツールのようないくつかのアイテムは、両手が空いてないと使用できません。</seg>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T102437Z" creationid="kakonya" creationdate="20190607T102424Z">
+        <seg>溶接ツールやいくつかのアイテムは、両手が空いてないと使用できません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -162,6 +162,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T102136Z" creationid="kakonya" creationdate="20190607T102136Z">
         <seg>ドラッグまたはダブルクリックでアイテムを移動します。\n\nインベントリの中のアイテムをダブルクリックか、クイックスロットキーを押すことで装備できます。\n\n {1}で閉じる.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unequip or drop an item by double-clicking it while it is in use.\n\nWhen welding tool is equipped, hold {0} to aim.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T102940Z" creationid="kakonya" creationdate="20190607T102940Z">
+        <seg>アイテムをダブルクリックして、装備を解除、またはドロップします。\n\n装備中 に{0} で目的位置に使用します。</seg>
       </tuv>
     </tu>
     <tu>
