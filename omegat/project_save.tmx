@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Attempting UPnP port forwarding.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T112431Z" creationid="kakonya" creationdate="20190607T112431Z">
+        <seg>UPnPのポートフォワーディングをしようとしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Automatic control</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T111404Z" creationid="kakonya" creationdate="20190607T111404Z">
@@ -106,6 +114,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T104156Z" creationid="totochan" creationdate="20190607T104156Z">
         <seg>キャラクターエディタ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click the 'Find more mods' button below to get started!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T112636Z" creationid="kakonya" creationdate="20190607T112636Z">
+        <seg>下のボタンを始めるために「Modsを探す]をクリックしてください！</seg>
       </tuv>
     </tu>
     <tu>
@@ -210,6 +226,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T104910Z" creationid="kakonya" creationdate="20190607T104910Z">
         <seg>デコンストラクタ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dev Sandbox</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T112520Z" creationid="kakonya" creationdate="20190607T112520Z">
+        <seg>デベロッパーサンドボックス</seg>
       </tuv>
     </tu>
     <tu>
@@ -526,6 +550,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mission</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T112524Z" creationid="kakonya" creationdate="20190607T112524Z">
+        <seg>ミッション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Monster</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T105131Z" creationid="kakonya" creationdate="20190607T105131Z">
@@ -626,6 +658,22 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T105152Z" creationid="kakonya" creationdate="20190607T105152Z">
         <seg>人事交通</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Popular Mods</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T112533Z" creationid="kakonya" creationdate="20190607T112533Z">
+        <seg>人気のMods</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Popular mods</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T112703Z" creationid="kakonya" creationdate="20190607T112703Z">
+        <seg>人気のMods</seg>
       </tuv>
     </tu>
     <tu>
@@ -742,6 +790,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sandbox</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T112522Z" creationid="kakonya" creationdate="20190607T112522Z">
+        <seg>サンドボックス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Save and Quit</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T104213Z" creationid="totochan" creationdate="20190607T104213Z">
@@ -794,6 +850,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T104158Z" creationid="totochan" creationdate="20190607T104158Z">
         <seg>設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Single Player</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T112515Z" creationid="kakonya" creationdate="20190607T112515Z">
+        <seg>シングルプレーヤー</seg>
       </tuv>
     </tu>
     <tu>
@@ -958,10 +1022,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tutorial</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T112518Z" creationid="kakonya" creationdate="20190607T112518Z">
+        <seg>チュートリアル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>UPnP can be used for forwarding ports on your router to allow players to join the server.</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T104454Z" creationid="totochan" creationdate="20190607T104454Z">
         <seg>UPnPは、プレイヤーがサーバーへの参加を許可するようにルータに転送ポートのために使用することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>UPnP discovery timed out.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T112511Z" creationid="kakonya" creationdate="20190607T112511Z">
+        <seg>UPnPのディスカバリーがタイムアウトしました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>UPnP not available.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T112509Z" creationid="kakonya" creationdate="20190607T112509Z">
+        <seg>UPnPの利用できません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1034,6 +1122,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T101848Z" creationid="kakonya" creationdate="20190607T101848Z">
         <seg> ({0})中のものを見ることができます.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You haven't subscribed to any mods on the Steam Workshop.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T112614Z" creationid="kakonya" creationdate="20190607T112614Z">
+        <seg>スチームワークショップ上の任意の改造に加入していません。</seg>
       </tuv>
     </tu>
     <tu>
