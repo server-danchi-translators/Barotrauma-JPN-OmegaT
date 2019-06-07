@@ -54,10 +54,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cargo</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T105133Z" creationid="kakonya" creationdate="20190607T105133Z">
+        <seg>貨物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Character Editor</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T104156Z" creationid="totochan" creationdate="20190607T104156Z">
         <seg>キャラクターエディタ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Combat</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T105135Z" creationid="kakonya" creationdate="20190607T105135Z">
+        <seg>戦闘</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Console commands</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T105053Z" creationid="kakonya" creationdate="20190607T105053Z">
+        <seg>コンソールコマンド</seg>
       </tuv>
     </tu>
     <tu>
@@ -254,10 +278,50 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Manage campaign</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T105051Z" creationid="kakonya" creationdate="20190607T105051Z">
+        <seg>キャンペーンを管理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Manage permissions</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T105124Z" creationid="kakonya" creationdate="20190607T105124Z">
+        <seg>権限管理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Manage round</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T105116Z" creationid="kakonya" creationdate="20190607T105116Z">
+        <seg>ラウンドの管理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Manage settings</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T105122Z" creationid="kakonya" creationdate="20190607T105122Z">
+        <seg>設定管理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Max players</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T104443Z" creationid="totochan" creationdate="20190607T104443Z">
         <seg>最大プレイヤー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Monster</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T105131Z" creationid="kakonya" creationdate="20190607T105131Z">
+        <seg>モンスター</seg>
       </tuv>
     </tu>
     <tu>
@@ -294,6 +358,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>None</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T105127Z" creationid="kakonya" creationdate="20190607T105127Z">
+        <seg>無し</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Open the door by pushing the adjacent button</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T055358Z" creationid="kakonya" creationdate="20190607T055358Z">
@@ -306,6 +378,22 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T104444Z" creationid="totochan" creationdate="20190607T104444Z">
         <seg>パスワード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Personnel Transport</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T105152Z" creationid="kakonya" creationdate="20190607T105152Z">
+        <seg>人事交通</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Prospecting</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T110508Z" creationid="kakonya" creationdate="20190607T110508Z">
+        <seg>試掘</seg>
       </tuv>
     </tu>
     <tu>
@@ -330,6 +418,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T104437Z" creationid="totochan" creationdate="20190607T104437Z">
         <seg>クエリポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Random</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T105128Z" creationid="kakonya" creationdate="20190607T105128Z">
+        <seg>ランダム</seg>
       </tuv>
     </tu>
     <tu>
@@ -366,10 +462,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Salvage</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T105130Z" creationid="kakonya" creationdate="20190607T105130Z">
+        <seg>サルベージ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Save and Quit</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T104213Z" creationid="totochan" creationdate="20190607T104213Z">
         <seg>保存して終了</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select mode</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T105047Z" creationid="kakonya" creationdate="20190607T105047Z">
+        <seg>セレクトモード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select sub</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T105046Z" creationid="kakonya" creationdate="20190607T105046Z">
+        <seg>潜水艦を選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Server log</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T105056Z" creationid="kakonya" creationdate="20190607T105056Z">
+        <seg>サーバーのログ</seg>
       </tuv>
     </tu>
     <tu>
@@ -410,6 +538,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T104154Z" creationid="totochan" creationdate="20190607T104154Z">
         <seg>潜水艦エディタ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Swarm</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T105202Z" creationid="kakonya" creationdate="20190607T105202Z">
+        <seg>スウォーム</seg>
       </tuv>
     </tu>
     <tu>
