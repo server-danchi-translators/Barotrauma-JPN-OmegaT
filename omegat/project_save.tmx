@@ -24,8 +24,8 @@
       <tuv lang="EN-US">
         <seg>All your unsaved progress will be lost.</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190607T104422Z" creationid="totochan" creationdate="20190607T104422Z">
-        <seg>すべての未保存の進行状況が失われます。</seg>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T112312Z" creationid="totochan" creationdate="20190607T104422Z">
+        <seg>すべてのセーブしていないの進行状況が失われます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -290,6 +290,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T111654Z" creationid="kakonya" creationdate="20190607T111654Z">
         <seg>原子炉に接続されている機器が現在どれだけの電力を消費しているか。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, UPnP isn't supported by all routers, so you may need to setup port forwards manually if players are unable to join the server (see the readme for instructions).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T112421Z" creationid="kakonya" creationdate="20190607T112421Z">
+        <seg>ただし、UPnPはすべてのルーターでサポートされているわけではないので、プレーヤーがサーバーに参加できない場合は手動でポート転送を設定する必要があるかもしれません（手順についてはreadmeを参照してください）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -688,8 +696,8 @@
       <tuv lang="EN-US">
         <seg>Resume</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190607T104208Z" creationid="totochan" creationdate="20190607T104208Z">
-        <seg>継続</seg>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T112134Z" creationid="totochan" creationdate="20190607T104208Z">
+        <seg>続ける</seg>
       </tuv>
     </tu>
     <tu>
@@ -802,6 +810,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T102437Z" creationid="kakonya" creationdate="20190607T102424Z">
         <seg>溶接ツールやいくつかのアイテムは、両手が空いてないと使用できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Steam Workshop</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T112122Z" creationid="kakonya" creationdate="20190607T112122Z">
+        <seg>スチームワークショップ</seg>
       </tuv>
     </tu>
     <tu>
