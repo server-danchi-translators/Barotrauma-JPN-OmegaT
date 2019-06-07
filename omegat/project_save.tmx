@@ -278,6 +278,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Barotrauma</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T231946Z" creationid="kakonya" creationdate="20190607T231946Z">
+        <seg>バロトラウマ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bled to death.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T231845Z" creationid="kakonya" creationdate="20190607T122257Z">
@@ -2800,8 +2808,8 @@
       <tuv lang="EN-US">
         <seg>Stun</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190607T140704Z" creationid="totochan" creationdate="20190607T140704Z">
-        <seg>気絶Stun</seg>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T231917Z" creationid="totochan" creationdate="20190607T140704Z">
+        <seg>気絶</seg>
       </tuv>
     </tu>
     <tu>
@@ -2974,6 +2982,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The patient is dazed and unresponsive.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T231935Z" creationid="kakonya" creationdate="20190607T231935Z">
+        <seg>意識がなく反応がありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The patient is in a great deal of pain.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T231335Z" creationid="kakonya" creationdate="20190607T231335Z">
@@ -3034,6 +3050,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T231829Z" creationid="kakonya" creationdate="20190607T231829Z">
         <seg>心拍が上がっています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There is obvious massive organ damage and the blood vessels of the eye have burst, creating an unnerving red gaze.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T232228Z" creationid="kakonya" creationdate="20190607T232228Z">
+        <seg>かなりの重体で、臓器損傷と眼底出血しています。</seg>
       </tuv>
     </tu>
     <tu>
