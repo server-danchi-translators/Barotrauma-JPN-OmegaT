@@ -6,10 +6,42 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>A door, but on the horizontal axis.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T114616Z" creationid="kakonya" creationdate="20190607T114616Z">
+        <seg>上下を仕切るハッチドア.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A sliding door with a window and two integrated buttons.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T114639Z" creationid="kakonya" creationdate="20190607T114639Z">
+        <seg>窓付きスライドドア（２個の内臓ボタンで制御）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A sliding door with a window.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T114521Z" creationid="kakonya" creationdate="20190607T114521Z">
+        <seg>窓付きスライドドア。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A sliding door with no integrated buttons—has to be wired manually.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T114455Z" creationid="kakonya" creationdate="20190607T114455Z">
         <seg>内蔵ボタンのないスライドドア - 手動で配線する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A sliding door with two integrated buttons.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T114633Z" creationid="kakonya" creationdate="20190607T114633Z">
+        <seg>2個の内蔵ボタンを備えたスライドドア。</seg>
       </tuv>
     </tu>
     <tu>
@@ -494,6 +526,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Custom Hatch</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T114549Z" creationid="kakonya" creationdate="20190607T114549Z">
+        <seg>カスタムハッチ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Custom Windowed Door</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T114514Z" creationid="kakonya" creationdate="20190607T114514Z">
@@ -618,6 +658,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113206Z" creationid="kakonya" creationdate="20190607T113206Z">
         <seg>取り替えたいですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Door with Buttons</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T114623Z" creationid="kakonya" creationdate="20190607T114623Z">
+        <seg>ドア（ボタン制御）</seg>
       </tuv>
     </tu>
     <tu>
@@ -866,6 +914,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113548Z" creationid="kakonya" creationdate="20190607T113548Z">
         <seg>HUDスケール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hatch with Buttons</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T114709Z" creationid="kakonya" creationdate="20190607T114709Z">
+        <seg>ハッチ（ボタン制御）</seg>
       </tuv>
     </tu>
     <tu>
@@ -1362,6 +1418,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T114120Z" creationid="kakonya" creationdate="20190607T114120Z">
         <seg>次のキャラクター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No integrated buttons—has to be wired manually.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T114546Z" creationid="kakonya" creationdate="20190607T114546Z">
+        <seg>内蔵ボタンはありません - 手動で配線する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2222,6 +2286,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Two integrated buttons.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T114812Z" creationid="kakonya" creationdate="20190607T114812Z">
+        <seg>２個の内臓ボタンで制御</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>UPnP can be used for forwarding ports on your router to allow players to join the server.</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T104454Z" creationid="totochan" creationdate="20190607T104454Z">
@@ -2442,6 +2514,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113527Z" creationid="kakonya" creationdate="20190607T113527Z">
         <seg>ウィンドウ表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Windowed Door with Buttons</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T114635Z" creationid="kakonya" creationdate="20190607T114635Z">
+        <seg>窓付きドア（ボタン制御）</seg>
       </tuv>
     </tu>
     <tu>
