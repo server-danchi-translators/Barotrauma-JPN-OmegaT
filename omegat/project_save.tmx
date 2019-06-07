@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -378,6 +378,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T104156Z" creationid="totochan" creationdate="20190607T104156Z">
         <seg>キャラクターエディタ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Charging [itemname] at [rate] %!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="spears" changedate="20190607T135532Z" creationid="spears" creationdate="20190607T135532Z">
+        <seg>[itemname] に [rate] %充電</seg>
       </tuv>
     </tu>
     <tu>
@@ -3594,6 +3602,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113009Z" creationid="kakonya" creationdate="20190607T113009Z">
         <seg>スチームワークショップにファイルをアップロードします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[itemname] now charging at [rate] %!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="spears" changedate="20190607T135538Z" creationid="spears" creationdate="20190607T135538Z">
+        <seg>[itemname] の充電は現在 [rate] %!</seg>
       </tuv>
     </tu>
     <tu>
