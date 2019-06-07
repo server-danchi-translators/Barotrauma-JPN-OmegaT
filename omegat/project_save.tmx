@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -18,6 +18,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T055944Z" creationid="kakonya" creationdate="20190607T055944Z">
         <seg>コンテナ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Customize</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T101325Z" creationid="totochan" creationdate="20190607T101325Z">
+        <seg>カスタマイズ</seg>
       </tuv>
     </tu>
     <tu>
@@ -90,6 +98,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T055623Z" creationid="kakonya" creationdate="20190607T055623Z">
         <seg> {0}, {1}, {2}, {3} で移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Multiplayer</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190607T101321Z" creationid="totochan" creationdate="20190607T101321Z">
+        <seg>マルチプレイ</seg>
       </tuv>
     </tu>
     <tu>
