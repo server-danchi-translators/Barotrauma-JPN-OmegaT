@@ -14,6 +14,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Affects how close the cursor has to be to an item to highlight it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113840Z" creationid="kakonya" creationdate="20190607T113840Z">
+        <seg>カーソルがそれを強調するアイテムにしなければならどれだけ近いかに影響します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Aim assist</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113856Z" creationid="kakonya" creationdate="20190607T113839Z">
+        <seg>エイムアシスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Air quality</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T111309Z" creationid="kakonya" creationdate="20190607T111309Z">
@@ -106,6 +122,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112431Z" creationid="kakonya" creationdate="20190607T112431Z">
         <seg>UPnPのポートフォワーディングをしようとしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Audio</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113618Z" creationid="kakonya" creationdate="20190607T113618Z">
+        <seg>オーディオ</seg>
       </tuv>
     </tu>
     <tu>
@@ -302,6 +326,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Controls</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113839Z" creationid="kakonya" creationdate="20190607T113839Z">
+        <seg>コントロール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Core package</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112900Z" creationid="kakonya" creationdate="20190607T112900Z">
@@ -390,6 +422,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Current device</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113704Z" creationid="kakonya" creationdate="20190607T113704Z">
+        <seg>現在のデバイス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Customize</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T101325Z" creationid="totochan" creationdate="20190607T101325Z">
@@ -454,6 +494,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Directional voice chat</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113829Z" creationid="kakonya" creationdate="20190607T113829Z">
+        <seg>方向性ボイスチャット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Disabled</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113729Z" creationid="kakonya" creationdate="20190607T113729Z">
+        <seg>使用禁止</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Discard</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113227Z" creationid="kakonya" creationdate="20190607T113227Z">
@@ -498,6 +554,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112821Z" creationid="kakonya" creationdate="20190607T112821Z">
         <seg>有効</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable mouse look</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113903Z" creationid="kakonya" creationdate="20190607T113903Z">
+        <seg>マウスルックを有効にします</seg>
       </tuv>
     </tu>
     <tu>
@@ -758,6 +822,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If set to 0%, the cursor has to be exactly on the item.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113859Z" creationid="kakonya" creationdate="20190607T113859Z">
+        <seg>0％に設定すると、カーソルがアイテム上に正確である必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the output is too high relative to the fission rate, the reactor will cool down, and if too low, it will overheat.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T111556Z" creationid="kakonya" creationdate="20190607T111556Z">
@@ -770,6 +842,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T110716Z" creationid="kakonya" creationdate="20190607T104819Z">
         <seg>製作に材料が足らないならディコンストラクタで、アイテムを分解することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you swap/hotplug the default input on your system then press this to detect that change.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113728Z" creationid="kakonya" creationdate="20190607T113728Z">
+        <seg>ご使用のシステムに/ホットプラグデフォルトの入力を入れ替える場合は、その変化を検出するために、これを押してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -800,8 +880,8 @@
       <tuv lang="EN-US">
         <seg>Inventory scale</seg>
       </tuv>
-      <tuv lang="JA" changeid="kakonya" changedate="20190607T113549Z" creationid="kakonya" creationdate="20190607T113549Z">
-        <seg>在庫スケール</seg>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113612Z" creationid="kakonya" creationdate="20190607T113549Z">
+        <seg>インベントリスケール</seg>
       </tuv>
     </tu>
     <tu>
@@ -998,6 +1078,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Microphone volume</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113631Z" creationid="kakonya" creationdate="20190607T113631Z">
+        <seg>マイク音量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Missing content file types: [missingfiletypes]</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113439Z" creationid="kakonya" creationdate="20190607T113439Z">
@@ -1050,6 +1138,30 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T101321Z" creationid="totochan" creationdate="20190607T101321Z">
         <seg>マルチプレイ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Music volume</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113620Z" creationid="kakonya" creationdate="20190607T113620Z">
+        <seg>音楽の音量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mute on focus lost</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113652Z" creationid="kakonya" creationdate="20190607T113652Z">
+        <seg>バックグラウンド時ミュート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mutes the game when its window is not in focus.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113701Z" creationid="kakonya" creationdate="20190607T113701Z">
+        <seg>ウィンドウにフォーカスがないときにゲームをミュートします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1302,6 +1414,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Push-to-talk</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113730Z" creationid="kakonya" creationdate="20190607T113730Z">
+        <seg>プッシュ・ツー・トーク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Query port</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T104437Z" creationid="totochan" creationdate="20190607T104437Z">
@@ -1322,6 +1442,22 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112950Z" creationid="kakonya" creationdate="20190607T112950Z">
         <seg>リフレッシュ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Refresh default device</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113726Z" creationid="kakonya" creationdate="20190607T113726Z">
+        <seg>デフォルトのデバイスを更新</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Refreshes the input device used for voice chat.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113727Z" creationid="kakonya" creationdate="20190607T113727Z">
+        <seg>ボイスチャット用に使用される入力デバイスを更新します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1526,6 +1662,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sound volume</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113620Z" creationid="kakonya" creationdate="20190607T113620Z">
+        <seg>音量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Specular lighting</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113542Z" creationid="kakonya" creationdate="20190607T113542Z">
@@ -1702,6 +1846,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This device will be used for voice chat.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113704Z" creationid="kakonya" creationdate="20190607T113704Z">
+        <seg>このデバイスは、ボイスチャット用に使用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This may be desirable if you want the mod to use Vanilla files that the players already have—otherwise you should copy the file to the Workshop item folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113002Z" creationid="kakonya" creationdate="20190607T113002Z">
@@ -1822,6 +1974,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unfortunately there is no way to change the input device on Mac OS X—it will only use your system's default.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113723Z" creationid="kakonya" creationdate="20190607T113723Z">
+        <seg>残念ながら、Mac OS Xでは、システムのデフォルトを使用する上での入力デバイスを変更する方法はありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unsubscribe</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112759Z" creationid="kakonya" creationdate="20190607T112759Z">
@@ -1862,6 +2022,54 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Voice activity</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113739Z" creationid="kakonya" creationdate="20190607T113739Z">
+        <seg>音声アクティビティ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Voice activity is sent only when a certain key is held down.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113737Z" creationid="kakonya" creationdate="20190607T113737Z">
+        <seg>音声アクティビティは、特定のキーを押しているときにのみ送信されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Voice activity is sent whenever the sound coming through surpasses the noise gate threshold.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113815Z" creationid="kakonya" creationdate="20190607T113815Z">
+        <seg>音声がノイズゲートの閾値を超えると、音声アクティビティが送信されます。。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Voice chat</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113703Z" creationid="kakonya" creationdate="20190607T113703Z">
+        <seg>ボイスチャット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Voice chat is disabled.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113730Z" creationid="kakonya" creationdate="20190607T113730Z">
+        <seg>ボイスチャットが無効</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Voice chat volume</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113648Z" creationid="kakonya" creationdate="20190607T113623Z">
+        <seg>ボイスチャット音量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Water level</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T111258Z" creationid="kakonya" creationdate="20190607T111258Z">
@@ -1890,6 +2098,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T111728Z" creationid="kakonya" creationdate="20190607T111728Z">
         <seg>自動制御がオンのとき、反応器は、自動的に消費電力に応じて自身を調整します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When enabled, voice chat messages are panned according to the direction of the speaker relative to your position.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T113834Z" creationid="kakonya" creationdate="20190607T113834Z">
+        <seg>有効にすると、ボイスチャットメッセージは、位置にスピーカーの相対的な向きに応じてパンされています。</seg>
       </tuv>
     </tu>
     <tu>
