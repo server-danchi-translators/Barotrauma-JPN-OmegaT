@@ -766,6 +766,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enemy down!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="spears" changedate="20190607T134108Z" creationid="spears" creationdate="20190607T134108Z">
+        <seg>敵を倒したぞ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Engine</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T114849Z" creationid="kakonya" creationdate="20190607T114849Z">
