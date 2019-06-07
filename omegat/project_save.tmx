@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>A sliding door with no integrated buttons—has to be wired manually.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T114455Z" creationid="kakonya" creationdate="20190607T114455Z">
+        <seg>内蔵ボタンのないスライドドア - 手動で配線する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add files...</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112952Z" creationid="kakonya" creationdate="20190607T112952Z">
@@ -54,10 +62,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alien</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T114410Z" creationid="kakonya" creationdate="20190607T114410Z">
+        <seg>エイリアン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All your unsaved progress will be lost.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112312Z" creationid="totochan" creationdate="20190607T104422Z">
         <seg>すべてのセーブしていないの進行状況が失われます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Allow respawning</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T114206Z" creationid="kakonya" creationdate="20190607T114206Z">
+        <seg>再生成を許可</seg>
       </tuv>
     </tu>
     <tu>
@@ -462,6 +486,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Custom Door</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T114424Z" creationid="kakonya" creationdate="20190607T114424Z">
+        <seg>カスタムドア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Custom Windowed Door</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T114514Z" creationid="kakonya" creationdate="20190607T114514Z">
+        <seg>カスタムウィンドウドア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Customize</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T101325Z" creationid="totochan" creationdate="20190607T101325Z">
@@ -590,6 +630,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Electrical</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T114406Z" creationid="kakonya" creationdate="20190607T114406Z">
+        <seg>電気</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enable</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112821Z" creationid="kakonya" creationdate="20190607T112821Z">
@@ -666,6 +714,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113046Z" creationid="kakonya" creationdate="20190607T113046Z">
         <seg>環境</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Equipment</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T114403Z" creationid="kakonya" creationdate="20190607T114353Z">
+        <seg>装備</seg>
       </tuv>
     </tu>
     <tu>
@@ -982,6 +1038,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ItemAssembly</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T114412Z" creationid="kakonya" creationdate="20190607T114412Z">
+        <seg>アイテム組み立て</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Items are stored in containers of different sizes.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T101734Z" creationid="kakonya" creationdate="20190607T101734Z">
@@ -1034,6 +1098,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T102142Z" creationid="kakonya" creationdate="20190607T102142Z">
         <seg>水漏れ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Legacy</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T114416Z" creationid="kakonya" creationdate="20190607T114416Z">
+        <seg>レガシー</seg>
       </tuv>
     </tu>
     <tu>
@@ -1094,6 +1166,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Machine</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T114352Z" creationid="kakonya" creationdate="20190607T114352Z">
+        <seg>機械</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Main Menu</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T104216Z" creationid="totochan" creationdate="20190607T104216Z">
@@ -1150,6 +1230,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Material</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T114408Z" creationid="kakonya" creationdate="20190607T114408Z">
+        <seg>素材</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Max players</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T104443Z" creationid="totochan" creationdate="20190607T104443Z">
@@ -1170,6 +1258,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113631Z" creationid="kakonya" creationdate="20190607T113631Z">
         <seg>マイク音量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Misc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T114409Z" creationid="kakonya" creationdate="20190607T114409Z">
+        <seg>その他</seg>
       </tuv>
     </tu>
     <tu>
@@ -1338,6 +1434,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T111517Z" creationid="kakonya" creationdate="20190607T111517Z">
         <seg>オーバーヒート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Oxygen Tank (empty)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T114419Z" creationid="kakonya" creationdate="20190607T114419Z">
+        <seg>酸素ボンベ（空）</seg>
       </tuv>
     </tu>
     <tu>
@@ -1846,6 +1950,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Structure</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T114350Z" creationid="kakonya" creationdate="20190607T114350Z">
+        <seg>構造</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Submarine</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113040Z" creationid="kakonya" creationdate="20190607T113040Z">
@@ -2238,6 +2350,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Votes required:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T114205Z" creationid="kakonya" creationdate="20190607T114205Z">
+        <seg>必要な投票：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Water level</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T111258Z" creationid="kakonya" creationdate="20190607T111258Z">
@@ -2258,6 +2378,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T103054Z" creationid="kakonya" creationdate="20190607T103054Z">
         <seg>ウォーターポンプ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Welding Fuel Tank (empty)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T114421Z" creationid="kakonya" creationdate="20190607T114421Z">
+        <seg>溶接燃料タンク（空）</seg>
       </tuv>
     </tu>
     <tu>
