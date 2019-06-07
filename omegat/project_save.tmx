@@ -2750,6 +2750,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Something dark and unpleasant moves in the mouth.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T233423Z" creationid="kakonya" creationdate="20190607T233423Z">
+        <seg>暗くて不快なものが口の中でうごめいています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sonar Monitor</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T114834Z" creationid="kakonya" creationdate="20190607T114834Z">
