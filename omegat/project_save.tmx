@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A machine capable of manufacturing a wide range of items out of basic raw materials.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T115012Z" creationid="kakonya" creationdate="20190607T115012Z">
+        <seg>基本原料から様々なアイテムをを製造できる機械。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A sliding door with a window and two integrated buttons.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T114639Z" creationid="kakonya" creationdate="20190607T114639Z">
@@ -750,6 +758,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Engine</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T114849Z" creationid="kakonya" creationdate="20190607T114849Z">
+        <seg>エンジン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>English</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113209Z" creationid="kakonya" creationdate="20190607T113209Z">
@@ -770,6 +786,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T114403Z" creationid="kakonya" creationdate="20190607T114353Z">
         <seg>装備</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fabricator</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T114934Z" creationid="kakonya" creationdate="20190607T114934Z">
+        <seg>ファブリケーター</seg>
       </tuv>
     </tu>
     <tu>
@@ -1150,6 +1174,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Large Engine</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T114856Z" creationid="kakonya" creationdate="20190607T114856Z">
+        <seg>大型エンジン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Leaks</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T102142Z" creationid="kakonya" creationdate="20190607T102142Z">
@@ -1302,6 +1334,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Medical Fabricator</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T115029Z" creationid="kakonya" creationdate="20190607T115029Z">
+        <seg>医療用ファブリケーター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Meltdown</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T111522Z" creationid="kakonya" creationdate="20190607T111522Z">
@@ -1406,6 +1446,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Navigation Terminal</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T114817Z" creationid="kakonya" creationdate="20190607T114817Z">
+        <seg>ナビゲーションターミナル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>New Game</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T104147Z" creationid="totochan" creationdate="20190607T104147Z">
@@ -1426,6 +1474,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T114546Z" creationid="kakonya" creationdate="20190607T114546Z">
         <seg>内蔵ボタンはありません - 手動で配線する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Non-interactive.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T114839Z" creationid="kakonya" creationdate="20190607T114839Z">
+        <seg>非対話型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1966,6 +2022,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shuttle Engine</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T114859Z" creationid="kakonya" creationdate="20190607T114859Z">
+        <seg>シャトルエンジン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shuttle Navigation Terminal</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T114826Z" creationid="kakonya" creationdate="20190607T114826Z">
+        <seg>シャトルナビゲーションターミナル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Single Player</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112515Z" creationid="kakonya" creationdate="20190607T112515Z">
@@ -1990,6 +2062,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sonar Monitor</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T114834Z" creationid="kakonya" creationdate="20190607T114834Z">
+        <seg>ソナーモニター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sonar Transducer</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T114844Z" creationid="kakonya" creationdate="20190607T114844Z">
+        <seg>ソナートランスデューサ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sonar generator, allowing the sonar monitors and navigation terminals to receive a sonar signal other than the default one (useful for drones and remote-controlled shuttles).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T114847Z" creationid="kakonya" creationdate="20190607T114847Z">
+        <seg>ソナー監視ナビゲーション端末（ドローンと遠隔制御シャトルに有用）デフォルト以外のソナー信号を受信することを可能にするソナー発生器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sound volume</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113620Z" creationid="kakonya" creationdate="20190607T113620Z">
@@ -2002,6 +2098,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113542Z" creationid="kakonya" creationdate="20190607T113542Z">
         <seg>鏡面反射照明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Status Monitor</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T114840Z" creationid="kakonya" creationdate="20190607T114840Z">
+        <seg>ステータスモニタ</seg>
       </tuv>
     </tu>
     <tu>
@@ -2362,6 +2466,46 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113000Z" creationid="kakonya" creationdate="20190607T113000Z">
         <seg>スチームワークショップにファイルをアップロードします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Usable device for generating motion on the X axis.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T114852Z" creationid="kakonya" creationdate="20190607T114852Z">
+        <seg>X軸上の動きを生成するために使用可能なデバイス。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Usable device for observing the sub's sonar.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T114835Z" creationid="kakonya" creationdate="20190607T114835Z">
+        <seg>潜水艦のソナーを観察するために使用可能なデバイス。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Usable device for setting the course of the shuttle.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T114832Z" creationid="kakonya" creationdate="20190607T114832Z">
+        <seg>シャトルのコースを設定するために使用可能なデバイス。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Usable device for setting the course of the sub.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T114823Z" creationid="kakonya" creationdate="20190607T114823Z">
+        <seg>潜水艦のコースを設定するために使用可能なデバイス。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Usable device for viewing a schematic of the sub as well as the status of each room.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T114842Z" creationid="kakonya" creationdate="20190607T114842Z">
+        <seg>潜水艦の概略ならびに各部屋の状態を表示するために使用可能なデバイス。</seg>
       </tuv>
     </tu>
     <tu>
