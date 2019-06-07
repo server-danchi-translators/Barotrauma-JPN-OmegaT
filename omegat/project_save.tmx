@@ -190,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When the sub is flooded, use pumps to drain excess water.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T103541Z" creationid="kakonya" creationdate="20190607T103541Z">
+        <seg>潜水艦</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>While aiming, hold {1} to weld.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T103045Z" creationid="kakonya" creationdate="20190607T103045Z">
