@@ -574,6 +574,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Crafting, part 2</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T234724Z" creationid="kakonya" creationdate="20190607T234724Z">
+        <seg>クラフティング part 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Crawler</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T141308Z" creationid="totochan" creationdate="20190607T141308Z">
@@ -736,8 +744,8 @@
       <tuv lang="EN-US">
         <seg>Deconstruct an extra oxygen tank</seg>
       </tuv>
-      <tuv lang="JA" changeid="kakonya" changedate="20190607T104357Z" creationid="kakonya" creationdate="20190607T104357Z">
-        <seg>余分な酸素ボンベを分解</seg>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T234612Z" creationid="kakonya" creationdate="20190607T104357Z">
+        <seg>余分な酸素ボンベを解体</seg>
       </tuv>
     </tu>
     <tu>
@@ -1054,6 +1062,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fabricate a fire extinguisher</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T234734Z" creationid="kakonya" creationdate="20190607T234734Z">
+        <seg>消火器を製作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fabricator</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T114934Z" creationid="kakonya" creationdate="20190607T114934Z">
@@ -1106,6 +1122,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112925Z" creationid="kakonya" creationdate="20190607T112925Z">
         <seg>アイテムに含まれるファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find it in the list, load the fabricator with materials and press the button to start fabricating.\n\nWhen done, the fabricated item can be found in the fabricator’s output slot.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T234944Z" creationid="kakonya" creationdate="20190607T234944Z">
+        <seg>リストから選択し、ファブリケーターに資材をセットして、製作を開始します。\n\n製作品はファブリケーターの出力スロットに表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2018,6 +2042,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113517Z" creationid="kakonya" creationdate="20190607T113517Z">
         <seg>マルチセッションがアクティブなときにゲームが一時停止されないことに注意してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Now that we have all of the required materials, we can fabricate a fire extinguisher.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T234822Z" creationid="kakonya" creationdate="20190607T234822Z">
+        <seg>必要な材料がすべて揃ったので、消火器を製造できます。.</seg>
       </tuv>
     </tu>
     <tu>
