@@ -174,6 +174,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>While aiming, hold {1} to weld.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T103045Z" creationid="kakonya" creationdate="20190607T103045Z">
+        <seg> {1}を長押しすると溶接します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can see what’s inside one by interacting with it ({0}).</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T101848Z" creationid="kakonya" creationdate="20190607T101848Z">
