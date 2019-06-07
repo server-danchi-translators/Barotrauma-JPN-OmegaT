@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -42,6 +42,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T054352Z" creationid="kakonya" creationdate="20190607T054352Z">
         <seg>潜水艦の原子炉の過熱しすぎは、火災の原因になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Most submarines are equipped with stationary batteries that can be used as a temporary source of backup power in the case of a reactor failure.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190607T060003Z" creationid="hiru4" creationdate="20190607T060003Z">
+        <seg>.</seg>
       </tuv>
     </tu>
     <tu>
