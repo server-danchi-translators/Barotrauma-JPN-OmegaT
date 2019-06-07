@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>Add files...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T112952Z" creationid="kakonya" creationdate="20190607T112952Z">
+        <seg>追加ファイル...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Air quality</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T111309Z" creationid="kakonya" creationdate="20190607T111309Z">
@@ -86,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Browse...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T112858Z" creationid="kakonya" creationdate="20190607T112858Z">
+        <seg>ブラウズ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Campaign</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190607T055003Z" creationid="hiru4" creationdate="20190607T055003Z">
@@ -106,6 +122,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T105133Z" creationid="kakonya" creationdate="20190607T105133Z">
         <seg>貨物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Change note</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T112940Z" creationid="kakonya" creationdate="20190607T112940Z">
+        <seg>変更ノート</seg>
       </tuv>
     </tu>
     <tu>
@@ -158,10 +182,50 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Content packages</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T112820Z" creationid="kakonya" creationdate="20190607T112820Z">
+        <seg>コンテンツパッケージ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Core package</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T112900Z" creationid="kakonya" creationdate="20190607T112900Z">
+        <seg>コアパッケージ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Core packages are special content packages that contain all the core files (executables, configuration files) the game won't run without.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T112920Z" creationid="kakonya" creationdate="20190607T112920Z">
+        <seg>コアパッケージは、ゲームをせずに実行されませんすべてのコアファイル（実行可能ファイル、設定ファイル）を含有する特殊なコンテンツ・パッケージです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Crafting, part 1</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T104338Z" creationid="kakonya" creationdate="20190607T104338Z">
         <seg>クラフティング、パート1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create a new item</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T112814Z" creationid="kakonya" creationdate="20190607T112814Z">
+        <seg>新しいアイテムを作成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creator</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T112834Z" creationid="kakonya" creationdate="20190607T112834Z">
+        <seg>クリエイター</seg>
       </tuv>
     </tu>
     <tu>
@@ -230,6 +294,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Description</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T112841Z" creationid="kakonya" creationdate="20190607T112841Z">
+        <seg>説明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dev Sandbox</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112520Z" creationid="kakonya" creationdate="20190607T112520Z">
@@ -242,6 +314,38 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T054849Z" creationid="kakonya" creationdate="20190607T054849Z">
         <seg>ドア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T112821Z" creationid="kakonya" creationdate="20190607T112821Z">
+        <seg>有効</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File size</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T112839Z" creationid="kakonya" creationdate="20190607T112839Z">
+        <seg>ファイルサイズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Files included in the item</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T112925Z" creationid="kakonya" creationdate="20190607T112925Z">
+        <seg>アイテムに含まれるファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find more mods...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T112723Z" creationid="kakonya" creationdate="20190607T112723Z">
+        <seg>Modsを探す...</seg>
       </tuv>
     </tu>
     <tu>
@@ -558,6 +662,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mods that only add things to the Vanilla game (or another core package) should not be marked as core packages.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T112925Z" creationid="kakonya" creationdate="20190607T112925Z">
+        <seg>唯一のバニラゲーム（または他のコアパッケージ）に物事を追加する改造は、コアパッケージとしてマークするべきではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Monster</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T105131Z" creationid="kakonya" creationdate="20190607T105131Z">
@@ -602,6 +714,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T105127Z" creationid="kakonya" creationdate="20190607T105127Z">
         <seg>無し</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Only select this if you wish to create a mod that replaces all the Vanilla files.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T112924Z" creationid="kakonya" creationdate="20190607T112924Z">
+        <seg>すべてのバニラのファイルを置き換えMODを作成したい場合にのみ、これを選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -686,6 +806,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Preview Image</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T112856Z" creationid="kakonya" creationdate="20190607T112856Z">
+        <seg>プレビュー画像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Prospecting</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T110508Z" creationid="kakonya" creationdate="20190607T110508Z">
@@ -710,6 +838,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Publish item</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T112953Z" creationid="kakonya" creationdate="20190607T112953Z">
+        <seg>アイテムを公開</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Published</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T112836Z" creationid="kakonya" creationdate="20190607T112836Z">
+        <seg>公開</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Published items</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T112801Z" creationid="kakonya" creationdate="20190607T112801Z">
+        <seg>公開されたアイテム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pumping speed</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T111348Z" creationid="kakonya" creationdate="20190607T111348Z">
@@ -730,6 +882,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T105128Z" creationid="kakonya" creationdate="20190607T105128Z">
         <seg>ランダム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Refresh</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T112950Z" creationid="kakonya" creationdate="20190607T112950Z">
+        <seg>リフレッシュ</seg>
       </tuv>
     </tu>
     <tu>
@@ -806,6 +966,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Score</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T112829Z" creationid="kakonya" creationdate="20190607T112829Z">
+        <seg>スコア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select mode</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T105047Z" creationid="kakonya" creationdate="20190607T105047Z">
@@ -854,6 +1022,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Show folder</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T112926Z" creationid="kakonya" creationdate="20190607T112926Z">
+        <seg>表示するフォルダ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show in Steam</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T112827Z" creationid="kakonya" creationdate="20190607T112827Z">
+        <seg>スチームに表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Single Player</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112515Z" creationid="kakonya" creationdate="20190607T112515Z">
@@ -894,10 +1078,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Submarines</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T112817Z" creationid="kakonya" creationdate="20190607T112817Z">
+        <seg>潜水艦</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Swarm</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T105202Z" creationid="kakonya" creationdate="20190607T105202Z">
         <seg>スウォーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tags</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T112846Z" creationid="kakonya" creationdate="20190607T112846Z">
+        <seg>タグ</seg>
       </tuv>
     </tu>
     <tu>
@@ -966,10 +1166,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There must always be one (and only one) core package selected.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T112922Z" creationid="kakonya" creationdate="20190607T112922Z">
+        <seg>常に1つだけ選択されたコアパッケージが存在する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This pump is programmed to only pump water out.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T103938Z" creationid="kakonya" creationdate="20190607T103938Z">
         <seg>ポンプは水を排水するだけのプログラムがされています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Title</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T112840Z" creationid="kakonya" creationdate="20190607T112840Z">
+        <seg>タイトル</seg>
       </tuv>
     </tu>
     <tu>
@@ -1062,6 +1278,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unsubscribe</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T112759Z" creationid="kakonya" creationdate="20190607T112759Z">
+        <seg>登録解除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Updated</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T112837Z" creationid="kakonya" creationdate="20190607T112837Z">
+        <seg>更新</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Usually pumps receive signals from nearby water detectors or navigation terminals, but some can be operated manually.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T103732Z" creationid="kakonya" creationdate="20190607T103732Z">
@@ -1118,6 +1350,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can either select an existing submarine or a content package from the 'Your items' menu at the left, or create an entirely new item by clicking the 'Create a new item' button.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T112854Z" creationid="kakonya" creationdate="20190607T112854Z">
+        <seg>左側に「アイテム」メニューから既存の潜水艦やコンテンツパッケージを選択するか、「新しいアイテムを作成」ボタンをクリックすることにより、全く新しいアイテムを作成することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can see what’s inside one by interacting with it ({0}).</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T101848Z" creationid="kakonya" creationdate="20190607T101848Z">
@@ -1126,10 +1366,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can use the change note to explain what's new in the update.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T112943Z" creationid="kakonya" creationdate="20190607T112943Z">
+        <seg>アップデートの新機能を説明するために、変更のノートを使用することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can use this tab to publish new items in the Steam Workshop.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T112850Z" creationid="kakonya" creationdate="20190607T112850Z">
+        <seg>スチームワークショップに新しいアイテムを公開するには、このタブを使用することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You haven't subscribed to any mods on the Steam Workshop.</seg>
       </tuv>
-      <tuv lang="JA" changeid="kakonya" changedate="20190607T112614Z" creationid="kakonya" creationdate="20190607T112614Z">
-        <seg>スチームワークショップ上の任意の改造に加入していません。</seg>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T112745Z" creationid="kakonya" creationdate="20190607T112614Z">
+        <seg>スチームワークショップ上のModsに登録していません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1138,6 +1394,30 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T052451Z" creationid="kakonya" creationdate="20190607T052451Z">
         <seg>貨物を紛失したり、破損した場合は配達報酬はありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You're publishing an update for an existing Workshop item.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T112942Z" creationid="kakonya" creationdate="20190607T112942Z">
+        <seg>既存のワークショップアイテムのアップデートを公開しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your items</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T112809Z" creationid="kakonya" creationdate="20190607T112809Z">
+        <seg>あなたのアイテム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[votecount] votes</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T112833Z" creationid="kakonya" creationdate="20190607T112833Z">
+        <seg>投票数[votecount]</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
