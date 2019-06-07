@@ -670,6 +670,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Crushed by water pressure.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T232308Z" creationid="kakonya" creationdate="20190607T232308Z">
+        <seg>水圧により圧迫死しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Current device</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113704Z" creationid="kakonya" creationdate="20190607T113704Z">
@@ -3602,6 +3610,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113058Z" creationid="kakonya" creationdate="20190607T113058Z">
         <seg>それはゲームが動作するために必要なコアパッケージであるため、コンテンツパッケージの選択を解除することはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You have been crushed by water pressure.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T232516Z" creationid="kakonya" creationdate="20190607T232516Z">
+        <seg>水圧により、押しつぶされてしまいました。</seg>
       </tuv>
     </tu>
     <tu>
