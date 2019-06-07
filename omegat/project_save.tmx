@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_11_r10546" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -298,6 +298,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112858Z" creationid="kakonya" creationdate="20190607T112858Z">
         <seg>ブラウズ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Burn</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T231009Z" creationid="kakonya" creationdate="20190607T231009Z">
+        <seg>やけど</seg>
       </tuv>
     </tu>
     <tu>
@@ -2878,6 +2886,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The area is blistered and red, and skin is already beginning to peel away in sheets.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T231055Z" creationid="kakonya" creationdate="20190607T231055Z">
+        <seg>この部分は水ぶくれして赤くなっており、皮膚がペロっと剥がれ始めています.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The fabricator is a device that can take different kinds of materials and turn them into useful items.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T104617Z" creationid="kakonya" creationdate="20190607T104617Z">
@@ -2930,6 +2946,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113423Z" creationid="kakonya" creationdate="20190607T113423Z">
         <seg>パッケージはバージョン[packageversion]用に作られました。 あなたのゲームのバージョンは[gameversion]です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The patient is in a great deal of pain.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190607T231335Z" creationid="kakonya" creationdate="20190607T231335Z">
+        <seg>患者は痛みを訴えています。</seg>
       </tuv>
     </tu>
     <tu>
