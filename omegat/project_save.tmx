@@ -1684,8 +1684,8 @@
       <tuv lang="EN-US">
         <seg>Duration of respawn transport:</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190608T063234Z" creationid="urakata" creationdate="20190608T062430Z">
-        <seg>人員補充船の航行可能時間:</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190608T063332Z" creationid="urakata" creationdate="20190608T062430Z">
+        <seg>人員補充船の活動可能時間:</seg>
       </tuv>
     </tu>
     <tu>
