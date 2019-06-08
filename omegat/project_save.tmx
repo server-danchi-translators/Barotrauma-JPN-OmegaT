@@ -1970,6 +1970,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enter [locationname]</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T125222Z" creationid="nick2" creationdate="20190608T125222Z">
+        <seg>[locationname] へ入る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Environment</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113046Z" creationid="kakonya" creationdate="20190607T113046Z">
@@ -3966,6 +3974,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T112756Z" creationid="kakonya" creationdate="20190608T112756Z">
         <seg>潜水艦で最も重要なツールの一つ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One of your vessels isn't at the exit yet.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T125351Z" creationid="nick2" creationdate="20190608T125351Z">
+        <seg>あなたの艦隊の内の一隻が出口に到達していません。</seg>
       </tuv>
     </tu>
     <tu>
