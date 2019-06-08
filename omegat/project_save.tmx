@@ -1842,6 +1842,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Coilgun, part 1</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T234657Z" creationid="kakonya" creationdate="20190608T234657Z">
+        <seg>コイルガン part 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Coilguns are standard-issue equipment in most subs.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T235014Z" creationid="kakonya" creationdate="20190608T235014Z">
+        <seg>コイルガンはほとんどの潜水艦で標準装備品です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Combat</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T105135Z" creationid="kakonya" creationdate="20190607T105135Z">
@@ -4594,10 +4610,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Load coilgun and turn on the supercapacitor</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T234904Z" creationid="kakonya" creationdate="20190608T234904Z">
+        <seg>コイルガンを装填して、スーバーキャパシターをオンにします</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Load the coilgun and see if you can take it down.</seg>
       </tuv>
-      <tuv lang="JA" changeid="kakonya" changedate="20190608T233604Z" creationid="kakonya" creationdate="20190608T233604Z">
-        <seg>コイルガンを取り付けて倒せるか試してみよう。</seg>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T234830Z" creationid="kakonya" creationdate="20190608T233604Z">
+        <seg>コイルガンを装填して倒せるか試してみよう。</seg>
       </tuv>
     </tu>
     <tu>
