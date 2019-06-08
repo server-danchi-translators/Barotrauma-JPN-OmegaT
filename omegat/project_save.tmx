@@ -2434,6 +2434,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gender</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T131459Z" creationid="nick2" creationdate="20190608T131459Z">
+        <seg>性別</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>General</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113052Z" creationid="kakonya" creationdate="20190607T113052Z">
@@ -3038,6 +3046,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T101734Z" creationid="kakonya" creationdate="20190607T101734Z">
         <seg>アイテムはいろいろなサイズのコンテナに格納されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Job preferences</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T131600Z" creationid="nick2" creationdate="20190608T131526Z">
+        <seg>ジョブ選択優先順位</seg>
       </tuv>
     </tu>
     <tu>
@@ -4386,6 +4402,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Playing as a spectator</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T131622Z" creationid="nick2" creationdate="20190608T131622Z">
+        <seg>観戦者としてプレイ中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please choose another name for the save file</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T061327Z" creationid="hiru4" creationdate="20190608T061327Z">
@@ -4774,6 +4798,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T105128Z" creationid="kakonya" creationdate="20190607T105128Z">
         <seg>ランダム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Random Preferences</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T131609Z" creationid="nick2" creationdate="20190608T131609Z">
+        <seg>ランダム選択</seg>
       </tuv>
     </tu>
     <tu>
@@ -5642,6 +5674,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Spectate</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T131456Z" creationid="nick2" creationdate="20190608T131456Z">
+        <seg>観戦</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Specular lighting</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113542Z" creationid="kakonya" creationdate="20190607T113542Z">
@@ -5766,6 +5806,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T014349Z" creationid="kakonya" creationdate="20190608T014349Z">
         <seg>潜水艦のメンテナンス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Submarine not found in your submarine folder</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T131743Z" creationid="nick2" creationdate="20190608T131743Z">
+        <seg>submarineフォルダに潜水艦が見つかりませんでした。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7504,6 +7552,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T042637Z" creationid="nick2" creationdate="20190608T042637Z">
         <seg>あなたの裏切り者としての任務は失敗に終わりました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your version of the submarine doesn't match the server's version</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T131826Z" creationid="nick2" creationdate="20190608T131826Z">
+        <seg>選択した潜水艦のバージョンとサーバーのバージョンが合っていません。</seg>
       </tuv>
     </tu>
     <tu>
