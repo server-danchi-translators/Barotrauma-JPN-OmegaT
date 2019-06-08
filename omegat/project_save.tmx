@@ -2238,6 +2238,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Multiple fuel rods create more heat, but in normal circumstances one is enough and any more might lead to overheating.\n\nStart by setting the fission rate so that the needle is on green, then do the same for turbine output.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T021448Z" creationid="kakonya" creationdate="20190608T021448Z">
+        <seg>燃料棒を複数入れると多くの熱が発生しますが、通常の状況では1本で十分で、それ以上になると過熱しすぎになります。\n\nスライドバーを操作して、緑のゾーンに合わせ、核分裂速度と、タービン出力を設定してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Music volume</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113620Z" creationid="kakonya" creationdate="20190607T113620Z">
@@ -3730,6 +3738,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T001840Z" creationid="nick2" creationdate="20190608T001840Z">
         <seg>それらはレールガンや高電流が瞬時に必要になる機械類に使用されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They require fuel to create heat and a crew member to regulate the output.\n\nDrag a fuel rod to the item slot on the left side.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T021221Z" creationid="kakonya" creationdate="20190608T021221Z">
+        <seg>熱を発生させるために燃料が、出力を調整するのに乗組員を必要とします。\n\n左のアイテムスロットに燃料棒を入れます。</seg>
       </tuv>
     </tu>
     <tu>
