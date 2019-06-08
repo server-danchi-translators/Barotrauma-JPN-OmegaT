@@ -390,6 +390,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cannibalistic behavior is very common among crawlers.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T011743Z" creationid="nick2" creationdate="20190608T011626Z">
+        <seg>クローラーは共食いをする習性があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cannot edit the Workshop item '[itemname]' because it has not been installed.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113033Z" creationid="kakonya" creationdate="20190607T113033Z">
@@ -1650,6 +1658,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T105031Z" creationid="kakonya" creationdate="20190607T105031Z">
         <seg>キック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Killing one in a swarm may distract the rest as they enter into a feeding frenzy.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T012013Z" creationid="nick2" creationdate="20190608T012013Z">
+        <seg>群れの一匹を殺すと他が共食いの連鎖を始め、注意をそらすことができるかもしれません。</seg>
       </tuv>
     </tu>
     <tu>
