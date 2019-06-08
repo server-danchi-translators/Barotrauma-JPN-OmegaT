@@ -2986,10 +2986,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Equip a melee weapon and protective gear</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T234213Z" creationid="kakonya" creationdate="20190608T234213Z">
+        <seg>近接武器や防具を装備</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Equip a screwdriver and interact ({0}) with the device to see the repair interface.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T023039Z" creationid="kakonya" creationdate="20190608T023039Z">
         <seg>ドライバーを持ち ({0}) で修理インターフェースを確認してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Equip a weapon by double-clicking it in your inventory.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T234244Z" creationid="kakonya" creationdate="20190608T234244Z">
+        <seg>インベントリの武器をダブルクリックして装備します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4890,6 +4906,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Melee weapons</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T234210Z" creationid="kakonya" creationdate="20190608T234210Z">
+        <seg>近接武器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Meltdown</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T111522Z" creationid="kakonya" creationdate="20190607T111522Z">
@@ -5466,6 +5490,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Now get ready.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T234115Z" creationid="kakonya" creationdate="20190608T234115Z">
+        <seg>今すぐ準備をしなさい。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Now that we have all of the required materials, we can fabricate a fire extinguisher.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T234822Z" creationid="kakonya" creationdate="20190607T234822Z">
@@ -5510,6 +5542,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T170254Z" creationid="nick2" creationdate="20190608T170254Z">
         <seg>原料のままだと、内部損傷や火傷の治療で微かに役立ち、酸素欠乏に対しては若干効果的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once the rest of the crew arrives, we’re out of here.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T234145Z" creationid="kakonya" creationdate="20190608T234145Z">
+        <seg>残りの乗組員が来たら、潜水開始です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5630,6 +5670,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T111410Z" creationid="kakonya" creationdate="20190607T111410Z">
         <seg>出力: [kw] kW</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Outstanding.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T234108Z" creationid="kakonya" creationdate="20190608T234108Z">
+        <seg>上出来</seg>
       </tuv>
     </tu>
     <tu>
@@ -8998,6 +9046,22 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T020038Z" creationid="kakonya" creationdate="20190608T020038Z">
         <seg>私たちは今、安定しているようです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Weapons require at least one free hand.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T234304Z" creationid="kakonya" creationdate="20190608T234304Z">
+        <seg>片手が空いてないと装備できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wearable equipment can either be double-clicked or dragged into their corresponding slots in the character inventory.\n\nReady the weapon by holding {0} and swing it by clicking {1}.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T234451Z" creationid="kakonya" creationdate="20190608T234451Z">
+        <seg>装備品はダブルクリックするか、インベントリの対応スロットにドラッグできます。\n\n{0}を押しながら狙いを定め、 {1}で攻撃します。</seg>
       </tuv>
     </tu>
     <tu>
