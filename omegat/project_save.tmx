@@ -1054,6 +1054,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Drag the wire to “power” pin, then press {1} to close the panel.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T023614Z" creationid="kakonya" creationdate="20190608T023614Z">
+        <seg>電線を「電源」ピンまでドラッグしてから{1}を押してパネルを閉じます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Drop the fire extinguisher</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T013011Z" creationid="kakonya" creationdate="20190608T012947Z">
@@ -2950,6 +2958,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Repeat the step at the next item.\n\nIf you don’t see a loose wire in the connection panel interface, make sure you have one equipped.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T023754Z" creationid="kakonya" creationdate="20190608T023754Z">
+        <seg>この作業を繰り返します。\n\nもし接続パネルインターフェースに電線が表示されない場合は、装備をしているか確認してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reset</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T141233Z" creationid="totochan" creationdate="20190607T141233Z">
@@ -4578,6 +4594,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T052451Z" creationid="kakonya" creationdate="20190607T052451Z">
         <seg>貨物を紛失したり、破損した場合は配達報酬はありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You will see a connection panel with a couple of connection pins and a wire sticking out from the bottom.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T023544Z" creationid="kakonya" creationdate="20190608T023544Z">
+        <seg>いくつかの接続ピンとワイヤーが下から突き出ている接続パネルが見えます。</seg>
       </tuv>
     </tu>
     <tu>
