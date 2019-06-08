@@ -2462,6 +2462,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Otherwise the process is the same.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T022946Z" creationid="kakonya" creationdate="20190608T022946Z">
+        <seg>道具が違うだけで、使い方は同じです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Output High</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T111519Z" creationid="kakonya" creationdate="20190607T111519Z">
