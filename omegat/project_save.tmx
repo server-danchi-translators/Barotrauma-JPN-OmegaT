@@ -2894,6 +2894,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Some of the alien structures on Europa have been constructed of a metamaterial that's outstandingly resistant to physical damage, and as such has become an important subject of research to Europan scientists.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T005310Z" creationid="nick2" creationdate="20190608T005310Z">
+        <seg>エウロパのエイリアンの建造物のいくつかは、物理的損傷に対して著しい耐性を持つメタマテリアルで構成されており、エウロパの科学者にとって重要な研究課題となっています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Something dark and unpleasant moves in the mouth.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T233423Z" creationid="kakonya" creationdate="20190607T233423Z">
@@ -2930,6 +2938,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113620Z" creationid="kakonya" creationdate="20190607T113620Z">
         <seg>音量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Special caution must be taken when bringing alien artifacts on board the submarine.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T005413Z" creationid="nick2" creationdate="20190608T005413Z">
+        <seg>艦内にエイリアンのアーティファクトを持ち入れる場合には、特別な注意を払わなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3578,6 +3594,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T103732Z" creationid="kakonya" creationdate="20190607T103732Z">
         <seg>通常では、近くの水検知器やナビゲーション端末から信号を受信しますが、手動で操作も可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Very little is known of the presumably extinct alien civilization that built the ruins scattered all across Europa.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T005458Z" creationid="nick2" creationdate="20190608T005458Z">
+        <seg>非常に少ないが、すべてのエウロパに散在する遺跡を建て、おそらく絶滅エイリアン文明の知られています。</seg>
       </tuv>
     </tu>
     <tu>
