@@ -1434,6 +1434,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Can be used in the manufacture of simple tools, or refined into steel by mixing it with carbon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T180408Z" creationid="nick2" creationdate="20190608T180408Z">
+        <seg>シンプルな道具の製造に使用するほか、炭素と混合することにより鋼に精錬することもできる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cancel</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T111201Z" creationid="kakonya" creationdate="20190607T111201Z">
@@ -1854,6 +1862,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113839Z" creationid="kakonya" creationdate="20190607T113839Z">
         <seg>コントロール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copper</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T175654Z" creationid="nick2" creationdate="20190608T175654Z">
+        <seg>銅</seg>
       </tuv>
     </tu>
     <tu>
@@ -3850,6 +3866,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Iron</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T180045Z" creationid="nick2" creationdate="20190608T180045Z">
+        <seg>鉄</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Iron Ore</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T171238Z" creationid="nick2" creationdate="20190608T171238Z">
@@ -4770,6 +4794,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Most commonly used in the manufacture of electrical wiring.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T175714Z" creationid="nick2" creationdate="20190608T175714Z">
+        <seg>一般的に電気配線の製造に使用される。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Most commonly used in the manufacture of various electrical components.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T180042Z" creationid="nick2" creationdate="20190608T180042Z">
+        <seg>一般的に種々の電気部品の製造に使用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Most commonly used in the manufacture of various types of ammunition.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T175756Z" creationid="nick2" creationdate="20190608T175756Z">
+        <seg>一般的に様々な種類の弾薬の製造に使用される。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Most commonly used to manufacture morphine and fentanyl.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T170801Z" creationid="nick2" creationdate="20190608T170801Z">
@@ -5422,6 +5470,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T105152Z" creationid="kakonya" creationdate="20190607T105152Z">
         <seg>人事交通</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Phosphorus</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T175731Z" creationid="nick2" creationdate="20190608T175731Z">
+        <seg>燐</seg>
       </tuv>
     </tu>
     <tu>
@@ -7754,6 +7810,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tin</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T175806Z" creationid="nick2" creationdate="20190608T175806Z">
+        <seg>錫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Titanite</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T172258Z" creationid="nick2" creationdate="20190608T172258Z">
@@ -8230,6 +8294,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T174047Z" creationid="nick2" creationdate="20190608T174020Z">
         <seg>爆発物や医療化合物の製造に使用される。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Used in the manufacture of lamps, explosives and some medical compounds.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T175804Z" creationid="nick2" creationdate="20190608T175729Z">
+        <seg>ランプ、爆発物や一部の医療化合物の製造に使用される。</seg>
       </tuv>
     </tu>
     <tu>
