@@ -6498,6 +6498,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Weather Forecast For Today: Cold and Damp.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="spears" changedate="20190608T101929Z" creationid="spears" creationdate="20190608T101908Z">
+        <seg>今日の天気予報：寒くてじめじめします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Welding Fuel Tank (empty)</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T114421Z" creationid="kakonya" creationdate="20190607T114421Z">
