@@ -422,6 +422,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Be careful not to dive too deep.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T033025Z" creationid="nick2" creationdate="20190608T033025Z">
+        <seg>極端に深く潜らないように注意してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Be sure to have mechanics and engineers perform maintenance from time to time in order to avoid breakdowns at inopportune moments.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T004939Z" creationid="nick2" creationdate="20190608T004939Z">
@@ -1118,6 +1126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Diving masks let you breathe underwater, but don't offer any protection against the bone-crushing pressure outside the submarine.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T032928Z" creationid="nick2" creationdate="20190608T032928Z">
+        <seg>ダイビングマスクを使用すると水中でも呼吸できますが、潜水艦の外の強大な水圧に対する保護はありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Diving suit</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T013300Z" creationid="kakonya" creationdate="20190608T013300Z">
@@ -1402,6 +1418,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T141009Z" creationid="totochan" creationdate="20190607T141009Z">
         <seg>エラー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Europa is rich in natural resources, and an enterprising captain with a sharp eye and a plasma cutter may stand to make a tidy profit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T033055Z" creationid="nick2" creationdate="20190608T033055Z">
+        <seg>エウロパには天然資源が豊富で、企業家なキャプテンは鋭い目利きとプラズマカッターで利益を得ることがあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1886,6 +1910,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If there's a major hull breach, find a diving suit immediately.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T032940Z" creationid="nick2" creationdate="20190608T032940Z">
+        <seg>船体が激しく傷ついた場合、すぐにダイビングスーツを見つけましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you don't have enough materials for fabrication, you can break down items in the deconstructor.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T234546Z" creationid="kakonya" creationdate="20190607T104819Z">
@@ -1914,6 +1946,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T022415Z" creationid="kakonya" creationdate="20190608T022415Z">
         <seg>消耗や浸水、過電圧によって損傷を受けます。\n\n機械部品用のレンチではなく、ドライバーを使用して修理します。。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the event of a fire, burns are not the only thing to watch out for—fires can quickly consume all the oxygen inside the submarine.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T032950Z" creationid="nick2" creationdate="20190608T032950Z">
+        <seg>火災時は火傷などの外傷以外にも気を付けてください。炎は艦内の酸素を瞬時に消費してしまいます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1986,6 +2026,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T022008Z" creationid="kakonya" creationdate="20190608T022008Z">
         <seg>自動制御では負荷のどんな変動にも反応しますが、人間のオペレータよりかなり遅いです。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It's possible to build voice-controlled systems by linking wifi components to the radio chat in the submarine editor.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T033120Z" creationid="nick2" creationdate="20190608T033120Z">
+        <seg>潜水艦エディタでラジオチャットにwifi部品をリンクすることにより、音声制御システムを構築することが可能です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2478,10 +2526,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Most submarine hulls will start collapsing at the depth of approximately 2,000 meters.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T033035Z" creationid="nick2" creationdate="20190608T033035Z">
+        <seg>ほとんどの潜水艦の船体は約2000メートルの深さで水圧で潰れ始めます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Most submarines are equipped with stationary batteries that can be used as a temporary source of backup power in the case of a reactor failure.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T020512Z" creationid="hiru4" creationdate="20190607T060003Z">
         <seg>ほとんどの潜水艦には原子炉の故障時の一時的な電力のバックアップ供給源として使用することができる設置型バッテリーが装備されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Most vessels avoid venturing outside the tunnels and cracks within Europa's icy crust—the vast, empty Abyss between the surface layers and the rocky interior hosts many of Europa's largest and most dangerous inhabitants.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T033203Z" creationid="nick2" creationdate="20190608T033203Z">
+        <seg>ほとんどの船は、エウロパの氷の地殻に走る亀裂やトンネル以外へ冒険するのを避けます。表面層と内部の岩場の間にある広大な深淵にはエウロパの最大かつ最も危険な住民が暮らしています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2634,6 +2698,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T105127Z" creationid="kakonya" creationdate="20190607T105127Z">
         <seg>無し</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Not only are they abundant in wildlife, but the water currents caused by geothermal activity make navigation even more hazardous.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T033007Z" creationid="nick2" creationdate="20190608T033007Z">
+        <seg>自然に多数発生するのに加え、地熱活動によって引き起こされる水流が操縦を通常よりさらに危険なものにします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3702,6 +3774,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Some of the sessile lifeforms in Europa emit low-frequency sounds that may disrupt the submarine's sonar.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T033019Z" creationid="nick2" creationdate="20190608T033019Z">
+        <seg>エウロパでの無茎生命体の一部は、潜水艦のソナーを妨害する低周波音を発することがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Some of the wiring seems to be faulty.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T020142Z" creationid="kakonya" creationdate="20190608T020142Z">
@@ -3934,6 +4014,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Europa Coalition started off as a trade and cooperation agreement between the two largest Europan settlements and a handful of private paramilitary groups, but gradually grew to become what is essentially the Europan government.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T033144Z" creationid="nick2" creationdate="20190608T033144Z">
+        <seg>エウロパ連合は、二大エウロパ集落や民間民兵組織の間の貿易協力協定として始まりましたが、時を経て実質的なエウロパの政府組織に成長しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The [loser] vessel has been defeated by the [winner] crew!</seg>
       </tuv>
       <tuv lang="JA" changeid="spears" changedate="20190607T133657Z" creationid="spears" creationdate="20190607T133657Z">
@@ -3962,6 +4050,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T011549Z" creationid="nick2" creationdate="20190608T011549Z">
         <seg>ムカデのような見た目のウォッチャーは、一般的にはおとなしいですがいざという時は攻撃されるかもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The dynamics of Europa's underwater ecosystem are still not fully understood, but it is believed that the base of the food chain is mostly formed by chemosynthetic bacteria.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T033136Z" creationid="nick2" creationdate="20190608T033136Z">
+        <seg>エウロパの水中生態系の動向はまだ完全には理解されていませんが、食物連鎖のベースは主に化学合成細菌によって形成されると考えられます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4018,6 +4114,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T015426Z" creationid="nick2" creationdate="20190608T015216Z">
         <seg>ドクターの主な仕事は、乗組員の健康を維持することですが、注射器ガンと毒物の知識も侵入者に対して非常に役立つでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The much-ridiculed initiative to help submariners cope in a high-stress environment by including professional entertainers in the crews was promptly deemed a failure and discontinued.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T033151Z" creationid="nick2" creationdate="20190608T033151Z">
+        <seg>乗組員が身を置く高ストレス環境に対する奇策として、艦に専用のお笑い芸人が雇用された過去がありますが、速やかに失敗とみなされ中止しました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4090,6 +4194,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T104432Z" creationid="totochan" creationdate="20190607T104432Z">
         <seg>ポートはクライアントとの通信に使用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The radiation belts around Jupiter make it impracticable to establish permanent settlements above Europa's surface, and as such almost all Europan outposts are located below its icy crust.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T033129Z" creationid="nick2" creationdate="20190608T033129Z">
+        <seg>木星の周りの放射線帯は、エウロパの表面上の永続的な入植地を確立することを不可能にします。そのためほぼ全てのエウロパの前哨基地は、その氷の地殻の下に建築されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4290,6 +4402,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113538Z" creationid="kakonya" creationdate="20190607T113538Z">
         <seg>トランスペアレント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Traversing the so-called Hydrothermal Wastes requires special caution.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T032959Z" creationid="nick2" creationdate="20190608T032959Z">
+        <seg>いわゆる"熱水廃棄物"を横断する時は、特別な注意が必要です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4834,6 +4954,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T000547Z" creationid="nick2" creationdate="20190607T235724Z">
         <seg>また、氷壁からの反射音に基づいて、大まかな周りの地形を知ることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can disguise yourself as someone else by wearing their ID card and something that covers your face.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T033110Z" creationid="nick2" creationdate="20190608T033110Z">
+        <seg>他人のIDカード持ち、顔を隠す服装を身に着けることによって、変装することができます。</seg>
       </tuv>
     </tu>
     <tu>
