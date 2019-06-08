@@ -3850,6 +3850,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I need you to make sure we’re ready to deal with whatever comes after us when we leave.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T234019Z" creationid="kakonya" creationdate="20190608T234019Z">
+        <seg>この先何が来ても対処できるよう、準備が整っているか確認します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I see something bigger up ahead, so keep on your toes.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T233217Z" creationid="kakonya" creationdate="20190608T233152Z">
@@ -7354,6 +7362,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Start inspecting the weaponry.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T234035Z" creationid="kakonya" creationdate="20190608T234035Z">
+        <seg>武器の検査を開始。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Start now</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T132612Z" creationid="nick2" creationdate="20190608T132612Z">
@@ -8990,6 +9006,14 @@
       </tuv>
       <tuv lang="JA" changeid="spears" changedate="20190608T101929Z" creationid="spears" creationdate="20190608T101908Z">
         <seg>今日の天気予報：寒くてじめじめします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Welcome aboard.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T233843Z" creationid="kakonya" creationdate="20190608T233843Z">
+        <seg>ようこそ！</seg>
       </tuv>
     </tu>
     <tu>
