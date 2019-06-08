@@ -1126,6 +1126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Discretion is of utmost concern; sinking the submarine and killing the entire crew will arouse suspicion amongst the fleet.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T041553Z" creationid="nick2" creationdate="20190608T041553Z">
+        <seg>水面下で事を進めてください。潜水艦を沈めて全員を殺害するのは目立ちすぎます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Display mode</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113524Z" creationid="kakonya" creationdate="20190607T113524Z">
@@ -1894,6 +1902,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If possible, make the death look like an accident.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T041558Z" creationid="nick2" creationdate="20190608T041558Z">
+        <seg>可能であれば事故に見せかけてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If set to 0%, the cursor has to be exactly on the item.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113859Z" creationid="kakonya" creationdate="20190607T113859Z">
@@ -2026,6 +2042,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113612Z" creationid="kakonya" creationdate="20190607T113549Z">
         <seg>インベントリスケール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is possible that there are other agents on this submarine.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T041703Z" creationid="nick2" creationdate="20190608T041703Z">
+        <seg>あなた以外のエージェントが潜伏している可能性もあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4726,6 +4750,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use the code words to greet the agent and code response to respond.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T041757Z" creationid="nick2" creationdate="20190608T041757Z">
+        <seg>「挨拶合言葉」を使って話しかけ、相手は「返答合言葉」で返事をしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Usually pumps receive signals from nearby water detectors or navigation terminals, but some can be operated manually.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T103732Z" creationid="kakonya" creationdate="20190607T103732Z">
@@ -5040,8 +5072,8 @@
       <tuv lang="EN-US">
         <seg>You are the traitor!</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190608T041238Z" creationid="nick2" creationdate="20190608T041238Z">
-        <seg>あなたが裏切り者だ！</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T041449Z" creationid="nick2" creationdate="20190608T041238Z">
+        <seg>あなたは裏切り者だ！</seg>
       </tuv>
     </tu>
     <tu>
@@ -5114,6 +5146,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113058Z" creationid="kakonya" creationdate="20190607T113058Z">
         <seg>それはゲームが動作するために必要なコアパッケージであるため、コンテンツパッケージの選択を解除することはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You don't know their names, but you do have a method of communication.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T041723Z" creationid="nick2" creationdate="20190608T041723Z">
+        <seg>そのエージェントが誰かはわかりませんが、連絡の方法はあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5250,6 +5290,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112809Z" creationid="kakonya" creationdate="20190607T112809Z">
         <seg>あなたのアイテム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your secret task is to assassinate [targetname]!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T041423Z" creationid="nick2" creationdate="20190608T041423Z">
+        <seg>あなたの任務は[targetname]の暗殺です！</seg>
       </tuv>
     </tu>
     <tu>
