@@ -506,6 +506,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An antidote for acute deliriumine poisoning.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T163914Z" creationid="nick2" creationdate="20190608T163914Z">
+        <seg>急性デリリマイト中毒の解毒剤。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An antidote for acute morbusine poisoning.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T163936Z" creationid="nick2" creationdate="20190608T163936Z">
+        <seg>急性モルビシン中毒の解毒剤。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An antidote for acute sufforin poisoning.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T163930Z" creationid="nick2" creationdate="20190608T163930Z">
+        <seg>急性スフォリン中毒の解毒剤。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An element, useful for crafting.</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T060450Z" creationid="hiru4" creationdate="20190608T060450Z">
@@ -522,6 +546,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An opioid antagonist for the treatment of opiate-based withdrawal and overdose.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T164358Z" creationid="nick2" creationdate="20190608T163937Z">
+        <seg>麻薬由来の離脱症状や過剰摂取の治療のためのオピオイド拮抗薬。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Anabolic Steroids</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T162819Z" creationid="nick2" creationdate="20190608T162819Z">
@@ -534,6 +566,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T053945Z" creationid="kakonya" creationdate="20190608T053945Z">
         <seg>止血性の抗生物質</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Antirad</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T163833Z" creationid="nick2" creationdate="20190608T163833Z">
+        <seg>アンチRAD</seg>
       </tuv>
     </tu>
     <tu>
@@ -718,6 +758,14 @@
       </tuv>
       <tuv lang="JA" changeid="spears" changedate="20190608T100853Z" creationid="spears" creationdate="20190608T100853Z">
         <seg>自動再開遅延：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Avoid dropping.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T163809Z" creationid="nick2" creationdate="20190608T163809Z">
+        <seg>落とさないようにしてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1750,6 +1798,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T161544Z" creationid="nick2" creationdate="20190608T161544Z">
         <seg>デリリマイト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deliriumine Antidote</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T163856Z" creationid="nick2" creationdate="20190608T163856Z">
+        <seg>デリリマイト解毒剤</seg>
       </tuv>
     </tu>
     <tu>
@@ -4066,6 +4122,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Morbusine Antidote</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T163933Z" creationid="nick2" creationdate="20190608T163933Z">
+        <seg>モルビシン解毒剤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Morbusine is a neurotoxin potent enough to take down even some of the largest Europan predators.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T014109Z" creationid="nick2" creationdate="20190608T014109Z">
@@ -4198,6 +4262,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T141254Z" creationid="totochan" creationdate="20190607T141254Z">
         <seg>プレイモード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Naloxone</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T163940Z" creationid="nick2" creationdate="20190608T163940Z">
+        <seg>ナロキソン</seg>
       </tuv>
     </tu>
     <tu>
@@ -5922,6 +5994,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Slows down cellular degradation caused by radiation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T163852Z" creationid="nick2" creationdate="20190608T163852Z">
+        <seg>放射線によって引き起こされる細胞の劣化を遅れさせます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Small Pump</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T024452Z" creationid="kakonya" creationdate="20190608T024452Z">
@@ -6290,6 +6370,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sufforin Antidote</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T163922Z" creationid="nick2" creationdate="20190608T163922Z">
+        <seg>スフォリン解毒剤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Supercapacitors can deliver large bursts of power, but cannot store as much energy as batteries.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T001619Z" creationid="nick2" creationdate="20190608T001524Z">
@@ -6364,8 +6452,8 @@
       <tuv lang="EN-US">
         <seg>Temporarily increases muscular strength and physical performance.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190608T162844Z" creationid="nick2" creationdate="20190608T162844Z">
-        <seg>一時的に筋力および運動性能を向上させます。</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T163822Z" creationid="nick2" creationdate="20190608T162844Z">
+        <seg>一時的に筋力および運動性能を向上させる。</seg>
       </tuv>
     </tu>
     <tu>
