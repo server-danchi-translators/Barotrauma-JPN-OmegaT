@@ -1998,6 +1998,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mechanical and electrical devices require maintenance.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T014025Z" creationid="kakonya" creationdate="20190608T014025Z">
+        <seg>機械や電気装置はメンテナンスが必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Medical Fabricator</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T115029Z" creationid="kakonya" creationdate="20190607T115029Z">
@@ -2650,6 +2658,22 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T102151Z" creationid="kakonya" creationdate="20190607T102151Z">
         <seg>水漏れの修理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Repair pump</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T013953Z" creationid="kakonya" creationdate="20190608T013953Z">
+        <seg>ポンプの修理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Repairing devices</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T013941Z" creationid="kakonya" creationdate="20190608T013941Z">
+        <seg>デバイスの修復</seg>
       </tuv>
     </tu>
     <tu>
