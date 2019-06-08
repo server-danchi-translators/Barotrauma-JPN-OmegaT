@@ -1134,6 +1134,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Disguise such words in a normal-sounding phrase so the crew doesn't suspect anything.\n\nThe code words are: [codewords].\nThe code response is: [coderesponse].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T041935Z" creationid="nick2" creationdate="20190608T041810Z">
+        <seg>合言葉は怪しまれないように自然に会話に織り交ぜてください。\n\n挨拶合言葉は: [codewords].\n返答合言葉は: [coderesponse].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Display mode</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113524Z" creationid="kakonya" creationdate="20190607T113524Z">
@@ -4334,6 +4342,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The task was successful, but the traitor was successfully detained.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T042244Z" creationid="nick2" creationdate="20190608T042244Z">
+        <seg>暗殺は成功しましたが、裏切り者は無事確保されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The task was successful.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T042159Z" creationid="nick2" creationdate="20190608T042159Z">
+        <seg> そして暗殺は成功しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The temperature is optimal when the bar is between the red indicators.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T111606Z" creationid="kakonya" creationdate="20190607T111606Z">
@@ -5302,6 +5326,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[Genderpronounpossessive] task was to assassinate [targetname].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T042132Z" creationid="nick2" creationdate="20190608T042132Z">
+        <seg>[Genderpronounpossessive]任務は [targetname] の暗殺。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[[key]] Grab</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T140715Z" creationid="totochan" creationdate="20190607T140715Z">
@@ -5386,6 +5418,22 @@
       </tuv>
       <tuv lang="JA" changeid="spears" changedate="20190607T135538Z" creationid="spears" creationdate="20190607T135538Z">
         <seg>[itemname] の充電は現在 [rate] %!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[traitorname] is the traitor and the target is [targetname].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T042029Z" creationid="nick2" creationdate="20190608T042029Z">
+        <seg>[traitorname] は裏切り者で、ターゲットは [targetname] です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[traitorname] was a traitor!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T042107Z" creationid="nick2" creationdate="20190608T042107Z">
+        <seg>[traitorname] は裏切り者でした！</seg>
       </tuv>
     </tu>
     <tu>
