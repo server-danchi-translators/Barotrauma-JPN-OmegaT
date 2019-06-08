@@ -7252,6 +7252,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Your skills may be insufficient to use the item!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T123503Z" creationid="nick2" creationdate="20190608T123503Z">
+        <seg>あなたのスキルはアイテムを使用するには不十分かもしれません！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Your traitor objective was unsuccessful.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T042637Z" creationid="nick2" creationdate="20190608T042637Z">
@@ -7368,6 +7376,22 @@
       </tuv>
       <tuv lang="JA" changeid="spears" changedate="20190607T135538Z" creationid="spears" creationdate="20190607T135538Z">
         <seg>[itemname] の充電は現在 [rate] %!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[name]'s [skillname] skill increased to [newlevel]!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T123746Z" creationid="nick2" creationdate="20190608T123746Z">
+        <seg>[name] の[skillname]スキルが[newlevel]にレベルアップ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[requiredskill] level [requiredlevel] required.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T123758Z" creationid="nick2" creationdate="20190608T123636Z">
+        <seg>[requiredskill]のスキルがレベル[requiredlevel]分必要です。</seg>
       </tuv>
     </tu>
     <tu>
