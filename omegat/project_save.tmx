@@ -118,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A potent nervous system stimulant.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T162917Z" creationid="nick2" creationdate="20190608T162917Z">
+        <seg>強力な神経系刺激剤。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A psychosis-inducing toxin.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T161608Z" creationid="nick2" creationdate="20190608T161608Z">
@@ -476,8 +484,8 @@
       <tuv lang="EN-US">
         <seg>An antidote for acute cyanide poisoning.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190608T162626Z" creationid="nick2" creationdate="20190608T162626Z">
-        <seg>急性青酸カリ中毒の解毒剤。</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T163019Z" creationid="nick2" creationdate="20190608T162626Z">
+        <seg>急性青酸中毒の解毒剤。</seg>
       </tuv>
     </tu>
     <tu>
@@ -494,6 +502,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T162411Z" creationid="nick2" creationdate="20190608T162411Z">
         <seg>非常に強力な筋肉興奮剤。急がなきゃいけない状況にオススメ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Anabolic Steroids</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T162819Z" creationid="nick2" creationdate="20190608T162819Z">
+        <seg>アナボリックステロイド</seg>
       </tuv>
     </tu>
     <tu>
@@ -1644,8 +1660,8 @@
       <tuv lang="EN-US">
         <seg>Cyanide poisoning</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190608T162650Z" creationid="nick2" creationdate="20190608T162650Z">
-        <seg>青酸カリ中毒</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T163025Z" creationid="nick2" creationdate="20190608T162650Z">
+        <seg>青酸中毒</seg>
       </tuv>
     </tu>
     <tu>
@@ -1788,8 +1804,8 @@
       <tuv lang="EN-US">
         <seg>Died of cyanide poisoning.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190608T162706Z" creationid="nick2" creationdate="20190608T162706Z">
-        <seg>青酸カリ中毒で死亡しました。</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T163029Z" creationid="nick2" creationdate="20190608T162706Z">
+        <seg>青酸中毒で死亡しました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3894,6 +3910,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T014846Z" creationid="nick2" creationdate="20190608T014846Z">
         <seg>精神病などの精神疾患の発症は、遺跡への遠征へ赴いた乗組員にとって一般的です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Methamphetamine</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T162847Z" creationid="nick2" creationdate="20190608T162847Z">
+        <seg>メタンフェタミン</seg>
       </tuv>
     </tu>
     <tu>
@@ -6314,6 +6338,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Temporarily increases muscular strength and physical performance.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T162844Z" creationid="nick2" creationdate="20190608T162844Z">
+        <seg>一時的に筋力および運動性能を向上させます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Temporary handheld light.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T121225Z" creationid="kakonya" creationdate="20190608T121225Z">
@@ -6838,6 +6870,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T013211Z" creationid="kakonya" creationdate="20190608T013211Z">
         <seg>装備から外すには、装備スロットからドラッグで移動させ、ボタンを離します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tonic Liquid</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T162922Z" creationid="nick2" creationdate="20190608T162922Z">
+        <seg>トニックリキッド</seg>
       </tuv>
     </tu>
     <tu>
@@ -7854,8 +7894,8 @@
       <tuv lang="EN-US">
         <seg>You have died of cyanide poisoning.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190608T162723Z" creationid="nick2" creationdate="20190608T162712Z">
-        <seg>あなたは青酸カリ中毒で死亡しました。</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T163033Z" creationid="nick2" creationdate="20190608T162712Z">
+        <seg>あなたは青酸中毒で死亡しました。</seg>
       </tuv>
     </tu>
     <tu>
