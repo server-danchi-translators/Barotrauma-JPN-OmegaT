@@ -102,10 +102,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A harpoon for the harpoon gun, made of alien material.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T231237Z" creationid="kakonya" creationdate="20190608T231237Z">
+        <seg>エイリアンの材料で作られたハープーン用銛。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A harpoon for the harpoon gun.</seg>
       </tuv>
-      <tuv lang="JA" changeid="kakonya" changedate="20190608T231155Z" creationid="kakonya" creationdate="20190608T231155Z">
-        <seg>ハープーン銃用</seg>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T231212Z" creationid="kakonya" creationdate="20190608T231155Z">
+        <seg>ハープーン銃用の銛</seg>
       </tuv>
     </tu>
     <tu>
@@ -3010,6 +3018,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Explosive Harpoon</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T231250Z" creationid="kakonya" creationdate="20190608T231250Z">
+        <seg>起爆性ハープーン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fabricate a fire extinguisher</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T234734Z" creationid="kakonya" creationdate="20190607T234734Z">
@@ -3502,6 +3518,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T231004Z" creationid="kakonya" creationdate="20190608T230939Z">
         <seg>ハープーン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Harpoon Gun</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T231256Z" creationid="kakonya" creationdate="20190608T231256Z">
+        <seg>ハープーンガン</seg>
       </tuv>
     </tu>
     <tu>
@@ -4206,6 +4230,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T062433Z" creationid="hiru4" creationdate="20190608T062433Z">
         <seg>起動爆雷</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Launches harpoons, explosive harpoons, and alien harpoons.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T231327Z" creationid="kakonya" creationdate="20190608T231327Z">
+        <seg>銛、起爆銛、エイリアン銛を撃ちます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5606,6 +5638,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T060715Z" creationid="hiru4" creationdate="20190608T060715Z">
         <seg>サイコリウムバー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Physicorium Harpoon</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T231216Z" creationid="kakonya" creationdate="20190608T231216Z">
+        <seg>サイコリウムハープーン</seg>
       </tuv>
     </tu>
     <tu>
