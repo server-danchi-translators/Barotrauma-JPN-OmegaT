@@ -1426,6 +1426,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Can be refined in a fabricator to create fuel rods for a nuclear reactor, or used in the manufacture of nuclear weapons.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T174939Z" creationid="nick2" creationdate="20190608T174939Z">
+        <seg>ファブリケーターで精錬すると、原子炉用の燃料棒または核兵器の製造に使用することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cancel</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T111201Z" creationid="kakonya" creationdate="20190607T111201Z">
@@ -8022,6 +8030,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T062449Z" creationid="hiru4" creationdate="20190608T062259Z">
         <seg>上部ドッキングポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Uranium</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T174441Z" creationid="nick2" creationdate="20190608T174441Z">
+        <seg>ウラン</seg>
       </tuv>
     </tu>
     <tu>
