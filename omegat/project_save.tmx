@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A colony of myxobacteria.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T172419Z" creationid="nick2" creationdate="20190608T172419Z">
+        <seg>粘液細菌のコロニー。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A crystal composed of solid carbon.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T171746Z" creationid="nick2" creationdate="20190608T171746Z">
@@ -182,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A mineral composed of lithium, aluminum and sodium.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T172154Z" creationid="nick2" creationdate="20190608T172154Z">
+        <seg>リチウム、アルミニウムおよびナトリウムからなる鉱物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A mineral composed of zinc and lead.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T171457Z" creationid="nick2" creationdate="20190608T171457Z">
@@ -302,6 +318,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A mineral containing titanium and iron.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T172449Z" creationid="nick2" creationdate="20190608T172415Z">
+        <seg>チタンと鉄を含有する鉱物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A mineral containing titanium and phosphorus.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T172256Z" creationid="nick2" creationdate="20190608T172256Z">
+        <seg>チタンやリンを含有する鉱物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A mineral containing titanium.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T171649Z" creationid="nick2" creationdate="20190608T171649Z">
@@ -362,6 +394,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T024709Z" creationid="kakonya" creationdate="20190608T024709Z">
         <seg>電磁石を使用して金属製のボルトを推進する高速発砲タレット。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A rare mineral containing thorium.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T172237Z" creationid="nick2" creationdate="20190608T172237Z">
+        <seg>トリウムを含有する希少な鉱物。</seg>
       </tuv>
     </tu>
     <tu>
@@ -718,6 +758,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T060411Z" creationid="hiru4" creationdate="20190608T060411Z">
         <seg>アルミニウム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Amblygonite</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T172032Z" creationid="nick2" creationdate="20190608T172032Z">
+        <seg>アビゴナイト</seg>
       </tuv>
     </tu>
     <tu>
@@ -1290,6 +1338,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Brockite</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T172238Z" creationid="nick2" creationdate="20190608T172238Z">
+        <seg>ブロカイト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Browse...</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112858Z" creationid="kakonya" creationdate="20190607T112858Z">
@@ -1358,6 +1414,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T130614Z" creationid="nick2" creationdate="20190608T130614Z">
         <seg>キャンペーン画面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Can be processed into antibiotics.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T173512Z" creationid="nick2" creationdate="20190608T172435Z">
+        <seg>抗生物質に加工することができる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1566,6 +1630,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T161930Z" creationid="nick2" creationdate="20190608T161930Z">
         <seg>抱水クロラール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chlorine</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T172450Z" creationid="nick2" creationdate="20190608T172450Z">
+        <seg>塩素</seg>
       </tuv>
     </tu>
     <tu>
@@ -4642,6 +4714,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Most commonly used in saline, a common treatment for blood loss, and chloral hydrate, a powerful sedative.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T173503Z" creationid="nick2" creationdate="20190608T173503Z">
+        <seg>失血の治療に使われる生理食塩水、および強力な鎮静剤である抱水クロラールの原料として使用される。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Most commonly used to manufacture morphine and fentanyl.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T170801Z" creationid="nick2" creationdate="20190608T170801Z">
@@ -6586,6 +6666,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Slime Bacteria</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T172417Z" creationid="nick2" creationdate="20190608T172417Z">
+        <seg>スライム細菌</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Slows down cellular degradation caused by radiation.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T165055Z" creationid="nick2" creationdate="20190608T163852Z">
@@ -7554,6 +7642,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Thorianite</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T172156Z" creationid="nick2" creationdate="20190608T172156Z">
+        <seg>トリアナイト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Thorium</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T060455Z" creationid="hiru4" creationdate="20190608T060455Z">
@@ -7574,6 +7670,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T061137Z" creationid="hiru4" creationdate="20190608T061137Z">
         <seg>タイガーサッシャボス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Titanite</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T172258Z" creationid="nick2" creationdate="20190608T172258Z">
+        <seg>チタン石</seg>
       </tuv>
     </tu>
     <tu>
