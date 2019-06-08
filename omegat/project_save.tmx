@@ -310,6 +310,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Be sure to have mechanics and engineers perform maintenance from time to time in order to avoid breakdowns at inopportune moments.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T004939Z" creationid="nick2" creationdate="20190608T004939Z">
+        <seg>メカニックやエンジニアは随時メンテナンスを行い、最悪な状況での機械類の故障を避けてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bled to death.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T231845Z" creationid="kakonya" creationdate="20190607T122257Z">
@@ -330,6 +338,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113528Z" creationid="kakonya" creationdate="20190607T113528Z">
         <seg>ボーダレスウィンドウ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Breaking down alien artifacts in a deconstructor may provide you with exotic raw materials.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T005126Z" creationid="nick2" creationdate="20190608T005126Z">
+        <seg>デコンストラクタでエイリアンのアーティファクトを分解すると、外来的な原料を確保できるかもしれません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3090,6 +3106,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T231055Z" creationid="kakonya" creationdate="20190607T231055Z">
         <seg>この部分は水ぶくれして赤くなっており、皮膚がペロっと剥がれ始めています.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The electrical and mechanical systems on a sub will gradually degrade due to the harsh conditions and constant wear and tear.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T004735Z" creationid="nick2" creationdate="20190608T004735Z">
+        <seg>潜水艦の電気的、機械的なシステムは次第に過酷な環境と継続的な磨耗により劣化します。</seg>
       </tuv>
     </tu>
     <tu>
