@@ -4236,8 +4236,16 @@
       <tuv lang="EN-US">
         <seg>Launches harpoons, explosive harpoons, and alien harpoons.</seg>
       </tuv>
-      <tuv lang="JA" changeid="kakonya" changedate="20190608T231327Z" creationid="kakonya" creationdate="20190608T231327Z">
-        <seg>銛、起爆銛、エイリアン銛を撃ちます。</seg>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T231333Z" creationid="kakonya" creationdate="20190608T231327Z">
+        <seg>銛、起爆銛、エイリアン銛を撃ち出します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Launches syrettes containing drugs or poisons.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T231620Z" creationid="kakonya" creationdate="20190608T231620Z">
+        <seg>薬物や毒物を含んだシレットを撃ち出しします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7422,6 +7430,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113532Z" creationid="kakonya" creationdate="20190607T113532Z">
         <seg>お使いのモニタのリフレッシュレートとゲームのフレームレートを同期化します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Syringe Gun</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T231347Z" creationid="kakonya" creationdate="20190608T231347Z">
+        <seg>シリンジガン</seg>
       </tuv>
     </tu>
     <tu>
