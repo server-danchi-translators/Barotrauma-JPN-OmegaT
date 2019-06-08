@@ -4266,6 +4266,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ragdoll</seg>
+      </tuv>
+      <tuv lang="JA" changeid="spears" changedate="20190608T100633Z" creationid="spears" creationdate="20190608T100633Z">
+        <seg>ラグドール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Railgun</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T025327Z" creationid="kakonya" creationdate="20190608T025327Z">
