@@ -2522,6 +2522,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Diving Knife</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T232519Z" creationid="kakonya" creationdate="20190608T232519Z">
+        <seg>ダイビングナイフ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Diving Mask</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T045548Z" creationid="kakonya" creationdate="20190608T045548Z">
@@ -3910,6 +3918,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T032940Z" creationid="nick2" creationdate="20190608T032940Z">
         <seg>船体が激しく傷ついた場合、すぐにダイビングスーツを見つけましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If verbal orders are insufficient, a high-voltage shock from a stun baton may be enough to beat an unruly crew member into submission.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T232517Z" creationid="kakonya" creationdate="20190608T232517Z">
+        <seg>命令を聞かない、手に負えない乗組員には、スタンバトンからの高電圧ショック有効かもしれません</seg>
       </tuv>
     </tu>
     <tu>
@@ -7242,6 +7258,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Stabs, pokes, cuts and slashes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T232600Z" creationid="kakonya" creationdate="20190608T232600Z">
+        <seg>刺したり、突いたり、切ったり、刻んだり。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Stannite</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T171500Z" creationid="nick2" creationdate="20190608T171500Z">
@@ -7350,6 +7374,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T231917Z" creationid="totochan" creationdate="20190607T140704Z">
         <seg>気絶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stun Baton</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T232334Z" creationid="kakonya" creationdate="20190608T232334Z">
+        <seg>スタンバトン</seg>
       </tuv>
     </tu>
     <tu>
@@ -8526,6 +8558,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T041757Z" creationid="nick2" creationdate="20190608T041757Z">
         <seg>「挨拶合言葉」を使って話しかけ、相手は「返答合言葉」で返事をしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use very carefully.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T232329Z" creationid="kakonya" creationdate="20190608T232329Z">
+        <seg>非常に慎重に使用してください。</seg>
       </tuv>
     </tu>
     <tu>
