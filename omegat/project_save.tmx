@@ -3854,6 +3854,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Try to keep the output as close to load as possible.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T021634Z" creationid="kakonya" creationdate="20190608T021634Z">
+        <seg>出力をできるだ負荷に近く維持するようにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Turbine output</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T111417Z" creationid="kakonya" creationdate="20190607T111417Z">
@@ -4246,6 +4254,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When the output is lower it leads to power outages and, when it’s higher, overvoltage and fires.\n\nWhen the reactor operator leaves the interface, it’s recommended to turn automatic control on.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T021924Z" creationid="kakonya" creationdate="20190608T021924Z">
+        <seg>出力が低いと停電になり、高いと過電圧となり発火します。\n\n原子炉を離れるときには自動制御をオンにすること良いでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When the sub is flooded, use pumps to drain excess water.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T103638Z" creationid="kakonya" creationdate="20190607T103541Z">
@@ -4354,6 +4370,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112854Z" creationid="kakonya" creationdate="20190607T112854Z">
         <seg>左側に「アイテム」メニューから既存の潜水艦やコンテンツパッケージを選択するか、「新しいアイテムを作成」ボタンをクリックすることにより、全く新しいアイテムを作成することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can see load and output values to the right.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T021455Z" creationid="kakonya" creationdate="20190608T021455Z">
+        <seg> ({0})で中のものを見ることができます.</seg>
       </tuv>
     </tu>
     <tu>
