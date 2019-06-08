@@ -502,6 +502,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Change of plans.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T020236Z" creationid="kakonya" creationdate="20190608T020236Z">
+        <seg>計画の変更。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Character Editor</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T104156Z" creationid="totochan" creationdate="20190607T104156Z">
@@ -554,6 +562,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T105135Z" creationid="kakonya" creationdate="20190607T105135Z">
         <seg>戦闘</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Come to the sub.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T020302Z" creationid="kakonya" creationdate="20190608T020302Z">
+        <seg>潜水艦に来て下さい。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1286,6 +1302,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Find some wire and do a quick fix, otherwise we’re without power.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T020230Z" creationid="kakonya" creationdate="20190608T020230Z">
+        <seg>いくつかの線を見つけ、迅速に修正を行いましょう。それまで我々は電源なしです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fission rate</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T111415Z" creationid="kakonya" creationdate="20190607T111415Z">
@@ -1370,6 +1394,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T060100Z" creationid="kakonya" creationdate="20190607T060100Z">
         <seg>ロッカーから装備を入手する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Good work.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T020605Z" creationid="kakonya" creationdate="20190608T020605Z">
+        <seg>良いでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1914,6 +1946,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T111413Z" creationid="kakonya" creationdate="20190607T111413Z">
         <seg>負荷: [kw] kW</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Looks like the electrical room’s seen better days.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T020523Z" creationid="kakonya" creationdate="20190608T020523Z">
+        <seg>電気制御室は安定しているようです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2838,6 +2878,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Retrieve equipment from the cabinet</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T020741Z" creationid="kakonya" creationdate="20190608T020741Z">
+        <seg>キャビネットから装備品を取りだす</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Retry</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T104212Z" creationid="totochan" creationdate="20190607T104212Z">
@@ -2978,6 +3026,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T141250Z" creationid="totochan" creationdate="20190607T141250Z">
         <seg>検索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See if you can get it online, then start up the reactor.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T020556Z" creationid="kakonya" creationdate="20190608T020556Z">
+        <seg>オンラインにできるかどうかを確認してから、原子炉を起動します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3170,6 +3226,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T005310Z" creationid="nick2" creationdate="20190608T005310Z">
         <seg>エウロパのエイリアンの建造物のいくつかは、物理的損傷に対して著しい耐性を持つメタマテリアルで構成されており、エウロパの科学者にとって重要な研究課題となっています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some of the wiring seems to be faulty.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T020142Z" creationid="kakonya" creationdate="20190608T020142Z">
+        <seg>配線の一部が故障のようです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4098,6 +4162,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T003045Z" creationid="nick2" creationdate="20190608T003045Z">
         <seg>溶接ツールはシンプルな仕組みなので誰にも扱うことができますが、訓練を受けたメカニックはより素早く溶接でき、自分自身を傷つける可能性も低いです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We’re gonna blow this joint.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T020334Z" creationid="kakonya" creationdate="20190608T020334Z">
+        <seg>このジョイントを打つつもりです。</seg>
       </tuv>
     </tu>
     <tu>
