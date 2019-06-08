@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A device that can be used to observe the outside of the sub by connecting it to a camera, or to control weapons such as the railgun and coilgun.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T025602Z" creationid="kakonya" creationdate="20190608T025602Z">
+        <seg>カメラに接続して潜水艦の外側を観察したり、レールガンやコイルガンなどの武器を制御するために使用できるデバイス。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A diving suit protects the wearer from high pressure.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T013405Z" creationid="kakonya" creationdate="20190608T013405Z">
@@ -26,6 +34,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T114616Z" creationid="kakonya" creationdate="20190607T114616Z">
         <seg>上下を仕切るハッチドア.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A heavy turret that uses electromagnetic force to launch shells at very high velocities.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T025356Z" creationid="kakonya" creationdate="20190608T025356Z">
+        <seg>非常に高速で砲弾を発射するために電磁力を使用する重砲タレット。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2774,6 +2790,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Periscope</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T025531Z" creationid="kakonya" creationdate="20190608T025531Z">
+        <seg>潜望鏡</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Personnel Transport</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T105152Z" creationid="kakonya" creationdate="20190607T105152Z">
@@ -3022,6 +3046,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Railgun</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T025327Z" creationid="kakonya" creationdate="20190608T025327Z">
+        <seg>レールガン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Railgun shells and depth charges include a compartment that can hold additional explosives.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190607T235856Z" creationid="nick2" creationdate="20190607T235720Z">
@@ -3154,6 +3186,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T023754Z" creationid="kakonya" creationdate="20190608T023754Z">
         <seg>この作業を繰り返します。\n\nもし接続パネルインターフェースに電線が表示されない場合は、装備をしているか確認してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Requires very large surges of power (usually supplied by supercapacitors) and has a low rate of fire, and as such it's most often used against large and heavily armored targets.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T025526Z" creationid="kakonya" creationdate="20190608T025526Z">
+        <seg>非常に大きな電力サージ（通常スーパーキャパシターによって供給される）を必要とし、連射ができないため、大きくて重装甲の標的に対して有効でしょう。</seg>
       </tuv>
     </tu>
     <tu>
