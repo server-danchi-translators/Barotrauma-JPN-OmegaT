@@ -6690,6 +6690,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Silicon</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T174945Z" creationid="nick2" creationdate="20190608T174945Z">
+        <seg>シリコン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Single Player</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112515Z" creationid="kakonya" creationdate="20190607T112515Z">
@@ -8158,6 +8166,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T112737Z" creationid="kakonya" creationdate="20190608T112737Z">
         <seg>血栓が生じる可能性があるので注意して使用してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Used as an ingredient in aluminum alloys, plastic and various electrical components.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T175209Z" creationid="nick2" creationdate="20190608T175209Z">
+        <seg>アルミニウム合金、プラスチック及び各種電気部品の原料として使用される。</seg>
       </tuv>
     </tu>
     <tu>
