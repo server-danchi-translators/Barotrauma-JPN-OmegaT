@@ -310,10 +310,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Aluminium</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T060411Z" creationid="hiru4" creationdate="20190608T060411Z">
+        <seg>アルミニウム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An antibiotic glue with hemostatic properties.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T053954Z" creationid="kakonya" creationdate="20190608T053954Z">
         <seg>止血特性を持つ抗生物質の接着剤。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An element, useful for crafting.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T060450Z" creationid="hiru4" creationdate="20190608T060450Z">
+        <seg>クラフトに使用できます。.</seg>
       </tuv>
     </tu>
     <tu>
@@ -462,6 +478,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ballistic Fiber</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T060615Z" creationid="hiru4" creationdate="20190608T060615Z">
+        <seg>弾道ファイバ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ban</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T105037Z" creationid="kakonya" creationdate="20190607T105037Z">
@@ -602,6 +626,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T231436Z" creationid="kakonya" creationdate="20190607T231436Z">
         <seg>焼死</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Calcium</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T060400Z" creationid="hiru4" creationdate="20190608T060400Z">
+        <seg>カルシウム</seg>
       </tuv>
     </tu>
     <tu>
@@ -1758,6 +1790,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flash Powder</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T060637Z" creationid="hiru4" creationdate="20190608T060637Z">
+        <seg>フラッシュパウダー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fractal Guardian</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T141313Z" creationid="totochan" creationdate="20190607T141313Z">
@@ -2186,6 +2226,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T032950Z" creationid="nick2" creationdate="20190608T032950Z">
         <seg>火災時は火傷などの外傷以外にも気を付けてください。炎は艦内の酸素を瞬時に消費してしまいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Incendium Bar</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T060658Z" creationid="hiru4" creationdate="20190608T060658Z">
+        <seg>インセンディウムバー</seg>
       </tuv>
     </tu>
     <tu>
@@ -3102,6 +3150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Organic Fiber</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T060624Z" creationid="hiru4" creationdate="20190608T060624Z">
+        <seg>有機繊維</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Otherwise the process is the same.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T022946Z" creationid="kakonya" creationdate="20190608T022946Z">
@@ -3242,6 +3298,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T105152Z" creationid="kakonya" creationdate="20190607T105152Z">
         <seg>人事交通</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Plastic</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T060600Z" creationid="hiru4" creationdate="20190608T060600Z">
+        <seg>プラスチック</seg>
       </tuv>
     </tu>
     <tu>
@@ -3854,6 +3918,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rubber</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T060631Z" creationid="hiru4" creationdate="20190608T060631Z">
+        <seg>ゴム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Run</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T140307Z" creationid="totochan" creationdate="20190607T140307Z">
@@ -4274,6 +4346,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112122Z" creationid="kakonya" creationdate="20190607T112122Z">
         <seg>スチームワークショップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Steel Bar</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T060513Z" creationid="hiru4" creationdate="20190608T060513Z">
+        <seg>スチールバー</seg>
       </tuv>
     </tu>
     <tu>
@@ -4814,6 +4894,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Thorium</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T060455Z" creationid="hiru4" creationdate="20190608T060455Z">
+        <seg>トリウム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Titanium</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T060421Z" creationid="hiru4" creationdate="20190608T060421Z">
+        <seg>チタン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Titanium-Aluminum Alloy</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T060557Z" creationid="hiru4" creationdate="20190608T060557Z">
+        <seg>チタンアルミ合金</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Title</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112840Z" creationid="kakonya" creationdate="20190607T112840Z">
@@ -5138,6 +5242,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T041757Z" creationid="nick2" creationdate="20190608T041757Z">
         <seg>「挨拶合言葉」を使って話しかけ、相手は「返答合言葉」で返事をしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Useful for crafting.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T060532Z" creationid="hiru4" creationdate="20190608T060532Z">
+        <seg>クラフトに使用する</seg>
       </tuv>
     </tu>
     <tu>
