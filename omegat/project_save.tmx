@@ -254,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A strong acid that causes burns when in contact with skin.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T165923Z" creationid="nick2" creationdate="20190608T165923Z">
+        <seg>皮膚に接触すると火傷の原因となる強酸。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A strong antipsychotic drug.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T164408Z" creationid="nick2" creationdate="20190608T164408Z">
@@ -2194,6 +2202,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Drinking while on duty is not advised.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T170009Z" creationid="nick2" creationdate="20190608T170009Z">
+        <seg>勤務中に飲酒することはお勧めできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Drop the fire extinguisher</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T013011Z" creationid="kakonya" creationdate="20190608T012947Z">
@@ -2454,6 +2470,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T141009Z" creationid="totochan" creationdate="20190607T141009Z">
         <seg>エラー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ethanol</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T165931Z" creationid="nick2" creationdate="20190608T165931Z">
+        <seg>エタノール</seg>
       </tuv>
     </tu>
     <tu>
@@ -4058,6 +4082,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Medical alcohol used as an ingredient in the manufacture of various medicines.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T165957Z" creationid="nick2" creationdate="20190608T165957Z">
+        <seg>様々な医薬品の原料として使用される医療アルコール。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Medium Windowed Steel Cabinet</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T060943Z" creationid="hiru4" creationdate="20190608T060943Z">
@@ -4230,6 +4262,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T014109Z" creationid="nick2" creationdate="20190608T014109Z">
         <seg>モルビシンはエウロパの強力な捕食者を倒せるほどに強力な神経毒です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Morphine</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T165911Z" creationid="nick2" creationdate="20190608T165911Z">
+        <seg>モルヒネ</seg>
       </tuv>
     </tu>
     <tu>
@@ -6490,6 +6530,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sulphuric Acid</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T165912Z" creationid="nick2" creationdate="20190608T165912Z">
+        <seg>硫酸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Supercapacitors can deliver large bursts of power, but cannot store as much energy as batteries.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T001619Z" creationid="nick2" creationdate="20190608T001524Z">
@@ -7454,6 +7502,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T112737Z" creationid="kakonya" creationdate="20190608T112737Z">
         <seg>血栓が生じる可能性があるので注意して使用してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Used as an ingredient in several poisons.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T170041Z" creationid="nick2" creationdate="20190608T165927Z">
+        <seg>いくつかの毒の原料として使用される。</seg>
       </tuv>
     </tu>
     <tu>
