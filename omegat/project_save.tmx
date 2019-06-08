@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -474,6 +474,38 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T141044Z" creationid="totochan" creationdate="20190607T141044Z">
         <seg>戻る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Background Rock 1</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T060803Z" creationid="hiru4" creationdate="20190608T060803Z">
+        <seg>背景ロック1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Background Rock 2</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T060806Z" creationid="hiru4" creationdate="20190608T060806Z">
+        <seg>背景ロック2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Background Rock 3</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T060809Z" creationid="hiru4" creationdate="20190608T060809Z">
+        <seg>背景ロック3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Background Rock 4</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T060811Z" creationid="hiru4" creationdate="20190608T060811Z">
+        <seg>背景ロック4</seg>
       </tuv>
     </tu>
     <tu>
@@ -1214,6 +1246,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dementonite Bar</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T060721Z" creationid="hiru4" creationdate="20190608T060721Z">
+        <seg>デメントナイトバー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Deploys a depth charge or decoy.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T025019Z" creationid="kakonya" creationdate="20190608T025019Z">
@@ -1710,6 +1750,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fiber Plant</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T060737Z" creationid="hiru4" creationdate="20190608T060737Z">
+        <seg>植物繊維</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>File is not present in the Workshop item folder and will not be included in the Workshop item.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113002Z" creationid="kakonya" creationdate="20190607T113002Z">
@@ -1826,6 +1874,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T111844Z" creationid="kakonya" creationdate="20190607T111844Z">
         <seg>燃料棒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fulgurium Bar</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T060703Z" creationid="hiru4" creationdate="20190608T060703Z">
+        <seg>フルグリムバー</seg>
       </tuv>
     </tu>
     <tu>
@@ -2446,6 +2502,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Large Steel Cabinet</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T060950Z" creationid="hiru4" creationdate="20190608T060950Z">
+        <seg>大型スチールキャビネット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Leaks</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T102142Z" creationid="kakonya" creationdate="20190607T102142Z">
@@ -2778,6 +2842,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T115029Z" creationid="kakonya" creationdate="20190607T115029Z">
         <seg>医療用ファブリケーター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Medium Windowed Steel Cabinet</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T060943Z" creationid="hiru4" creationdate="20190608T060943Z">
+        <seg>中型窓付きスチールキャビネット</seg>
       </tuv>
     </tu>
     <tu>
@@ -3298,6 +3370,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T105152Z" creationid="kakonya" creationdate="20190607T105152Z">
         <seg>人事交通</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Physicorium Bar</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T060715Z" creationid="hiru4" creationdate="20190608T060715Z">
+        <seg>サイコリウムバー</seg>
       </tuv>
     </tu>
     <tu>
@@ -4358,6 +4438,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Storage for small- and medium-sized items.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T060905Z" creationid="hiru4" creationdate="20190608T060855Z">
+        <seg>アイテムストレージ（中型サイズ）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Structure</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T114350Z" creationid="kakonya" creationdate="20190607T114350Z">
@@ -4442,6 +4530,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T001619Z" creationid="nick2" creationdate="20190608T001524Z">
         <seg>スーパーキャパシタは瞬間的に大きな電力を提供することができますが、バッテリーのように多くのエネルギーを保存することはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Supplies Cabinet</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T060814Z" creationid="hiru4" creationdate="20190608T060814Z">
+        <seg>備品箱</seg>
       </tuv>
     </tu>
     <tu>
