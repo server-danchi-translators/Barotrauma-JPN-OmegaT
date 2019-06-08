@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -186,6 +186,14 @@
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190608T061232Z" creationid="kakonya" creationdate="20190607T113840Z">
         <seg>アイテムの強調表示が有効になる、カーソルからの距離を設定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Aft access shaft</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T062348Z" creationid="hiru4" creationdate="20190608T062348Z">
+        <seg>後部アクセスシャフト</seg>
       </tuv>
     </tu>
     <tu>
@@ -446,6 +454,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T061650Z" creationid="hiru4" creationdate="20190608T061650Z">
         <seg>本気ですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Armory</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T062225Z" creationid="hiru4" creationdate="20190608T062225Z">
+        <seg>武器庫</seg>
       </tuv>
     </tu>
     <tu>
@@ -870,6 +886,22 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T043008Z" creationid="nick2" creationdate="20190608T043008Z">
         <seg>死因</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Central access passage</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T062335Z" creationid="hiru4" creationdate="20190608T062335Z">
+        <seg>中央アクセス通路</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Central access shaft</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T062339Z" creationid="hiru4" creationdate="20190608T062339Z">
+        <seg>中央アクセスシャフト</seg>
       </tuv>
     </tu>
     <tu>
@@ -1562,6 +1594,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Docking port</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T062244Z" creationid="hiru4" creationdate="20190608T062244Z">
+        <seg>ドッキングポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Doctor's Uniform</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T044511Z" creationid="kakonya" creationdate="20190608T044511Z">
@@ -1766,6 +1806,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T114849Z" creationid="kakonya" creationdate="20190607T114849Z">
         <seg>エンジン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Engine #1</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T062408Z" creationid="hiru4" creationdate="20190608T062408Z">
+        <seg>エンジン#1</seg>
       </tuv>
     </tu>
     <tu>
@@ -2042,6 +2090,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Forward access shaft</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T062358Z" creationid="hiru4" creationdate="20190608T062343Z">
+        <seg>前方アクセスシャフト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fractal Guardian</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T141313Z" creationid="totochan" creationdate="20190607T141313Z">
@@ -2052,8 +2108,8 @@
       <tuv lang="EN-US">
         <seg>Front ballast</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190608T062146Z" creationid="hiru4" creationdate="20190608T062146Z">
-        <seg>フロントバラスト</seg>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T062221Z" creationid="hiru4" creationdate="20190608T062146Z">
+        <seg>前部バラスト</seg>
       </tuv>
     </tu>
     <tu>
@@ -2730,6 +2786,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Junction compartment</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T062327Z" creationid="hiru4" creationdate="20190608T062327Z">
+        <seg>配電部品</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Just drag the item into one of the top slots and press the “Deconstruct” button.\n\nIn this case, fabricating a fire extinguisher requires aluminum and sodium.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T234537Z" creationid="kakonya" creationdate="20190607T111051Z">
@@ -2814,6 +2878,22 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T061353Z" creationid="hiru4" creationdate="20190608T061353Z">
         <seg>最終データLast saved</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Launch Decoy</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T062426Z" creationid="hiru4" creationdate="20190608T062426Z">
+        <seg>デコイを起動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Launch Depth Charge</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T062433Z" creationid="hiru4" creationdate="20190608T062433Z">
+        <seg>起動爆雷</seg>
       </tuv>
     </tu>
     <tu>
@@ -2974,6 +3054,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T013422Z" creationid="nick2" creationdate="20190608T013422Z">
         <seg>大きな音を出すデバイスやソナーの探信音が近くのクリーチャーをおびき寄せるかもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lower docking port</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T062314Z" creationid="hiru4" creationdate="20190608T062314Z">
+        <seg>下部ドッキングポート</seg>
       </tuv>
     </tu>
     <tu>
@@ -5922,6 +6010,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Upper docking port</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T062449Z" creationid="hiru4" creationdate="20190608T062259Z">
+        <seg>上部ドッキングポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Usable device for generating electrical power.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T024640Z" creationid="kakonya" creationdate="20190608T024640Z">
@@ -6824,6 +6920,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112833Z" creationid="kakonya" creationdate="20190607T112833Z">
         <seg>投票数[votecount]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>engine</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T062415Z" creationid="hiru4" creationdate="20190608T062415Z">
+        <seg>エンジン</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
