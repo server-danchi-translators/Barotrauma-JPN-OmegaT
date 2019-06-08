@@ -858,6 +858,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Are you sure you want to choose a shuttle as your vessel?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="spears" changedate="20190608T165208Z" creationid="spears" creationdate="20190608T165208Z">
+        <seg>あなたの乗り物はこの潜水艦でよろしいですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Are you sure you want to choose the submarine?</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T061531Z" creationid="hiru4" creationdate="20190608T061531Z">
@@ -1530,6 +1538,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Charybdis</seg>
+      </tuv>
+      <tuv lang="JA" changeid="spears" changedate="20190608T164906Z" creationid="spears" creationdate="20190608T164906Z">
+        <seg>チャリブディス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Chat</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T140310Z" creationid="totochan" creationdate="20190607T140310Z">
@@ -1598,6 +1614,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T044716Z" creationid="kakonya" creationdate="20190608T044716Z">
         <seg>ピエロマスク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Coelanth</seg>
+      </tuv>
+      <tuv lang="JA" changeid="spears" changedate="20190608T164823Z" creationid="spears" creationdate="20190608T164823Z">
+        <seg>シーラカンス</seg>
       </tuv>
     </tu>
     <tu>
@@ -2566,6 +2590,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113529Z" creationid="kakonya" creationdate="20190607T113529Z">
         <seg>垂直同期を有効</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enabled</seg>
+      </tuv>
+      <tuv lang="JA" changeid="spears" changedate="20190608T164648Z" creationid="spears" creationdate="20190608T164648Z">
+        <seg>有効化</seg>
       </tuv>
     </tu>
     <tu>
@@ -4618,6 +4650,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Most shuttles are not adequately equipped to deal with the dangers of the Europan depths.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="spears" changedate="20190608T165440Z" creationid="spears" creationdate="20190608T165115Z">
+        <seg>ほとんどのシャトルはエウロパの海の深さに耐えられるだけの十分な装備がありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Most submarine hulls will start collapsing at the depth of approximately 2,000 meters.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T033035Z" creationid="nick2" creationdate="20190608T033035Z">
@@ -5214,6 +5254,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T025531Z" creationid="kakonya" creationdate="20190608T025531Z">
         <seg>潜望鏡</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Permanent</seg>
+      </tuv>
+      <tuv lang="JA" changeid="spears" changedate="20190608T164705Z" creationid="spears" creationdate="20190608T164705Z">
+        <seg>恒久</seg>
       </tuv>
     </tu>
     <tu>
@@ -5822,6 +5870,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T132131Z" creationid="nick2" creationdate="20190608T132131Z">
         <seg>Banの理由？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reason:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="spears" changedate="20190608T164717Z" creationid="spears" creationdate="20190608T164717Z">
+        <seg>理由：</seg>
       </tuv>
     </tu>
     <tu>
@@ -7906,6 +7962,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use Karma</seg>
+      </tuv>
+      <tuv lang="JA" changeid="spears" changedate="20190608T164626Z" creationid="spears" creationdate="20190608T164622Z">
+        <seg>カルマを使用します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use [radiobutton] to talk through the radio.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T040640Z" creationid="nick2" creationdate="20190608T040640Z">
@@ -8054,6 +8118,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113703Z" creationid="kakonya" creationdate="20190607T113703Z">
         <seg>ボイスチャット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Voice chat enabled</seg>
+      </tuv>
+      <tuv lang="JA" changeid="spears" changedate="20190608T164632Z" creationid="spears" creationdate="20190608T164632Z">
+        <seg>ボイスチャット有効</seg>
       </tuv>
     </tu>
     <tu>
