@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A powerful opiate for treating pain associated with internal injuries, but will cause shortness of breath and eventual dependency with overuse.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T165904Z" creationid="nick2" creationdate="20190608T165321Z">
+        <seg>内部損傷に伴う痛みを緩和する強力なアヘン。しかし乱用すると息切れ、依存症状が発生する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A psychosis-inducing toxin.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T161608Z" creationid="nick2" creationdate="20190608T161608Z">
@@ -240,8 +248,8 @@
       <tuv lang="EN-US">
         <seg>A sodium chloride infusion mildly useful in the treatment of blood loss.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190608T165042Z" creationid="nick2" creationdate="20190608T165042Z">
-        <seg>失血の治療において有用な。</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T165140Z" creationid="nick2" creationdate="20190608T165042Z">
+        <seg>失血の治療にそれなりに有用な塩化ナトリウム煎薬。</seg>
       </tuv>
     </tu>
     <tu>
@@ -588,8 +596,8 @@
       <tuv lang="EN-US">
         <seg>An opioid antagonist for the treatment of opiate-based withdrawal and overdose.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190608T164358Z" creationid="nick2" creationdate="20190608T163937Z">
-        <seg>麻薬由来の離脱症状や過剰摂取の治療のためのオピオイド拮抗薬。</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T165329Z" creationid="nick2" creationdate="20190608T163937Z">
+        <seg>アヘン由来の離脱症状や過剰摂取の治療のためのオピオイド拮抗薬。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2538,6 +2546,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fentanyl</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T165142Z" creationid="nick2" creationdate="20190608T165142Z">
+        <seg>フェンタニル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fiber Plant</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T060737Z" creationid="hiru4" creationdate="20190608T060737Z">
@@ -4084,8 +4100,8 @@
       <tuv lang="EN-US">
         <seg>Might require higher dosage to cure the infection at later stages.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190608T164635Z" creationid="nick2" creationdate="20190608T164635Z">
-        <seg>感染症の進行具合によっては大用量の投与が必要な場合があります。</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T165110Z" creationid="nick2" creationdate="20190608T164635Z">
+        <seg>感染症の進行具合によっては大用量の投与が必要な場合がある。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6092,8 +6108,8 @@
       <tuv lang="EN-US">
         <seg>Slows down cellular degradation caused by radiation.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190608T163852Z" creationid="nick2" creationdate="20190608T163852Z">
-        <seg>放射線によって引き起こされる細胞の劣化を遅れさせます。</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T165055Z" creationid="nick2" creationdate="20190608T163852Z">
+        <seg>放射線によって引き起こされる細胞の劣化を遅れさせる。</seg>
       </tuv>
     </tu>
     <tu>
