@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A mild antibiotic that acts against a wide range of disease-causing bacteria, though with the side effect of internal damage.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T170551Z" creationid="nick2" creationdate="20190608T170551Z">
+        <seg>疾患を引き起こす様々な細菌に対して作用する軽度の抗生物質。しかし内部損傷の副作用を引き起こす。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A mildly toxic solution that slowly releases oxygen into the bloodstream when injected.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T163735Z" creationid="nick2" creationdate="20190608T163735Z">
@@ -1062,6 +1070,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T005126Z" creationid="nick2" creationdate="20190608T005126Z">
         <seg>デコンストラクタでエイリアンのアーティファクトを分解すると、外来的な原料を確保できるかもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Broad-spectrum Antibiotics</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T170257Z" creationid="nick2" creationdate="20190608T170257Z">
+        <seg>広域抗生物質</seg>
       </tuv>
     </tu>
     <tu>
@@ -4626,6 +4642,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On its own, can be mildly useful in the treatment of internal damage and burns, and slightly more effective for oxygen deprivation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T170254Z" creationid="nick2" creationdate="20190608T170254Z">
+        <seg>原料のままだと、内部損傷や火傷の治療で微かに役立ち、酸素欠乏に対しては若干効果的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>One of the most crucial tools on board the submarine.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T112756Z" creationid="kakonya" creationdate="20190608T112756Z">
@@ -6306,6 +6330,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Stabilozine</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T170043Z" creationid="nick2" creationdate="20190608T170043Z">
+        <seg>スタビロジン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Start</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T140145Z" creationid="totochan" creationdate="20190607T140145Z">
@@ -7510,6 +7542,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T170041Z" creationid="nick2" creationdate="20190608T165927Z">
         <seg>いくつかの毒の原料として使用される。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Used as an ingredient in the manufacture of various medicines.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T170114Z" creationid="nick2" creationdate="20190608T170057Z">
+        <seg>様々な医薬品の原料として使用される。</seg>
       </tuv>
     </tu>
     <tu>
