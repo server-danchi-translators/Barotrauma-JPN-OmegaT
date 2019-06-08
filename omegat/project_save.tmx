@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A highly potent stimulant effective in the treatment of internal damage, oxygen deprivation and, to a lesser extent, blood loss.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T164828Z" creationid="nick2" creationdate="20190608T164828Z">
+        <seg>非常に強力な刺激剤。内部損傷、酸素欠乏及び少量の失血の治療に有効。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A highly unstable liquid that may explode when subjected to heat or physical shock.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T161523Z" creationid="nick2" creationdate="20190608T161523Z">
@@ -122,6 +130,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T163735Z" creationid="nick2" creationdate="20190608T163735Z">
         <seg>微かに中毒性のある化合物。注射することで血流に酸素を与える。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A pack of blood substitute for the treatment of blood loss.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T164903Z" creationid="nick2" creationdate="20190608T164903Z">
+        <seg>失血の治療のための代用血液のパック。</seg>
       </tuv>
     </tu>
     <tu>
@@ -218,6 +234,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T114633Z" creationid="kakonya" creationdate="20190607T114633Z">
         <seg>2個の内蔵ボタンを備えたスライドドア。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A sodium chloride infusion mildly useful in the treatment of blood loss.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T165042Z" creationid="nick2" creationdate="20190608T165042Z">
+        <seg>失血の治療において有用な。</seg>
       </tuv>
     </tu>
     <tu>
@@ -958,6 +982,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T014255Z" creationid="nick2" creationdate="20190608T014255Z">
         <seg>出血傷は包帯や止血剤で処理することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Blood Pack</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T164850Z" creationid="nick2" creationdate="20190608T164850Z">
+        <seg>血液パック</seg>
       </tuv>
     </tu>
     <tu>
@@ -1886,6 +1918,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T141119Z" creationid="totochan" creationdate="20190607T141119Z">
         <seg>行き先</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deusizine</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T164639Z" creationid="nick2" creationdate="20190608T164639Z">
+        <seg>デウニジン</seg>
       </tuv>
     </tu>
     <tu>
@@ -5058,6 +5098,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Produces mild burns as a side effect.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T164847Z" creationid="nick2" creationdate="20190608T164847Z">
+        <seg>副作用として軽度の火傷を引き起こします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Prospecting</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T110508Z" creationid="kakonya" creationdate="20190607T110508Z">
@@ -5678,6 +5726,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T111524Z" creationid="kakonya" creationdate="20190607T111524Z">
         <seg>故障</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Saline</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T164905Z" creationid="nick2" creationdate="20190608T164905Z">
+        <seg>生理食塩水</seg>
       </tuv>
     </tu>
     <tu>
