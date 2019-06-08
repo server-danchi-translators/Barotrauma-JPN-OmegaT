@@ -2150,6 +2150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Passive sonar can be used to detect nearby sound sources without attracting unwanted attention.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190607T235722Z" creationid="nick2" creationdate="20190607T235722Z">
+        <seg>パッシブソナーは、不要な注目を集めずに近くの音源を検出するために使用することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Password</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T104444Z" creationid="totochan" creationdate="20190607T104444Z">
@@ -2386,6 +2394,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T114104Z" creationid="kakonya" creationdate="20190607T114104Z">
         <seg>ラジオチャット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Railgun shells and depth charges include a compartment that can hold additional explosives.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190607T235856Z" creationid="nick2" creationdate="20190607T235720Z">
+        <seg>レールガンの砲弾や爆雷は、追加の弾薬を保持できる区画を持っています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3642,6 +3658,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T140857Z" creationid="totochan" creationdate="20190607T140857Z">
         <seg>すべて、はい</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can also get a rough idea of your surroundings based on the sounds reflected from the ice walls.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T000005Z" creationid="nick2" creationdate="20190607T235724Z">
+        <seg>また、氷の隔壁からの反射音に基づいて、大まかな周りの地形を知ることができます。</seg>
       </tuv>
     </tu>
     <tu>
