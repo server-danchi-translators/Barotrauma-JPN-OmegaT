@@ -2546,6 +2546,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I don't think anyone needs medical attention at the moment.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="spears" changedate="20190608T101559Z" creationid="spears" creationdate="20190608T101506Z">
+        <seg>現在ドクターの診察を必要とする人がいるとは思いません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I want you to grab what you need to get us online again.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T020030Z" creationid="kakonya" creationdate="20190608T020030Z">
@@ -3674,10 +3682,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No response from the server.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="spears" changedate="20190608T101710Z" creationid="spears" creationdate="20190608T101710Z">
+        <seg>サーバーからの応答がありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No to All</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T140903Z" creationid="totochan" creationdate="20190607T140903Z">
         <seg>すべて、いいえ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No-one seems to be in need of medical attention at the moment!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="spears" changedate="20190608T101622Z" creationid="spears" creationdate="20190608T101622Z">
+        <seg>現在誰も医療処置を必要としていないようです！</seg>
       </tuv>
     </tu>
     <tu>
@@ -5790,6 +5814,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T232228Z" creationid="kakonya" creationdate="20190607T232228Z">
         <seg>かなりの重体で、臓器損傷と眼底出血しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There may be a connection issue at the server's end.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="spears" changedate="20190608T101807Z" creationid="spears" creationdate="20190608T101807Z">
+        <seg>サーバの接続に問題があるかもしれません。</seg>
       </tuv>
     </tu>
     <tu>
