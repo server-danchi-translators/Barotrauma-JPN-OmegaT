@@ -1094,6 +1094,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Electrical room</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T023801Z" creationid="kakonya" creationdate="20190608T023801Z">
+        <seg>電気室</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enable</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112821Z" creationid="kakonya" creationdate="20190607T112821Z">
@@ -1338,6 +1346,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T020230Z" creationid="kakonya" creationdate="20190608T020230Z">
         <seg>いくつかの線を見つけ、迅速に修正を行いましょう。それまで我々は電源なしです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find the sub’s electrical room and repair the junction boxes by interacting with them while holding a screwdriver, then pressing the “Repair” button.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T023946Z" creationid="kakonya" creationdate="20190608T023925Z">
+        <seg>持ち潜水艦の電気室を探し、ドライバー持ちジャンクションボックスを操作し、次に「Repair」ボタンを押して修理します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2678,6 +2694,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Power up submarine’s reactor</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T024005Z" creationid="kakonya" creationdate="20190608T024005Z">
+        <seg>潜水艦の原子炉の電源を入れる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Power up the reactor</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T021028Z" creationid="kakonya" creationdate="20190608T021028Z">
@@ -2938,6 +2962,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T022016Z" creationid="kakonya" creationdate="20190608T022016Z">
         <seg>壊れた配電盤を修復</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Repair the electrical room</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T023818Z" creationid="kakonya" creationdate="20190608T023818Z">
+        <seg>電気屋を修する復</seg>
       </tuv>
     </tu>
     <tu>
