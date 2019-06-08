@@ -510,6 +510,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Body Armor</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T045101Z" creationid="kakonya" creationdate="20190608T045101Z">
+        <seg>ボディアーマー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Borderless windowed</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113528Z" creationid="kakonya" creationdate="20190607T113528Z">
@@ -2950,6 +2958,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Obey my authority!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T045058Z" creationid="kakonya" creationdate="20190608T045058Z">
+        <seg>権威に従って!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Only select this if you wish to create a mod that replaces all the Vanilla files.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112924Z" creationid="kakonya" creationdate="20190607T112924Z">
@@ -3794,6 +3810,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T024501Z" creationid="kakonya" creationdate="20190608T024501Z">
         <seg>サーチライト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Security Officer's Uniform</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T045034Z" creationid="kakonya" creationdate="20190608T045034Z">
+        <seg>セキュリティ担当者の制服</seg>
       </tuv>
     </tu>
     <tu>
@@ -5210,6 +5234,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T011309Z" creationid="nick2" creationdate="20190608T011309Z">
         <seg>遺跡や洞窟を探検する時は、出口までの目印を作るためにできるだけ頻繁にフレアを残しましょう。何らかの理由で急いで脱出しなければならないかもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>While the body armor won't offer adequate protection against most of the inhabitants of the subsurface ocean, it can be extremely useful if there are traitors on board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T045322Z" creationid="kakonya" creationdate="20190608T045322Z">
+        <seg>ボディアーマーは深海の生物に対しては十分な防御力はないですが、艦内に裏切り者がいる場合は非常に便利です。.</seg>
       </tuv>
     </tu>
     <tu>
