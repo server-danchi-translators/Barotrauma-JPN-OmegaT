@@ -1822,6 +1822,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Loud devices and sonar pings may alert nearby creatures.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T013422Z" creationid="nick2" creationdate="20190608T013422Z">
+        <seg>大きな音を出すデバイスやソナーの探信音が近くのクリーチャーをおびき寄せるかもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lower values improve performance, but cause shadows to appear more pixellated.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113541Z" creationid="kakonya" creationdate="20190607T113541Z">
@@ -1914,6 +1922,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T111851Z" creationid="kakonya" creationdate="20190607T111851Z">
         <seg>手動操縦</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Many creatures on Europa are protected by a strong shell, and are difficult to damage with conventional weapons, though there may be weak points in their armor.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T013256Z" creationid="nick2" creationdate="20190608T013256Z">
+        <seg>エウロパの多くの生き物は強固な外殻によって保護され、通常の兵器で損傷することは困難ですが、その鎧には弱点があるかもしれません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2306,6 +2322,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113458Z" creationid="kakonya" creationdate="20190607T113458Z">
         <seg>そのウィンドウにフォーカスがないときに、ゲームを一時停止します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Performing CPR without adequate medical skills may cause internal damage to the patient.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T013509Z" creationid="nick2" creationdate="20190608T013509Z">
+        <seg>十分な医療スキルがなく心肺蘇生を実行すると、患者への内部損傷を引き起こす可能性があります。</seg>
       </tuv>
     </tu>
     <tu>
