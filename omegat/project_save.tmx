@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -294,6 +294,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Allow spectating</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T062015Z" creationid="hiru4" creationdate="20190608T062015Z">
+        <seg>観戦を許可</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Allows limited access to areas of the sub.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T025808Z" creationid="kakonya" creationdate="20190608T025808Z">
@@ -550,6 +558,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ballast tank A</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T062128Z" creationid="hiru4" creationdate="20190608T062128Z">
+        <seg>バラストタンクA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ballast tank B</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T062132Z" creationid="hiru4" creationdate="20190608T062132Z">
+        <seg>バラストタンクB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ballast tank C</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T062133Z" creationid="hiru4" creationdate="20190608T062133Z">
+        <seg>バラストタンクC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ballast tank E</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T062134Z" creationid="hiru4" creationdate="20190608T062134Z">
+        <seg>バラストタンクE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ballistic Fiber</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T060615Z" creationid="hiru4" creationdate="20190608T060615Z">
@@ -618,6 +658,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T004939Z" creationid="nick2" creationdate="20190608T004939Z">
         <seg>メカニックやエンジニアは随時メンテナンスを行い、最悪な状況での機械類の故障を避けてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Berthing compartment</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T062139Z" creationid="hiru4" creationdate="20190608T062139Z">
+        <seg>停泊区画</seg>
       </tuv>
     </tu>
     <tu>
@@ -938,6 +986,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T061048Z" creationid="hiru4" creationdate="20190608T061048Z">
         <seg>指令室</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Compatible</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T062018Z" creationid="hiru4" creationdate="20190608T062018Z">
+        <seg>コンパチブル</seg>
       </tuv>
     </tu>
     <tu>
@@ -1710,6 +1766,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Engineering</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T062154Z" creationid="hiru4" creationdate="20190608T062154Z">
+        <seg>エンジニアリング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>English</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113209Z" creationid="kakonya" creationdate="20190607T113209Z">
@@ -1958,10 +2022,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Follow submarine</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T061932Z" creationid="hiru4" creationdate="20190608T061932Z">
+        <seg>潜水艦を追跡</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fractal Guardian</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T141313Z" creationid="totochan" creationdate="20190607T141313Z">
         <seg>フラクタルガーディアン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Front ballast</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T062146Z" creationid="hiru4" creationdate="20190608T062146Z">
+        <seg>フロントバラスト</seg>
       </tuv>
     </tu>
     <tu>
@@ -2010,6 +2090,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T114155Z" creationid="kakonya" creationdate="20190607T114155Z">
         <seg>ゲームモード選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Game version</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T061957Z" creationid="hiru4" creationdate="20190608T061957Z">
+        <seg>ゲームのバージョン</seg>
       </tuv>
     </tu>
     <tu>
@@ -2590,9 +2678,25 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Join</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T062034Z" creationid="hiru4" creationdate="20190608T062034Z">
+        <seg>参加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Join Server</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T104151Z" creationid="totochan" creationdate="20190607T104151Z">
+        <seg>サーバーに参加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Join server</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T061936Z" creationid="hiru4" creationdate="20190608T061936Z">
         <seg>サーバーに参加</seg>
       </tuv>
     </tu>
@@ -3312,8 +3416,8 @@
       <tuv lang="EN-US">
         <seg>Name</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190607T141125Z" creationid="totochan" creationdate="20190607T141125Z">
-        <seg>名</seg>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T061950Z" creationid="totochan" creationdate="20190607T141125Z">
+        <seg>名前</seg>
       </tuv>
     </tu>
     <tu>
@@ -3646,6 +3750,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Password-protected</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T062000Z" creationid="hiru4" creationdate="20190608T062000Z">
+        <seg>パスワード保護</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pause on focus lost</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113451Z" creationid="kakonya" creationdate="20190607T113451Z">
@@ -3694,6 +3806,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ping</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T062022Z" creationid="hiru4" creationdate="20190608T062022Z">
+        <seg>指向性ping</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Plastic</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T060600Z" creationid="hiru4" creationdate="20190608T060600Z">
@@ -3714,6 +3834,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T040704Z" creationid="nick2" creationdate="20190608T040704Z">
         <seg>プレイヤー [player] が見つかりません！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Players</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T061954Z" creationid="hiru4" creationdate="20190608T061954Z">
+        <seg>プレーヤー</seg>
       </tuv>
     </tu>
     <tu>
@@ -4078,6 +4206,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rear ballast</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T062201Z" creationid="hiru4" creationdate="20190608T062144Z">
+        <seg>後部バラスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reason</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T040726Z" creationid="nick2" creationdate="20190608T040726Z">
@@ -4238,6 +4374,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Respawn shuttle dispatching in [time]</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T061906Z" creationid="hiru4" creationdate="20190608T061906Z">
+        <seg>シャトルの復帰時間[time]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Respawn shuttle leaving in [time]</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T061912Z" creationid="hiru4" creationdate="20190608T061912Z">
+        <seg>シャトルの復帰時間[time]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Respawning players in [time]</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T061910Z" creationid="hiru4" creationdate="20190608T061910Z">
+        <seg>プレイヤーの復帰[time]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Restart required</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113230Z" creationid="kakonya" creationdate="20190607T113230Z">
@@ -4346,6 +4506,22 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T045544Z" creationid="kakonya" creationdate="20190608T045544Z">
         <seg>防護盾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Round has not started</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T062031Z" creationid="hiru4" creationdate="20190608T062031Z">
+        <seg>ラウンド開始前</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Round started</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T062025Z" creationid="hiru4" creationdate="20190608T062025Z">
+        <seg>ラウンド開始</seg>
       </tuv>
     </tu>
     <tu>
@@ -4538,6 +4714,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T140329Z" creationid="totochan" creationdate="20190607T140329Z">
         <seg>サーバ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Server IP</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T061945Z" creationid="hiru4" creationdate="20190608T061945Z">
+        <seg>サーバーのIP</seg>
       </tuv>
     </tu>
     <tu>
@@ -4866,6 +5050,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T061632Z" creationid="hiru4" creationdate="20190608T061632Z">
         <seg>格納</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stowage compartment</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T062137Z" creationid="hiru4" creationdate="20190608T062137Z">
+        <seg>収納区画</seg>
       </tuv>
     </tu>
     <tu>
@@ -5814,10 +6006,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Using whitelist</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T062006Z" creationid="hiru4" creationdate="20190608T062006Z">
+        <seg>ホワイトリストを使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Usually pumps receive signals from nearby water detectors or navigation terminals, but some can be operated manually.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T103732Z" creationid="kakonya" creationdate="20190607T103732Z">
         <seg>通常では、近くの水検知器やナビゲーション端末から信号を受信しますが、手動で操作も可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Utility compartment</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T062142Z" creationid="hiru4" creationdate="20190608T062142Z">
+        <seg>ユーティリティ区画</seg>
       </tuv>
     </tu>
     <tu>
@@ -5890,6 +6098,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T114205Z" creationid="kakonya" creationdate="20190607T114205Z">
         <seg>必要な投票：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Votes to end the round [votes]/[max]</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T061900Z" creationid="hiru4" creationdate="20190608T061900Z">
+        <seg>ラウンド終了投票数 [votes]/[max]</seg>
       </tuv>
     </tu>
     <tu>
@@ -6420,6 +6636,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Your name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T061939Z" creationid="hiru4" creationdate="20190608T061939Z">
+        <seg>名前</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Your secret task is to assassinate [targetname]!</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T041423Z" creationid="nick2" creationdate="20190608T041423Z">
@@ -6512,6 +6736,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T035238Z" creationid="nick2" creationdate="20190608T035238Z">
         <seg>[client] はサーバーから離脱しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[dir] o'clock</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T062126Z" creationid="hiru4" creationdate="20190608T062126Z">
+        <seg>[dir] 時</seg>
       </tuv>
     </tu>
     <tu>
