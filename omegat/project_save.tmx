@@ -1230,6 +1230,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Diving Mask</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T045548Z" creationid="kakonya" creationdate="20190608T045548Z">
+        <seg>潜水マスク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Diving masks let you breathe underwater, but don't offer any protection against the bone-crushing pressure outside the submarine.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T032928Z" creationid="nick2" creationdate="20190608T032928Z">
@@ -1802,6 +1810,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113548Z" creationid="kakonya" creationdate="20190607T113548Z">
         <seg>HUDスケール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Handcuffs</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T045509Z" creationid="kakonya" creationdate="20190608T045509Z">
+        <seg>手錠</seg>
       </tuv>
     </tu>
     <tu>
@@ -3622,6 +3638,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Resists damage.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T045547Z" creationid="kakonya" creationdate="20190608T045547Z">
+        <seg>ダメージに抵抗します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Resolution</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113523Z" creationid="kakonya" creationdate="20190607T113523Z">
@@ -3722,6 +3746,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T140844Z" creationid="totochan" creationdate="20190607T140844Z">
         <seg>右大腿</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Riot Shield</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T045544Z" creationid="kakonya" creationdate="20190608T045544Z">
+        <seg>防護盾</seg>
       </tuv>
     </tu>
     <tu>
@@ -4990,6 +5022,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Useful for restraining problem players.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T045539Z" creationid="kakonya" creationdate="20190608T045539Z">
+        <seg>問題のある船員を抑制します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Usually pumps receive signals from nearby water detectors or navigation terminals, but some can be operated manually.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T103732Z" creationid="kakonya" creationdate="20190607T103732Z">
@@ -5240,8 +5280,16 @@
       <tuv lang="EN-US">
         <seg>While the body armor won't offer adequate protection against most of the inhabitants of the subsurface ocean, it can be extremely useful if there are traitors on board.</seg>
       </tuv>
-      <tuv lang="JA" changeid="kakonya" changedate="20190608T045322Z" creationid="kakonya" creationdate="20190608T045322Z">
-        <seg>ボディアーマーは深海の生物に対しては十分な防御力はないですが、艦内に裏切り者がいる場合は非常に便利です。.</seg>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T045453Z" creationid="kakonya" creationdate="20190608T045322Z">
+        <seg>ボディアーマーは深海の生物に対しては十分な防御力はないですが、艦内に裏切り者がいる場合は非常に便利です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>While the helmet won't offer adequate protection against most of the inhabitants of the subsurface ocean, it can be extremely useful if there are traitors on board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T045503Z" creationid="kakonya" creationdate="20190608T045503Z">
+        <seg>ヘルメットは深海の生物に対しては十分な防御力はないですが、艦内に裏切り者がいる場合は非常に便利です</seg>
       </tuv>
     </tu>
     <tu>
