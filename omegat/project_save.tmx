@@ -9612,6 +9612,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You need to unload them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T235503Z" creationid="kakonya" creationdate="20190608T235503Z">
+        <seg>上昇しましょう</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You will have to wait for a new round to start.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T132821Z" creationid="nick2" creationdate="20190608T132821Z">
