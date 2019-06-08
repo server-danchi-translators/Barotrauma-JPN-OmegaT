@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A portable container for storing tools</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T044711Z" creationid="kakonya" creationdate="20190608T044711Z">
+        <seg>ツールを格納するためのポータブルコンテナ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A rapid-firing turret that propels metal bolts using electromagnets.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T024709Z" creationid="kakonya" creationdate="20190608T024709Z">
@@ -270,6 +278,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Allows remote communication among the crew.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T044714Z" creationid="kakonya" creationdate="20190608T044714Z">
+        <seg>乗組員の間でリモート通信を可能にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Also recharges oxygen tanks.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T024314Z" creationid="kakonya" creationdate="20190608T024314Z">
@@ -346,6 +362,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113044Z" creationid="kakonya" creationdate="20190607T113044Z">
         <seg>アート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Assistant Clothes</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T044834Z" creationid="kakonya" creationdate="20190608T044834Z">
+        <seg>アシスタントの服</seg>
       </tuv>
     </tu>
     <tu>
@@ -690,6 +714,22 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T141020Z" creationid="totochan" creationdate="20190607T141020Z">
         <seg>閉じる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clown Costume</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T044829Z" creationid="kakonya" creationdate="20190608T044829Z">
+        <seg>ピエロコスチューム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clown Mask</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T044716Z" creationid="kakonya" creationdate="20190608T044716Z">
+        <seg>ピエロマスク</seg>
       </tuv>
     </tu>
     <tu>
@@ -1494,6 +1534,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Even the assistant needs clothing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T044854Z" creationid="kakonya" creationdate="20190608T044854Z">
+        <seg>アシスタントだって服が欲しい。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fabricate a fire extinguisher</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T234734Z" creationid="kakonya" creationdate="20190607T234734Z">
@@ -1770,6 +1818,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T140837Z" creationid="totochan" creationdate="20190607T140837Z">
         <seg>頭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Headset</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T044712Z" creationid="kakonya" creationdate="20190608T044712Z">
+        <seg>ヘッドセット</seg>
       </tuv>
     </tu>
     <tu>
@@ -2458,6 +2514,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T044540Z" creationid="kakonya" creationdate="20190608T044540Z">
         <seg>緊急時に頼りになりそうに見える。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Makes you look like you might offer a mission to a passerby at any moment.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T045031Z" creationid="kakonya" creationdate="20190608T045031Z">
+        <seg>いつでも通行人に任務を提供できるように見えます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3170,6 +3234,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T111336Z" creationid="kakonya" creationdate="20190607T111336Z">
         <seg>電圧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Praise the honkmother.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T044832Z" creationid="kakonya" creationdate="20190608T044832Z">
+        <seg>honkmotherを賞賛。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4598,6 +4670,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Toolbox</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T044707Z" creationid="kakonya" creationdate="20190608T044707Z">
+        <seg>ツールボックス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Torso</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T140838Z" creationid="totochan" creationdate="20190607T140838Z">
@@ -4986,6 +5066,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T141012Z" creationid="totochan" creationdate="20190607T141012Z">
         <seg>警告</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Watchman Clothes</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T044917Z" creationid="kakonya" creationdate="20190608T044917Z">
+        <seg>警備員の服</seg>
       </tuv>
     </tu>
     <tu>
