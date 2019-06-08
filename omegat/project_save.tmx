@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A handheld carbon dioxide extinguisher.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T112942Z" creationid="kakonya" creationdate="20190608T112942Z">
+        <seg>ハンドヘルド消火器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A heads-up display that shows information about the vital signs and status of nearby humans.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T044459Z" creationid="kakonya" creationdate="20190608T044459Z">
@@ -350,6 +358,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T044714Z" creationid="kakonya" creationdate="20190608T044714Z">
         <seg>乗組員の間でリモート通信を可能にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Also a blunt weapon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T113049Z" creationid="kakonya" creationdate="20190608T113049Z">
+        <seg>鈍器としても使用可能。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1346,6 +1362,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Crowbar</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T113014Z" creationid="kakonya" creationdate="20190608T112952Z">
+        <seg>クローバー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Crushed by water pressure.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T232308Z" creationid="kakonya" creationdate="20190607T232308Z">
@@ -2138,6 +2162,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fire Extinguisher</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T112928Z" creationid="kakonya" creationdate="20190608T112928Z">
+        <seg>消火器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fission rate</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T111415Z" creationid="kakonya" creationdate="20190607T111415Z">
@@ -2158,6 +2190,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T061932Z" creationid="hiru4" creationdate="20190608T061932Z">
         <seg>潜水艦を追跡</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Forces doors and hatches open.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T113034Z" creationid="kakonya" creationdate="20190608T113034Z">
+        <seg>ドアとハッチを強制的に開く</seg>
       </tuv>
     </tu>
     <tu>
@@ -2342,6 +2382,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T045509Z" creationid="kakonya" creationdate="20190608T045509Z">
         <seg>手錠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Handheld Sonar</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T113052Z" creationid="kakonya" creationdate="20190608T113052Z">
+        <seg>ハンドヘルドソナー</seg>
       </tuv>
     </tu>
     <tu>
@@ -3218,6 +3266,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Makes electrical repairs and rewiring possible.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T112946Z" creationid="kakonya" creationdate="20190608T112946Z">
+        <seg>電気修理や再配線が可能となります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Makes mechanical repairs possible.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T112948Z" creationid="kakonya" creationdate="20190608T112948Z">
+        <seg>機械の修理を可能にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Makes you look like you might be in charge.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T030059Z" creationid="kakonya" creationdate="20190608T030059Z">
@@ -3930,6 +3994,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Oxygen Tank</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T112922Z" creationid="kakonya" creationdate="20190608T112922Z">
+        <seg>酸素ボンベ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Oxygen Tank (empty)</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T114419Z" creationid="kakonya" creationdate="20190607T114419Z">
@@ -4178,6 +4250,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Portable oxygen container.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T112926Z" creationid="kakonya" creationdate="20190608T112926Z">
+        <seg>携帯用酸素コンテナ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Portable sonar, handy for exploration.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T113104Z" creationid="kakonya" creationdate="20190608T113104Z">
+        <seg>ポータブルソナー、探査に便利。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Power up submarine’s reactor</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T024005Z" creationid="kakonya" creationdate="20190608T024005Z">
@@ -4254,6 +4342,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T025309Z" creationid="kakonya" creationdate="20190608T025309Z">
         <seg>隣接する船体の一部に有害な電気ショックを発生させます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Produces a localized signal that can be detected by a sonar monitor, handheld sonar, or navigation terminal.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T113302Z" creationid="kakonya" creationdate="20190608T113302Z">
+        <seg>ソナーモニター、ハンドヘルドソナー、またはナビゲーション端末で検出できる信号を生成します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4898,6 +4994,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Screwdriver</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T112944Z" creationid="kakonya" creationdate="20190608T112944Z">
+        <seg>ドライバー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Seals bleeding wounds almost immediately and treats burns very effectively.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T112705Z" creationid="kakonya" creationdate="20190608T112705Z">
@@ -5238,6 +5342,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T233423Z" creationid="kakonya" creationdate="20190607T233423Z">
         <seg>暗くて不快なものが口の中でうごめいています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sonar Beacon</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T113107Z" creationid="kakonya" creationdate="20190608T113107Z">
+        <seg>ソナービーコン</seg>
       </tuv>
     </tu>
     <tu>
@@ -6768,6 +6880,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113005Z" creationid="kakonya" creationdate="20190607T113005Z">
         <seg>ワークショップのアイテムはのみのModフォルダ内のファイルを変更したり、潜水艦のフォルダに海底ファイルを追加することが許可されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wrench</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T112947Z" creationid="kakonya" creationdate="20190608T112947Z">
+        <seg>レンチ</seg>
       </tuv>
     </tu>
     <tu>
