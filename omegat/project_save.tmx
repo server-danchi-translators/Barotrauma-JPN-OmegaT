@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A trained medical doctor can manufacture it relatively easily using a medical fabricator.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T014239Z" creationid="nick2" creationdate="20190608T014239Z">
+        <seg>訓練を受けたドクターは、医療用ファブリケーターを使って比較的簡単に製造することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add files...</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112952Z" creationid="kakonya" creationdate="20190607T112952Z">
@@ -74,6 +82,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T140412Z" creationid="totochan" creationdate="20190607T140412Z">
         <seg>ホワイトリストに追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Administering drugs without sufficient medical knowledge may reduce the number of doses a single syringe provides, and may also reduce the quality of the effects of the drug.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T015559Z" creationid="nick2" creationdate="20190608T015559Z">
+        <seg>十分な医学的知識なしに薬を投与すると、一つの注射器が提供できる用量の数が減り、さらに薬物の効果の品質を低下させる可能性もあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -330,6 +346,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T231845Z" creationid="kakonya" creationdate="20190607T122257Z">
         <seg>失血死</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bleeding wounds can be treated with bandages and hemostatic agents.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T014255Z" creationid="nick2" creationdate="20190608T014255Z">
+        <seg>出血傷は包帯や止血剤で処理することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1590,6 +1614,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If your crewmates start seeing or hearing things others don't see or hear, report it to a medical doctor immediately.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T015142Z" creationid="nick2" creationdate="20190608T015142Z">
+        <seg>もしも同僚の乗組員が他人には見えない幻覚を見たり聞いたりしだした場合、すぐにドクターに報告してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Incompatible</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113038Z" creationid="kakonya" creationdate="20190607T113038Z">
@@ -2022,6 +2054,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mental disorders such as psychosis are unfortunately common among submarine crews, particularly after ruin expeditions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T014846Z" creationid="nick2" creationdate="20190608T014846Z">
+        <seg>精神病などの精神疾患の発症は、遺跡への遠征へ赴いた乗組員にとって一般的です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Microphone volume</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113631Z" creationid="kakonya" creationdate="20190607T113631Z">
@@ -2074,6 +2114,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T105131Z" creationid="kakonya" creationdate="20190607T105131Z">
         <seg>モンスター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Morbusine is a neurotoxin potent enough to take down even some of the largest Europan predators.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T014109Z" creationid="nick2" creationdate="20190608T014109Z">
+        <seg>モルビシンはエウロパの強力な捕食者を倒せるほどに強力な神経毒です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2266,6 +2314,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T055358Z" creationid="kakonya" creationdate="20190607T055358Z">
         <seg>近くのボタンを押してドアを開ける</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Opiates such as morphine and fentanyl are an effective way of treating injuries in an emergency, but regular use may eventually lead to a state of addiction and cause dangerous withdrawal symptoms.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T013853Z" creationid="nick2" creationdate="20190608T013853Z">
+        <seg>モルヒネやフェンタニルなどのアヘン剤は、緊急時に怪我を治療する効果的な方法ですが、反復使用は最終的に依存症を引き起こし、危険な中毒症状を引き起こす可能性があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3358,6 +3414,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The medical doctors' main task is to keep the crew in a good shape, but a medic with a syringe gun and a bit of knowhow on poisons can also be very useful in fending off intruders.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T015426Z" creationid="nick2" creationdate="20190608T015216Z">
+        <seg>ドクターの主な仕事は、乗組員の健康を維持することですが、注射器ガンと毒物の知識も侵入者に対して非常に役立つでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The only life encountered inside the structures are the biomechanical entities that maintain and guard them.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T010757Z" creationid="nick2" creationdate="20190608T010757Z">
@@ -3402,6 +3466,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T231817Z" creationid="kakonya" creationdate="20190607T231817Z">
         <seg>真っ青になり、寒さを訴えています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The patient may also need saline or blood packs to replace the lost blood.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T014430Z" creationid="nick2" creationdate="20190608T014430Z">
+        <seg>また、患者は失われた血液を補充するために生理食塩水や血液パックを必要とする場合があります。</seg>
       </tuv>
     </tu>
     <tu>
