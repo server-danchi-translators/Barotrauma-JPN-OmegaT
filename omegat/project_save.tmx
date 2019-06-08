@@ -285,6 +285,10 @@
       </tuv>
     </tu>
     <tu>
+      <note>「プレイヤーが死んでも戻る」の意味なら
+「人員補充を有効にする」
+「リスポーン許可」
+等でいいと思います</note>
       <tuv lang="EN-US">
         <seg>Allow respawning</seg>
       </tuv>
@@ -1632,8 +1636,8 @@
       <tuv lang="EN-US">
         <seg>Duration of respawn transport:</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190608T062430Z" creationid="urakata" creationdate="20190608T062430Z">
-        <seg>リスポーン輸送時間:</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190608T062939Z" creationid="urakata" creationdate="20190608T062430Z">
+        <seg>人員補充船の到達時間:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3224,8 +3228,8 @@
       <tuv lang="EN-US">
         <seg>Minimum players to respawn:</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190608T062358Z" creationid="totochan" creationdate="20190607T140351Z">
-        <seg>リスポーンを開始するプレイヤー数:</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190608T062722Z" creationid="totochan" creationdate="20190607T140351Z">
+        <seg>人員補充を開始するプレイヤー数:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5272,8 +5276,8 @@
       <tuv lang="EN-US">
         <seg>The amount of time respawned players have to navigate the respawn shuttle to the main submarine.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190608T062619Z" creationid="urakata" creationdate="20190608T062619Z">
-        <seg>リスポーンされるプレイヤーが潜水艦へリスポーンのシャトル</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190608T062920Z" creationid="urakata" creationdate="20190608T062619Z">
+        <seg>人員補充船を潜水艦へ合流させるまでにかかる時間。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6240,8 +6244,8 @@
       <tuv lang="EN-US">
         <seg>What percentage of players has to be dead/spectating until a respawn shuttle is dispatched.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190608T062324Z" creationid="urakata" creationdate="20190608T062324Z">
-        <seg>全プレイヤーの何%が死亡/観戦中の状態になったら、リスポーンのシャトルを出すか。</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190608T062755Z" creationid="urakata" creationdate="20190608T062324Z">
+        <seg>全プレイヤーの何%が死亡/観戦中の状態になったら、人員補充を開始するか。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6335,10 +6339,6 @@
       </tuv>
     </tu>
     <tu>
-      <note>「プレイヤーが死んでも戻る」の意味なら
-「復活を有効にする」
-「リスポーン許可」
-等でいいと思います</note>
       <tuv lang="EN-US">
         <seg>Whitelist</seg>
       </tuv>
