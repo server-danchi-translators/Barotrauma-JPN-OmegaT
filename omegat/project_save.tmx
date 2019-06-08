@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3216,8 +3216,8 @@
       <tuv lang="EN-US">
         <seg>Minimum players to respawn:</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190608T062037Z" creationid="totochan" creationdate="20190607T140351Z">
-        <seg>リスポーンを有効にするプレイヤー数の下限:</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190608T062358Z" creationid="totochan" creationdate="20190607T140351Z">
+        <seg>リスポーンを開始するプレイヤー数:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6218,6 +6218,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T020334Z" creationid="kakonya" creationdate="20190608T020334Z">
         <seg>このジョイントを打つつもりです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What percentage of players has to be dead/spectating until a respawn shuttle is dispatched.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190608T062324Z" creationid="urakata" creationdate="20190608T062324Z">
+        <seg>全プレイヤーの何%が死亡/観戦中の状態になったら、リスポーンのシャトルを出すか。</seg>
       </tuv>
     </tu>
     <tu>
