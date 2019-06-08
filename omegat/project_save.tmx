@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -194,6 +194,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T062348Z" creationid="hiru4" creationdate="20190608T062348Z">
         <seg>後部アクセスシャフト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After the duration expires, the shuttle will automatically head back out of the level.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190608T063214Z" creationid="urakata" creationdate="20190608T063044Z">
+        <seg>指定した時間が経過したら、人員補充船は自動で帰ってしまう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1676,8 +1684,8 @@
       <tuv lang="EN-US">
         <seg>Duration of respawn transport:</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190608T062939Z" creationid="urakata" creationdate="20190608T062430Z">
-        <seg>人員補充船の到達時間:</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190608T063234Z" creationid="urakata" creationdate="20190608T062430Z">
+        <seg>人員補充船の航行可能時間:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5364,8 +5372,8 @@
       <tuv lang="EN-US">
         <seg>The amount of time respawned players have to navigate the respawn shuttle to the main submarine.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190608T062920Z" creationid="urakata" creationdate="20190608T062619Z">
-        <seg>人員補充船を潜水艦へ合流させるまでにかかる時間。</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190608T063106Z" creationid="urakata" creationdate="20190608T062619Z">
+        <seg>人員補充船を潜水艦へ合流させるまでにかけられる時間。</seg>
       </tuv>
     </tu>
     <tu>
