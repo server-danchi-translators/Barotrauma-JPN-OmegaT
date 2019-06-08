@@ -974,6 +974,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Drop the fire extinguisher</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T013011Z" creationid="kakonya" creationdate="20190608T012947Z">
+        <seg>消火器を落とす</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dropping items</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T013004Z" creationid="kakonya" creationdate="20190608T012941Z">
+        <seg>アイテムを落とす</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Editing</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T141008Z" creationid="totochan" creationdate="20190607T141008Z">
@@ -2918,6 +2934,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Some items, like the fire extinguisher, are too large to carry around in the character’s inventory.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T013053Z" creationid="kakonya" creationdate="20190608T013053Z">
+        <seg>消火器のようないくつかのアイテムは、大きすぎてインベントリに入りません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Some items, like the welding tool, require two free hands to use.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T102437Z" creationid="kakonya" creationdate="20190607T102424Z">
@@ -3336,8 +3360,8 @@
       <tuv lang="EN-US">
         <seg>Then aim by holding down {0} and dispense by holding down {1}.</seg>
       </tuv>
-      <tuv lang="JA" changeid="kakonya" changedate="20190607T235227Z" creationid="kakonya" creationdate="20190607T235227Z">
-        <seg> {0}を押し続けて狙いを定め、{1}を押すことで使用します。</seg>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T012937Z" creationid="kakonya" creationdate="20190607T235227Z">
+        <seg> {0}を押し続けて狙いを定め、{1}を押して使用します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3418,6 +3442,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T102232Z" creationid="kakonya" creationdate="20190607T102232Z">
         <seg>船体の水漏れを修理するために、ダブルクリックで溶接工具を装備する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To unequip the fire extinguisher, drag it away from the inventory and release the mouse button.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T013211Z" creationid="kakonya" creationdate="20190608T013211Z">
+        <seg>装備から外すには、装備スロットからドラッグで移動させ、ボタンを離します。</seg>
       </tuv>
     </tu>
     <tu>
