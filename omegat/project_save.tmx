@@ -2974,6 +2974,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Please leave the shuttle immediately.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T040439Z" creationid="nick2" creationdate="20190608T040439Z">
+        <seg>すぐにシャトルから脱出してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please make sure Steam is running and you are logged in to an account.</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T141225Z" creationid="totochan" creationdate="20190607T141225Z">
@@ -4238,6 +4246,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The shuttle will automatically return back to the outpost.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T040414Z" creationid="nick2" creationdate="20190608T040414Z">
+        <seg>シャトルは自動的に前哨基地に戻ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The skin is pale and clammy, and the lips turning blue.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T231615Z" creationid="kakonya" creationdate="20190607T231615Z">
@@ -5064,16 +5080,16 @@
       <tuv lang="EN-US">
         <seg>You have been disconnected because of excessive desync (expecting a removed event).</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190608T035812Z" creationid="nick2" creationdate="20190608T035812Z">
-        <seg>ので、過剰なDESYNC（removedイベントを期待して）の切断されています。</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T040037Z" creationid="nick2" creationdate="20190608T035812Z">
+        <seg>あなたは、過剰な同期ずれにより切断されました。(削除されたイベントを呼び出そうとした)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>You have been disconnected because of excessive desync (expecting a very old event).</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190608T035950Z" creationid="nick2" creationdate="20190608T035950Z">
-        <seg>あなたは、過剰な同期ずれにより切断されました。(古すぎるイベントの呼び出し).</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T040142Z" creationid="nick2" creationdate="20190608T035950Z">
+        <seg>あなたは、過剰な同期ずれにより切断されました。(古すぎるイベントを呼び出そうとした)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5082,6 +5098,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T035756Z" creationid="nick2" creationdate="20190608T035756Z">
         <seg>あなたは、過剰な同期ずれにより切断されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You have been disconnected because syncing your client with the server took too long.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T040233Z" creationid="nick2" creationdate="20190608T040233Z">
+        <seg>サーバとクライアントを同期するのに時間がかかりすぎたので、あなたは切断されました。</seg>
       </tuv>
     </tu>
     <tu>
