@@ -1750,6 +1750,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Keep an eye on the patient and be ready to administer additional medications to counteract these side effects if necessary.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T015800Z" creationid="nick2" creationdate="20190608T015800Z">
+        <seg>患者から目を離さず、これらの副作用に対抗するために必要に応じて追加の薬剤を投与しましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Kick</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T105031Z" creationid="kakonya" creationdate="20190607T105031Z">
@@ -2018,6 +2026,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T013256Z" creationid="nick2" creationdate="20190608T013256Z">
         <seg>エウロパの多くの生き物は強固な外殻によって保護され、通常の兵器で損傷することは困難ですが、その鎧には弱点があるかもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Many drugs may have unintended side effects.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T015614Z" creationid="nick2" creationdate="20190608T015614Z">
+        <seg>多くの薬物は、予期せぬ副作用を有することがあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4082,6 +4098,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T103638Z" creationid="kakonya" creationdate="20190607T103541Z">
         <seg>潜水艦に浸水したら、ポンプを使用して余分な水を排水する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When using a diving mask, be careful not to mix up welding fuel tanks and oxygen tanks.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T015942Z" creationid="nick2" creationdate="20190608T015942Z">
+        <seg>ダイビングマスクを使用する場合は、燃料タンクと酸素ボンベを間違えないように注意してください。</seg>
       </tuv>
     </tu>
     <tu>
