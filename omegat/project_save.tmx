@@ -6506,6 +6506,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Welcome.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="spears" changedate="20190608T102113Z" creationid="spears" creationdate="20190608T102113Z">
+        <seg>ようこそ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Welding Fuel Tank (empty)</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T114421Z" creationid="kakonya" creationdate="20190607T114421Z">
