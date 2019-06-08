@@ -3118,6 +3118,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The age of the ruins is also a mystery, since the self-repairing properties of the structures and devices make chronological dating methods wildly inaccurate.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T010218Z" creationid="nick2" creationdate="20190608T010218Z">
+        <seg>遺跡の年代も謎の一つです。建造物やデバイスは自己修復の特性を持ち、年代測定を不正確にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The area is blistered and red, and skin is already beginning to peel away in sheets.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T231055Z" creationid="kakonya" creationdate="20190607T231055Z">
@@ -3600,8 +3608,8 @@
       <tuv lang="EN-US">
         <seg>Very little is known of the presumably extinct alien civilization that built the ruins scattered all across Europa.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190608T005458Z" creationid="nick2" creationdate="20190608T005458Z">
-        <seg>非常に少ないが、すべてのエウロパに散在する遺跡を建て、おそらく絶滅エイリアン文明の知られています。</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T005858Z" creationid="nick2" creationdate="20190608T005458Z">
+        <seg>エウロパに散在する遺跡を建築し、絶滅したと考えられているエイリアンの文明について知られていることは非常に少ないです。</seg>
       </tuv>
     </tu>
     <tu>
