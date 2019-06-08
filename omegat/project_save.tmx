@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5461,6 +5461,8 @@
       </tuv>
     </tu>
     <tu>
+      <note>ここのspeakerはたぶん「発言者」の意味。
+「有効にすると、発言者とプレイヤーの相対的な位置関係に基づいて、ボイスチャット音声の音源の方向が変わります。」</note>
       <tuv lang="EN-US">
         <seg>When enabled, voice chat messages are panned according to the direction of the speaker relative to your position.</seg>
       </tuv>
