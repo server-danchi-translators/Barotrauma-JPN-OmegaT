@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A crawler.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T234531Z" creationid="kakonya" creationdate="20190608T234531Z">
+        <seg>クローラー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A crystal composed of solid carbon.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T171746Z" creationid="nick2" creationdate="20190608T171746Z">
@@ -2054,6 +2062,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T141308Z" creationid="totochan" creationdate="20190607T141308Z">
         <seg>クローラ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Crawlers</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T234459Z" creationid="kakonya" creationdate="20190608T234459Z">
+        <seg>クローラー</seg>
       </tuv>
     </tu>
     <tu>
@@ -4318,6 +4334,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T035120Z" creationid="nick2" creationdate="20190608T035120Z">
         <seg>投票によるキック。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Kill the crawler</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T234504Z" creationid="kakonya" creationdate="20190608T234504Z">
+        <seg>クローラを殺せ</seg>
       </tuv>
     </tu>
     <tu>
@@ -7530,6 +7554,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Stun baton stuns enemies for a brief moment, so use that to your advantage.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T234646Z" creationid="kakonya" creationdate="20190608T234646Z">
+        <seg>スタンバトンは敵を一瞬気絶させるので、有利になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Submarine</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113040Z" creationid="kakonya" creationdate="20190607T113040Z">
@@ -7726,6 +7758,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T140749Z" creationid="totochan" creationdate="20190607T140749Z">
         <seg>取る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Take it down using the stun baton.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T234550Z" creationid="kakonya" creationdate="20190608T234550Z">
+        <seg>スタンバトンを使ってダウンさせます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8150,6 +8190,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112922Z" creationid="kakonya" creationdate="20190607T112922Z">
         <seg>常に1つだけ選択されたコアパッケージが存在する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There's a monster in the next room.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T234513Z" creationid="kakonya" creationdate="20190608T234513Z">
+        <seg>隣の部屋にモンスターがいます。</seg>
       </tuv>
     </tu>
     <tu>
