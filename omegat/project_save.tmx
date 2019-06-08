@@ -1678,6 +1678,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In addition to wear and tear, they are damaged by water and overvoltage.\n\nThey are repaired using a screwdriver, as opposed to a wrench for mechanical items.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T022415Z" creationid="kakonya" creationdate="20190608T022415Z">
+        <seg>消耗や浸水、過電圧によって損傷を受けます。\n\n機械部品用のレンチではなく、ドライバーを使用して修理します。。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Incompatible</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113038Z" creationid="kakonya" creationdate="20190607T113038Z">
@@ -1926,6 +1934,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Like mechanical items, junction boxes need maintenance.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T022123Z" creationid="kakonya" creationdate="20190608T022123Z">
+        <seg>機械部品と同様に、ジャンクションボックスはメンテナンスが必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Line of sight effect</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113535Z" creationid="kakonya" creationdate="20190607T113535Z">
@@ -2010,6 +2026,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112049Z" creationid="kakonya" creationdate="20190607T112049Z">
         <seg>位置を維持</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Maintenance</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T022011Z" creationid="kakonya" creationdate="20190608T022011Z">
+        <seg>メンテナンス</seg>
       </tuv>
     </tu>
     <tu>
@@ -2858,6 +2882,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T013953Z" creationid="kakonya" creationdate="20190608T013953Z">
         <seg>ポンプの修理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Repair the broken junction box</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T022016Z" creationid="kakonya" creationdate="20190608T022016Z">
+        <seg>壊れた配電盤を修復</seg>
       </tuv>
     </tu>
     <tu>
