@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A compound made of C-4 and incendium.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T230813Z" creationid="kakonya" creationdate="20190608T230813Z">
+        <seg>C-4とインセンディウムからなる化合物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A crystal composed of solid carbon.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T171746Z" creationid="nick2" creationdate="20190608T171746Z">
@@ -50,6 +58,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T025602Z" creationid="kakonya" creationdate="20190608T025602Z">
         <seg>カメラに接続して潜水艦の外側を観察したり、レールガンやコイルガンなどの武器を制御するために使用できるデバイス。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A device that detonates any contained explosive when receiving a signal.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T230932Z" creationid="kakonya" creationdate="20190608T230932Z">
+        <seg>信号を受信し、中の爆発物を起爆させる装置。</seg>
       </tuv>
     </tu>
     <tu>
@@ -82,6 +98,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T112942Z" creationid="kakonya" creationdate="20190608T112942Z">
         <seg>ハンドヘルド消火器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A harpoon for the harpoon gun.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T231155Z" creationid="kakonya" creationdate="20190608T231155Z">
+        <seg>ハープーン銃用</seg>
       </tuv>
     </tu>
     <tu>
@@ -486,6 +510,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A stable explosive compound.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T230752Z" creationid="kakonya" creationdate="20190608T230752Z">
+        <seg>安定した爆発性化合物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A strong acid that causes burns when in contact with skin.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T165923Z" creationid="nick2" creationdate="20190608T165923Z">
@@ -854,6 +886,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T165329Z" creationid="nick2" creationdate="20190608T163937Z">
         <seg>アヘン由来の離脱症状や過剰摂取の治療のためのオピオイド拮抗薬。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An unstable explosive compound.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T230807Z" creationid="kakonya" creationdate="20190608T230807Z">
+        <seg>不安定な爆発性化合物。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1802,6 +1842,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Compound N</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T230757Z" creationid="kakonya" creationdate="20190608T230757Z">
+        <seg>化合物N</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Connect the junction boxes</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T023214Z" creationid="kakonya" creationdate="20190608T023054Z">
@@ -2350,6 +2398,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T141119Z" creationid="totochan" creationdate="20190607T141119Z">
         <seg>行き先</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Detonator</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T230814Z" creationid="kakonya" creationdate="20190608T230814Z">
+        <seg>雷管</seg>
       </tuv>
     </tu>
     <tu>
@@ -3442,6 +3498,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Harpoon</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T231004Z" creationid="kakonya" creationdate="20190608T230939Z">
+        <seg>ハープーン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hatch with Buttons</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T114709Z" creationid="kakonya" creationdate="20190607T114709Z">
@@ -3686,6 +3750,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T020030Z" creationid="kakonya" creationdate="20190608T020030Z">
         <seg>必要なものをつかんで、再びオンラインにしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IC-4 Block</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T230810Z" creationid="kakonya" creationdate="20190608T230810Z">
+        <seg>IC-4ブロック</seg>
       </tuv>
     </tu>
     <tu>
@@ -8478,6 +8550,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113648Z" creationid="kakonya" creationdate="20190607T113623Z">
         <seg>ボイスチャット音量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Volatile Compound N</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T230800Z" creationid="kakonya" creationdate="20190608T230800Z">
+        <seg>揮発性化合物N</seg>
       </tuv>
     </tu>
     <tu>
