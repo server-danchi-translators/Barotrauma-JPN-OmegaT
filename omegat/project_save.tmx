@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4424,24 +4424,24 @@
       <tuv lang="EN-US">
         <seg>Set Default Bindings</seg>
       </tuv>
-      <tuv lang="JA" changeid="kakonya" changedate="20190607T114125Z" creationid="kakonya" creationdate="20190607T114125Z">
-        <seg>設定されたデフォルトのバインディング</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190608T061502Z" creationid="kakonya" creationdate="20190607T114125Z">
+        <seg>デフォルトのキーバインディング</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Set key bindings to ones that were used in the old pre-alpha versions of Barotrauma (E to select and deselect items, left mouse button to use item the in hand).</seg>
       </tuv>
-      <tuv lang="JA" changeid="kakonya" changedate="20190607T114137Z" creationid="kakonya" creationdate="20190607T114137Z">
-        <seg>（手でアイテムを使用するアイテムを選択し、選択を解除するE、マウスの左ボタン）Barotraumaの古いプレアルファバージョンで使用されたものにキーバインドを設定します。</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190608T061719Z" creationid="kakonya" creationdate="20190607T114137Z">
+        <seg>Barotraumaの古いプレアルファバージョンで使用されたものにキーバインドを設定します。(アイテム選択/解除:E、持っているアイテムの使用:左クリック)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Set key bindings to the recommended default settings (left mouse button to select items, right mouse button or esc to deselect).</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190608T061422Z" creationid="kakonya" creationdate="20190607T114131Z">
-        <seg>推奨されるデフォルト設定（アイテム選択:マウス左ボタン、選択解除:マウス右ボタンまたはESC）にキーバインドを設定します。</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190608T061737Z" creationid="kakonya" creationdate="20190607T114131Z">
+        <seg>推奨されるデフォルト設定（アイテム選択:左クリック、選択解除:右クリックまたはESC）にキーバインドを設定します。</seg>
       </tuv>
     </tu>
     <tu>
