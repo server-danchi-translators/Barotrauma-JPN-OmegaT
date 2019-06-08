@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A heads-up display that shows information about the vital signs and status of nearby humans.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T044459Z" creationid="kakonya" creationdate="20190608T044459Z">
+        <seg>バイタルサインや近くの人間の状態に関する情報を表示するヘッドアップディスプレイ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A heavy turret that uses electromagnetic force to launch shells at very high velocities.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T025356Z" creationid="kakonya" creationdate="20190608T025356Z">
@@ -470,6 +478,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Blue Jumpsuit</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T044705Z" creationid="kakonya" creationdate="20190608T044705Z">
+        <seg>ブルージャンプスーツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Borderless windowed</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113528Z" creationid="kakonya" creationdate="20190607T113528Z">
@@ -570,6 +586,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T025835Z" creationid="kakonya" creationdate="20190608T025835Z">
         <seg>キャプテンの帽子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Captain's Uniform</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T025927Z" creationid="kakonya" creationdate="20190608T025927Z">
+        <seg>キャプテンの制服</seg>
       </tuv>
     </tu>
     <tu>
@@ -1198,6 +1222,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Doctor's Uniform</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T044511Z" creationid="kakonya" creationdate="20190608T044511Z">
+        <seg>ドクターの白衣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Don't show this again</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T141241Z" creationid="totochan" creationdate="20190607T141241Z">
@@ -1746,6 +1778,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T114115Z" creationid="kakonya" creationdate="20190607T114115Z">
         <seg>健康</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Health Scanner HUD</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T030113Z" creationid="kakonya" creationdate="20190608T030113Z">
+        <seg>ヘルススキャナー HUD</seg>
       </tuv>
     </tu>
     <tu>
@@ -2406,6 +2446,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Makes you look like you might be in charge.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T030059Z" creationid="kakonya" creationdate="20190608T030059Z">
+        <seg>偉そうに見えなくもない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Makes you look like you might be useful in a medical emergency.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T044540Z" creationid="kakonya" creationdate="20190608T044540Z">
+        <seg>緊急時に頼りになりそうに見える。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Male</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T140929Z" creationid="totochan" creationdate="20190607T140929Z">
@@ -2858,6 +2914,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T013853Z" creationid="nick2" creationdate="20190608T013853Z">
         <seg>モルヒネやフェンタニルなどのアヘン剤は、緊急時に怪我を治療する効果的な方法ですが、反復使用は最終的に依存症を引き起こし、危険な中毒症状を引き起こす可能性があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Orange Jumpsuit</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T044542Z" creationid="kakonya" creationdate="20190608T044542Z">
+        <seg>オレンジジャンプスーツ</seg>
       </tuv>
     </tu>
     <tu>
@@ -4202,6 +4266,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113014Z" creationid="kakonya" creationdate="20190607T113014Z">
         <seg>プレビュー画像のファイルサイズは1 MB未満である必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The fire-resistant fabric offers some protection against fires.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T044631Z" creationid="kakonya" creationdate="20190608T044631Z">
+        <seg>防火性の素材でできている。火災にある程度の耐性がある。</seg>
       </tuv>
     </tu>
     <tu>
