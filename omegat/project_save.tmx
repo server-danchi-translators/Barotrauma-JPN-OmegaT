@@ -2086,6 +2086,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No remains of the alien lifeforms that built the ruins scattered all across Europa have ever been discovered.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T010505Z" creationid="nick2" creationdate="20190608T010505Z">
+        <seg>エウロパに乱立している遺跡の主である、エイリアン生命体の痕跡はこれまでに発見されていません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No to All</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T140903Z" creationid="totochan" creationdate="20190607T140903Z">
