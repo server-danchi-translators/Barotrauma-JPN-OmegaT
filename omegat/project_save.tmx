@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A rapid-firing turret that propels metal bolts using electromagnets.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T024709Z" creationid="kakonya" creationdate="20190608T024709Z">
+        <seg>電磁石を使用して金属製のボルトを推進する高速発砲タレット。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A sliding door with a window and two integrated buttons.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T114639Z" creationid="kakonya" creationdate="20190607T114639Z">
@@ -130,6 +138,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113856Z" creationid="kakonya" creationdate="20190607T113839Z">
         <seg>エイムアシスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Aimable lighting.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T024519Z" creationid="kakonya" creationdate="20190608T024507Z">
+        <seg>照準可能なライト。</seg>
       </tuv>
     </tu>
     <tu>
@@ -570,6 +586,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T141020Z" creationid="totochan" creationdate="20190607T141020Z">
         <seg>閉じる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Coilgun</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T024642Z" creationid="kakonya" creationdate="20190608T024642Z">
+        <seg>コイルガン</seg>
       </tuv>
     </tu>
     <tu>
@@ -2494,6 +2518,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Nuclear Reactor</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T024637Z" creationid="kakonya" creationdate="20190608T024637Z">
+        <seg>原子炉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Nuclear reactors are equipped with an automatic control system that adjusts the power output to a suitable level when enabled.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T002015Z" creationid="nick2" creationdate="20190608T001929Z">
@@ -2850,6 +2882,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113009Z" creationid="kakonya" creationdate="20190607T113009Z">
         <seg>スチームワークショップにファイルをアップロードします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pump</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T024420Z" creationid="kakonya" creationdate="20190608T024420Z">
+        <seg>ポンプ</seg>
       </tuv>
     </tu>
     <tu>
@@ -3238,6 +3278,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Searchlight</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T024501Z" creationid="kakonya" creationdate="20190608T024501Z">
+        <seg>サーチライト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See if you can get it online, then start up the reactor.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T020556Z" creationid="kakonya" creationdate="20190608T020556Z">
@@ -3402,6 +3450,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T140909Z" creationid="totochan" creationdate="20190607T140909Z">
         <seg>スキル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Small Pump</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T024452Z" creationid="kakonya" creationdate="20190608T024452Z">
+        <seg>小さいポンプ</seg>
       </tuv>
     </tu>
     <tu>
@@ -4190,10 +4246,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Usable device for generating electrical power.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T024640Z" creationid="kakonya" creationdate="20190608T024640Z">
+        <seg>電力を生成するために使用可能なデバイス。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Usable device for generating motion on the X axis.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T114852Z" creationid="kakonya" creationdate="20190607T114852Z">
         <seg>X軸上の動きを生成するために使用可能なデバイス。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Usable device for moving water.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T024445Z" creationid="kakonya" creationdate="20190608T024445Z">
+        <seg>水を移動させるために使用する。</seg>
       </tuv>
     </tu>
     <tu>
