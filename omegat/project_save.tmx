@@ -2432,8 +2432,8 @@
       <tuv lang="EN-US">
         <seg>Many drugs may have unintended side effects.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190608T015614Z" creationid="nick2" creationdate="20190608T015614Z">
-        <seg>多くの薬物は、予期せぬ副作用を有することがあります。</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T041203Z" creationid="nick2" creationdate="20190608T015614Z">
+        <seg>多くの薬物は、予期せぬ副作用を引き起こす可能性があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2674,6 +2674,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T104147Z" creationid="totochan" creationdate="20190607T104147Z">
         <seg>新しいゲーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New traitor</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T041225Z" creationid="nick2" creationdate="20190608T041225Z">
+        <seg>新しい裏切り者</seg>
       </tuv>
     </tu>
     <tu>
@@ -5026,6 +5034,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T014901Z" creationid="kakonya" creationdate="20190608T014901Z">
         <seg>あなたは今、潜水艦に乗っています。Barotraumaでは、大部分の時間をここで過ごします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You are the traitor!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T041238Z" creationid="nick2" creationdate="20190608T041238Z">
+        <seg>あなたが裏切り者だ！</seg>
       </tuv>
     </tu>
     <tu>
