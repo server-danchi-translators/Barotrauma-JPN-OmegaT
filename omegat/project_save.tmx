@@ -3142,6 +3142,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The cephalopod-like watchers are generally docile, but may attack when provoked.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T011549Z" creationid="nick2" creationdate="20190608T011549Z">
+        <seg>ムカデのような見た目のウォッチャーは、一般的にはおとなしいですがいざという時は攻撃されるかもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The electrical and mechanical systems on a sub will gradually degrade due to the harsh conditions and constant wear and tear.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T004735Z" creationid="nick2" creationdate="20190608T004735Z">
