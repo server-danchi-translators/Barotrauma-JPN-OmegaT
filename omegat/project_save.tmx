@@ -2134,6 +2134,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Oxygen generators are equipped with docks that can be used to refill oxygen tanks.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T001345Z" creationid="nick2" creationdate="20190608T001320Z">
+        <seg>酸素発生器は、酸素ボンベを補充するためのドックが付いています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Oxygen low</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T140632Z" creationid="totochan" creationdate="20190607T140632Z">
@@ -2872,8 +2880,8 @@
       <tuv lang="EN-US">
         <seg>Stationary batteries are equipped with docks that can be used to charge battery cells.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190608T001231Z" creationid="nick2" creationdate="20190608T001027Z">
-        <seg>設置されたバッテリーは、バッテリーセルを充電する為のポートが付いています。</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T001340Z" creationid="nick2" creationdate="20190608T001027Z">
+        <seg>設置されたバッテリーは、バッテリーセルを充電するためのドックが付いています。</seg>
       </tuv>
     </tu>
     <tu>
