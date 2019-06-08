@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -370,6 +370,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113214Z" creationid="kakonya" creationdate="20190607T113214Z">
         <seg>変更を適用しますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Are you sure you want to choose the submarine?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T061531Z" creationid="hiru4" creationdate="20190608T061531Z">
+        <seg>設定をリセットしてもよろしいですか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -1758,6 +1766,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Failed to start a campaign.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T061536Z" creationid="hiru4" creationdate="20190608T061536Z">
+        <seg>開始する準備ができました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Feeds coilgun ammunition into a linked coilgun.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T024944Z" creationid="kakonya" creationdate="20190608T024927Z">
@@ -2598,6 +2614,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Last saved</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T061353Z" creationid="hiru4" creationdate="20190608T061353Z">
+        <seg>最終データLast saved</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Leaks</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T102142Z" creationid="kakonya" creationdate="20190607T102142Z">
@@ -2910,6 +2934,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Map seed</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T061402Z" creationid="hiru4" creationdate="20190608T061402Z">
+        <seg>マップシードMap seed</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Material</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T114408Z" creationid="kakonya" creationdate="20190607T114408Z">
@@ -2994,6 +3026,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T114409Z" creationid="kakonya" creationdate="20190607T114409Z">
         <seg>その他</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mismatching content package</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T061523Z" creationid="hiru4" creationdate="20190608T061523Z">
+        <seg>不整合コンテンツパッケージ</seg>
       </tuv>
     </tu>
     <tu>
@@ -3546,6 +3586,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T040704Z" creationid="nick2" creationdate="20190608T040704Z">
         <seg>プレイヤー [player] が見つかりません！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please choose another name for the save file</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T061327Z" creationid="hiru4" creationdate="20190608T061327Z">
+        <seg>ファイルを保存するために別の名前を選択してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4230,6 +4278,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Save name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T061340Z" creationid="hiru4" creationdate="20190608T061340Z">
+        <seg>保存名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save name already in use</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T061320Z" creationid="hiru4" creationdate="20190608T061320Z">
+        <seg>すでに使用中の名前です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Score</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112829Z" creationid="kakonya" creationdate="20190607T112829Z">
@@ -4282,6 +4346,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113906Z" creationid="kakonya" creationdate="20190607T113906Z">
         <seg>選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select a mission</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T061414Z" creationid="hiru4" creationdate="20190608T061414Z">
+        <seg>ミッションを選択</seg>
       </tuv>
     </tu>
     <tu>
@@ -4434,6 +4506,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T024321Z" creationid="kakonya" creationdate="20190608T024321Z">
         <seg>シャトル酸素発生器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shuttle selected</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T061430Z" creationid="hiru4" creationdate="20190608T061430Z">
+        <seg>シャトル選択</seg>
       </tuv>
     </tu>
     <tu>
@@ -4666,6 +4746,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T104154Z" creationid="totochan" creationdate="20190607T104154Z">
         <seg>潜水艦エディタ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Submarine [subname] not found.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T061612Z" creationid="hiru4" creationdate="20190608T061612Z">
+        <seg>潜水艦 [subname] が見つかりません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5658,6 +5746,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T140848Z" creationid="totochan" creationdate="20190607T140848Z">
         <seg>腰</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Waiting for the campaign to start.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T061423Z" creationid="hiru4" creationdate="20190608T061423Z">
+        <seg>キャンペーンが開始するのを待ちます。</seg>
       </tuv>
     </tu>
     <tu>
