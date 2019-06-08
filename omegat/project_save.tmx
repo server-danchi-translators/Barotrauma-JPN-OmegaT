@@ -3042,6 +3042,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Loading...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="spears" changedate="20190608T100138Z" creationid="spears" creationdate="20190608T100138Z">
+        <seg>ロード中....</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Location</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T061705Z" creationid="hiru4" creationdate="20190608T061705Z">
@@ -3618,6 +3626,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Noise gate threshold</seg>
+      </tuv>
+      <tuv lang="JA" changeid="spears" changedate="20190608T100544Z" creationid="spears" creationdate="20190608T100544Z">
+        <seg>ノイズゲートの閾値</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Non-interactive.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T114839Z" creationid="kakonya" creationdate="20190607T114839Z">
@@ -4070,6 +4086,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T040540Z" creationid="nick2" creationdate="20190608T040540Z">
         <seg>[chatbutton] キーを押してチャット。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Press any key to continue</seg>
+      </tuv>
+      <tuv lang="JA" changeid="spears" changedate="20190608T100232Z" creationid="spears" creationdate="20190608T100225Z">
+        <seg>続けるにはどれかキーを押してください...</seg>
       </tuv>
     </tu>
     <tu>
@@ -5406,6 +5430,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T004735Z" creationid="nick2" creationdate="20190608T004735Z">
         <seg>潜水艦の電気的、機械的なシステムは次第に過酷な環境と継続的な磨耗により劣化します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The executable you have launched is not present in the content package [selectedpackage].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="spears" changedate="20190608T100319Z" creationid="spears" creationdate="20190608T100319Z">
+        <seg>起動したファイルはコンテンツパッケージに存在しません [selectedpackage].</seg>
       </tuv>
     </tu>
     <tu>
