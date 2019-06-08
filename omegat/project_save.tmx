@@ -6914,6 +6914,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Waiting for the round to start.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T131438Z" creationid="nick2" creationdate="20190608T131438Z">
+        <seg>ラウンド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Walls</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T141231Z" creationid="totochan" creationdate="20190607T141231Z">
