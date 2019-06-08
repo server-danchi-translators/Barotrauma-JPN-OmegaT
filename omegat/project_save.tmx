@@ -1698,6 +1698,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do you want to leave it behind?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T125600Z" creationid="nick2" creationdate="20190608T125600Z">
+        <seg>船を置き去りにしますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do you want to leave them behind?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T125711Z" creationid="nick2" creationdate="20190608T125711Z">
+        <seg>船を置き去りにしますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do you want to replace it?</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T141238Z" creationid="totochan" creationdate="20190607T141238Z">
@@ -5438,6 +5454,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T020142Z" creationid="kakonya" creationdate="20190608T020142Z">
         <seg>配線の一部が故障のようです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some of your vessels aren't at the exit yet.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T125648Z" creationid="nick2" creationdate="20190608T125648Z">
+        <seg>あなたの艦隊の船が出口に到達していません。</seg>
       </tuv>
     </tu>
     <tu>
