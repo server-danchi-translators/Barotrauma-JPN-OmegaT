@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A sedative that can be used to knock someone out for a short period of time.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T162022Z" creationid="nick2" creationdate="20190608T162022Z">
+        <seg>誰かを短時間眠らせるために使用できる鎮静剤。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A simple explosive compound made of sodium and phosphorus.</seg>
       </tuv>
       <tuv lang="JA" changeid="kouhei823" changedate="20190608T154617Z" creationid="kouhei823" creationdate="20190608T154617Z">
@@ -470,6 +478,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T060450Z" creationid="hiru4" creationdate="20190608T060450Z">
         <seg>クラフトに使用できます。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An extremely potent muscle stimulant for those moments when you gotta go fast.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T162411Z" creationid="nick2" creationdate="20190608T162411Z">
+        <seg>非常に強力な筋肉興奮剤。急がなきゃいけない状況にオススメ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1122,6 +1138,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Chloral Hydrate</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T161930Z" creationid="nick2" creationdate="20190608T161930Z">
+        <seg>抱水クロラール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Chromatic aberration</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113546Z" creationid="kakonya" creationdate="20190607T113546Z">
@@ -1596,8 +1620,8 @@
       <tuv lang="EN-US">
         <seg>Cyanide</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190608T161635Z" creationid="nick2" creationdate="20190608T161635Z">
-        <seg>シアン化物</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T161923Z" creationid="nick2" creationdate="20190608T161635Z">
+        <seg>青酸カリ</seg>
       </tuv>
     </tu>
     <tu>
@@ -2938,6 +2962,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hyperzine</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T162029Z" creationid="nick2" creationdate="20190608T162029Z">
+        <seg>ハイパージン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I don't think anyone needs medical attention at the moment.</seg>
       </tuv>
       <tuv lang="JA" changeid="spears" changedate="20190608T101559Z" creationid="spears" creationdate="20190608T101506Z">
@@ -3942,6 +3974,14 @@
       </tuv>
       <tuv lang="JA" changeid="spears" changedate="20190608T100816Z" creationid="spears" creationdate="20190608T100816Z">
         <seg>モンスタースポーン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Morbusine</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T162026Z" creationid="nick2" creationdate="20190608T162026Z">
+        <seg>モルビシン</seg>
       </tuv>
     </tu>
     <tu>
