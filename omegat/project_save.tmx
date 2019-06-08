@@ -2662,6 +2662,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Repair mechanical devices by equipping a wrench and interacting ({0}) with it.\n\nItems in need of maintenance are marked with a repair icon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T014307Z" creationid="kakonya" creationdate="20190608T014307Z">
+        <seg>レンチを装備し ({0}) を押すことで機械を修理します。\n\nメンテナンスが必要な機械には修理アイコンが付きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Repair pump</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T013953Z" creationid="kakonya" creationdate="20190608T013953Z">
@@ -3162,6 +3170,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T104154Z" creationid="totochan" creationdate="20190607T104154Z">
         <seg>潜水艦エディタ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Submarine maintenance</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T014349Z" creationid="kakonya" creationdate="20190608T014349Z">
+        <seg>潜水艦のメンテナンス</seg>
       </tuv>
     </tu>
     <tu>
@@ -3994,6 +4010,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T114635Z" creationid="kakonya" creationdate="20190607T114635Z">
         <seg>窓付きドア（ボタン制御）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Without it, they will break and stop working.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T014146Z" creationid="kakonya" creationdate="20190608T014112Z">
+        <seg>そうしないと、壊れて使用できなくなります。</seg>
       </tuv>
     </tu>
     <tu>
