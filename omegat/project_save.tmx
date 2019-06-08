@@ -304,8 +304,8 @@
       <tuv lang="EN-US">
         <seg>All your unsaved progress will be lost.</seg>
       </tuv>
-      <tuv lang="JA" changeid="kakonya" changedate="20190607T112312Z" creationid="totochan" creationdate="20190607T104422Z">
-        <seg>すべてのセーブしていないの進行状況が失われます。</seg>
+      <tuv lang="JA" changeid="spears" changedate="20190608T101247Z" creationid="totochan" creationdate="20190607T104422Z">
+        <seg>すべてのセーブしていない進行状況が失われます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1990,6 +1990,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T061536Z" creationid="hiru4" creationdate="20190608T061536Z">
         <seg>開始する準備ができました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to update workshop item [itemname].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="spears" changedate="20190608T101338Z" creationid="spears" creationdate="20190608T101338Z">
+        <seg>[itemName]を修復することができません！</seg>
       </tuv>
     </tu>
     <tu>
