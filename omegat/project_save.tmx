@@ -1514,6 +1514,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Carbon</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T180409Z" creationid="nick2" creationdate="20190608T180409Z">
+        <seg>炭素</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Carbon in crystalline form.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T171215Z" creationid="nick2" creationdate="20190608T171215Z">
@@ -4798,6 +4806,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T175714Z" creationid="nick2" creationdate="20190608T175714Z">
         <seg>一般的に電気配線の製造に使用される。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Most commonly used in the manufacture of steel and plastic.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T180537Z" creationid="nick2" creationdate="20190608T180537Z">
+        <seg>主にスチールとプラスチックの製造に使用されます。</seg>
       </tuv>
     </tu>
     <tu>
