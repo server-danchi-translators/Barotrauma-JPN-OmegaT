@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A simple explosive compound made of sodium and phosphorus.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kouhei823" changedate="20190608T154617Z" creationid="kouhei823" creationdate="20190608T154617Z">
+        <seg>ナトリウムとリンで作られた爆薬.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A sliding door with a window and two integrated buttons.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T114639Z" creationid="kakonya" creationdate="20190607T114639Z">
