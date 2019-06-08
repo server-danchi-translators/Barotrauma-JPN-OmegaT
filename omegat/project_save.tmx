@@ -872,8 +872,8 @@
       <tuv lang="EN-US">
         <seg>Content package '[packagename]' is not compatible with this version of Barotrauma.</seg>
       </tuv>
-      <tuv lang="JA" changeid="kakonya" changedate="20190607T113237Z" creationid="kakonya" creationdate="20190607T113237Z">
-        <seg>このワークショップのアイテムは、気圧障害のバージョンと互換性がありません。</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190608T055222Z" creationid="kakonya" creationdate="20190607T113237Z">
+        <seg>このワークショップのアイテムは、Barotraumaのバージョンと互換性がありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4736,8 +4736,8 @@
       <tuv lang="EN-US">
         <seg>This Workshop item is not compatible with your version of Barotrauma.</seg>
       </tuv>
-      <tuv lang="JA" changeid="kakonya" changedate="20190607T113040Z" creationid="kakonya" creationdate="20190607T113040Z">
-        <seg>このワークショップのアイテムは、気圧障害のバージョンと互換性がありません。</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190608T055328Z" creationid="kakonya" creationdate="20190607T113040Z">
+        <seg>このワークショップのアイテムは、このバージョンのBarotraumaと互換性がありません。</seg>
       </tuv>
     </tu>
     <tu>
