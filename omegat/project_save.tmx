@@ -1428,8 +1428,8 @@
       <tuv lang="EN-US">
         <seg>Can be refined in a fabricator to create fuel rods for a nuclear reactor, or used in the manufacture of nuclear weapons.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190608T174939Z" creationid="nick2" creationdate="20190608T174939Z">
-        <seg>ファブリケーターで精錬すると、原子炉用の燃料棒または核兵器の製造に使用することができます。</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T175218Z" creationid="nick2" creationdate="20190608T174939Z">
+        <seg>ファブリケーターで精錬すると、原子炉用の燃料棒または核兵器の製造に使用することができる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4554,6 +4554,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Medical fabricators can combine sodium and chloride to create a saline solution, which can be used as a treatment for blood loss or as an ingredient for more complex medicine.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T175607Z" creationid="nick2" creationdate="20190608T175607Z">
+        <seg>医療ファブリケーターにてナトリウムと塩化物を調合することで生理食塩水を作ることができる。生理食塩水は失血の治療に使えるほか、より複雑な薬剤のための原料として使用することができる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Medium Windowed Steel Cabinet</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T060943Z" creationid="hiru4" creationdate="20190608T060943Z">
@@ -4750,6 +4758,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T174036Z" creationid="nick2" creationdate="20190608T173754Z">
         <seg>一般的にバッテリーと抗精神病薬の製造に使用される。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Most commonly used in the manufacture of batteries and tonic liquid.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T175653Z" creationid="nick2" creationdate="20190608T175653Z">
+        <seg>一般的にバッテリーとトニックリキッドの製造に使用される。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6750,6 +6766,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T053804Z" creationid="kakonya" creationdate="20190608T053717Z">
         <seg>持ち運び可能なサイズのマスク。本格的な事故の場合には水圧から保護されません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sodium</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T175221Z" creationid="nick2" creationdate="20190608T175221Z">
+        <seg>ナトリウム</seg>
       </tuv>
     </tu>
     <tu>
@@ -9032,6 +9056,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T132516Z" creationid="nick2" creationdate="20190608T132516Z">
         <seg>潜水艦 [subname] のバージョンとサーバーのバージョンが合っていません。\nあなたのMD5 hash: [myhash]\nサーバーのMD5 hash: [serverhash]\n</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zinc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T175609Z" creationid="nick2" creationdate="20190608T175609Z">
+        <seg>亜鉛</seg>
       </tuv>
     </tu>
     <tu>
