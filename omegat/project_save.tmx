@@ -598,6 +598,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Coilgun Loader</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T024755Z" creationid="kakonya" creationdate="20190608T024755Z">
+        <seg>コイルガンローダー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Combat</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T105135Z" creationid="kakonya" creationdate="20190607T105135Z">
@@ -954,6 +962,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112958Z" creationid="kakonya" creationdate="20190607T112958Z">
         <seg>スチームワークショップからアイテムを削除します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Depth Charge Tube</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T024953Z" creationid="kakonya" creationdate="20190608T024953Z">
+        <seg>デプスチャージチューブ</seg>
       </tuv>
     </tu>
     <tu>
@@ -1326,6 +1342,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Feeds coilgun ammunition into a linked coilgun.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T024944Z" creationid="kakonya" creationdate="20190608T024927Z">
+        <seg>コイルガンへ弾丸を補充する装置.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Female</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T140931Z" creationid="totochan" creationdate="20190607T140931Z">
@@ -1466,6 +1490,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113052Z" creationid="kakonya" creationdate="20190607T113052Z">
         <seg>一般的な</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Generally not very effective against large or heavily armored targets, but ideal for taking down smaller enemies.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T024752Z" creationid="kakonya" creationdate="20190608T024752Z">
+        <seg>一般的に大きく重装甲の標的に対しては効果的ではありませんが、小さな敵を倒すのに理想的です。</seg>
       </tuv>
     </tu>
     <tu>
