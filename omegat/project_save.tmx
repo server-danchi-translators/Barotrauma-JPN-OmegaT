@@ -1630,6 +1630,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Duration of respawn transport:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190608T062430Z" creationid="urakata" creationdate="20190608T062430Z">
+        <seg>リスポーン輸送時間:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Editing</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T141008Z" creationid="totochan" creationdate="20190607T141008Z">
@@ -5258,6 +5266,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T010218Z" creationid="nick2" creationdate="20190608T010218Z">
         <seg>遺跡の年代も謎の一つです。建造物やデバイスは自己修復の特性を持ち、年代測定を不正確にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The amount of time respawned players have to navigate the respawn shuttle to the main submarine.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190608T062619Z" creationid="urakata" creationdate="20190608T062619Z">
+        <seg>リスポーンされるプレイヤーが潜水艦へリスポーンのシャトル</seg>
       </tuv>
     </tu>
     <tu>
