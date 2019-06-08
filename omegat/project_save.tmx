@@ -3234,6 +3234,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Find what you need to take out these monsters.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T232923Z" creationid="kakonya" creationdate="20190608T232923Z">
+        <seg>モンスターを倒すために必要なものを探せ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fire</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T061647Z" creationid="hiru4" creationdate="20190608T061647Z">
@@ -3462,6 +3470,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T060100Z" creationid="kakonya" creationdate="20190607T060100Z">
         <seg>ロッカーから装備を入手する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Good job, but that was just a baby crawler.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T232959Z" creationid="kakonya" creationdate="20190608T232959Z">
+        <seg>よくやった！これはベビークローラーだ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3814,6 +3830,14 @@
       </tuv>
       <tuv lang="JA" changeid="spears" changedate="20190608T101559Z" creationid="spears" creationdate="20190608T101506Z">
         <seg>現在ドクターの診察を必要とする人がいるとは思いません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I see something bigger up ahead, so keep on your toes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T233152Z" creationid="kakonya" creationdate="20190608T233152Z">
+        <seg>まだ先に大きなものが見えるので、用心してください。</seg>
       </tuv>
     </tu>
     <tu>
