@@ -5142,6 +5142,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[client] has joined the server.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Nick2525" changedate="20190608T034944Z" creationid="Nick2525" creationdate="20190608T034916Z">
+        <seg>[client] がサーバーに参加しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[itemname] is now available in the Steam Workshop!</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113009Z" creationid="kakonya" creationdate="20190607T113009Z">
