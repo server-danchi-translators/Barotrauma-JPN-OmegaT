@@ -1864,8 +1864,8 @@
       <tuv lang="EN-US">
         <seg>If an overheated reactor is not shut down, it will eventually lead to a nuclear meltdown.</seg>
       </tuv>
-      <tuv lang="JA" changeid="kakonya" changedate="20190607T101552Z" creationid="urakata" creationdate="20190607T085931Z">
-        <seg>過熱炉をシャットダウンしないと、しまいには炉心溶融します。</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T034429Z" creationid="urakata" creationdate="20190607T085931Z">
+        <seg>原子炉をシャットダウンしないと、しまいには炉心溶融します。</seg>
       </tuv>
     </tu>
     <tu>
