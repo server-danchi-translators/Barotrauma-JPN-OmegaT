@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>.38 caliber.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T231631Z" creationid="kakonya" creationdate="20190608T231631Z">
+        <seg>38口径。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A battery-powered underwater propulsion device.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T053823Z" creationid="kakonya" creationdate="20190608T053823Z">
@@ -2274,6 +2282,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Damages electrical equipment.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T231808Z" creationid="kakonya" creationdate="20190608T231808Z">
+        <seg>電気機器を損傷します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Days</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T141048Z" creationid="totochan" creationdate="20190607T141048Z">
@@ -2734,6 +2750,14 @@
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190608T063332Z" creationid="urakata" creationdate="20190608T062430Z">
         <seg>人員補充船の活動可能時間:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>EMP Grenade</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T231719Z" creationid="kakonya" creationdate="20190608T231719Z">
+        <seg>爆発の際に明るい光と大きな音を発し、近くのキャラクターを気絶させます。EMP Grenade</seg>
       </tuv>
     </tu>
     <tu>
@@ -3282,6 +3306,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Frag Grenade</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T231815Z" creationid="kakonya" creationdate="20190608T231815Z">
+        <seg>FRAGグレネード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Front ballast</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T062221Z" creationid="hiru4" creationdate="20190608T062146Z">
@@ -3382,6 +3414,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113052Z" creationid="kakonya" creationdate="20190607T113052Z">
         <seg>一般的な</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General purpose fragmentation grenade.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T231843Z" creationid="kakonya" creationdate="20190608T231843Z">
+        <seg>一般的なフラグメンテーション手榴弾。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4244,8 +4284,8 @@
       <tuv lang="EN-US">
         <seg>Launches syrettes containing drugs or poisons.</seg>
       </tuv>
-      <tuv lang="JA" changeid="kakonya" changedate="20190608T231620Z" creationid="kakonya" creationdate="20190608T231620Z">
-        <seg>薬物や毒物を含んだシレットを撃ち出しします。</seg>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T231624Z" creationid="kakonya" creationdate="20190608T231620Z">
+        <seg>薬物や毒物を含んだシレットを撃ち出します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4782,6 +4822,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T165110Z" creationid="nick2" creationdate="20190608T164635Z">
         <seg>感染症の進行具合によっては大用量の投与が必要な場合がある。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Might stop a person...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T231653Z" creationid="kakonya" creationdate="20190608T231653Z">
+        <seg>死に至る場合があります...</seg>
       </tuv>
     </tu>
     <tu>
@@ -5930,6 +5978,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Produces bright light and a loud sound on detonation, which stuns nearby characters.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T231717Z" creationid="kakonya" creationdate="20190608T231717Z">
+        <seg>爆発の際に明るい光と大きな音を発し、近くのキャラクターを気絶させます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Produces mild burns as a side effect.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T164847Z" creationid="nick2" creationdate="20190608T164847Z">
@@ -6470,6 +6526,22 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T105041Z" creationid="kakonya" creationdate="20190607T105041Z">
         <seg>禁止を解除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Revolver</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T231656Z" creationid="kakonya" creationdate="20190608T231656Z">
+        <seg>リボルバー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Revolver Round</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T231628Z" creationid="kakonya" creationdate="20190608T231628Z">
+        <seg>リボルバーラウンド</seg>
       </tuv>
     </tu>
     <tu>
@@ -7262,6 +7334,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T231917Z" creationid="totochan" creationdate="20190607T140704Z">
         <seg>気絶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stun Grenade</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T231700Z" creationid="kakonya" creationdate="20190608T231700Z">
+        <seg>スタングレネード</seg>
       </tuv>
     </tu>
     <tu>
@@ -8414,6 +8494,14 @@
       </tuv>
       <tuv lang="JA" changeid="spears" changedate="20190608T101110Z" creationid="spears" creationdate="20190608T101110Z">
         <seg>治療として使用します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use carefully.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T232007Z" creationid="kakonya" creationdate="20190608T232007Z">
+        <seg>慎重に使用してください。</seg>
       </tuv>
     </tu>
     <tu>
