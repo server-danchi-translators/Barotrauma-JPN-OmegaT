@@ -5660,8 +5660,8 @@
       <tuv lang="EN-US">
         <seg>There are many ways to get past locked doors, including forcing them open with a crowbar or rewiring them to a button you have access to.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190608T001012Z" creationid="nick2" creationdate="20190608T001012Z">
-        <seg>ロックがかかったドアを開く方法は数種類あります。バールでこじ開けたり、あなたがアクセス権を持っているボタンにドアを再配線するなどです。</seg>
+      <tuv lang="JA" changeid="spears" changedate="20190608T085611Z" creationid="nick2" creationdate="20190608T001012Z">
+        <seg>ロックがかかったドアを開く方法は数種類あります。バールでこじ開けたり、あなたがアクセス権を持っているボタンにドアを再配線するなどで</seg>
       </tuv>
     </tu>
     <tu>
@@ -6332,8 +6332,8 @@
       <tuv lang="EN-US">
         <seg>Welding tools are simple enough to be used by any submariner, but trained mechanics are generally faster welders and have a lower risk of injuring themselves with the tool.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190608T003045Z" creationid="nick2" creationdate="20190608T003045Z">
-        <seg>溶接ツールはシンプルな仕組みなので誰にも扱うことができますが、訓練を受けたメカニックはより素早く溶接でき、自分自身を傷つける可能性も低いです。</seg>
+      <tuv lang="JA" changeid="spears" changedate="20190608T085625Z" creationid="nick2" creationdate="20190608T003045Z">
+        <seg>溶接ツールはシンプルな仕組みなので誰にも扱うことができますが、訓練を受けたメカニックはより素早く溶接でき、自分自身が怪我をする可能性も低いです。</seg>
       </tuv>
     </tu>
     <tu>
