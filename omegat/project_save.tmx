@@ -3190,6 +3190,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The only life encountered inside the structures are the biomechanical entities that maintain and guard them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T010757Z" creationid="nick2" creationdate="20190608T010757Z">
+        <seg>遺跡の内部で遭遇したすべての生物は、遺跡の維持と防衛のための機械生命体だけです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The package was made for an unknown version; your game version is [gameversion].</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113431Z" creationid="kakonya" creationdate="20190607T113431Z">
@@ -3794,6 +3802,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T103045Z" creationid="kakonya" creationdate="20190607T103045Z">
         <seg> {1}を長押しすると溶接します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>While exploring ruins or caves, drop flares as often as possible to help mark a path out, should you need to make a hasty exit for some reason.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T011309Z" creationid="nick2" creationdate="20190608T011309Z">
+        <seg>遺跡や洞窟を探検する時は、出口までの目印を作るためにできるだけ頻繁にフレアを残しましょう。何らかの理由で急いで脱出しなければならないかもしれません。</seg>
       </tuv>
     </tu>
     <tu>
