@@ -1706,6 +1706,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Docked to [outpost].\nUndock before attempting to maneuver the submarine.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T124736Z" creationid="nick2" creationdate="20190608T124722Z">
+        <seg>[outpost] にドック中。\n船を動かす前にドック状態を解いてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Docking port</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T062244Z" creationid="hiru4" creationdate="20190608T062244Z">
@@ -2740,8 +2748,8 @@
       <tuv lang="EN-US">
         <seg>If no characters revive or rejoin, the server will end round in [time] seconds.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190608T124512Z" creationid="nick2" creationdate="20190608T124512Z">
-        <seg>誰も蘇生されず、新しいプレイヤーが参加しなければ、ラウンドは[time]秒で終了します。</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T124544Z" creationid="nick2" creationdate="20190608T124512Z">
+        <seg>誰も蘇生されず、新しくプレイヤーも参加しなければ、ラウンドは[time]秒で終了します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5942,6 +5950,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T104432Z" creationid="totochan" creationdate="20190607T104432Z">
         <seg>ポートはクライアントとの通信に使用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The purchased supplies have been delivered to [roomname].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T124840Z" creationid="nick2" creationdate="20190608T124840Z">
+        <seg>購入した物資は [roomname] へと配達されました。</seg>
       </tuv>
     </tu>
     <tu>
