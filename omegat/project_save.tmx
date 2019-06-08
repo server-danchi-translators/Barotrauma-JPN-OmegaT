@@ -1186,6 +1186,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bad news is, this station is unsalvageable.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T233723Z" creationid="kakonya" creationdate="20190608T233723Z">
+        <seg>残念だけど、このステーションは救出不可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ballast</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T061054Z" creationid="hiru4" creationdate="20190608T061054Z">
@@ -1830,6 +1838,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T105135Z" creationid="kakonya" creationdate="20190607T105135Z">
         <seg>戦闘</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Come down to the sub—we’re leaving before it’s too late.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T233824Z" creationid="kakonya" creationdate="20190608T233824Z">
+        <seg>潜水艦に乗り込んでください。手遅れになる前に出発します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5310,6 +5326,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T114120Z" creationid="kakonya" creationdate="20190607T114120Z">
         <seg>次のキャラクター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nice shooting.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T233618Z" creationid="kakonya" creationdate="20190608T233618Z">
+        <seg>ナイスシューティング！</seg>
       </tuv>
     </tu>
     <tu>
