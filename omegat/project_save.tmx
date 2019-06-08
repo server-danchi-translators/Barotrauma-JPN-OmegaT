@@ -3836,8 +3836,8 @@
       <tuv lang="EN-US">
         <seg>I see something bigger up ahead, so keep on your toes.</seg>
       </tuv>
-      <tuv lang="JA" changeid="kakonya" changedate="20190608T233152Z" creationid="kakonya" creationdate="20190608T233152Z">
-        <seg>まだ先に大きなものが見えるので、用心してください。</seg>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T233217Z" creationid="kakonya" creationdate="20190608T233152Z">
+        <seg>この先になにか大きなものが見えるので、用心してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4166,6 +4166,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T101734Z" creationid="kakonya" creationdate="20190607T101734Z">
         <seg>アイテムはいろいろなサイズのコンテナに格納されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I’m reading something big on the sonar.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T233332Z" creationid="kakonya" creationdate="20190608T233332Z">
+        <seg>ソナーで大きな何かを検知しました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4518,6 +4526,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T061213Z" creationid="hiru4" creationdate="20190608T061213Z">
         <seg>ロードキャンペーン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Load the coilgun and see if you can take it down.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T233604Z" creationid="kakonya" creationdate="20190608T233604Z">
+        <seg>コイルガンを取り付けて倒せるか試してみよう。</seg>
       </tuv>
     </tu>
     <tu>
