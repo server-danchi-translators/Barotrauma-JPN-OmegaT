@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2304,8 +2304,8 @@
       <tuv lang="EN-US">
         <seg>If set to 0%, the cursor has to be exactly on the item.</seg>
       </tuv>
-      <tuv lang="JA" changeid="kakonya" changedate="20190607T113859Z" creationid="kakonya" creationdate="20190607T113859Z">
-        <seg>0％に設定すると、カーソルがアイテム上に正確である必要があります。</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190608T061257Z" creationid="kakonya" creationdate="20190607T113859Z">
+        <seg>0％に設定すると、カーソルがアイテムに直接乗っている必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4368,8 +4368,8 @@
       <tuv lang="EN-US">
         <seg>Set key bindings to the recommended default settings (left mouse button to select items, right mouse button or esc to deselect).</seg>
       </tuv>
-      <tuv lang="JA" changeid="kakonya" changedate="20190607T114131Z" creationid="kakonya" creationdate="20190607T114131Z">
-        <seg>推奨されるデフォルト設定（アイテムを選択し、マウスの左ボタン、選択を解除するには、マウスの右ボタンまたはESC）にキーバインドを設定します。</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190608T061422Z" creationid="kakonya" creationdate="20190607T114131Z">
+        <seg>推奨されるデフォルト設定（アイテム選択:マウス左ボタン、選択解除:マウス右ボタンまたはESC）にキーバインドを設定します。</seg>
       </tuv>
     </tu>
     <tu>
