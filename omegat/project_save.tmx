@@ -966,6 +966,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Deploys a depth charge or decoy.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T025019Z" creationid="kakonya" creationdate="20190608T025019Z">
+        <seg>爆雷やおとりを配備します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Depth Charge Loader</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T025025Z" creationid="kakonya" creationdate="20190608T025025Z">
+        <seg>デプスチャージローダー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Depth Charge Tube</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T024953Z" creationid="kakonya" creationdate="20190608T024953Z">
@@ -1158,6 +1174,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Electrical Discharge Coil</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T025238Z" creationid="kakonya" creationdate="20190608T025238Z">
+        <seg>放電コイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Electrical room</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T023801Z" creationid="kakonya" creationdate="20190608T023801Z">
@@ -1346,6 +1370,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T024944Z" creationid="kakonya" creationdate="20190608T024927Z">
         <seg>コイルガンへ弾丸を補充する装置.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Feeds depth charges and decoys into a linked depth charge tube.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T025102Z" creationid="kakonya" creationdate="20190608T025102Z">
+        <seg>デプスチャージに爆雷やデコイを補充する装置</seg>
       </tuv>
     </tu>
     <tu>
@@ -2850,6 +2882,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T114122Z" creationid="kakonya" creationdate="20190607T114122Z">
         <seg>前のキャラクター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Produces a harmful localized electrical shock across a portion of the adjacent hull.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T025309Z" creationid="kakonya" creationdate="20190608T025309Z">
+        <seg>隣接する船体の一部に有害な電気ショックを発生させます。</seg>
       </tuv>
     </tu>
     <tu>
