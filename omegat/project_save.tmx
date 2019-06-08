@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -226,6 +226,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T111311Z" creationid="kakonya" creationdate="20190607T111311Z">
         <seg>(酸素)データは利用できません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Airlock</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T061052Z" creationid="hiru4" creationdate="20190608T061052Z">
+        <seg>エアロック</seg>
       </tuv>
     </tu>
     <tu>
@@ -510,6 +518,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ballast</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T061054Z" creationid="hiru4" creationdate="20190608T061054Z">
+        <seg>バラスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ballistic Fiber</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T060615Z" creationid="hiru4" creationdate="20190608T060615Z">
@@ -674,6 +690,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190607T055003Z" creationid="hiru4" creationdate="20190607T055003Z">
         <seg>キャンペーン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Campaign Setup</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T061233Z" creationid="hiru4" creationdate="20190608T061209Z">
+        <seg>キャンペーン設定</seg>
       </tuv>
     </tu>
     <tu>
@@ -882,6 +906,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T020302Z" creationid="kakonya" creationdate="20190608T020302Z">
         <seg>潜水艦に来て下さい。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Command room</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T061048Z" creationid="hiru4" creationdate="20190608T061048Z">
+        <seg>指令室</seg>
       </tuv>
     </tu>
     <tu>
@@ -1614,6 +1646,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Engine room</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T061041Z" creationid="hiru4" creationdate="20190608T061041Z">
+        <seg>エンジンルーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>English</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113209Z" creationid="kakonya" creationdate="20190607T113209Z">
@@ -1982,6 +2022,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hammerhead</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T061150Z" creationid="hiru4" creationdate="20190608T061150Z">
+        <seg>ハンマーヘッドアップディスプレイ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Handcuffs</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T045509Z" creationid="kakonya" creationdate="20190608T045509Z">
@@ -2002,6 +2050,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T114709Z" creationid="kakonya" creationdate="20190607T114709Z">
         <seg>ハッチ（ボタン制御）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>He</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T061153Z" creationid="hiru4" creationdate="20190608T061153Z">
+        <seg>彼</seg>
       </tuv>
     </tu>
     <tu>
@@ -2046,10 +2102,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Her</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T061204Z" creationid="hiru4" creationdate="20190608T061204Z">
+        <seg>彼女の</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Herself</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T061207Z" creationid="hiru4" creationdate="20190608T061207Z">
+        <seg>彼女自身</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>High pressure</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T140635Z" creationid="totochan" creationdate="20190607T140635Z">
         <seg>高圧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Himself</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T061200Z" creationid="hiru4" creationdate="20190608T061200Z">
+        <seg>彼自身</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>His</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T061154Z" creationid="hiru4" creationdate="20190608T061154Z">
+        <seg>彼の</seg>
       </tuv>
     </tu>
     <tu>
@@ -2630,6 +2718,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Load campaign</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T061213Z" creationid="hiru4" creationdate="20190608T061213Z">
+        <seg>ロードキャンペーン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Load: [kw] kW</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T111413Z" creationid="kakonya" creationdate="20190607T111413Z">
@@ -2782,6 +2878,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mantis</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T061127Z" creationid="hiru4" creationdate="20190608T061127Z">
+        <seg>マンティス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Manual steering</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T111851Z" creationid="kakonya" creationdate="20190607T111851Z">
@@ -2918,6 +3022,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Moloch</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T061129Z" creationid="hiru4" creationdate="20190608T061129Z">
+        <seg>モロク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Moloch Baby</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T061131Z" creationid="hiru4" creationdate="20190608T061131Z">
+        <seg>モロクベイビー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Moloch Boss</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T061133Z" creationid="hiru4" creationdate="20190608T061133Z">
+        <seg>モロクボス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Monster</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T105131Z" creationid="kakonya" creationdate="20190607T105131Z">
@@ -2970,6 +3098,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T012250Z" creationid="nick2" creationdate="20190608T012250Z">
         <seg>マッドラプターは鋭いくちばしでいともたやすく金属製のドアを引き裂くことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mudraptor</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T061124Z" creationid="hiru4" creationdate="20190608T061124Z">
+        <seg>マッドラプター</seg>
       </tuv>
     </tu>
     <tu>
@@ -3050,6 +3186,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T104147Z" creationid="totochan" creationdate="20190607T104147Z">
         <seg>新しいゲーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New campaign</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T061211Z" creationid="hiru4" creationdate="20190608T061211Z">
+        <seg>新しいキャンペーン</seg>
       </tuv>
     </tu>
     <tu>
@@ -3430,6 +3574,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Please select a submarine.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T061241Z" creationid="hiru4" creationdate="20190608T061241Z">
+        <seg>潜水艦を選択してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please uninstall the content package through the Steam Workshop menu.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113150Z" creationid="kakonya" creationdate="20190607T113150Z">
@@ -3710,6 +3862,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Railgun Shell Rack</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T061014Z" creationid="hiru4" creationdate="20190608T061014Z">
+        <seg>レールガン弾薬箱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Railgun shells and depth charges include a compartment that can hold additional explosives.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190607T235856Z" creationid="nick2" creationdate="20190607T235720Z">
@@ -3730,6 +3890,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T020831Z" creationid="kakonya" creationdate="20190608T020831Z">
         <seg>リアクター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reactor room</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T061039Z" creationid="hiru4" creationdate="20190608T061039Z">
+        <seg>原子炉の部屋</seg>
       </tuv>
     </tu>
     <tu>
@@ -4086,6 +4254,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Secure Steel Cabinet</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T060956Z" creationid="hiru4" creationdate="20190608T060956Z">
+        <seg>セキュアスチールキャビネット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Security Officer's Uniform</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T045034Z" creationid="kakonya" creationdate="20190608T045034Z">
@@ -4130,6 +4306,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113011Z" creationid="kakonya" creationdate="20190607T113011Z">
         <seg>スチームワークショップアイテムのプレビュー画像を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Selected submarine</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T061301Z" creationid="hiru4" creationdate="20190608T061301Z">
+        <seg>選択した潜水艦</seg>
       </tuv>
     </tu>
     <tu>
@@ -4194,6 +4378,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T104158Z" creationid="totochan" creationdate="20190607T104158Z">
         <seg>設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>She</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T061202Z" creationid="hiru4" creationdate="20190608T061202Z">
+        <seg>彼女</seg>
       </tuv>
     </tu>
     <tu>
@@ -4482,6 +4674,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T014349Z" creationid="kakonya" creationdate="20190608T014349Z">
         <seg>潜水艦のメンテナンス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Submarine not selected!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T061236Z" creationid="hiru4" creationdate="20190608T061236Z">
+        <seg>潜水艦選択されていません！</seg>
       </tuv>
     </tu>
     <tu>
@@ -4998,6 +5198,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tiger Thresher</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T061135Z" creationid="hiru4" creationdate="20190608T061135Z">
+        <seg>タイガーサッシャ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tiger Thresher Boss</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T061137Z" creationid="hiru4" creationdate="20190608T061137Z">
+        <seg>タイガーサッシャボス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Titanium</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T060421Z" creationid="hiru4" creationdate="20190608T060421Z">
@@ -5458,6 +5674,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T141012Z" creationid="totochan" creationdate="20190607T141012Z">
         <seg>警告</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Watcher</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T061140Z" creationid="hiru4" creationdate="20190608T061140Z">
+        <seg>ウォッチャー</seg>
       </tuv>
     </tu>
     <tu>
