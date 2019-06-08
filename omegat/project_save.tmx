@@ -576,8 +576,16 @@
       <tuv lang="EN-US">
         <seg>Connect the junction boxes</seg>
       </tuv>
-      <tuv lang="JA" changeid="kakonya" changedate="20190608T023054Z" creationid="kakonya" creationdate="20190608T023054Z">
-        <seg>配電盤を接続します</seg>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T023214Z" creationid="kakonya" creationdate="20190608T023054Z">
+        <seg>ジャンクションボックスを接続します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Connect them with wires to allow the power to travel between them.\n\nTo connect wires to items, equip a screwdriver and wire in separate hands, then interact with ({0}) the item you want to add the wire to.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T023516Z" creationid="kakonya" creationdate="20190608T023516Z">
+        <seg>電線で接続し、電力を通します。\n\nドライバーと電線を別々の手に装備し、 ({0}) で電線を接続する機器にアクセスします</seg>
       </tuv>
     </tu>
     <tu>
@@ -1810,6 +1818,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T053706Z" creationid="kakonya" creationdate="20190607T053706Z">
         <seg>水没していると、ジャンクションボックスや電気機器の故障の原因となります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Junction boxes serve as the main way to connect the submarine’s devices to the power grid.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T023302Z" creationid="kakonya" creationdate="20190608T023302Z">
+        <seg>ジャンクションボックスは、潜水艦の機器を電力に接続するため機能します。</seg>
       </tuv>
     </tu>
     <tu>
