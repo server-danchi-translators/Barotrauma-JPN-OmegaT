@@ -1664,8 +1664,8 @@
       <tuv lang="EN-US">
         <seg>Killing one in a swarm may distract the rest as they enter into a feeding frenzy.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190608T012013Z" creationid="nick2" creationdate="20190608T012013Z">
-        <seg>群れの一匹を殺すと他が共食いの連鎖を始め、注意をそらすことができるかもしれません。</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T012029Z" creationid="nick2" creationdate="20190608T012013Z">
+        <seg>群れの一匹を殺すと他が共食いの連鎖を始め、群れの注意をそらすことができるかもしれません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2010,6 +2010,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T055623Z" creationid="kakonya" creationdate="20190607T055623Z">
         <seg> {0}, {1}, {2}, {3} で移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mud raptors can easily tear their way through metal doors with their sharp beaks.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T012250Z" creationid="nick2" creationdate="20190608T012250Z">
+        <seg>マッドラプターは鋭いくちばしでいともたやすく金属製のドアを引き裂くことができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3282,6 +3290,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T231615Z" creationid="kakonya" creationdate="20190607T231615Z">
         <seg>冷や汗とチアノーゼが出て唇が真っ青です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The so-called husk parasites slowly take over and consume the body of their host, eventually turning them into nothing but an empty exoskeleton controlled by the parasite.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T013058Z" creationid="nick2" creationdate="20190608T013058Z">
+        <seg>"ハスク"と呼ばれる寄生虫はゆっくりと宿主の体を蝕み、最終的に宿主は完全に支配された抜け殻になってしまうでしょう。</seg>
       </tuv>
     </tu>
     <tu>
