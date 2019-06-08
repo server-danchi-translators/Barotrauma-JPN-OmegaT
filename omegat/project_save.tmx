@@ -870,6 +870,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Content package '[packagename]' is marked as a core package but does not contain all the required files for a core package.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190608T060054Z" creationid="urakata" creationdate="20190608T060054Z">
+        <seg>コンテンツパッケージ'[packagename]'はコアパッケージとして指定されていますが、コアパッケージに必要なファイルがありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Content package '[packagename]' is not compatible with this version of Barotrauma.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190608T055555Z" creationid="kakonya" creationdate="20190607T113237Z">
