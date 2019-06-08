@@ -872,16 +872,16 @@
       <tuv lang="EN-US">
         <seg>Content package '[packagename]' is not compatible with this version of Barotrauma.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190608T055222Z" creationid="kakonya" creationdate="20190607T113237Z">
-        <seg>このワークショップのアイテムは、Barotraumaのバージョンと互換性がありません。</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190608T055555Z" creationid="kakonya" creationdate="20190607T113237Z">
+        <seg>コンテンツパッケージ'[packagename]'はこのバージョンのBarotraumaと互換性がありません。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Content package '[packagepath]' not found.</seg>
       </tuv>
-      <tuv lang="JA" changeid="kakonya" changedate="20190607T113233Z" creationid="kakonya" creationdate="20190607T113233Z">
-        <seg>コンテンツパッケージに保存： [path]</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190608T055507Z" creationid="kakonya" creationdate="20190607T113233Z">
+        <seg>コンテンツパッケージ'[packagepath]'が見つかりませんでした。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4520,8 +4520,8 @@
       <tuv lang="EN-US">
         <seg>The package was made for an unknown version; your game version is [gameversion].</seg>
       </tuv>
-      <tuv lang="JA" changeid="kakonya" changedate="20190607T113431Z" creationid="kakonya" creationdate="20190607T113431Z">
-        <seg>パッケージはバージョン[packageversion]用に作られました。 あなたのゲームのバージョンは[gameversion]です。</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190608T055635Z" creationid="kakonya" creationdate="20190607T113431Z">
+        <seg>このパッケージが対応しているバージョンは不明です。 あなたのゲームのバージョンは[gameversion]です。</seg>
       </tuv>
     </tu>
     <tu>
