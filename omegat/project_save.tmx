@@ -126,6 +126,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All submariners have been trained to do basic repairs on electrical devices, but electrical engineers get the job done much faster.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T003312Z" creationid="nick2" creationdate="20190608T003312Z">
+        <seg>すべての乗組員は電気機器の基本的な修理が行えるように訓練されていますが、エンジニアは他と比べて作業がずっと早いです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All submariners have been trained to do basic repairs on mechanical devices, but mechanics get the job done much faster.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T003449Z" creationid="nick2" creationdate="20190608T003449Z">
+        <seg>すべての乗組員は機械装置の基本的な修理を行うように訓練されてきたが、メカニックの仕事ははるかに高速成し遂げます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All your unsaved progress will be lost.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112312Z" creationid="totochan" creationdate="20190607T104422Z">
