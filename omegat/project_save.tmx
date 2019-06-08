@@ -278,6 +278,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alien Flare</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T121341Z" creationid="kakonya" creationdate="20190608T121341Z">
+        <seg>エイリアンフレア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alien Pistol</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T025810Z" creationid="kakonya" creationdate="20190608T025810Z">
@@ -390,6 +398,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T060411Z" creationid="hiru4" creationdate="20190608T060411Z">
         <seg>アルミニウム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ammunition for the coilgun.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T121403Z" creationid="kakonya" creationdate="20190608T121403Z">
+        <seg>コイルガンのための弾薬。</seg>
       </tuv>
     </tu>
     <tu>
@@ -826,6 +842,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Burns for longer than a regular flare.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T121357Z" creationid="kakonya" creationdate="20190608T121357Z">
+        <seg>通常のフレアより長く使用可能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Calcium</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T060400Z" creationid="hiru4" creationdate="20190608T060400Z">
@@ -1046,6 +1070,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T024642Z" creationid="kakonya" creationdate="20190608T024642Z">
         <seg>コイルガン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Coilgun Ammunition Box</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T121401Z" creationid="kakonya" creationdate="20190608T121401Z">
+        <seg>コイルガンの弾薬箱</seg>
       </tuv>
     </tu>
     <tu>
@@ -2178,10 +2210,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flare</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T121213Z" creationid="kakonya" creationdate="20190608T121213Z">
+        <seg>フレアー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flash Powder</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T060637Z" creationid="hiru4" creationdate="20190608T060637Z">
         <seg>フラッシュパウダー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Flashlight</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T121203Z" creationid="kakonya" creationdate="20190608T121203Z">
+        <seg>フラッシュライト</seg>
       </tuv>
     </tu>
     <tu>
@@ -2390,6 +2438,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T113052Z" creationid="kakonya" creationdate="20190608T113052Z">
         <seg>ハンドヘルドソナー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Handheld light.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T121211Z" creationid="kakonya" creationdate="20190608T121211Z">
+        <seg>ハンドヘルドライト</seg>
       </tuv>
     </tu>
     <tu>
@@ -5642,6 +5698,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Temporary handheld light.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T121225Z" creationid="kakonya" creationdate="20190608T121225Z">
+        <seg>一時的なハンドヘルド光源。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>That last impact cut power to half of the outpost.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T015945Z" creationid="kakonya" creationdate="20190608T015945Z">
@@ -6478,6 +6542,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T060532Z" creationid="hiru4" creationdate="20190608T060532Z">
         <seg>クラフトに使用する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Useful for marking a path while exploring outside the sub.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T121304Z" creationid="kakonya" creationdate="20190608T121304Z">
+        <seg>潜水艦の外を探索しながら通り道をマークするのに便利です。</seg>
       </tuv>
     </tu>
     <tu>
