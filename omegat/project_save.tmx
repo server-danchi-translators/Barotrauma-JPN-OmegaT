@@ -1558,6 +1558,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I want you to grab what you need to get us online again.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T020030Z" creationid="kakonya" creationdate="20190608T020030Z">
+        <seg>必要なものをつかんで、再びオンラインにしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>IP address</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T140410Z" creationid="totochan" creationdate="20190607T140410Z">
@@ -2734,6 +2742,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remember to switch the reactor to automatic before you go.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T020135Z" creationid="kakonya" creationdate="20190608T020135Z">
+        <seg>行く前に原子炉を自動に切り替えることを忘れないでください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Remove</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T140423Z" creationid="totochan" creationdate="20190607T140423Z">
@@ -3142,6 +3158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Some junction boxes blew their fuses and pumps aren’t working—you should go see what you can do about it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T020108Z" creationid="kakonya" creationdate="20190608T020108Z">
+        <seg>いくつかの配電盤は、彼らのヒューズとポンプが作動し、あなたがされていないはずですが、それについて何ができるか見に行く吹きました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Some of the alien structures on Europa have been constructed of a metamaterial that's outstandingly resistant to physical damage, and as such has become an important subject of research to Europan scientists.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T005310Z" creationid="nick2" creationdate="20190608T005310Z">
@@ -3362,6 +3386,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T111516Z" creationid="kakonya" creationdate="20190607T111516Z">
         <seg>低温度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>That last impact cut power to half of the outpost.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T015945Z" creationid="kakonya" creationdate="20190608T015945Z">
+        <seg>最後の影響でパワーが半減されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4042,6 +4074,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T015716Z" creationid="kakonya" creationdate="20190608T015716Z">
         <seg>電力が必要です!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We seem to be stable now.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T020038Z" creationid="kakonya" creationdate="20190608T020038Z">
+        <seg>私たちは今、安定しているようです。</seg>
       </tuv>
     </tu>
     <tu>
