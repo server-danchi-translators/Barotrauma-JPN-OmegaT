@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A battery-powered underwater propulsion device.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T053823Z" creationid="kakonya" creationdate="20190608T053823Z">
+        <seg>バッテリ駆動の水中推進装置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A device that can be used to observe the outside of the sub by connecting it to a camera, or to control weapons such as the railgun and coilgun.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T025602Z" creationid="kakonya" creationdate="20190608T025602Z">
@@ -122,6 +130,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T114633Z" creationid="kakonya" creationdate="20190607T114633Z">
         <seg>2個の内蔵ボタンを備えたスライドドア。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A synthetic skin with hemostatic properties, able to quickly seal most wounds.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T053911Z" creationid="kakonya" creationdate="20190608T053911Z">
+        <seg>傷を覆い、すぐに止血してくれる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -438,6 +454,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bandage</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T053825Z" creationid="kakonya" creationdate="20190608T053825Z">
+        <seg>包帯</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Banlist</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T114146Z" creationid="kakonya" creationdate="20190607T114146Z">
@@ -458,6 +482,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T231946Z" creationid="kakonya" creationdate="20190607T231946Z">
         <seg>バロトラウマ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Basic bandages, useful in the treatment of bleeding wounds and burns.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T053838Z" creationid="kakonya" creationdate="20190608T053838Z">
+        <seg>出血や火傷の治療に有用な基本的な包帯。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1234,6 +1266,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T045548Z" creationid="kakonya" creationdate="20190608T045548Z">
         <seg>潜水マスク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Diving Suit</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T053814Z" creationid="kakonya" creationdate="20190608T053814Z">
+        <seg>潜水服</seg>
       </tuv>
     </tu>
     <tu>
@@ -3174,6 +3214,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Plastiseal</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T053841Z" creationid="kakonya" creationdate="20190608T053841Z">
+        <seg>バンドエイド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Player [player] not found!</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T040704Z" creationid="nick2" creationdate="20190608T040704Z">
@@ -4038,6 +4086,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Small enough to carry around in case it's needed, but won't protect you from the water pressure in the event of a full-blown hull breach.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T053804Z" creationid="kakonya" creationdate="20190608T053717Z">
+        <seg>持ち運び可能なサイズのマスク。本格的な事故の場合には水圧から保護されません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sodium is readily available, but aluminum must be deconstructed from oxygen tanks.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T234555Z" creationid="kakonya" creationdate="20190607T111117Z">
@@ -4850,6 +4906,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112509Z" creationid="kakonya" creationdate="20190607T112509Z">
         <seg>UPnPの利用できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Underwater Scooter</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T053821Z" creationid="kakonya" creationdate="20190608T053821Z">
+        <seg>水中スクーター</seg>
       </tuv>
     </tu>
     <tu>
