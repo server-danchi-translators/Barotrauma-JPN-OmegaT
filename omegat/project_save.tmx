@@ -638,6 +638,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alien Blood</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T181457Z" creationid="nick2" creationdate="20190608T181457Z">
+        <seg>エイリアンの血液</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alien Flare</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T121341Z" creationid="kakonya" creationdate="20190608T121341Z">
@@ -1266,6 +1274,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Blood extracted from a Europan lifeform.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T181510Z" creationid="nick2" creationdate="20190608T181510Z">
+        <seg>エウロパ生命体から抽出された血液。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Blood loss</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T231754Z" creationid="kakonya" creationdate="20190607T231754Z">
@@ -1414,6 +1430,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T130614Z" creationid="nick2" creationdate="20190608T130614Z">
         <seg>キャンペーン画面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Can be further processed into a blood substitute for the treatment of blood loss.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T181635Z" creationid="nick2" creationdate="20190608T181635Z">
+        <seg>失血の治療のための代用血液に加工することができる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2566,6 +2590,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T054849Z" creationid="kakonya" creationdate="20190607T054849Z">
         <seg>ドア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dormant eggs of the Europan lifeform colloquially referred to as 'husk parasite'.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T181438Z" creationid="nick2" creationdate="20190608T181438Z">
+        <seg>エウロパ生命体の休眠卵は口語的に"ハスク寄生虫"と呼ばれる。</seg>
       </tuv>
     </tu>
     <tu>
