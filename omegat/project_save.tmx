@@ -522,6 +522,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Are you trying to run multiple servers on the same port?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T132644Z" creationid="nick2" creationdate="20190608T132644Z">
+        <seg>同じポートで複数のサーバーを実行しようとしていますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Armory</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T062225Z" creationid="hiru4" creationdate="20190608T062225Z">
@@ -1282,6 +1290,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Could not load submarine [subname].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T132331Z" creationid="nick2" creationdate="20190608T132331Z">
+        <seg>潜水艦 [subname] がロードできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Could not start voice capture; suitable capture device not found.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113520Z" creationid="kakonya" creationdate="20190607T113520Z">
@@ -1734,6 +1750,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113220Z" creationid="kakonya" creationdate="20190607T113220Z">
         <seg>設定を適用するか、変更を破棄しますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do you want to download the file from the server host?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T132605Z" creationid="nick2" creationdate="20190608T132605Z">
+        <seg>サーバーのホストからファイルをダウンロードしますか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -5746,10 +5770,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Start now</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T132612Z" creationid="nick2" creationdate="20190608T132612Z">
+        <seg>今すぐ開始</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Start when players are ready</seg>
       </tuv>
       <tuv lang="JA" changeid="spears" changedate="20190608T100924Z" creationid="spears" creationdate="20190608T100924Z">
         <seg>プレイヤーが準備ができているときに開始する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Starting the server failed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T132629Z" creationid="nick2" creationdate="20190608T132616Z">
+        <seg>サーバーの起動に失敗しました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5870,6 +5910,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T131743Z" creationid="nick2" creationdate="20190608T131743Z">
         <seg>submarineフォルダに潜水艦が見つかりませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Submarine not found!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T132556Z" creationid="nick2" creationdate="20190608T132556Z">
+        <seg>潜水艦が見つかりません！</seg>
       </tuv>
     </tu>
     <tu>
@@ -6094,6 +6142,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113022Z" creationid="kakonya" creationdate="20190607T113022Z">
         <seg>ファイルには、ワークショップのアイテムに含まれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The file may be corrupted.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T132348Z" creationid="nick2" creationdate="20190608T132348Z">
+        <seg>ファイルが破損しているかもしれません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7018,6 +7074,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Waiting for file transfers to finish before starting the round...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T132609Z" creationid="nick2" creationdate="20190608T132609Z">
+        <seg>ファイル転送がラウンドを開始する前に終了するのを待っています...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Waiting for the campaign to start.</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T061423Z" creationid="hiru4" creationdate="20190608T061423Z">
@@ -7624,6 +7688,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T131847Z" creationid="nick2" creationdate="20190608T131826Z">
         <seg>潜水艦のバージョンとサーバーのバージョンが合っていません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your version of the submarine file [subname] does not match the server's version!\nYour MD5 hash: [myhash]\nServer's MD5 hash: [serverhash]\n</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T132516Z" creationid="nick2" creationdate="20190608T132516Z">
+        <seg>潜水艦 [subname] のバージョンとサーバーのバージョンが合っていません。\nあなたのMD5 hash: [myhash]\nサーバーのMD5 hash: [serverhash]\n</seg>
       </tuv>
     </tu>
     <tu>
