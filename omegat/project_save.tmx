@@ -4890,6 +4890,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Restarting in</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T130340Z" creationid="nick2" creationdate="20190608T130340Z">
+        <seg>再スタート中...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Resume</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112134Z" creationid="totochan" creationdate="20190607T104208Z">
