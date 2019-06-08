@@ -3986,6 +3986,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Muted Globally</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T133203Z" creationid="nick2" creationdate="20190608T133203Z">
+        <seg>グローバルでミュート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Muted Locally</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T133153Z" creationid="nick2" creationdate="20190608T133153Z">
+        <seg>ローカルでミュート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mutes the game when its window is not in focus.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113701Z" creationid="kakonya" creationdate="20190607T113701Z">
@@ -7632,6 +7648,22 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T040233Z" creationid="nick2" creationdate="20190608T040233Z">
         <seg>サーバとクライアントを同期するのに時間がかかりすぎたので、あなたは切断されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You have been muted by the server.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T133206Z" creationid="nick2" creationdate="20190608T133206Z">
+        <seg>サーバーによってミュートされています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You have been unmuted by the server.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T133213Z" creationid="nick2" creationdate="20190608T133213Z">
+        <seg>サーバーによってミュートが解除されています。</seg>
       </tuv>
     </tu>
     <tu>
