@@ -586,6 +586,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Automatic restart</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T130602Z" creationid="nick2" creationdate="20190608T130602Z">
+        <seg>自動再起動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Autopilot</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T111853Z" creationid="kakonya" creationdate="20190607T111853Z">
@@ -810,6 +818,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bot count</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T130506Z" creationid="nick2" creationdate="20190608T130506Z">
+        <seg>ボットの数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bot spawn mode</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T130519Z" creationid="nick2" creationdate="20190608T130519Z">
+        <seg>ボットのスポーン方法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Breaking down alien artifacts in a deconstructor may provide you with exotic raw materials.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T005126Z" creationid="nick2" creationdate="20190608T005126Z">
@@ -870,6 +894,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T061233Z" creationid="hiru4" creationdate="20190608T061209Z">
         <seg>キャンペーン設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Campaign view</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T130614Z" creationid="nick2" creationdate="20190608T130614Z">
+        <seg>キャンペーン画面</seg>
       </tuv>
     </tu>
     <tu>
@@ -1286,6 +1318,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T141229Z" creationid="totochan" creationdate="20190607T141229Z">
         <seg>作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create New</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T130624Z" creationid="nick2" creationdate="20190608T130624Z">
+        <seg>新しく作る</seg>
       </tuv>
     </tu>
     <tu>
@@ -2194,6 +2234,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fill</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T130532Z" creationid="nick2" creationdate="20190608T130532Z">
+        <seg>埋める</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Find it in the list, load the fabricator with materials and press the button to start fabricating.\n\nWhen done, the fabricated item can be found in the fabricator’s output slot.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T234944Z" creationid="kakonya" creationdate="20190607T234944Z">
@@ -2358,6 +2406,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113526Z" creationid="kakonya" creationdate="20190607T113526Z">
         <seg>全画面表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Game mode</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T130410Z" creationid="nick2" creationdate="20190608T130410Z">
+        <seg>ゲームモード</seg>
       </tuv>
     </tu>
     <tu>
@@ -3218,6 +3274,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Level difficulty</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T130451Z" creationid="nick2" creationdate="20190608T130451Z">
+        <seg>ステージの難易度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Level seed</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T130439Z" creationid="nick2" creationdate="20190608T130439Z">
+        <seg>ステージのシード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lighting resolution</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113541Z" creationid="kakonya" creationdate="20190607T113541Z">
@@ -3466,6 +3538,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Manual</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T130358Z" creationid="nick2" creationdate="20190608T130358Z">
+        <seg>マニュアル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Manual steering</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T111851Z" creationid="kakonya" creationdate="20190607T111851Z">
@@ -3622,6 +3702,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T061806Z" creationid="hiru4" creationdate="20190608T061806Z">
         <seg>ミッション情報</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mission type</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T130424Z" creationid="nick2" creationdate="20190608T130424Z">
+        <seg>ミッションの種類</seg>
       </tuv>
     </tu>
     <tu>
@@ -3926,6 +4014,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T105127Z" creationid="kakonya" creationdate="20190607T105127Z">
         <seg>無し</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Normal</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T130524Z" creationid="nick2" creationdate="20190608T130524Z">
+        <seg>ノーマル</seg>
       </tuv>
     </tu>
     <tu>
@@ -4262,6 +4358,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T053841Z" creationid="kakonya" creationdate="20190608T053841Z">
         <seg>バンドエイド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Play yourself</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T130744Z" creationid="nick2" creationdate="20190608T130744Z">
+        <seg>自分も遊ぶ</seg>
       </tuv>
     </tu>
     <tu>
@@ -4686,6 +4790,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T061039Z" creationid="hiru4" creationdate="20190608T061039Z">
         <seg>原子炉の部屋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ready to start</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T130851Z" creationid="nick2" creationdate="20190608T130851Z">
+        <seg>準備完了</seg>
       </tuv>
     </tu>
     <tu>
@@ -6338,6 +6450,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Traitors</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T130456Z" creationid="nick2" creationdate="20190608T130456Z">
+        <seg>裏切り者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Transfer items between character and container inventory by dragging or double-clicking.\n\nWhen in a character’s inventory, items can be equipped by double-clicking on them or by pressing the corresponding quick-slot key.\n\nTo close the interface, press {1}.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T102136Z" creationid="kakonya" creationdate="20190607T102136Z">
@@ -6742,6 +6862,22 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113648Z" creationid="kakonya" creationdate="20190607T113623Z">
         <seg>ボイスチャット音量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vote</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T130404Z" creationid="nick2" creationdate="20190608T130404Z">
+        <seg>投票</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Votes</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T130350Z" creationid="nick2" creationdate="20190608T130350Z">
+        <seg>投票</seg>
       </tuv>
     </tu>
     <tu>
