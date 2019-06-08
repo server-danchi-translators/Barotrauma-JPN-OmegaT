@@ -1496,8 +1496,8 @@
       <tuv lang="EN-US">
         <seg>If the reactor on a sub is not able to produce sufficient power to run all onboard systems, try reducing the charge rate for the onboard batteries and supercapacitors, or regulate the times when the sub is running at full speed.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190608T004048Z" creationid="nick2" creationdate="20190608T004048Z">
-        <seg>潜水艦上の原子炉はすべてオンボードシステムを実行するのに十分な電力を生成することができない場合には、オンボードのバッテリーやスーパーキャパシタの充電率を下げてみてください、または潜水艦がフルスピードで動作している時間を調節します。</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T004621Z" creationid="nick2" creationdate="20190608T004048Z">
+        <seg>潜水艦の原子炉がすべてのシステムに通電するのに十分な電力を生成することができない場合には、バッテリーやスーパーキャパシタの充電率を下げてみてください、または潜水艦がフルスピードで稼働している時間を制限してください。</seg>
       </tuv>
     </tu>
     <tu>
