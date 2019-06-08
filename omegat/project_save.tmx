@@ -5062,6 +5062,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You have been disconnected because of excessive desync (expecting a removed event).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T035812Z" creationid="nick2" creationdate="20190608T035812Z">
+        <seg>ので、過剰なDESYNC（removedイベントを期待して）の切断されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You have been disconnected because of excessive desync (expecting a very old event).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T035950Z" creationid="nick2" creationdate="20190608T035950Z">
+        <seg>あなたは、過剰な同期ずれにより切断されました。(古すぎるイベントの呼び出し).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You have been disconnected because of excessive desync.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T035756Z" creationid="nick2" creationdate="20190608T035756Z">
+        <seg>あなたは、過剰な同期ずれにより切断されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You have bled to death.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T122308Z" creationid="kakonya" creationdate="20190607T122308Z">
