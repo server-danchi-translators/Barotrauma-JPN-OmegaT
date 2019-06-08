@@ -230,6 +230,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Attempting to rewire powered devices without adequate electrical engineering skills may get you electrocuted.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T002828Z" creationid="nick2" creationdate="20190608T002828Z">
+        <seg>十分な電気工学のスキルなしで電気の通った装置を再配線しようとすると、感電することがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Audio</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113618Z" creationid="kakonya" creationdate="20190607T113618Z">
@@ -3638,10 +3646,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Welding tools are simple enough to be used by any submariner, but trained mechanics are generally faster welders and have a lower risk of injuring themselves with the tool.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T003045Z" creationid="nick2" creationdate="20190608T003045Z">
+        <seg>溶接ツールはシンプルな仕組みなので誰にも扱うことができますが、訓練を受けたメカニックはより素早く溶接でき、自分自身を傷つける可能性も低いです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When automatic control is on, the reactor will automatically adjust itself according to the power consumption.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T111728Z" creationid="kakonya" creationdate="20190607T111728Z">
         <seg>自動制御がオンのとき、反応器は、自動的に消費電力に応じて自身を調整します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When deploying a decoy, be sure to deactivate your active sonar for best results.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T002724Z" creationid="nick2" creationdate="20190608T002724Z">
+        <seg>デコイを展開する場合、アクティブソナーを無効にしないと効果が薄れるかもしれません。</seg>
       </tuv>
     </tu>
     <tu>
