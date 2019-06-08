@@ -870,6 +870,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Content package '[packagename]' cannot be marked as a core package because it does not contain all the required files for a core package.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190608T060248Z" creationid="urakata" creationdate="20190608T060248Z">
+        <seg>コンテンツパッケージ'[packagename]'コアパッケージに必要なファイルが足りないため、コアパッケージとして指定できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Content package '[packagename]' is marked as a core package but does not contain all the required files for a core package.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190608T060054Z" creationid="urakata" creationdate="20190608T060054Z">
@@ -2768,8 +2776,8 @@
       <tuv lang="EN-US">
         <seg>Missing content file types: [missingfiletypes]</seg>
       </tuv>
-      <tuv lang="JA" changeid="kakonya" changedate="20190607T113439Z" creationid="kakonya" creationdate="20190607T113439Z">
-        <seg>コンテンツパッケージがありません。</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190608T060153Z" creationid="kakonya" creationdate="20190607T113439Z">
+        <seg>不足しているファイルの種類は:[missingfiletypes]です</seg>
       </tuv>
     </tu>
     <tu>
