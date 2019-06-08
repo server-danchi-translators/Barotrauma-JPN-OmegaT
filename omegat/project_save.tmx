@@ -4090,6 +4090,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Is there any security still alive?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T232656Z" creationid="kakonya" creationdate="20190608T232656Z">
+        <seg>まだ生きているセキュリティはありますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is possible that there are other agents on this submarine.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T041703Z" creationid="nick2" creationdate="20190608T041703Z">
@@ -8886,6 +8894,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T103054Z" creationid="kakonya" creationdate="20190607T103054Z">
         <seg>ウォーターポンプ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We have a hull breach and some unwanted visitors!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T232850Z" creationid="kakonya" creationdate="20190608T232850Z">
+        <seg>船体の異常と侵入者がいます！</seg>
       </tuv>
     </tu>
     <tu>
