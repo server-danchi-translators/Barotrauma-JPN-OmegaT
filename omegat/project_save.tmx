@@ -2678,6 +2678,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Repair the engine and ballast pumps</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T014637Z" creationid="kakonya" creationdate="20190608T014637Z">
+        <seg>エンジンおよびバラストポンプを修理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Repairing devices</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T013941Z" creationid="kakonya" creationdate="20190608T013941Z">
