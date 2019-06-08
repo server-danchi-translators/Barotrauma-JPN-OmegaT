@@ -1358,6 +1358,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, the system is not always fast enough to react to large fluctuations in power consumption.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T002204Z" creationid="nick2" creationdate="20190608T002204Z">
+        <seg>しかし、このシステムは消費電力の大きな変動に素早く対応しきれないかもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, the system is not fast enough to react to large fluctuations in power consumption, so manual adjustments may still be needed.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T111839Z" creationid="kakonya" creationdate="20190607T111839Z">
@@ -3146,6 +3154,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T231615Z" creationid="kakonya" creationdate="20190607T231615Z">
         <seg>冷や汗とチアノーゼが出て唇が真っ青です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The sonar imaging on the navigation terminal may become inaccurate if the terminal is damaged—make sure your engineers keep the terminal in a good condition!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T002606Z" creationid="nick2" creationdate="20190608T002606Z">
+        <seg>ナビゲーション端末上のソナー画像は、端末がダメージを受けていると不正確になるかもしれません。エンジニアは端末の状態を維持するようにしてください。</seg>
       </tuv>
     </tu>
     <tu>
