@@ -474,6 +474,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An antidote for acute cyanide poisoning.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T162626Z" creationid="nick2" creationdate="20190608T162626Z">
+        <seg>急性青酸カリ中毒の解毒剤。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An element, useful for crafting.</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T060450Z" creationid="hiru4" creationdate="20190608T060450Z">
@@ -1626,6 +1634,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cyanide Antidote</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T162439Z" creationid="nick2" creationdate="20190608T162439Z">
+        <seg>青酸カリ解毒剤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cyanide poisoning</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T162650Z" creationid="nick2" creationdate="20190608T162650Z">
+        <seg>青酸カリ中毒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Days</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T141048Z" creationid="totochan" creationdate="20190607T141048Z">
@@ -1758,6 +1782,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112520Z" creationid="kakonya" creationdate="20190607T112520Z">
         <seg>デベロッパーサンドボックス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Died of cyanide poisoning.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T162706Z" creationid="nick2" creationdate="20190608T162706Z">
+        <seg>青酸カリ中毒で死亡しました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7816,6 +7848,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T231505Z" creationid="kakonya" creationdate="20190607T231505Z">
         <seg>焼死しました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You have died of cyanide poisoning.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T162723Z" creationid="nick2" creationdate="20190608T162712Z">
+        <seg>あなたは青酸カリ中毒で死亡しました。</seg>
       </tuv>
     </tu>
     <tu>
