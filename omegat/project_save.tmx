@@ -222,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A strong antipsychotic drug.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T164408Z" creationid="nick2" creationdate="20190608T164408Z">
+        <seg>強力な抗精神病薬。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A synthetic skin with hemostatic properties, able to quickly seal most wounds.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T053911Z" creationid="kakonya" creationdate="20190608T053911Z">
@@ -526,6 +534,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T163930Z" creationid="nick2" creationdate="20190608T163930Z">
         <seg>急性スフォリン中毒の解毒剤。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An antiparasitic drug used in the treatment of husk parasite infections.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T164437Z" creationid="nick2" creationdate="20190608T164437Z">
+        <seg>ハスク寄生虫感染症の治療に使用される抗寄生虫薬。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1038,6 +1054,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T060400Z" creationid="hiru4" creationdate="20190608T060400Z">
         <seg>カルシウム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Calyxanide</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T164410Z" creationid="nick2" creationdate="20190608T164410Z">
+        <seg>クレイキサイド</seg>
       </tuv>
     </tu>
     <tu>
@@ -2826,6 +2850,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Haloperidol</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T164402Z" creationid="nick2" creationdate="20190608T164402Z">
+        <seg>ハロペリドール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hammerhead</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T061150Z" creationid="hiru4" creationdate="20190608T061150Z">
@@ -4006,6 +4038,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113631Z" creationid="kakonya" creationdate="20190607T113631Z">
         <seg>マイク音量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Might require higher dosage to cure the infection at later stages.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T164635Z" creationid="nick2" creationdate="20190608T164635Z">
+        <seg>感染症の進行具合によっては大用量の投与が必要な場合があります。</seg>
       </tuv>
     </tu>
     <tu>
