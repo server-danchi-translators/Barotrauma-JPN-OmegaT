@@ -110,6 +110,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A round is already running and the admin has disabled spectating.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T132818Z" creationid="nick2" creationdate="20190608T132818Z">
+        <seg>ラウンドはすでに実行されていると管理者が観戦無効にしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A round is already running, but you can spectate the game while waiting for a respawn shuttle or a new round.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T132856Z" creationid="nick2" creationdate="20190608T132856Z">
+        <seg>ラウンドはすでに実行されていますが、復活シャトルや新ラウンドを待っている間に、ゲームを観戦することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A sliding door with a window and two integrated buttons.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T114639Z" creationid="kakonya" creationdate="20190607T114639Z">
@@ -1354,6 +1370,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Creating a new character will discard your previous character, and you will lose all your skill progress and all the items in your possession.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T133101Z" creationid="nick2" creationdate="20190608T133101Z">
+        <seg>新しいキャラクターを作成すると、前のキャラクターを破棄しすべてのスキルの進歩と所有アイテムを失うことになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Creator</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112834Z" creationid="kakonya" creationdate="20190607T112834Z">
@@ -1470,6 +1494,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113704Z" creationid="kakonya" creationdate="20190607T113704Z">
         <seg>現在のデバイス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Current permissions:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T132741Z" creationid="nick2" creationdate="20190608T132741Z">
+        <seg>現在の権限：</seg>
       </tuv>
     </tu>
     <tu>
@@ -1794,6 +1826,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do you wish to create a new character?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T133137Z" creationid="nick2" creationdate="20190608T133137Z">
+        <seg>新しいキャラクターを作成しますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Docked to [outpost].\nUndock before attempting to maneuver the submarine.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T124736Z" creationid="nick2" creationdate="20190608T124722Z">
@@ -1854,6 +1894,22 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T140253Z" creationid="totochan" creationdate="20190607T140253Z">
         <seg>ダウン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Download finished</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T132833Z" creationid="nick2" creationdate="20190608T132833Z">
+        <seg>ダウンロード完了</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Downloading [filename]</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T132911Z" creationid="nick2" creationdate="20190608T132911Z">
+        <seg>[filename]をダウンロード中</seg>
       </tuv>
     </tu>
     <tu>
@@ -2222,6 +2278,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T060737Z" creationid="hiru4" creationdate="20190608T060737Z">
         <seg>植物繊維</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File '[filename]' was downloaded successfully.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T133001Z" creationid="nick2" creationdate="20190608T132944Z">
+        <seg>ファイル '[filename]' のダウンロードが完了しました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3906,6 +3970,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mute</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T133147Z" creationid="nick2" creationdate="20190608T133147Z">
+        <seg>ミュート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mute on focus lost</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113652Z" creationid="kakonya" creationdate="20190607T113652Z">
@@ -4374,6 +4446,22 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T132046Z" creationid="nick2" creationdate="20190608T132046Z">
         <seg>権限</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Permissions changed</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T132750Z" creationid="nick2" creationdate="20190608T132750Z">
+        <seg>権限が変更されました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Permitted console commands:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T132801Z" creationid="nick2" creationdate="20190608T132801Z">
+        <seg>許可されたコンソールコマンド：</seg>
       </tuv>
     </tu>
     <tu>
@@ -6186,6 +6274,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The host has removed all your special permissions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T132737Z" creationid="nick2" creationdate="20190608T132737Z">
+        <seg>ホストがあなたのすべての特別な権限を削除しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The medical doctors' main task is to keep the crew in a good shape, but a medic with a syringe gun and a bit of knowhow on poisons can also be very useful in fending off intruders.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T015426Z" creationid="nick2" creationdate="20190608T015216Z">
@@ -7600,6 +7696,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113232Z" creationid="kakonya" creationdate="20190607T113232Z">
         <seg>解像度の変更を有効にするには、ゲームを再起動する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You will have to wait for a new round to start.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T132821Z" creationid="nick2" creationdate="20190608T132821Z">
+        <seg>新しいラウンドを開始するのを待つ必要があります。</seg>
       </tuv>
     </tu>
     <tu>
