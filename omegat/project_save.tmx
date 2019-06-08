@@ -4106,6 +4106,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Please wait for future updates!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="spears" changedate="20190608T102200Z" creationid="spears" creationdate="20190608T102200Z">
+        <seg>将来の更新をお待ちください！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please wait...</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T140138Z" creationid="totochan" creationdate="20190607T140138Z">
