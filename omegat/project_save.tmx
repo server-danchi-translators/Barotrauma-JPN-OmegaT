@@ -2610,6 +2610,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do this by dragging the empty boxes away from the loader.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T235629Z" creationid="kakonya" creationdate="20190608T235629Z">
+        <seg>空のボックスをローダーからドラッグして離します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do you want to abort the mission and end the round now?</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T123858Z" creationid="nick2" creationdate="20190608T123858Z">
@@ -2774,6 +2782,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T170009Z" creationid="nick2" creationdate="20190608T170009Z">
         <seg>勤務中に飲酒することはお勧めできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Drop the empty boxes on the ground by holding the green arrow above the ammo box when it's equipped.\n\nAmmo boxes are large and unwieldy.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T235718Z" creationid="kakonya" creationdate="20190608T235718Z">
+        <seg>弾薬箱がセットされている場合は、弾薬箱の上にある緑色の矢印を押したまま空の箱を地面に落とします。\ n \ n弾薬箱は大きくて扱いにくいです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8370,6 +8386,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To drop an ammo box, either drag it away from your equip slot or press the unequip button on top of the equip slot.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T235838Z" creationid="kakonya" creationdate="20190608T235838Z">
+        <seg>弾薬箱を落とすには、装備スロットから引き離すか、装備スロットの上にある装備解除ボタンを押してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To repair leaks in hulls, equip the welding tool by double-clicking on it.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T102232Z" creationid="kakonya" creationdate="20190607T102232Z">
@@ -9596,6 +9620,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You must use two hands to carry one and they can’t be carried around in the inventory.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T235757Z" creationid="kakonya" creationdate="20190608T235757Z">
+        <seg>運ぶためには両手が必要で、インベントリにしまうことができません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You need to restart the game for the language change to take effect.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113233Z" creationid="kakonya" creationdate="20190607T113233Z">
@@ -9614,8 +9646,8 @@
       <tuv lang="EN-US">
         <seg>You need to unload them.</seg>
       </tuv>
-      <tuv lang="JA" changeid="kakonya" changedate="20190608T235503Z" creationid="kakonya" creationdate="20190608T235503Z">
-        <seg>上昇しましょう</seg>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T235550Z" creationid="kakonya" creationdate="20190608T235503Z">
+        <seg>取り外し</seg>
       </tuv>
     </tu>
     <tu>
