@@ -698,10 +698,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Ban</seg>
+        <seg>Ban range</seg>
       </tuv>
-      <tuv lang="JA" changeid="kakonya" changedate="20190607T105037Z" creationid="kakonya" creationdate="20190607T105037Z">
-        <seg>禁止</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T132121Z" creationid="nick2" creationdate="20190608T132121Z">
+        <seg>Ban範囲</seg>
       </tuv>
     </tu>
     <tu>
@@ -1454,6 +1454,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113704Z" creationid="kakonya" creationdate="20190607T113704Z">
         <seg>現在のデバイス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Custom</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T131839Z" creationid="nick2" creationdate="20190608T131839Z">
+        <seg>カスタム</seg>
       </tuv>
     </tu>
     <tu>
@@ -3602,6 +3610,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Matching file not found in your submarine folder.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T132309Z" creationid="nick2" creationdate="20190608T132309Z">
+        <seg>submarineフォルダ内に適合するファイルが見当たりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Material</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T114408Z" creationid="kakonya" creationdate="20190607T114408Z">
@@ -4330,6 +4346,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Permissions</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T132046Z" creationid="nick2" creationdate="20190608T132046Z">
+        <seg>権限</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Personnel Transport</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T105152Z" creationid="kakonya" creationdate="20190607T105152Z">
@@ -4810,6 +4834,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rank</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T131830Z" creationid="nick2" creationdate="20190608T131830Z">
+        <seg>ランク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reactor</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T020831Z" creationid="kakonya" creationdate="20190608T020831Z">
@@ -4846,6 +4878,22 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T040726Z" creationid="nick2" creationdate="20190608T040726Z">
         <seg>理由</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reason for kicking?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T132146Z" creationid="nick2" creationdate="20190608T132146Z">
+        <seg>キックの理由？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reason for the ban?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T132131Z" creationid="nick2" creationdate="20190608T132131Z">
+        <seg>Banの理由？</seg>
       </tuv>
     </tu>
     <tu>
@@ -5798,6 +5846,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T061612Z" creationid="hiru4" creationdate="20190608T061612Z">
         <seg>潜水艦 [subname] が見つかりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Submarine [subname] was selected by the server.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T132227Z" creationid="nick2" creationdate="20190608T132227Z">
+        <seg>潜水艦 [subname] がサーバーによって選択されました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6922,6 +6978,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Vote to kick</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T132058Z" creationid="nick2" creationdate="20190608T132058Z">
+        <seg>キックの投票</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Votes</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T130350Z" creationid="nick2" creationdate="20190608T130350Z">
@@ -7558,8 +7622,8 @@
       <tuv lang="EN-US">
         <seg>Your version of the submarine doesn't match the server's version</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190608T131826Z" creationid="nick2" creationdate="20190608T131826Z">
-        <seg>選択した潜水艦のバージョンとサーバーのバージョンが合っていません。</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T131847Z" creationid="nick2" creationdate="20190608T131826Z">
+        <seg>潜水艦のバージョンとサーバーのバージョンが合っていません。</seg>
       </tuv>
     </tu>
     <tu>
