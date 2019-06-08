@@ -362,6 +362,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Also works underwater.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T112816Z" creationid="kakonya" creationdate="20190608T112816Z">
+        <seg>また、水中でも使用可能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Aluminium</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T060411Z" creationid="hiru4" creationdate="20190608T060411Z">
@@ -1386,6 +1394,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cuts through various materials using a jet of ionized oxygen.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T112903Z" creationid="kakonya" creationdate="20190608T112903Z">
+        <seg>イオン化酸素のジェットを使用してさまざまな材料をカットします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Days</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T141048Z" creationid="totochan" creationdate="20190607T141048Z">
@@ -2190,6 +2206,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T111844Z" creationid="kakonya" creationdate="20190607T111844Z">
         <seg>燃料棒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fuel for the welding tool.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T112918Z" creationid="kakonya" creationdate="20190608T112918Z">
+        <seg>溶接ツールのための燃料。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3786,6 +3810,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>One of the most crucial tools on board the submarine.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T112756Z" creationid="kakonya" creationdate="20190608T112756Z">
+        <seg>潜水艦で最も重要なツールの一つ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Only select this if you wish to create a mod that replaces all the Vanilla files.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112924Z" creationid="kakonya" creationdate="20190607T112924Z">
@@ -4014,6 +4046,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T062022Z" creationid="hiru4" creationdate="20190608T062022Z">
         <seg>指向性ping</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Plasma Cutter</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T112820Z" creationid="kakonya" creationdate="20190608T112820Z">
+        <seg>プラズマカッター</seg>
       </tuv>
     </tu>
     <tu>
@@ -4854,6 +4894,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112829Z" creationid="kakonya" creationdate="20190607T112829Z">
         <seg>スコア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Seals bleeding wounds almost immediately and treats burns very effectively.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T112705Z" creationid="kakonya" creationdate="20190608T112705Z">
+        <seg>出血している傷を即座に密封し、火傷を非常に効果的に治療します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6306,6 +6354,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use with care as it may cause mobile clots in the bloodstream.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T112737Z" creationid="kakonya" creationdate="20190608T112737Z">
+        <seg>血栓が生じる可能性があるので注意して使用してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Useful for crafting.</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T060532Z" creationid="hiru4" creationdate="20190608T060532Z">
@@ -6530,10 +6586,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Welding Fuel Tank</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T112906Z" creationid="kakonya" creationdate="20190608T112906Z">
+        <seg>溶接燃料タンク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Welding Fuel Tank (empty)</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T114421Z" creationid="kakonya" creationdate="20190607T114421Z">
         <seg>溶接燃料タンク（空）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Welding Tool</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T112743Z" creationid="kakonya" creationdate="20190608T112743Z">
+        <seg>溶接ツール</seg>
       </tuv>
     </tu>
     <tu>
