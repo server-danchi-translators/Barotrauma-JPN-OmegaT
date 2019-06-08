@@ -128,16 +128,16 @@
       <tuv lang="EN-US">
         <seg>All submariners have been trained to do basic repairs on electrical devices, but electrical engineers get the job done much faster.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190608T003312Z" creationid="nick2" creationdate="20190608T003312Z">
-        <seg>すべての乗組員は電気機器の基本的な修理が行えるように訓練されていますが、エンジニアは他と比べて作業がずっと早いです。</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T003559Z" creationid="nick2" creationdate="20190608T003312Z">
+        <seg>すべての乗組員は電気機器の基本的な修理を行えるように訓練されていますが、エンジニアは他と比べて作業がずっと早いです。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>All submariners have been trained to do basic repairs on mechanical devices, but mechanics get the job done much faster.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190608T003449Z" creationid="nick2" creationdate="20190608T003449Z">
-        <seg>すべての乗組員は機械装置の基本的な修理を行うように訓練されてきたが、メカニックの仕事ははるかに高速成し遂げます。</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T003555Z" creationid="nick2" creationdate="20190608T003449Z">
+        <seg>すべての乗組員は機械装置の基本的な修理を行えるように訓練されていますが、メカニックは他と比べて作業がずっと早いです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -402,6 +402,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113148Z" creationid="kakonya" creationdate="20190607T113148Z">
         <seg>バニラのコンテンツパッケージで定義された潜水艦を編集することはできません！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Captains are generally much more adept at maneuvering the submarine than the average sailor.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T003754Z" creationid="nick2" creationdate="20190608T003754Z">
+        <seg>キャプテンは、平均的な乗組員よりも潜水艦の操縦に熟達しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1482,6 +1490,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T111556Z" creationid="kakonya" creationdate="20190607T111556Z">
         <seg>出力は核分裂率に対して高すぎる場合には、原子炉が冷却し、低すぎる場合、それが過熱します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the reactor on a sub is not able to produce sufficient power to run all onboard systems, try reducing the charge rate for the onboard batteries and supercapacitors, or regulate the times when the sub is running at full speed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T004048Z" creationid="nick2" creationdate="20190608T004048Z">
+        <seg>潜水艦上の原子炉はすべてオンボードシステムを実行するのに十分な電力を生成することができない場合には、オンボードのバッテリーやスーパーキャパシタの充電率を下げてみてください、または潜水艦がフルスピードで動作している時間を調節します。</seg>
       </tuv>
     </tu>
     <tu>
