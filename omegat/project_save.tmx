@@ -4202,6 +4202,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lithium</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T173706Z" creationid="nick2" creationdate="20190608T173706Z">
+        <seg>リチウム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Load</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T141027Z" creationid="totochan" creationdate="20190607T141027Z">
@@ -4294,6 +4302,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T114352Z" creationid="kakonya" creationdate="20190607T114352Z">
         <seg>機械</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Magnesium</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T173756Z" creationid="nick2" creationdate="20190608T173756Z">
+        <seg>マグネシウム</seg>
       </tuv>
     </tu>
     <tu>
@@ -4718,6 +4734,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T173503Z" creationid="nick2" creationdate="20190608T173503Z">
         <seg>失血の治療に使われる生理食塩水、および強力な鎮静剤である抱水クロラールの原料として使用される。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Most commonly used in the manufacture of batteries and antipsychotic drugs.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T174036Z" creationid="nick2" creationdate="20190608T173754Z">
+        <seg>一般的にバッテリーと抗精神病薬の製造に使用される。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8126,6 +8150,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T170114Z" creationid="nick2" creationdate="20190608T170057Z">
         <seg>様々な医薬品の原料として使用される。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Used in the manufacture of explosives and medical compounds.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T174020Z" creationid="nick2" creationdate="20190608T174020Z">
+        <seg>爆発物や医療の化合物の製造に使用されます。</seg>
       </tuv>
     </tu>
     <tu>
