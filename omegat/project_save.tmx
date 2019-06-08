@@ -5858,6 +5858,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This area is unreachable in this version of Barotrauma.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="spears" changedate="20190608T102146Z" creationid="spears" creationdate="20190608T102146Z">
+        <seg>このエリアには、今のBarotraumaのバージョンでは到達不可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This device will be used for voice chat.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113704Z" creationid="kakonya" creationdate="20190607T113704Z">
