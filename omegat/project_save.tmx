@@ -2374,6 +2374,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Nuclear reactors provide power to submarines and outposts.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T021052Z" creationid="kakonya" creationdate="20190608T021052Z">
+        <seg>最後の影響でパワーが半減されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Only select this if you wish to create a mod that replaces all the Vanilla files.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112924Z" creationid="kakonya" creationdate="20190607T112924Z">
@@ -2582,6 +2590,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Power up the reactor</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T021028Z" creationid="kakonya" creationdate="20190608T021028Z">
+        <seg>原子炉の電源をつける</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Powered</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T111336Z" creationid="kakonya" creationdate="20190607T111336Z">
@@ -2746,6 +2762,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T105128Z" creationid="kakonya" creationdate="20190607T105128Z">
         <seg>ランダム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reactor</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T020831Z" creationid="kakonya" creationdate="20190608T020831Z">
+        <seg>リアクター</seg>
       </tuv>
     </tu>
     <tu>
@@ -4320,8 +4344,8 @@
       <tuv lang="EN-US">
         <seg>You can see what’s inside one by interacting with it ({0}).</seg>
       </tuv>
-      <tuv lang="JA" changeid="kakonya" changedate="20190607T101848Z" creationid="kakonya" creationdate="20190607T101848Z">
-        <seg> ({0})中のものを見ることができます.</seg>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T020805Z" creationid="kakonya" creationdate="20190607T101848Z">
+        <seg> ({0})で中のものを見ることができます.</seg>
       </tuv>
     </tu>
     <tu>
