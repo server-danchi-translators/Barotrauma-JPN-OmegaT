@@ -4342,6 +4342,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The task failed—[genderpronoun] was successfully detained.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T042543Z" creationid="nick2" creationdate="20190608T042543Z">
+        <seg>任務は失敗 - [genderpronoun] は逮捕されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The task was successful, but the traitor did not make it out alive either.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T042315Z" creationid="nick2" creationdate="20190608T042315Z">
+        <seg>暗殺は成功しましたが、裏切り者自身も死亡しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The task was successful, but the traitor was successfully detained.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T042244Z" creationid="nick2" creationdate="20190608T042244Z">
@@ -4354,6 +4370,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T042159Z" creationid="nick2" creationdate="20190608T042159Z">
         <seg> そして暗殺は成功しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The task was unsuccessful.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T042310Z" creationid="nick2" creationdate="20190608T042310Z">
+        <seg>そして暗殺は失敗に終わりました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5086,6 +5110,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You are no longer a traitor, so play nice!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T042736Z" creationid="nick2" creationdate="20190608T042736Z">
+        <seg>あなたはもう裏切り者ではありません。なのでもう仲良くしても大丈夫ですよ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You are now onboard a submarine, which is where you will spend most of your time in Barotrauma.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T014901Z" creationid="kakonya" creationdate="20190608T014901Z">
@@ -5322,6 +5354,22 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T041423Z" creationid="nick2" creationdate="20190608T041423Z">
         <seg>あなたの任務は[targetname]の暗殺です！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your traitor objective was unsuccessful.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T042637Z" creationid="nick2" creationdate="20190608T042637Z">
+        <seg>あなたの裏切り者としての任務は失敗に終わりました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[Genderpronounpossessive] task was to assassinate [targetname], but [genderpronoun] got [genderpronounreflexive] killed before completing it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T042521Z" creationid="nick2" creationdate="20190608T042521Z">
+        <seg>[Genderpronounpossessive]任務は [targetname] の暗殺。 しかし任務を達成する前に自殺しました。</seg>
       </tuv>
     </tu>
     <tu>
