@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>A diving suit protects the wearer from high pressure.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T013405Z" creationid="kakonya" creationdate="20190608T013405Z">
+        <seg>潜水服を着ていれば、水圧から保護されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A door, but on the horizontal axis.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T114616Z" creationid="kakonya" creationdate="20190607T114616Z">
@@ -910,6 +918,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Diving suit</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T013300Z" creationid="kakonya" creationdate="20190608T013300Z">
+        <seg>潜水服</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do you want to apply the settings or discard the changes?</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113220Z" creationid="kakonya" creationdate="20190607T113220Z">
@@ -1114,6 +1130,22 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T140721Z" creationid="totochan" creationdate="20190607T140721Z">
         <seg>装備</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Equip a diving suit</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T013316Z" creationid="kakonya" creationdate="20190608T013316Z">
+        <seg>潜水服を装備</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Equip one to be able to swim outside the submarine.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T013502Z" creationid="kakonya" creationdate="20190608T013502Z">
+        <seg>装備することで船外活動ができるようになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1866,6 +1898,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112049Z" creationid="kakonya" creationdate="20190607T112049Z">
         <seg>位置を維持</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make sure the suit has a full oxygen tank attached, otherwise the wearer will suffocate.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T013720Z" creationid="kakonya" creationdate="20190608T013720Z">
+        <seg>スーツに酸素タンクが付いていることを確認してください。さもないと窒息してしまいます。</seg>
       </tuv>
     </tu>
     <tu>
