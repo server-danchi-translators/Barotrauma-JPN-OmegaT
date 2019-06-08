@@ -3534,6 +3534,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This one is on the simpler side, but you will have a selection of different submarines available to you when you begin a game.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T015119Z" creationid="kakonya" creationdate="20190608T015119Z">
+        <seg>これはシンプルなものですが、あなたがゲームを始めるときは、様々なタイプの潜水艦を選ぶことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This pump is programmed to only pump water out.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T103938Z" creationid="kakonya" creationdate="20190607T103938Z">
@@ -4050,6 +4058,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T140857Z" creationid="totochan" creationdate="20190607T140857Z">
         <seg>すべて、はい</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You are now onboard a submarine, which is where you will spend most of your time in Barotrauma.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T014901Z" creationid="kakonya" creationdate="20190608T014901Z">
+        <seg>あなたは今、潜水艦に乗っています。Barotraumaでは、大部分の時間をここで過ごします。</seg>
       </tuv>
     </tu>
     <tu>
