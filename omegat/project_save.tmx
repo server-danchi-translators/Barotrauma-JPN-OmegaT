@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3422,6 +3422,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Publish</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T050727Z" creationid="hiru4" creationdate="20190608T050727Z">
+        <seg>アップロード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Publish item</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112953Z" creationid="kakonya" creationdate="20190607T112953Z">
@@ -4322,6 +4330,22 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112817Z" creationid="kakonya" creationdate="20190607T112817Z">
         <seg>潜水艦</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Subscribe</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T050753Z" creationid="hiru4" creationdate="20190608T050753Z">
+        <seg>サブスクライブ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Subscribed Mods</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T050739Z" creationid="hiru4" creationdate="20190608T050739Z">
+        <seg>ダウンロード</seg>
       </tuv>
     </tu>
     <tu>
