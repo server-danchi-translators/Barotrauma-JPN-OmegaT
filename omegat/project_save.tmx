@@ -3962,10 +3962,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Incendiary grenade.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T232324Z" creationid="kakonya" creationdate="20190608T232324Z">
+        <seg>焼夷手榴弾。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Incendium Bar</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T060658Z" creationid="hiru4" creationdate="20190608T060658Z">
         <seg>インセンディウムバー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Incendium Grenade</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T232009Z" creationid="kakonya" creationdate="20190608T232009Z">
+        <seg>インセンディウムグレネード</seg>
       </tuv>
     </tu>
     <tu>
