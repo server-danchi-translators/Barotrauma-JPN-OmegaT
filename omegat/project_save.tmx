@@ -598,6 +598,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cause of death</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T043008Z" creationid="nick2" creationdate="20190608T043008Z">
+        <seg>死因</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Change note</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112940Z" creationid="kakonya" creationdate="20190607T112940Z">
@@ -5466,6 +5474,14 @@
       </tuv>
       <tuv lang="JA" changeid="spears" changedate="20190607T135538Z" creationid="spears" creationdate="20190607T135538Z">
         <seg>[itemname] の充電は現在 [rate] %!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[traitorname] had a secret objective to assassinate you—and the task was successful.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T042940Z" creationid="nick2" creationdate="20190608T042940Z">
+        <seg>[traitorname]はあなたを暗殺するという任務が課せられていました。 - その任務は達成されてしまいました。</seg>
       </tuv>
     </tu>
     <tu>
