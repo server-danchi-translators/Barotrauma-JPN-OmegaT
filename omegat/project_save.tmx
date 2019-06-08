@@ -2062,6 +2062,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Nuclear reactors are equipped with an automatic control system that adjusts the power output to a suitable level when enabled.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T002015Z" creationid="nick2" creationdate="20190608T001929Z">
+        <seg>原子炉は、電力出力を適切なレベルに調整する自動制御システムが装備されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Only select this if you wish to create a mod that replaces all the Vanilla files.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112924Z" creationid="kakonya" creationdate="20190607T112924Z">
@@ -2136,8 +2144,8 @@
       <tuv lang="EN-US">
         <seg>Oxygen generators are equipped with docks that can be used to refill oxygen tanks.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190608T001345Z" creationid="nick2" creationdate="20190608T001320Z">
-        <seg>酸素発生器は、酸素ボンベを補充するためのドックが付いています。</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T001533Z" creationid="nick2" creationdate="20190608T001320Z">
+        <seg>酸素発生器には、酸素ボンベを補充するためのドックが付いています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2880,8 +2888,8 @@
       <tuv lang="EN-US">
         <seg>Stationary batteries are equipped with docks that can be used to charge battery cells.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190608T001340Z" creationid="nick2" creationdate="20190608T001027Z">
-        <seg>設置されたバッテリーは、バッテリーセルを充電するためのドックが付いています。</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T001542Z" creationid="nick2" creationdate="20190608T001027Z">
+        <seg>設置されたバッテリーには、バッテリーセルを充電するためのドックが付いています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2954,6 +2962,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T231733Z" creationid="kakonya" creationdate="20190607T231733Z">
         <seg>窒息死</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Supercapacitors can deliver large bursts of power, but cannot store as much energy as batteries.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T001619Z" creationid="nick2" creationdate="20190608T001524Z">
+        <seg>スーパーキャパシタは瞬間的に大きな電力を提供することができますが、バッテリーのように多くのエネルギーを保存することはできません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3186,6 +3202,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112922Z" creationid="kakonya" creationdate="20190607T112922Z">
         <seg>常に1つだけ選択されたコアパッケージが存在する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They are often used to power railguns and other devices that require brief bursts of high current.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T001840Z" creationid="nick2" creationdate="20190608T001840Z">
+        <seg>それらはレールガンや高電流が瞬時に必要になる機械類に使用されています。</seg>
       </tuv>
     </tu>
     <tu>
