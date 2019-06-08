@@ -142,34 +142,122 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A mineral composed of copper, iron and tin.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T171524Z" creationid="nick2" creationdate="20190608T171524Z">
+        <seg>銅、鉄及びスズからなる鉱物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A mineral composed of zinc and lead.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T171457Z" creationid="nick2" creationdate="20190608T171457Z">
+        <seg>亜鉛と鉛で構成される鉱物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A mineral consisting of iron and aluminum.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T171315Z" creationid="nick2" creationdate="20190608T171315Z">
+        <seg>鉄、及びアルミニウムからなる鉱物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A mineral consisting of potassium and calcium.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T171328Z" creationid="nick2" creationdate="20190608T171236Z">
+        <seg>カリウム、及びカルシウムからなる鉱物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A mineral consisting of potassium and magnesium.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T171358Z" creationid="nick2" creationdate="20190608T171358Z">
+        <seg>カリウム、及びマグネシウムからなる鉱物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A mineral consisting of tin.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190608T171031Z" creationid="nick2" creationdate="20190608T171031Z">
-        <seg>スズを含む鉱物。</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T171141Z" creationid="nick2" creationdate="20190608T171031Z">
+        <seg>スズを含有する鉱物。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>A mineral containing calcium.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190608T170909Z" creationid="nick2" creationdate="20190608T170909Z">
-        <seg>カルシウムを含む鉱物。</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T171148Z" creationid="nick2" creationdate="20190608T170909Z">
+        <seg>カルシウムを含有する鉱物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A mineral containing copper.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T171135Z" creationid="nick2" creationdate="20190608T171048Z">
+        <seg>銅を含有する鉱物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A mineral containing large amounts of iron.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T171248Z" creationid="nick2" creationdate="20190608T171248Z">
+        <seg>鉄を多く含む鉱物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A mineral containing lithium.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T171416Z" creationid="nick2" creationdate="20190608T171416Z">
+        <seg>リチウムを含有する鉱物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A mineral containing phosphorus and iron.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T171131Z" creationid="nick2" creationdate="20190608T171101Z">
+        <seg>リン、鉄を含有する鉱物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A mineral containing potassium and sodium.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T171342Z" creationid="nick2" creationdate="20190608T171121Z">
+        <seg>カリウム、及びナトリウムからなる鉱物。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>A mineral containing silicon.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190608T171038Z" creationid="nick2" creationdate="20190608T170901Z">
-        <seg>ケイ素(シリコン)を含む鉱物。</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T171152Z" creationid="nick2" creationdate="20190608T170901Z">
+        <seg>ケイ素(シリコン)を含有する鉱物。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>A mineral containing sodium.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190608T170938Z" creationid="nick2" creationdate="20190608T170917Z">
-        <seg>ナトリウムを含む鉱物。</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T171145Z" creationid="nick2" creationdate="20190608T170917Z">
+        <seg>ナトリウムを含有する鉱物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A mineral mostly consisting of lead.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T171446Z" creationid="nick2" creationdate="20190608T171446Z">
+        <seg>主に鉛からなる鉱物。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1282,6 +1370,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Carbon in crystalline form.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T171215Z" creationid="nick2" creationdate="20190608T171215Z">
+        <seg>炭素が結晶化したもの。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cargo</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T105133Z" creationid="kakonya" creationdate="20190607T105133Z">
@@ -1326,6 +1422,22 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T062339Z" creationid="hiru4" creationdate="20190608T062339Z">
         <seg>中央アクセスシャフト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chalcopyrite</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T171458Z" creationid="nick2" creationdate="20190608T171458Z">
+        <seg>カルコパイライト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chamosite</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T171250Z" creationid="nick2" creationdate="20190608T171250Z">
+        <seg>シャモ</seg>
       </tuv>
     </tu>
     <tu>
@@ -2570,6 +2682,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Esperite</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T171448Z" creationid="nick2" creationdate="20190608T171448Z">
+        <seg>エスペライト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ethanol</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T165931Z" creationid="nick2" creationdate="20190608T165931Z">
@@ -2914,6 +3034,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Galena</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T171418Z" creationid="nick2" creationdate="20190608T171418Z">
+        <seg>ガリーナ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Game mode</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T130410Z" creationid="nick2" creationdate="20190608T130410Z">
@@ -3014,6 +3142,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113523Z" creationid="kakonya" creationdate="20190607T113523Z">
         <seg>グラフィックス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Graphite</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T171153Z" creationid="nick2" creationdate="20190608T171153Z">
+        <seg>黒鉛</seg>
       </tuv>
     </tu>
     <tu>
@@ -3522,6 +3658,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Iron Ore</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T171238Z" creationid="nick2" creationdate="20190608T171238Z">
+        <seg>鉄鉱石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is possible that there are other agents on this submarine.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T041703Z" creationid="nick2" creationdate="20190608T041703Z">
@@ -3682,6 +3826,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Langbeinite</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T171344Z" creationid="nick2" creationdate="20190608T171344Z">
+        <seg>ラングナイト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Language</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113208Z" creationid="kakonya" creationdate="20190607T113208Z">
@@ -3726,6 +3878,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T062433Z" creationid="hiru4" creationdate="20190608T062433Z">
         <seg>起動爆雷</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lazulite</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T171050Z" creationid="nick2" creationdate="20190608T171050Z">
+        <seg>天藍石</seg>
       </tuv>
     </tu>
     <tu>
@@ -5154,6 +5314,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Polyhalite</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T171216Z" creationid="nick2" creationdate="20190608T171216Z">
+        <seg>ポリホライト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Popular Mods</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112533Z" creationid="kakonya" creationdate="20190607T112533Z">
@@ -6434,6 +6602,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Stannite</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T171500Z" creationid="nick2" creationdate="20190608T171500Z">
+        <seg>スタナイト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Start</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T140145Z" creationid="totochan" creationdate="20190607T140145Z">
@@ -6686,6 +6862,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T105202Z" creationid="kakonya" creationdate="20190607T105202Z">
         <seg>スウォーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sylvite</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T171104Z" creationid="nick2" creationdate="20190608T171104Z">
+        <seg>カリ岩塩</seg>
       </tuv>
     </tu>
     <tu>
@@ -7358,6 +7542,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T032959Z" creationid="nick2" creationdate="20190608T032959Z">
         <seg>いわゆる"熱水廃棄物"を横断する時は、特別な注意が必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Triphylite</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T171400Z" creationid="nick2" creationdate="20190608T171400Z">
+        <seg>トリフィライト</seg>
       </tuv>
     </tu>
     <tu>
