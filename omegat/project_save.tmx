@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A machine that can be used to manufacture various medicines.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T024117Z" creationid="kakonya" creationdate="20190608T024117Z">
+        <seg>様々な薬を製造するために用いることができるマシン。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A sliding door with a window and two integrated buttons.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T114639Z" creationid="kakonya" creationdate="20190607T114639Z">
@@ -186,6 +194,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T114206Z" creationid="kakonya" creationdate="20190607T114206Z">
         <seg>再生成を許可</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Also recharges oxygen tanks.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T024314Z" creationid="kakonya" creationdate="20190608T024314Z">
+        <seg>他にも、酸素ボンベの再充填ができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -962,6 +978,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113729Z" creationid="kakonya" creationdate="20190607T113729Z">
         <seg>使用禁止</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Disassembles and breaks down items to reusable components and material bars.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T024204Z" creationid="kakonya" creationdate="20190608T024204Z">
+        <seg>アイテムを解体して、再利用可能なアイテムにします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2342,6 +2366,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Must be linked to an oxygen generator to work.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T024414Z" creationid="kakonya" creationdate="20190608T024414Z">
+        <seg>酸素発生器に通じてないと働きません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mute on focus lost</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113652Z" creationid="kakonya" creationdate="20190607T113652Z">
@@ -2558,6 +2590,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Oxygen Generator</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T024210Z" creationid="kakonya" creationdate="20190608T024210Z">
+        <seg>酸素発生器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Oxygen Tank (empty)</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T114419Z" creationid="kakonya" creationdate="20190607T114419Z">
@@ -2578,6 +2618,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T140632Z" creationid="totochan" creationdate="20190607T140632Z">
         <seg>低酸素</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Oxygen output point.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T024337Z" creationid="kakonya" creationdate="20190608T024337Z">
+        <seg>酸素出力点。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3330,6 +3378,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T114826Z" creationid="kakonya" creationdate="20190607T114826Z">
         <seg>シャトルナビゲーションターミナル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shuttle Oxygen Generator</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T024321Z" creationid="kakonya" creationdate="20190608T024321Z">
+        <seg>シャトル酸素発生器</seg>
       </tuv>
     </tu>
     <tu>
@@ -4146,6 +4202,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T114835Z" creationid="kakonya" creationdate="20190607T114835Z">
         <seg>潜水艦のソナーを観察するために使用可能なデバイス。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Usable device for oxygen generation—must be linked to vents to work.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T024248Z" creationid="kakonya" creationdate="20190608T024248Z">
+        <seg>酸素発生のために使用可能な装置 - 通気孔が通じていないと意味がない。</seg>
       </tuv>
     </tu>
     <tu>
