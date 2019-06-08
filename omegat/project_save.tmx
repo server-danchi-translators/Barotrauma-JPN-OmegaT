@@ -414,6 +414,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Banned by [initiator].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T035431Z" creationid="nick2" creationdate="20190608T035431Z">
+        <seg>[initiator] によりbanされました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Barotrauma</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T231946Z" creationid="kakonya" creationdate="20190607T231946Z">
@@ -2106,6 +2114,30 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T105031Z" creationid="kakonya" creationdate="20190607T105031Z">
         <seg>キック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Kicked by [initiator].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T035359Z" creationid="nick2" creationdate="20190608T035359Z">
+        <seg>[initiator] によりキックされました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Kicked by vote (auto ban).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T035204Z" creationid="nick2" creationdate="20190608T035204Z">
+        <seg>投票によるキック。(自動ban).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Kicked by vote.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T035120Z" creationid="nick2" creationdate="20190608T035120Z">
+        <seg>投票によるキック。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5046,6 +5078,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You have left the server.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T035223Z" creationid="nick2" creationdate="20190608T035223Z">
+        <seg>サーバーから離脱しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You have suffocated.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T231744Z" creationid="kakonya" creationdate="20190607T231744Z">
@@ -5142,10 +5182,50 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[client] has been banned from the server.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T035445Z" creationid="nick2" creationdate="20190608T035445Z">
+        <seg>[client] は、サーバーからbanされました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[client] has been kicked from the server.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T035108Z" creationid="nick2" creationdate="20190608T035108Z">
+        <seg>[client] がサーバーからキックされました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[client] has disconnected.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T035500Z" creationid="nick2" creationdate="20190608T035500Z">
+        <seg>[client] は切断しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[client] has joined the server.</seg>
       </tuv>
       <tuv lang="JA" changeid="Nick2525" changedate="20190608T034944Z" creationid="Nick2525" creationdate="20190608T034916Z">
         <seg>[client] がサーバーに参加しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[client] has left the server.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T035238Z" creationid="nick2" creationdate="20190608T035238Z">
+        <seg>[client] はサーバーから離脱しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[initiator] has voted to kick [target].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T035333Z" creationid="nick2" creationdate="20190608T035333Z">
+        <seg>[initiator] は [target] のキックに投票。</seg>
       </tuv>
     </tu>
     <tu>
