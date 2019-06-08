@@ -142,6 +142,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A mineral consisting of tin.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T171031Z" creationid="nick2" creationdate="20190608T171031Z">
+        <seg>スズを含む鉱物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A mineral containing calcium.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T170909Z" creationid="nick2" creationdate="20190608T170909Z">
+        <seg>カルシウムを含む鉱物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A mineral containing silicon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T171038Z" creationid="nick2" creationdate="20190608T170901Z">
+        <seg>ケイ素(シリコン)を含む鉱物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A mineral containing sodium.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T170938Z" creationid="nick2" creationdate="20190608T170917Z">
+        <seg>ナトリウムを含む鉱物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A pack of blood substitute for the treatment of blood loss.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T164903Z" creationid="nick2" creationdate="20190608T164903Z">
@@ -186,6 +218,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T024709Z" creationid="kakonya" creationdate="20190608T024709Z">
         <seg>電磁石を使用して金属製のボルトを推進する高速発砲タレット。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A relatively mild opioid obtained from aquatic poppy.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T170816Z" creationid="nick2" creationdate="20190608T170622Z">
+        <seg>水生ケシから得られた比較的軽度なオピオイド麻薬。</seg>
       </tuv>
     </tu>
     <tu>
@@ -666,6 +706,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Aragonite</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T170905Z" creationid="nick2" creationdate="20190608T170905Z">
+        <seg>アラゴナイト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Are you sure you want to choose the submarine?</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T061531Z" creationid="hiru4" creationdate="20190608T061531Z">
@@ -1050,6 +1098,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bornite</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T171040Z" creationid="nick2" creationdate="20190608T171040Z">
+        <seg>斑銅鉱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bot count</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T130506Z" creationid="nick2" creationdate="20190608T130506Z">
@@ -1242,6 +1298,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cassiterite</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T171010Z" creationid="nick2" creationdate="20190608T171010Z">
+        <seg>スズ石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cause of death</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T043008Z" creationid="nick2" creationdate="20190608T043008Z">
@@ -1326,6 +1390,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113546Z" creationid="kakonya" creationdate="20190607T113546Z">
         <seg>色収差</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chrysoprase</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T170821Z" creationid="nick2" creationdate="20190608T170821Z">
+        <seg>クリソプレーズ</seg>
       </tuv>
     </tu>
     <tu>
@@ -1726,6 +1798,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T232308Z" creationid="kakonya" creationdate="20190607T232308Z">
         <seg>水圧により圧迫死しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cryolite</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T170911Z" creationid="nick2" creationdate="20190608T170911Z">
+        <seg>氷晶石</seg>
       </tuv>
     </tu>
     <tu>
@@ -4290,6 +4370,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Most commonly used to manufacture morphine and fentanyl.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T170801Z" creationid="nick2" creationdate="20190608T170801Z">
+        <seg>一般的にモルヒネとフェンタニルを製造するために使用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Most submarine hulls will start collapsing at the depth of approximately 2,000 meters.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T033035Z" creationid="nick2" creationdate="20190608T033035Z">
@@ -4694,6 +4782,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T013853Z" creationid="nick2" creationdate="20190608T013853Z">
         <seg>モルヒネやフェンタニルなどのアヘン剤は、緊急時に怪我を治療する効果的な方法ですが、反復使用は最終的に依存症を引き起こし、危険な中毒症状を引き起こす可能性があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Opium</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T170708Z" creationid="nick2" creationdate="20190608T170616Z">
+        <seg>アヘン</seg>
       </tuv>
     </tu>
     <tu>
@@ -7534,6 +7630,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T112737Z" creationid="kakonya" creationdate="20190608T112737Z">
         <seg>血栓が生じる可能性があるので注意して使用してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Used as an ingredient in many medical compounds.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T170608Z" creationid="nick2" creationdate="20190608T170608Z">
+        <seg>多くの医療化合物の原料として使用される。</seg>
       </tuv>
     </tu>
     <tu>
