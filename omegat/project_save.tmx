@@ -2966,6 +2966,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Player [player] not found!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T040704Z" creationid="nick2" creationdate="20190608T040704Z">
+        <seg>プレイヤー [player] が見つかりません！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please create a separate subfolder for the files.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113006Z" creationid="kakonya" creationdate="20190607T113006Z">
@@ -3050,6 +3058,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T111336Z" creationid="kakonya" creationdate="20190607T111336Z">
         <seg>電圧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Press [chatbutton] to chat.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T040540Z" creationid="nick2" creationdate="20190608T040540Z">
+        <seg>[chatbutton] キーを押してチャット。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3266,6 +3282,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T020831Z" creationid="kakonya" creationdate="20190608T020831Z">
         <seg>リアクター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reason</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T040726Z" creationid="nick2" creationdate="20190608T040726Z">
+        <seg>理由</seg>
       </tuv>
     </tu>
     <tu>
@@ -4682,6 +4706,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T140213Z" creationid="totochan" creationdate="20190607T140213Z">
         <seg>使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use [radiobutton] to talk through the radio.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T040640Z" creationid="nick2" creationdate="20190608T040640Z">
+        <seg>[radiobutton] キーを押して無線機で話す。</seg>
       </tuv>
     </tu>
     <tu>
