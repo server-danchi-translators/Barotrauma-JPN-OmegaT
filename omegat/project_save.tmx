@@ -1742,6 +1742,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It responds to any fluctuations in grid load, but is considerably slower than a human operator.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T022008Z" creationid="kakonya" creationdate="20190608T022008Z">
+        <seg>自動制御では負荷のどんな変動にも反応しますが、人間のオペレータよりかなり遅いです。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Item</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113041Z" creationid="kakonya" creationdate="20190607T113041Z">
