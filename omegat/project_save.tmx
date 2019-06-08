@@ -78,6 +78,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A highly potent neurotoxin.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T161620Z" creationid="nick2" creationdate="20190608T161620Z">
+        <seg>非常に強力な神経毒。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A highly unstable liquid that may explode when subjected to heat or physical shock.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T161523Z" creationid="nick2" creationdate="20190608T161523Z">
+        <seg>熱や物理的な衝撃を受けたときに爆発する恐れがあり、非常に不安定な液体。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A machine capable of manufacturing a wide range of items out of basic raw materials.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T115012Z" creationid="kakonya" creationdate="20190607T115012Z">
@@ -98,6 +114,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T044711Z" creationid="kakonya" creationdate="20190608T044711Z">
         <seg>ツールを格納するためのポータブルコンテナ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A psychosis-inducing toxin.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T161608Z" creationid="nick2" creationdate="20190608T161608Z">
+        <seg>精神病を誘発する毒素。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1570,6 +1594,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cyanide</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T161635Z" creationid="nick2" creationdate="20190608T161635Z">
+        <seg>シアン化物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Days</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T141048Z" creationid="totochan" creationdate="20190607T141048Z">
@@ -1630,6 +1662,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112958Z" creationid="kakonya" creationdate="20190607T112958Z">
         <seg>スチームワークショップからアイテムを削除します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deliriumine</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T161544Z" creationid="nick2" creationdate="20190608T161544Z">
+        <seg>デリリマイト</seg>
       </tuv>
     </tu>
     <tu>
@@ -4098,6 +4138,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Nitroglycerin</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T161437Z" creationid="nick2" creationdate="20190608T161437Z">
+        <seg>ニトログリセリン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No integrated buttons—has to be wired manually.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T114546Z" creationid="kakonya" creationdate="20190607T114546Z">
@@ -4910,6 +4958,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T114104Z" creationid="kakonya" creationdate="20190607T114104Z">
         <seg>ラジオチャット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Radiotoxin</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T161625Z" creationid="nick2" creationdate="20190608T161625Z">
+        <seg>レディオトキシン</seg>
       </tuv>
     </tu>
     <tu>
@@ -6102,6 +6158,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T231733Z" creationid="kakonya" creationdate="20190607T231733Z">
         <seg>窒息死</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sufforin</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T161612Z" creationid="nick2" creationdate="20190608T161612Z">
+        <seg>スフォリン</seg>
       </tuv>
     </tu>
     <tu>
