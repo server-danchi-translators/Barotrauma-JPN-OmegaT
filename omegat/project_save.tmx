@@ -310,6 +310,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An antibiotic glue with hemostatic properties.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T053954Z" creationid="kakonya" creationdate="20190608T053954Z">
+        <seg>止血特性を持つ抗生物質の接着剤。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Antibiotic Glue</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T053945Z" creationid="kakonya" creationdate="20190608T053945Z">
+        <seg>止血性の抗生物質</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T141018Z" creationid="totochan" creationdate="20190607T141018Z">
