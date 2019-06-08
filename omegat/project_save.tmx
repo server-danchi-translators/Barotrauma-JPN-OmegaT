@@ -574,6 +574,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Connect the junction boxes</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T023054Z" creationid="kakonya" creationdate="20190608T023054Z">
+        <seg>配電盤を接続します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Console commands</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T105053Z" creationid="kakonya" creationdate="20190607T105053Z">
@@ -1186,6 +1194,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T013316Z" creationid="kakonya" creationdate="20190608T013316Z">
         <seg>潜水服を装備</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Equip a screwdriver and interact ({0}) with the device to see the repair interface.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T023039Z" creationid="kakonya" creationdate="20190608T023039Z">
+        <seg>ドライバーを持ち ({0}) で修理インターフェースを確認してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4362,6 +4378,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T114635Z" creationid="kakonya" creationdate="20190607T114635Z">
         <seg>窓付きドア（ボタン制御）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wiring</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T023050Z" creationid="kakonya" creationdate="20190608T023050Z">
+        <seg>配線</seg>
       </tuv>
     </tu>
     <tu>
