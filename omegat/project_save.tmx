@@ -1752,8 +1752,8 @@
       <tuv lang="EN-US">
         <seg>Generating more power than the devices in the submarine are consuming may damage junction boxes or cause fires.</seg>
       </tuv>
-      <tuv lang="JA" changeid="kakonya" changedate="20190607T052704Z" creationid="kakonya" creationdate="20190607T052704Z">
-        <seg>発電過多になると、ジャンクションボックスがの損傷や、火災の原因になります。.</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190608T053115Z" creationid="kakonya" creationdate="20190607T052704Z">
+        <seg>発電過多になると、ジャンクションボックスの損傷や、火災の原因になります。.</seg>
       </tuv>
     </tu>
     <tu>
