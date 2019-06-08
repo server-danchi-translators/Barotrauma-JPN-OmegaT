@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -398,6 +398,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Are you sure you want to fire [charactername] from your crew?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T061655Z" creationid="hiru4" creationdate="20190608T061655Z">
+        <seg>乗組員の [charactername]首にしてもよろしいですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Are you sure you want to quit the game?</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T104218Z" creationid="totochan" creationdate="20190607T104218Z">
@@ -418,6 +426,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T104425Z" creationid="totochan" creationdate="20190607T104425Z">
         <seg>ミッションを中止し、以前保存したファイルをロードしますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Are you sure?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T061650Z" creationid="hiru4" creationdate="20190608T061650Z">
+        <seg>本気ですか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -1118,10 +1134,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Credit</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T061750Z" creationid="hiru4" creationdate="20190608T061750Z">
+        <seg>クレジット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Credits</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T104202Z" creationid="totochan" creationdate="20190607T104202Z">
         <seg>クレジット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Credits: [credits]</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T061802Z" creationid="hiru4" creationdate="20190608T061802Z">
+        <seg>クレジット: [credits]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Crew</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T061625Z" creationid="hiru4" creationdate="20190608T061617Z">
+        <seg>乗員</seg>
       </tuv>
     </tu>
     <tu>
@@ -1622,6 +1662,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>End round</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T061821Z" creationid="hiru4" creationdate="20190608T061821Z">
+        <seg>ラウンド終了</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>End round by voting</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T114202Z" creationid="kakonya" creationdate="20190607T114202Z">
@@ -1882,6 +1930,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T023946Z" creationid="kakonya" creationdate="20190608T023925Z">
         <seg>持ち潜水艦の電気室を探し、ドライバー持ちジャンクションボックスを操作し、次に「Repair」ボタンを押して修理します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fire</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T061647Z" creationid="hiru4" creationdate="20190608T061647Z">
+        <seg>火災</seg>
       </tuv>
     </tu>
     <tu>
@@ -2150,6 +2206,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hire</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T061643Z" creationid="hiru4" creationdate="20190608T061643Z">
+        <seg>雇用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hireable people</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T061641Z" creationid="hiru4" creationdate="20190608T061641Z">
+        <seg>雇用人員</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>His</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T061154Z" creationid="hiru4" creationdate="20190608T061154Z">
@@ -2410,6 +2482,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T111531Z" creationid="kakonya" creationdate="20190607T111531Z">
         <seg>核分裂率を増加させると、反応器はより多くの燃料を消費し、より多くの熱を発生させることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Info</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T061817Z" creationid="hiru4" creationdate="20190608T061817Z">
+        <seg>情報</seg>
       </tuv>
     </tu>
     <tu>
@@ -2758,6 +2838,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Location</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T061705Z" creationid="hiru4" creationdate="20190608T061705Z">
+        <seg>場所</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Looks like the electrical room’s seen better days.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T020523Z" creationid="kakonya" creationdate="20190608T020523Z">
@@ -2934,6 +3022,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Map</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T061615Z" creationid="hiru4" creationdate="20190608T061615Z">
+        <seg>地図</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Map seed</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T061402Z" creationid="hiru4" creationdate="20190608T061402Z">
@@ -3050,6 +3146,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112524Z" creationid="kakonya" creationdate="20190607T112524Z">
         <seg>ミッション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mission info</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T061806Z" creationid="hiru4" creationdate="20190608T061806Z">
+        <seg>ミッション情報</seg>
       </tuv>
     </tu>
     <tu>
@@ -3270,6 +3374,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No mission</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T061743Z" creationid="hiru4" creationdate="20190608T061743Z">
+        <seg>ミッションが無い</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No one available for hire.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T061733Z" creationid="hiru4" creationdate="20190608T061733Z">
+        <seg>雇用できません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No remains of the alien lifeforms that built the ruins scattered all across Europa have ever been discovered.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T010505Z" creationid="nick2" creationdate="20190608T010505Z">
@@ -3418,6 +3538,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T022946Z" creationid="kakonya" creationdate="20190608T022946Z">
         <seg>道具が違うだけで、使い方は同じです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Outpost</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T061638Z" creationid="hiru4" creationdate="20190608T061638Z">
+        <seg>前哨</seg>
       </tuv>
     </tu>
     <tu>
@@ -4150,6 +4278,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reward: [reward]</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T061808Z" creationid="hiru4" creationdate="20190608T061808Z">
+        <seg>報酬: [reward]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reward: [reward] credits</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T061747Z" creationid="hiru4" creationdate="20190608T061747Z">
+        <seg>報酬: [reward] クレジット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Right</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T140256Z" creationid="totochan" creationdate="20190607T140256Z">
@@ -4714,6 +4858,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T060905Z" creationid="hiru4" creationdate="20190608T060855Z">
         <seg>アイテムストレージ（中型サイズ）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Store</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T061632Z" creationid="hiru4" creationdate="20190608T061632Z">
+        <seg>格納</seg>
       </tuv>
     </tu>
     <tu>
@@ -6216,6 +6368,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You will not be able to hire the character again.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T061658Z" creationid="hiru4" creationdate="20190608T061658Z">
+        <seg>再びそのキャラクターを雇うことはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You will not get paid for delivering cargo if any of the cargo goes missing or gets damaged during the transport.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T052451Z" creationid="kakonya" creationdate="20190607T052451Z">
@@ -6236,6 +6396,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112942Z" creationid="kakonya" creationdate="20190607T112942Z">
         <seg>既存のワークショップアイテムのアップデートを公開しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your crew</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190608T061627Z" creationid="hiru4" creationdate="20190608T061622Z">
+        <seg>乗組員</seg>
       </tuv>
     </tu>
     <tu>
