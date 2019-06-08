@@ -22,6 +22,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A crystal composed of solid carbon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T171746Z" creationid="nick2" creationdate="20190608T171746Z">
+        <seg>固体炭素からなる結晶。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A crystalline mineral composed of silicon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T171756Z" creationid="nick2" creationdate="20190608T171756Z">
+        <seg>シリコンからなる結晶性鉱物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A device that can be used to observe the outside of the sub by connecting it to a camera, or to control weapons such as the railgun and coilgun.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T025602Z" creationid="kakonya" creationdate="20190608T025602Z">
@@ -142,6 +158,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A mineral composed of calcium and phosphorus.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T171731Z" creationid="nick2" creationdate="20190608T171731Z">
+        <seg>カルシウム、及びリンからなる鉱物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A mineral composed of chlorine.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T171812Z" creationid="nick2" creationdate="20190608T171812Z">
+        <seg>塩素で構成される鉱物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A mineral composed of copper, iron and tin.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T171524Z" creationid="nick2" creationdate="20190608T171524Z">
@@ -154,6 +186,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T171457Z" creationid="nick2" creationdate="20190608T171457Z">
         <seg>亜鉛と鉛で構成される鉱物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A mineral consisting largely of zinc in crystalline form.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T172029Z" creationid="nick2" creationdate="20190608T172029Z">
+        <seg>主に結晶化した亜鉛からなる鉱物。</seg>
       </tuv>
     </tu>
     <tu>
@@ -214,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A mineral containing large concentrations of uranium.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T171713Z" creationid="nick2" creationdate="20190608T171713Z">
+        <seg>ウランを高濃度で含有する鉱物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A mineral containing lithium.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T171416Z" creationid="nick2" creationdate="20190608T171416Z">
@@ -250,6 +298,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T171145Z" creationid="nick2" creationdate="20190608T170917Z">
         <seg>ナトリウムを含有する鉱物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A mineral containing titanium.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T171649Z" creationid="nick2" creationdate="20190608T171649Z">
+        <seg>チタンを含有する鉱物。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2162,6 +2218,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Diamond</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T171733Z" creationid="nick2" creationdate="20190608T171733Z">
+        <seg>ダイヤモンド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Died of cyanide poisoning.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T163029Z" creationid="nick2" creationdate="20190608T162706Z">
@@ -3426,6 +3490,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hydroxyapatite</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T171715Z" creationid="nick2" creationdate="20190608T171715Z">
+        <seg>ハイドロキシアパタイト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hyperzine</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T162029Z" creationid="nick2" creationdate="20190608T162029Z">
@@ -3558,6 +3630,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T015142Z" creationid="nick2" creationdate="20190608T015142Z">
         <seg>もしも同僚の乗組員が他人には見えない幻覚を見たり聞いたりしだした場合、すぐにドクターに報告してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ilmenite</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T171636Z" creationid="nick2" creationdate="20190608T171636Z">
+        <seg>イルメナイト</seg>
       </tuv>
     </tu>
     <tu>
@@ -5570,6 +5650,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pyromorphite</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T171758Z" creationid="nick2" creationdate="20190608T171758Z">
+        <seg>フィロモハイト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Quartz</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T171747Z" creationid="nick2" creationdate="20190608T171747Z">
+        <seg>石英</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Query port</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T104437Z" creationid="totochan" creationdate="20190607T104437Z">
@@ -6590,6 +6686,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113542Z" creationid="kakonya" creationdate="20190607T113542Z">
         <seg>鏡面反射照明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sphalerite</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T171814Z" creationid="nick2" creationdate="20190608T171814Z">
+        <seg>閃亜鉛鉱</seg>
       </tuv>
     </tu>
     <tu>
@@ -7718,6 +7822,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T062449Z" creationid="hiru4" creationdate="20190608T062259Z">
         <seg>上部ドッキングポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Uranium Ore</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T171651Z" creationid="nick2" creationdate="20190608T171651Z">
+        <seg>ウラン鉱石</seg>
       </tuv>
     </tu>
     <tu>
