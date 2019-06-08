@@ -1674,6 +1674,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do you want to abort the mission and end the round now?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T123858Z" creationid="nick2" creationdate="20190608T123858Z">
+        <seg>ミッションを中止し、現在のラウンドを終了しますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do you want to apply the settings or discard the changes?</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113220Z" creationid="kakonya" creationdate="20190607T113220Z">
@@ -2726,6 +2734,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T104436Z" creationid="totochan" creationdate="20190607T104436Z">
         <seg>クライアントがサーバーへの接続に失敗した場合、UPnPポートフォワーディングを有効にするか、手動でポートを転送する必要があるかもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If no characters revive or rejoin, the server will end round in [time] seconds.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T124512Z" creationid="nick2" creationdate="20190608T124512Z">
+        <seg>誰も蘇生されず、新しいプレイヤーが参加しなければ、ラウンドは[time]秒で終了します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3798,6 +3814,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T114546Z" creationid="kakonya" creationdate="20190607T114546Z">
         <seg>内蔵ボタンはありません - 手動で配線する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No living players on the server and respawning is not enabled during this round.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T124203Z" creationid="nick2" creationdate="20190608T124154Z">
+        <seg>全てのプレイヤーは意識を失っており、さらにこのサーバーではリスポーンが許可されていません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5958,6 +5982,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T002606Z" creationid="nick2" creationdate="20190608T002606Z">
         <seg>ナビゲーション端末上のソナー画像は、端末がダメージを受けていると不正確になるかもしれません。エンジニアは端末の状態を維持するようにしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The submarine is not at either end of the level.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T123850Z" creationid="nick2" creationdate="20190608T123850Z">
+        <seg>潜水艦がステージの入り口にも出口にも到達していません。</seg>
       </tuv>
     </tu>
     <tu>
