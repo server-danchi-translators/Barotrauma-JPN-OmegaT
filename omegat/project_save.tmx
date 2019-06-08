@@ -1082,6 +1082,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Chat message</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T133241Z" creationid="nick2" creationdate="20190608T133241Z">
+        <seg>チャットメッセージ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Chromatic aberration</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113546Z" creationid="kakonya" creationdate="20190607T113546Z">
@@ -2334,6 +2342,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T130532Z" creationid="nick2" creationdate="20190608T130532Z">
         <seg>埋める</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Filter</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T133240Z" creationid="nick2" creationdate="20190608T133240Z">
+        <seg>フィルタ</seg>
       </tuv>
     </tu>
     <tu>
@@ -5566,6 +5582,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T105056Z" creationid="kakonya" creationdate="20190607T105056Z">
         <seg>サーバーのログ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Server message</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T133628Z" creationid="nick2" creationdate="20190608T133628Z">
+        <seg>サーバーメッセージ</seg>
       </tuv>
     </tu>
     <tu>
