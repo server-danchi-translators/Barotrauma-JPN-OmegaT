@@ -5586,6 +5586,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Potassium</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T174118Z" creationid="nick2" creationdate="20190608T174118Z">
+        <seg>カリウム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Power up submarine’s reactor</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T024005Z" creationid="kakonya" creationdate="20190608T024005Z">
@@ -5934,6 +5942,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T061039Z" creationid="hiru4" creationdate="20190608T061039Z">
         <seg>原子炉の部屋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reacts violently when in contact with water.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T174132Z" creationid="nick2" creationdate="20190608T174115Z">
+        <seg>水との接触で激しく反応する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8156,8 +8172,8 @@
       <tuv lang="EN-US">
         <seg>Used in the manufacture of explosives and medical compounds.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190608T174020Z" creationid="nick2" creationdate="20190608T174020Z">
-        <seg>爆発物や医療の化合物の製造に使用されます。</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190608T174047Z" creationid="nick2" creationdate="20190608T174020Z">
+        <seg>爆発物や医療化合物の製造に使用される。</seg>
       </tuv>
     </tu>
     <tu>
