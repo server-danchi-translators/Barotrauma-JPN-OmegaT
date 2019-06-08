@@ -309,6 +309,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Allow ragdoll button</seg>
+      </tuv>
+      <tuv lang="JA" changeid="spears" changedate="20190608T101029Z" creationid="spears" creationdate="20190608T101029Z">
+        <seg>ラグドールボタンを許可します</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>「プレイヤーが死んでも戻る」の意味なら
 「人員補充を有効にする」
 「リスポーン許可」
@@ -1698,6 +1706,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Duration</seg>
+      </tuv>
+      <tuv lang="JA" changeid="spears" changedate="20190608T101047Z" creationid="spears" creationdate="20190608T101047Z">
+        <seg>期間</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Duration of respawn transport:</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190608T063332Z" creationid="urakata" creationdate="20190608T062430Z">
@@ -1942,6 +1958,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T044854Z" creationid="kakonya" creationdate="20190608T044854Z">
         <seg>アシスタントだって服が欲しい。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Expires [time]</seg>
+      </tuv>
+      <tuv lang="JA" changeid="spears" changedate="20190608T101042Z" creationid="spears" creationdate="20190608T101042Z">
+        <seg>有効期限 [time]</seg>
       </tuv>
     </tu>
     <tu>
@@ -4778,6 +4802,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Save server logs</seg>
+      </tuv>
+      <tuv lang="JA" changeid="spears" changedate="20190608T101032Z" creationid="spears" creationdate="20190608T101032Z">
+        <seg>サーバーのログを保存します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Score</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112829Z" creationid="kakonya" creationdate="20190607T112829Z">
@@ -6198,6 +6230,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T040640Z" creationid="nick2" creationdate="20190608T040640Z">
         <seg>[radiobutton] キーを押して無線機で話す。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use as treatment</seg>
+      </tuv>
+      <tuv lang="JA" changeid="spears" changedate="20190608T101110Z" creationid="spears" creationdate="20190608T101110Z">
+        <seg>治療として使用します</seg>
       </tuv>
     </tu>
     <tu>
