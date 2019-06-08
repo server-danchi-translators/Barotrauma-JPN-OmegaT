@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A handgun powered by alien power cells.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T025833Z" creationid="kakonya" creationdate="20190608T025833Z">
+        <seg>エイリアンパワーセルを搭載したハンドガン。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A heavy turret that uses electromagnetic force to launch shells at very high velocities.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T025356Z" creationid="kakonya" creationdate="20190608T025356Z">
@@ -98,6 +106,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T114633Z" creationid="kakonya" creationdate="20190607T114633Z">
         <seg>2個の内蔵ボタンを備えたスライドドア。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A token of the captain's unquestionable authority.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T025859Z" creationid="kakonya" creationdate="20190608T025859Z">
+        <seg>権威の象徴。キャプテンの印</seg>
       </tuv>
     </tu>
     <tu>
@@ -190,6 +206,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alien Pistol</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T025810Z" creationid="kakonya" creationdate="20190608T025810Z">
+        <seg>エイリアンピストル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All Steam features have been disabled—you will not be able to use the Steam Workshop or join servers that use Steam.</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T141218Z" creationid="totochan" creationdate="20190607T141218Z">
@@ -226,6 +250,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T114206Z" creationid="kakonya" creationdate="20190607T114206Z">
         <seg>再生成を許可</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Allows limited access to areas of the sub.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T025808Z" creationid="kakonya" creationdate="20190608T025808Z">
+        <seg>潜水艦の領域へのアクセスを制限できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -514,6 +546,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113148Z" creationid="kakonya" creationdate="20190607T113148Z">
         <seg>バニラのコンテンツパッケージで定義された潜水艦を編集することはできません！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Captain's Cap</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T025835Z" creationid="kakonya" creationdate="20190608T025835Z">
+        <seg>キャプテンの帽子</seg>
       </tuv>
     </tu>
     <tu>
@@ -1398,6 +1438,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Feeds railgun ammunition into a linked railgun.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T025650Z" creationid="kakonya" creationdate="20190608T025650Z">
+        <seg>レールガンに弾丸を補充する装置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Female</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T140931Z" creationid="totochan" creationdate="20190607T140931Z">
@@ -1770,6 +1818,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T020030Z" creationid="kakonya" creationdate="20190608T020030Z">
         <seg>必要なものをつかんで、再びオンラインにしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ID Card</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T025804Z" creationid="kakonya" creationdate="20190608T025804Z">
+        <seg>IDカード</seg>
       </tuv>
     </tu>
     <tu>
@@ -3054,6 +3110,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Railgun Loader</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T025605Z" creationid="kakonya" creationdate="20190608T025605Z">
+        <seg>レールガンローダー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Railgun Loader Single Horizontal</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T025749Z" creationid="kakonya" creationdate="20190608T025749Z">
+        <seg>レールガンローダー横型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Railgun Loader Single Vertical</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T025756Z" creationid="kakonya" creationdate="20190608T025728Z">
+        <seg>レールガンローダーシングル縦型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Railgun shells and depth charges include a compartment that can hold additional explosives.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190607T235856Z" creationid="nick2" creationdate="20190607T235720Z">
@@ -3554,6 +3634,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112515Z" creationid="kakonya" creationdate="20190607T112515Z">
         <seg>シングルプレーヤー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Single shot version.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T025735Z" creationid="kakonya" creationdate="20190608T025735Z">
+        <seg>シングルショットバージョン。</seg>
       </tuv>
     </tu>
     <tu>
