@@ -3834,6 +3834,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hover the mouse cursor over a ranged weapon to see how many bullets, harpoons, etc. are contained.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190609T001102Z" creationid="kakonya" creationdate="20190609T001102Z">
+        <seg>武器の上にマウスカーソルを置くと、弾丸、銛などがいくつ装填されているかがわかります。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How much power is currently being consumed by the devices connected to the reactor.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T111609Z" creationid="kakonya" creationdate="20190607T111609Z">
