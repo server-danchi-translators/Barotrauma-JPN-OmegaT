@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1474,6 +1474,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bleeding</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190609T020615Z" creationid="totochan" creationdate="20190609T020437Z">
+        <seg>重度の出血</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bleeding wounds can be treated with bandages and hemostatic agents.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T014255Z" creationid="nick2" creationdate="20190608T014255Z">
@@ -1814,6 +1822,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T171010Z" creationid="nick2" creationdate="20190608T171010Z">
         <seg>スズ石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Catastrophic bleeding</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190609T020630Z" creationid="totochan" creationdate="20190609T020630Z">
+        <seg>致命的な出血</seg>
       </tuv>
     </tu>
     <tu>
@@ -2426,6 +2442,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Critically injured</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190609T020824Z" creationid="totochan" creationdate="20190609T020824Z">
+        <seg>致命的な傷</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Critically\nLow Temperature</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T111509Z" creationid="kakonya" creationdate="20190607T111509Z">
@@ -2590,6 +2614,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T141048Z" creationid="totochan" creationdate="20190607T141048Z">
         <seg>日</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deceased</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190609T020401Z" creationid="totochan" creationdate="20190609T020401Z">
+        <seg>死亡者</seg>
       </tuv>
     </tu>
     <tu>
@@ -4178,6 +4210,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Heavy bleeding</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190609T020600Z" creationid="totochan" creationdate="20190609T020430Z">
+        <seg>大量出血</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Helps prevent screen tearing artifacts.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113534Z" creationid="kakonya" creationdate="20190607T113534Z">
@@ -4678,6 +4718,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T141221Z" creationid="totochan" creationdate="20190607T141221Z">
         <seg>Steamクライアントの初期化に失敗しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Injured</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190609T020720Z" creationid="totochan" creationdate="20190609T020644Z">
+        <seg>重傷</seg>
       </tuv>
     </tu>
     <tu>
@@ -5354,6 +5402,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Major injuries</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190609T020809Z" creationid="totochan" creationdate="20190609T020648Z">
+        <seg>重度の傷</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Make sure the suit has a full oxygen tank attached, otherwise the wearer will suffocate.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T013720Z" creationid="kakonya" creationdate="20190608T013720Z">
@@ -5670,6 +5726,22 @@
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190608T062722Z" creationid="totochan" creationdate="20190607T140351Z">
         <seg>人員補充を開始するプレイヤー数:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Minor bleeding</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190609T020619Z" creationid="totochan" creationdate="20190609T020501Z">
+        <seg>軽度の出血</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Minor injuries</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190609T020703Z" creationid="totochan" creationdate="20190609T020639Z">
+        <seg>軽傷</seg>
       </tuv>
     </tu>
     <tu>
@@ -6138,6 +6210,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No medical items available</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190609T020843Z" creationid="totochan" creationdate="20190609T020843Z">
+        <seg>利用可能な医療アイテムはありません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No mission</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T061743Z" creationid="hiru4" creationdate="20190608T061743Z">
@@ -6190,6 +6270,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T140903Z" creationid="totochan" creationdate="20190607T140903Z">
         <seg>すべて、いいえ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No visible injuries</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190609T020634Z" creationid="totochan" creationdate="20190609T020634Z">
+        <seg>目に見える怪我ありません</seg>
       </tuv>
     </tu>
     <tu>
@@ -6510,6 +6598,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T001533Z" creationid="nick2" creationdate="20190608T001320Z">
         <seg>酸素発生器には、酸素ボンベを補充するためのドックが付いています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Oxygen level normal</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190609T020829Z" creationid="totochan" creationdate="20190609T020829Z">
+        <seg>通常の酸素レベル</seg>
       </tuv>
     </tu>
     <tu>
@@ -8546,6 +8642,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Stunned</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190609T020405Z" creationid="totochan" creationdate="20190609T020405Z">
+        <seg>気絶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Submarine</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113040Z" creationid="kakonya" creationdate="20190607T113040Z">
@@ -9670,6 +9774,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112509Z" creationid="kakonya" creationdate="20190607T112509Z">
         <seg>UPnPの利用できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unconscious</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190609T020403Z" creationid="totochan" creationdate="20190609T020403Z">
+        <seg>無意識</seg>
       </tuv>
     </tu>
     <tu>
@@ -10968,6 +11080,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T140720Z" creationid="totochan" creationdate="20190607T140720Z">
         <seg>[[key]] 話す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[[select]] Interact</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190609T020855Z" creationid="totochan" creationdate="20190609T020855Z">
+        <seg>[[select]] 調べる</seg>
       </tuv>
     </tu>
     <tu>
