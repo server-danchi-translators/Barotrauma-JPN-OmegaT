@@ -1002,6 +1002,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Are you okay?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190609T002227Z" creationid="kakonya" creationdate="20190609T002227Z">
+        <seg>大丈夫？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Are you sure you want to choose a shuttle as your vessel?</seg>
       </tuv>
       <tuv lang="JA" changeid="spears" changedate="20190608T165208Z" creationid="spears" creationdate="20190608T165208Z">
@@ -3598,6 +3606,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T060100Z" creationid="kakonya" creationdate="20190607T060100Z">
         <seg>ロッカーから装備を入手する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Get yourself patched up, fast.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190609T002309Z" creationid="kakonya" creationdate="20190609T002251Z">
+        <seg>早く治療してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8010,6 +8026,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>That was a big one.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190609T002220Z" creationid="kakonya" creationdate="20190609T002220Z">
+        <seg>大きな奴だった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Europa Coalition started off as a trade and cooperation agreement between the two largest Europan settlements and a handful of private paramilitary groups, but gradually grew to become what is essentially the Europan government.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T033144Z" creationid="nick2" creationdate="20190608T033144Z">
@@ -9310,6 +9334,22 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T232850Z" creationid="kakonya" creationdate="20190608T232850Z">
         <seg>船体の異常と侵入者がいます！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We need a medic here stat.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190609T002800Z" creationid="kakonya" creationdate="20190609T002800Z">
+        <seg>ここでは医者が必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We need a medic here!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190609T002202Z" creationid="kakonya" creationdate="20190609T002202Z">
+        <seg>医者が必要だ！</seg>
       </tuv>
     </tu>
     <tu>
