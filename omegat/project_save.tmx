@@ -46,6 +46,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A barrel of explosives.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T204659Z" creationid="nick2" creationdate="20190609T204659Z">
+        <seg>爆発物のバレル。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A barrel of really big explosives.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T204925Z" creationid="nick2" creationdate="20190609T204925Z">
+        <seg>とてつもなく大きな爆発物のバレル。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A battery cell constructed of the rare and poorly understood compound Fulgurium.</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190609T014423Z" creationid="totochan" creationdate="20190609T014423Z">
@@ -3137,11 +3153,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>他の文節で"Depth Charge" は「爆雷」で統一されているようなのでそれに従います。</note>
       <tuv lang="EN-US">
         <seg>Depth Charge Shell</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190609T204541Z" creationid="nick2" creationdate="20190609T204541Z">
-        <seg>デプスチャージシェル</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T204837Z" creationid="nick2" creationdate="20190609T204541Z">
+        <seg>爆雷</seg>
       </tuv>
     </tu>
     <tu>
@@ -3150,6 +3167,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T024953Z" creationid="kakonya" creationdate="20190608T024953Z">
         <seg>デプスチャージチューブ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Depth Decoy Shell</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T204942Z" creationid="nick2" creationdate="20190609T204942Z">
+        <seg>デコイ爆雷</seg>
       </tuv>
     </tu>
     <tu>
@@ -4556,16 +4581,16 @@
       <tuv lang="EN-US">
         <seg>Generates significantly more heat and lasts longer than uranium fuel rods.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190609T204330Z" creationid="nick2" creationdate="20190609T204032Z">
-        <seg>ウラン燃料棒と比べ多量の熱を発生し、長持ちします。</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T204721Z" creationid="nick2" creationdate="20190609T204032Z">
+        <seg>ウラン燃料棒と比べ多量の熱を発生し、長持ちする。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Generates slightly more heat and lasts longer than uranium fuel rods.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190609T204223Z" creationid="nick2" creationdate="20190609T204223Z">
-        <seg>ウラン燃料棒と比べ少し熱量が高く、長持ちします。</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T204725Z" creationid="nick2" creationdate="20190609T204223Z">
+        <seg>ウラン燃料棒と比べ少し熱量が高く、長持ちする。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7258,6 +7283,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Nuclear Depth Charge</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T204811Z" creationid="nick2" creationdate="20190609T204811Z">
+        <seg>核爆雷</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Nuclear Reactor</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T024637Z" creationid="kakonya" creationdate="20190608T024637Z">
@@ -8340,7 +8373,7 @@
       <tuv lang="EN-US">
         <seg>Railgun shells and depth charges include a compartment that can hold additional explosives.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190607T235856Z" creationid="nick2" creationdate="20190607T235720Z">
+      <tuv lang="JA" changeid="nick2" changedate="20190609T204829Z" creationid="nick2" creationdate="20190607T235720Z">
         <seg>レールガンの砲弾や爆雷は、追加の弾薬を保持できる区画を持っています。</seg>
       </tuv>
     </tu>
@@ -12113,6 +12146,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T191246Z" creationid="nick2" creationdate="20190609T191246Z">
         <seg>wifi部品</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Will sink and then explode.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T204717Z" creationid="nick2" creationdate="20190609T204717Z">
+        <seg>沈み、その後爆発する。</seg>
       </tuv>
     </tu>
     <tu>
