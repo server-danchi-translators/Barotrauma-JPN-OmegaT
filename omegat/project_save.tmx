@@ -1842,10 +1842,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Charge: [charge] kWm ([percentage] %)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190609T015057Z" creationid="totochan" creationdate="20190609T015057Z">
+        <seg>充電: [charge] kWm ([percentage] %)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Charging Dock</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190609T014134Z" creationid="totochan" creationdate="20190609T014134Z">
-        <seg>充電設備</seg>
+      <tuv lang="JA" changeid="totochan" changedate="20190609T015053Z" creationid="totochan" creationdate="20190609T014134Z">
+        <seg>充電ドック</seg>
       </tuv>
     </tu>
     <tu>
@@ -3618,6 +3626,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fix</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190609T015228Z" creationid="totochan" creationdate="20190609T015228Z">
+        <seg>修正</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flare</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T121213Z" creationid="kakonya" creationdate="20190608T121213Z">
@@ -4058,6 +4074,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Heavy</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190609T015144Z" creationid="totochan" creationdate="20190609T015144Z">
+        <seg>重</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Helps prevent screen tearing artifacts.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113534Z" creationid="kakonya" creationdate="20190607T113534Z">
@@ -4454,6 +4478,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T022415Z" creationid="kakonya" creationdate="20190608T022415Z">
         <seg>消耗や浸水、過電圧によって損傷を受けます。\n\n機械部品用のレンチではなく、ドライバーを使用して修理します。。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In passive mode, the sonar only listens to sources of sound and sounds reflected from nearby obstacles without actively sending out pings.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190609T015046Z" creationid="totochan" creationdate="20190609T015046Z">
+        <seg>パッシブモードでは、ソナーはPINGを能動的に送信せずに、近くの障害物から反射される音と音のソースのみを聞く。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5002,6 +5034,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Light</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190609T015140Z" creationid="totochan" creationdate="20190609T015140Z">
+        <seg>軽</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lighting resolution</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113541Z" creationid="kakonya" creationdate="20190607T113541Z">
@@ -5126,6 +5166,22 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T013422Z" creationid="nick2" creationdate="20190608T013422Z">
         <seg>大きな音を出すデバイスやソナーの探信音が近くのクリーチャーをおびき寄せるかもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Low medical skill!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190609T015149Z" creationid="totochan" creationdate="20190609T015149Z">
+        <seg>低医療のスキル！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Low voltage</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190609T015104Z" creationid="totochan" creationdate="20190609T015104Z">
+        <seg>低電圧</seg>
       </tuv>
     </tu>
     <tu>
@@ -5422,6 +5478,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190609T003244Z" creationid="kakonya" creationdate="20190609T003244Z">
         <seg>医療インターフェース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Medium</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190609T015141Z" creationid="totochan" creationdate="20190609T015141Z">
+        <seg>中</seg>
       </tuv>
     </tu>
     <tu>
@@ -6306,6 +6370,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Overvoltage</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190609T015102Z" creationid="totochan" creationdate="20190609T015102Z">
+        <seg>過電圧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Oxygen Generator</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T024210Z" creationid="kakonya" creationdate="20190608T024210Z">
@@ -6694,6 +6766,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T174118Z" creationid="nick2" creationdate="20190608T174118Z">
         <seg>カリウム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Power</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190609T015108Z" creationid="totochan" creationdate="20190609T015108Z">
+        <seg>パワー</seg>
       </tuv>
     </tu>
     <tu>
@@ -7142,6 +7222,14 @@
       </tuv>
       <tuv lang="JA" changeid="spears" changedate="20190608T164717Z" creationid="spears" creationdate="20190608T164717Z">
         <seg>理由：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recharge rate [rate] %</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190609T015059Z" creationid="totochan" creationdate="20190609T015059Z">
+        <seg>再充電 [rate] %</seg>
       </tuv>
     </tu>
     <tu>
@@ -8850,6 +8938,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The pings may also be heard by hostile creatures or enemy submarines.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190609T015006Z" creationid="totochan" creationdate="20190609T015006Z">
+        <seg>ピングは敵対的な生き物や敵の潜水艦によって聞かれることがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The port used to communicate with Steam's server browser and respond to info pings from clients.</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T104440Z" creationid="totochan" creationdate="20190607T104440Z">
@@ -8918,6 +9014,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T123850Z" creationid="nick2" creationdate="20190608T123850Z">
         <seg>潜水艦がステージの入り口にも出口にも到達していません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The suitable treatments list may be inaccurate.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190609T015213Z" creationid="totochan" creationdate="20190609T015155Z">
+        <seg>治療法のリストが不正確になることがあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9252,8 +9356,8 @@
       <tuv lang="EN-US">
         <seg>Torso</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190607T140838Z" creationid="totochan" creationdate="20190607T140838Z">
-        <seg>胴体</seg>
+      <tuv lang="JA" changeid="totochan" changedate="20190609T015210Z" creationid="totochan" creationdate="20190607T140838Z">
+        <seg>体</seg>
       </tuv>
     </tu>
     <tu>
