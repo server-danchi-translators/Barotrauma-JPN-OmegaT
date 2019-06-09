@@ -30,6 +30,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A bar of enriched fulgurium, for use within a reactor.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T203931Z" creationid="nick2" creationdate="20190609T203913Z">
+        <seg>原子炉内で使用するための濃縮フルグリム棒。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A bar of enriched uranium, for use within a reactor.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T203635Z" creationid="nick2" creationdate="20190609T203635Z">
+        <seg>原子炉内で使用するための濃縮ウラン棒。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A battery cell constructed of the rare and poorly understood compound Fulgurium.</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190609T014423Z" creationid="totochan" creationdate="20190609T014423Z">
@@ -566,6 +582,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A scrolling text display.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T203537Z" creationid="nick2" creationdate="20190609T203521Z">
+        <seg>スクロールするテキストディスプレイ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A secure vessel in which items may be stored.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T202626Z" creationid="nick2" creationdate="20190609T202626Z">
@@ -1038,6 +1062,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190609T020138Z" creationid="totochan" creationdate="20190609T020138Z">
         <seg>投票でキックを許可</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Allows for vertical locomotion.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T203600Z" creationid="nick2" creationdate="20190609T203600Z">
+        <seg>垂直方向の通行を可能にします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4354,6 +4386,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fuel Rod</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T203602Z" creationid="nick2" creationdate="20190609T203602Z">
+        <seg>燃料棒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fuel Rods</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T111844Z" creationid="kakonya" creationdate="20190607T111844Z">
@@ -4382,6 +4422,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190609T013851Z" creationid="totochan" creationdate="20190609T013851Z">
         <seg>フルグリムバッテリーセル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fulgurium Fuel Rod</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T203938Z" creationid="nick2" creationdate="20190609T203639Z">
+        <seg>フルグリム燃料棒</seg>
       </tuv>
     </tu>
     <tu>
@@ -4470,6 +4518,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190609T014248Z" creationid="totochan" creationdate="20190609T014248Z">
         <seg>一般的には、原子炉が故障した場合のバックアップ電源として使用される。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Generates significantly more heat and lasts longer than uranium fuel rods.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T204032Z" creationid="nick2" creationdate="20190609T204032Z">
+        <seg>ウラン燃料棒よりも多量の熱を発生し、さらに長持ちします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5654,6 +5710,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T203511Z" creationid="nick2" creationdate="20190609T203511Z">
         <seg>ラベル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ladder</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T203550Z" creationid="nick2" creationdate="20190609T203550Z">
+        <seg>はしご</seg>
       </tuv>
     </tu>
     <tu>
@@ -10150,6 +10214,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T121225Z" creationid="kakonya" creationdate="20190608T121225Z">
         <seg>一時的なハンドヘルド光源。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Text Display</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T203526Z" creationid="nick2" creationdate="20190609T203518Z">
+        <seg>テキストディスプレイ</seg>
       </tuv>
     </tu>
     <tu>
