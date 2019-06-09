@@ -914,6 +914,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Allows remote communication between other wifi components that are using the same channel.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T191314Z" creationid="nick2" creationdate="20190609T191314Z">
+        <seg>同じチャネルを使用している他のwifi部品間の遠隔通信を可能にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Also a blunt weapon.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T113049Z" creationid="kakonya" creationdate="20190608T113049Z">
@@ -11177,6 +11185,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T114151Z" creationid="kakonya" creationdate="20190607T114151Z">
         <seg>ホワイトリスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wifi Component</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T191246Z" creationid="nick2" creationdate="20190609T191246Z">
+        <seg>wifi部品</seg>
       </tuv>
     </tu>
     <tu>
