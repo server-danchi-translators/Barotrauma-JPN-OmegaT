@@ -2508,8 +2508,8 @@
       <tuv lang="EN-US">
         <seg>Crushed by water pressure</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190609T015337Z" creationid="totochan" creationdate="20190609T015337Z">
-        <seg>水の圧力によって押しつぶさた</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T164544Z" creationid="totochan" creationdate="20190609T015337Z">
+        <seg>水圧によって押しつぶされた</seg>
       </tuv>
     </tu>
     <tu>
@@ -4050,6 +4050,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Give in</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T164720Z" creationid="nick2" creationdate="20190609T164720Z">
+        <seg>諦める</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Giving commands</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190609T005758Z" creationid="kakonya" creationdate="20190609T005758Z">
@@ -5222,6 +5230,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T140842Z" creationid="totochan" creationdate="20190607T140842Z">
         <seg>下肢</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Let go of your character and enter spectator mode (other players will no longer be able to revive you)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T164905Z" creationid="nick2" creationdate="20190609T164905Z">
+        <seg>あなたのキャラクターを諦め、観戦モードに入ります（他のプレイヤーはあなたを蘇生することができなくなります）</seg>
       </tuv>
     </tu>
     <tu>
@@ -9026,6 +9042,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Taken over by a parasite</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T164526Z" creationid="nick2" creationdate="20190609T164526Z">
+        <seg>寄生虫によって支配された</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Taking them down requires more firepower.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190609T001733Z" creationid="kakonya" creationdate="20190609T001733Z">
@@ -9262,6 +9286,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113423Z" creationid="kakonya" creationdate="20190607T113423Z">
         <seg>パッケージはバージョン[packageversion]用に作られました。 あなたのゲームのバージョンは[gameversion]です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The parasite has taken over your body.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T164652Z" creationid="nick2" creationdate="20190609T164652Z">
+        <seg>寄生虫があなたの体を支配しました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11088,6 +11120,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T235550Z" creationid="kakonya" creationdate="20190608T235503Z">
         <seg>取り外し</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You were disconnected from the server.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T164713Z" creationid="nick2" creationdate="20190609T164713Z">
+        <seg>あなたはサーバーから切断されました。</seg>
       </tuv>
     </tu>
     <tu>
