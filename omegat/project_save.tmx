@@ -1210,6 +1210,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An alien mineral.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T210701Z" creationid="nick2" creationdate="20190609T210701Z">
+        <seg>エイリアンの鉱物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An antibiotic glue with hemostatic properties.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T053954Z" creationid="kakonya" creationdate="20190608T053954Z">
@@ -7763,6 +7771,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Oxygenite Shard</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T210654Z" creationid="nick2" creationdate="20190609T210654Z">
+        <seg>酸素シャード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Oxygenite Tank</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190609T013804Z" creationid="totochan" creationdate="20190609T013804Z">
@@ -10255,6 +10271,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T165912Z" creationid="nick2" creationdate="20190608T165912Z">
         <seg>硫酸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sulphurite Shard</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T211936Z" creationid="nick2" creationdate="20190609T211936Z">
+        <seg>サルファライトシャード</seg>
       </tuv>
     </tu>
     <tu>
