@@ -6834,6 +6834,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Oscillator</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T191441Z" creationid="nick2" creationdate="20190609T191317Z">
+        <seg>発振回路</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Otherwise the process is the same.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T022946Z" creationid="kakonya" creationdate="20190608T022946Z">
@@ -7866,6 +7874,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>RegEx Find Component</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T191543Z" creationid="nick2" creationdate="20190609T191543Z">
+        <seg>正規表現発見器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reload the configuration file of the Workshop item (metadata.xml inside the item's folder) and add all new files in it to the file list.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113007Z" creationid="kakonya" creationdate="20190607T113007Z">
@@ -8450,6 +8466,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sends a signal if the received signal matches a specific regular expression pattern.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T191806Z" creationid="nick2" creationdate="20190609T191806Z">
+        <seg>受信した信号が特定の正規表現パターンと一致した場合に信号を送信します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sends out a periodic, oscillating signal.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T191346Z" creationid="nick2" creationdate="20190609T191333Z">
+        <seg>定期的に発振信号を送出します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Server</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T140329Z" creationid="totochan" creationdate="20190607T140329Z">
@@ -8646,6 +8678,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190609T013404Z" creationid="kakonya" creationdate="20190609T013404Z">
         <seg>シャトルの壁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Signal Check Component</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T191824Z" creationid="nick2" creationdate="20190609T191824Z">
+        <seg>信号確認器</seg>
       </tuv>
     </tu>
     <tu>
