@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1530,6 +1530,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Brain dead</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190609T015316Z" creationid="totochan" creationdate="20190609T015316Z">
+        <seg>脳死</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Breaking down alien artifacts in a deconstructor may provide you with exotic raw materials.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T005126Z" creationid="nick2" creationdate="20190608T005126Z">
@@ -1566,6 +1574,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T231009Z" creationid="kakonya" creationdate="20190607T231009Z">
         <seg>やけど</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Burned to death</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190609T015341Z" creationid="totochan" creationdate="20190609T015341Z">
+        <seg>焼死</seg>
       </tuv>
     </tu>
     <tu>
@@ -2410,6 +2426,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Crushed by water pressure</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190609T015337Z" creationid="totochan" creationdate="20190609T015337Z">
+        <seg>水の圧力によって押しつぶさた</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Crushed by water pressure.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T232308Z" creationid="kakonya" creationdate="20190607T232308Z">
@@ -2510,6 +2534,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T163025Z" creationid="nick2" creationdate="20190608T162650Z">
         <seg>青酸中毒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Damage</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190609T015301Z" creationid="totochan" creationdate="20190609T015301Z">
+        <seg>損傷</seg>
       </tuv>
     </tu>
     <tu>
@@ -2750,6 +2782,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113227Z" creationid="kakonya" creationdate="20190607T113227Z">
         <seg>捨てます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Disconnected</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190609T015348Z" creationid="totochan" creationdate="20190609T015348Z">
+        <seg>切断</seg>
       </tuv>
     </tu>
     <tu>
@@ -3030,6 +3070,22 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T013004Z" creationid="kakonya" creationdate="20190608T012941Z">
         <seg>アイテムを落とす</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Drowned</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190609T015326Z" creationid="totochan" creationdate="20190609T015326Z">
+        <seg>溺死</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Drowning</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190609T015303Z" creationid="totochan" creationdate="20190609T015303Z">
+        <seg>溺死</seg>
       </tuv>
     </tu>
     <tu>
@@ -4790,6 +4846,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T234537Z" creationid="kakonya" creationdate="20190607T111051Z">
         <seg>解体アイテムを一番上のスロットにドラッグして解体ボタンを押します。\n\n今回、消火器を製造するために、アルミニウムとナトリウムが必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Karma</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190609T015422Z" creationid="totochan" creationdate="20190609T015422Z">
+        <seg>カルマ</seg>
       </tuv>
     </tu>
     <tu>
@@ -6842,6 +6906,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pressure</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190609T015306Z" creationid="totochan" creationdate="20190609T015306Z">
+        <seg>圧力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Preview Image</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112856Z" creationid="kakonya" creationdate="20190607T112856Z">
@@ -7302,6 +7374,30 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T140423Z" creationid="totochan" creationdate="20190607T140423Z">
         <seg>削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Repair</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190609T015244Z" creationid="totochan" creationdate="20190609T015244Z">
+        <seg>修復</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Repair all items</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190609T015252Z" creationid="totochan" creationdate="20190609T015252Z">
+        <seg>すべてのアイテムを修復</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Repair all walls</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190609T015248Z" creationid="totochan" creationdate="20190609T015248Z">
+        <seg>すべての隔壁を修復</seg>
       </tuv>
     </tu>
     <tu>
@@ -8538,10 +8634,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Suffocated</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190609T015329Z" creationid="totochan" creationdate="20190609T015329Z">
+        <seg>窒息死</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Suffocated.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T231733Z" creationid="kakonya" creationdate="20190607T231733Z">
         <seg>窒息死</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Suffocation</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190609T015308Z" creationid="totochan" creationdate="20190609T015308Z">
+        <seg>窒息</seg>
       </tuv>
     </tu>
     <tu>
