@@ -16,8 +16,8 @@
       <tuv lang="EN-US">
         <seg>(Locked)</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190609T171350Z" creationid="nick2" creationdate="20190609T171350Z">
-        <seg>（ロック中）</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T171412Z" creationid="nick2" creationdate="20190609T171350Z">
+        <seg>（ロックされている）</seg>
       </tuv>
     </tu>
     <tu>
@@ -3162,6 +3162,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Drop items here to use them on the selected limb.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T171726Z" creationid="nick2" creationdate="20190609T171700Z">
+        <seg>ここにアイテムをドロップすると、選択した部位に使用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Drop the empty boxes on the ground by holding the green arrow above the ammo box when it's equipped.\n\nAmmo boxes are large and unwieldy.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T235718Z" creationid="kakonya" creationdate="20190608T235718Z">
@@ -3254,6 +3262,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190609T020914Z" creationid="totochan" creationdate="20190609T020914Z">
         <seg>電気工学</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Electrical Repairs</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T171509Z" creationid="nick2" creationdate="20190609T171509Z">
+        <seg>電気修理</seg>
       </tuv>
     </tu>
     <tu>
@@ -5428,8 +5444,8 @@
       <tuv lang="EN-US">
         <seg>Low medical skill!</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190609T015149Z" creationid="totochan" creationdate="20190609T015149Z">
-        <seg>低医療のスキル！</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T171849Z" creationid="totochan" creationdate="20190609T015149Z">
+        <seg>医療スキルが低すぎます！</seg>
       </tuv>
     </tu>
     <tu>
@@ -5710,6 +5726,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190609T020916Z" creationid="totochan" creationdate="20190609T020916Z">
         <seg>機械工学</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mechanical Repairs</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T171531Z" creationid="nick2" creationdate="20190609T171531Z">
+        <seg>機械修理</seg>
       </tuv>
     </tu>
     <tu>
@@ -7714,6 +7738,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Repairing</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T171501Z" creationid="nick2" creationdate="20190609T171501Z">
+        <seg>修復中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Repairing devices</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T013941Z" creationid="kakonya" creationdate="20190608T013941Z">
@@ -7734,6 +7766,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190609T014633Z" creationid="totochan" creationdate="20190609T014633Z">
         <seg>必要アイテム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Required skills:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T171424Z" creationid="nick2" creationdate="20190609T171424Z">
+        <seg>必要スキル：</seg>
       </tuv>
     </tu>
     <tu>
@@ -8958,6 +8998,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190609T004459Z" creationid="kakonya" creationdate="20190609T004459Z">
         <seg>提案された項目はインターフェースに表示されますが、一部のキャラクターの医療スキルは正しい治療ができるほど高くないため、注意が必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Suitable treatments:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T171612Z" creationid="nick2" creationdate="20190609T171612Z">
+        <seg>適した治療法：</seg>
       </tuv>
     </tu>
     <tu>
@@ -10354,6 +10402,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Vitality</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T171620Z" creationid="nick2" creationdate="20190609T171605Z">
+        <seg>体力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Voice activity</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113739Z" creationid="kakonya" creationdate="20190607T113739Z">
@@ -10921,6 +10977,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T000547Z" creationid="nick2" creationdate="20190607T235724Z">
         <seg>また、氷壁からの反射音に基づいて、大まかな周りの地形を知ることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can also use items with the inventory hotkeys or by double clicking.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T171819Z" creationid="nick2" creationdate="20190609T171819Z">
+        <seg>また、インベントリのホットキーを押すか、ダブルクリックしてアイテムを使用することもできます。</seg>
       </tuv>
     </tu>
     <tu>
