@@ -6940,8 +6940,16 @@
       <tuv lang="EN-US">
         <seg>Outputs the divided value of the received signals.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190609T194315Z" creationid="nick2" creationdate="20190609T194315Z">
-        <seg>受信信号が割られた値を出力します。</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T194453Z" creationid="nick2" creationdate="20190609T194315Z">
+        <seg>受信値を割った値を出力します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Outputs the product of the received signals.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T194435Z" creationid="nick2" creationdate="20190609T194435Z">
+        <seg>受信値を掛けた値を出力します。</seg>
       </tuv>
     </tu>
     <tu>
