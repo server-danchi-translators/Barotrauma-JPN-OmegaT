@@ -470,6 +470,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A place to stow your weapons neatly.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T202845Z" creationid="nick2" creationdate="20190609T202839Z">
+        <seg>自分の武器を安全にしまう為の場所。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A portable container for storing tools</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T044711Z" creationid="kakonya" creationdate="20190608T044711Z">
@@ -542,6 +550,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A secure vessel in which items may be stored.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T202626Z" creationid="nick2" creationdate="20190609T202626Z">
+        <seg>アイテムを格納可能な頑丈な容器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A sedative that can be used to knock someone out for a short period of time.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T162022Z" creationid="nick2" creationdate="20190608T162022Z">
@@ -570,6 +586,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T114521Z" creationid="kakonya" creationdate="20190607T114521Z">
         <seg>窓付きスライドドア。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A sliding door with integrated window.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T202921Z" creationid="nick2" creationdate="20190609T202921Z">
+        <seg>窓が付いたスライドドア。</seg>
       </tuv>
     </tu>
     <tu>
@@ -662,10 +686,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A vertically aligned docking interface.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T203016Z" creationid="nick2" creationdate="20190609T203016Z">
+        <seg>垂直方向に向いたドッキングインターフェース。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A vessel in which chemicals may be stored.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T202728Z" creationid="nick2" creationdate="20190609T202728Z">
+        <seg>化学薬品が格納可能な容器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A vessel in which explosives may be stored.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T202702Z" creationid="nick2" creationdate="20190609T202702Z">
+        <seg>爆薬を格納可能な容器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A vessel in which items may be stored.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190609T202457Z" creationid="nick2" creationdate="20190609T202457Z">
-        <seg>アイテムが格納可能な容器。</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T202629Z" creationid="nick2" creationdate="20190609T202457Z">
+        <seg>アイテムを格納可能な容器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2194,6 +2242,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Chemical Crate</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T202743Z" creationid="nick2" creationdate="20190609T202718Z">
+        <seg>化学薬品箱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Chloral Hydrate</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T161930Z" creationid="nick2" creationdate="20190608T161930Z">
@@ -3314,6 +3370,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Docking Port</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T202926Z" creationid="nick2" creationdate="20190609T202926Z">
+        <seg>ドッキングポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Docking port</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T062244Z" creationid="hiru4" creationdate="20190608T062244Z">
@@ -3866,6 +3930,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Explosive Crate</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T202648Z" creationid="nick2" creationdate="20190609T202648Z">
+        <seg>爆発物箱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Explosive Harpoon</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T231250Z" creationid="kakonya" creationdate="20190608T231250Z">
@@ -4110,6 +4182,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T112928Z" creationid="kakonya" creationdate="20190608T112928Z">
         <seg>消火器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fire Extinguisher Bracket</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T202758Z" creationid="nick2" creationdate="20190609T202758Z">
+        <seg>消火器ブラケット</seg>
       </tuv>
     </tu>
     <tu>
@@ -4578,6 +4658,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hatch</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T202923Z" creationid="nick2" creationdate="20190609T202923Z">
+        <seg>ハッチ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hatch with Buttons</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T114709Z" creationid="kakonya" creationdate="20190607T114709Z">
@@ -4758,6 +4846,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T140747Z" creationid="totochan" creationdate="20190607T140747Z">
         <seg>長押しで装備を外す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Holds a fire extinguisher to the wall.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T202817Z" creationid="nick2" creationdate="20190609T202817Z">
+        <seg>壁に消火器を掛けることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11570,6 +11666,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Weapon Holder</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T202820Z" creationid="nick2" creationdate="20190609T202820Z">
+        <seg>武器ホルダー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Weapons</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190609T020919Z" creationid="totochan" creationdate="20190609T020919Z">
@@ -11833,6 +11937,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113527Z" creationid="kakonya" creationdate="20190607T113527Z">
         <seg>ウィンドウ表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Windowed Door</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T202855Z" creationid="nick2" creationdate="20190609T202855Z">
+        <seg>窓付きドア</seg>
       </tuv>
     </tu>
     <tu>
