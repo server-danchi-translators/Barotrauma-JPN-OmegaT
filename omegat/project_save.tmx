@@ -790,6 +790,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alarm Buzzer</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T184118Z" creationid="nick2" creationdate="20190609T184118Z">
+        <seg>アラームブザー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alien</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T114410Z" creationid="kakonya" creationdate="20190607T114410Z">
@@ -1742,6 +1750,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T175218Z" creationid="nick2" creationdate="20190608T174939Z">
         <seg>ファブリケーターで精錬すると、原子炉用の燃料棒または核兵器の製造に使用することができる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Can be triggered to make a terrible noise.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T184148Z" creationid="nick2" creationdate="20190609T184148Z">
+        <seg>けたたましい音を立てるように配線することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3314,6 +3330,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Emergency Siren</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T184204Z" creationid="nick2" creationdate="20190609T184204Z">
+        <seg>非常サイレン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enable</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112821Z" creationid="kakonya" creationdate="20190607T112821Z">
@@ -4046,6 +4070,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T183610Z" creationid="kakonya" creationdate="20190608T231843Z">
         <seg>一般的な破片手榴弾。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General purpose lighting.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T184305Z" creationid="nick2" creationdate="20190609T184305Z">
+        <seg>汎用照明。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5374,6 +5406,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190609T015140Z" creationid="totochan" creationdate="20190609T015140Z">
         <seg>軽</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Light Component</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T184302Z" creationid="nick2" creationdate="20190609T184302Z">
+        <seg>ライト物資</seg>
       </tuv>
     </tu>
     <tu>
@@ -7854,6 +7894,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190609T014638Z" creationid="totochan" creationdate="20190609T014638Z">
         <seg>所要時間</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Requires no electrical input.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T184344Z" creationid="nick2" creationdate="20190609T184344Z">
+        <seg>電気入力を必要としません。</seg>
       </tuv>
     </tu>
     <tu>
