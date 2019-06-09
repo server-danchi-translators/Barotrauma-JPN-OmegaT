@@ -2844,8 +2844,8 @@
       <tuv lang="EN-US">
         <seg>Directional ping</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190609T014911Z" creationid="totochan" creationdate="20190609T014911Z">
-        <seg>指向性ping</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T170015Z" creationid="totochan" creationdate="20190609T014911Z">
+        <seg>指向性探信</seg>
       </tuv>
     </tu>
     <tu>
@@ -10713,6 +10713,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113834Z" creationid="kakonya" creationdate="20190607T113834Z">
         <seg>有効にすると、ボイスチャットメッセージは、位置にスピーカーの相対的な向きに応じてパンされています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the electrical grid is supplied more power than what is being consumed, the voltage rises, which may cause damage to electrical devices.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T170351Z" creationid="nick2" creationdate="20190609T170351Z">
+        <seg>電力グリッドに消費量よりも多くの電力が供給されると、電圧が上昇し電気装置に損傷を与える可能性があります。</seg>
       </tuv>
     </tu>
     <tu>
