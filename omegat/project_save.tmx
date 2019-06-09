@@ -654,6 +654,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Aim with {0} and fire with {1}.\n\nThey must also be loaded with ammunition.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190609T001004Z" creationid="kakonya" creationdate="20190609T001004Z">
+        <seg>{0}で狙い、{1}で砲撃してください。\n\n銃弾を装填していないといけません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Aimable lighting.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T024519Z" creationid="kakonya" creationdate="20190608T024507Z">
@@ -3586,6 +3594,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Grab some ranged weapons</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190609T000619Z" creationid="kakonya" creationdate="20190609T000619Z">
+        <seg>射撃武器をつかみます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Grabbing</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T140658Z" creationid="totochan" creationdate="20190607T140658Z">
@@ -6470,6 +6486,22 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T131609Z" creationid="nick2" creationdate="20190608T131609Z">
         <seg>ランダム選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ranged weapons</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190609T000548Z" creationid="kakonya" creationdate="20190609T000548Z">
+        <seg>射撃武器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ranged weapons work the same way as melee weapons, except their accuracy is more dependent on the character’s weapons skill.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190609T000654Z" creationid="kakonya" creationdate="20190609T000654Z">
+        <seg>遠距離武器は近接武器と同じように機能しますが、命中率キャラクターの武器スキルに大きく依存します。</seg>
       </tuv>
     </tu>
     <tu>
