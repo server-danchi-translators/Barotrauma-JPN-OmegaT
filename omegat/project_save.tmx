@@ -5722,6 +5722,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Otherwise the supercapacitor may not be able to keep up.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190609T000518Z" creationid="kakonya" creationdate="20190609T000518Z">
+        <seg>さもなければスーパーキャパシターが間に合わないかもしれません。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Outpost</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T061638Z" creationid="hiru4" creationdate="20190608T061638Z">
@@ -8418,6 +8426,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To stop aiming, press {2}.\n\nThe gun uses a lot of power, so firing conservatively is key.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190609T000441Z" creationid="kakonya" creationdate="20190609T000441Z">
+        <seg>照準を止めるには、{2}を押してください。\n\n銃は大量の電力を消費するので、控えめに発砲することが重要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To unequip the fire extinguisher, drag it away from the inventory and release the mouse button.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T013211Z" creationid="kakonya" creationdate="20190608T013211Z">
@@ -9336,6 +9352,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T011309Z" creationid="nick2" creationdate="20190608T011309Z">
         <seg>遺跡や洞窟を探検する時は、出口までの目印を作るためにできるだけ頻繁にフレアを残しましょう。何らかの理由で急いで脱出しなければならないかもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>While on the periscope, aim with the mouse and fire by pressing {1}.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190609T000324Z" creationid="kakonya" creationdate="20190609T000324Z">
+        <seg>潜望鏡を除いでいる間、マウスで狙いを定め {1}を押して発射します。</seg>
       </tuv>
     </tu>
     <tu>
