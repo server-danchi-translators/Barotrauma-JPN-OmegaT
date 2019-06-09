@@ -1482,6 +1482,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bled out</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Rasiel" changedate="20190609T021858Z" creationid="Rasiel" creationdate="20190609T021858Z">
+        <seg>失血死</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bled to death.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T231845Z" creationid="kakonya" creationdate="20190607T122257Z">
