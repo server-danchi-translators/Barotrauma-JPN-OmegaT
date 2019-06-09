@@ -1778,6 +1778,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Check up on everybody while we get the vessel ready for transit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190609T003227Z" creationid="kakonya" creationdate="20190609T003227Z">
+        <seg>私達が輸送の準備ができている間、みんなで調べてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Chloral Hydrate</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T161930Z" creationid="nick2" creationdate="20190608T161930Z">
@@ -3170,6 +3178,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Everyone’s here.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190609T003155Z" creationid="kakonya" creationdate="20190609T003155Z">
+        <seg>全員揃いました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Expires [time]</seg>
       </tuv>
       <tuv lang="JA" changeid="spears" changedate="20190608T101042Z" creationid="spears" creationdate="20190608T101042Z">
@@ -3342,6 +3358,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T234944Z" creationid="kakonya" creationdate="20190607T234944Z">
         <seg>リストから選択し、ファブリケーターに資材をセットして、製作を開始します。\n\n製作品はファブリケーターの出力スロットに表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find medical supplies</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190609T003238Z" creationid="kakonya" creationdate="20190609T003238Z">
+        <seg>医療備品を探します</seg>
       </tuv>
     </tu>
     <tu>
@@ -3998,6 +4022,14 @@
       </tuv>
       <tuv lang="JA" changeid="spears" changedate="20190608T101559Z" creationid="spears" creationdate="20190608T101506Z">
         <seg>現在ドクターの診察を必要とする人がいるとは思いません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I guess that’ll do.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190609T003111Z" creationid="kakonya" creationdate="20190609T003111Z">
+        <seg>すぐにできると思います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4858,6 +4890,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Make your way to the sub; it’s too dangerous to stay here.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190609T003137Z" creationid="kakonya" creationdate="20190609T003118Z">
+        <seg>潜水艦にあなたのルールを作ります。ここにいるのは危険すぎます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Makes electrical repairs and rewiring possible.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T112946Z" creationid="kakonya" creationdate="20190608T112946Z">
@@ -5062,6 +5102,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T175607Z" creationid="nick2" creationdate="20190608T175607Z">
         <seg>医療ファブリケーターにてナトリウムと塩化物を調合することで生理食塩水を作ることができる。生理食塩水は失血の治療に使えるほか、より複雑な薬剤のための原料として使用することができる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Medical interface</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190609T003244Z" creationid="kakonya" creationdate="20190609T003244Z">
+        <seg>医療インターフェース</seg>
       </tuv>
     </tu>
     <tu>
@@ -5766,6 +5814,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113538Z" creationid="kakonya" creationdate="20190607T113538Z">
         <seg>オペーク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open medical interface</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190609T003300Z" creationid="kakonya" creationdate="20190609T003300Z">
+        <seg>医療インターフェースを開く</seg>
       </tuv>
     </tu>
     <tu>
