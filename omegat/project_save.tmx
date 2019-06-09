@@ -3202,6 +3202,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Experiment with other commands during gameplay!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190609T011302Z" creationid="kakonya" creationdate="20190609T011302Z">
+        <seg>ゲームプレイ中に他のコマンドを試してください！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Expires [time]</seg>
       </tuv>
       <tuv lang="JA" changeid="spears" changedate="20190608T101042Z" creationid="spears" creationdate="20190608T101042Z">
@@ -8254,6 +8262,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T011549Z" creationid="nick2" creationdate="20190608T011549Z">
         <seg>ムカデのような見た目のウォッチャーは、一般的にはおとなしいですがいざという時は攻撃されるかもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The character will now follow you until dismissed by clicking on the button again.\n\n“Follow” command is only one of many commands you can give to other characters.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190609T011124Z" creationid="kakonya" creationdate="20190609T011124Z">
+        <seg>ボタンをもう一度クリックして解除されるまで、キャラクターはあなたをフォローします。\n\n「フォロー」コマンドは、他のキャラクターに指示できるコマンドの1つにすぎません。</seg>
       </tuv>
     </tu>
     <tu>
