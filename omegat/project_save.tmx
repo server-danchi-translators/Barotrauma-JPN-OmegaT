@@ -184,8 +184,8 @@
       <tuv lang="EN-US">
         <seg>A highly elastic, naturally occurring protein.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190609T201039Z" creationid="nick2" creationdate="20190609T201039Z">
-        <seg>自然に存在する高弾性のタンパク質。</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T201106Z" creationid="nick2" creationdate="20190609T201039Z">
+        <seg>自然発生する高弾性のタンパク質。</seg>
       </tuv>
     </tu>
     <tu>
@@ -442,6 +442,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T171446Z" creationid="nick2" creationdate="20190608T171446Z">
         <seg>主に鉛からなる鉱物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A naturally occurring hormone.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T201051Z" creationid="nick2" creationdate="20190609T201051Z">
+        <seg>自然発生するホルモン。</seg>
       </tuv>
     </tu>
     <tu>
@@ -714,6 +722,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T015559Z" creationid="nick2" creationdate="20190608T015559Z">
         <seg>十分な医学的知識なしに薬を投与すると、一つの注射器が提供できる用量の数が減り、さらに薬物の効果の品質を低下させる可能性もあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adrenaline</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T201041Z" creationid="nick2" creationdate="20190609T201041Z">
+        <seg>アドレナリン</seg>
       </tuv>
     </tu>
     <tu>
@@ -5970,6 +5986,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Many Europan lifeforms have a swim bladder containing tissue fluids that can be easily processed into stabilozine and saline.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T201515Z" creationid="nick2" creationdate="20190609T201515Z">
+        <seg>多くのエウロパ生命体はうきぶくろを有し、その組織液は比較的容易にスタビロジンや生理食塩水に加工することができる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Many creatures on Europa are protected by a strong shell, and are difficult to damage with conventional weapons, though there may be weak points in their armor.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T013256Z" creationid="nick2" creationdate="20190608T013256Z">
@@ -9678,6 +9702,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T105202Z" creationid="kakonya" creationdate="20190607T105202Z">
         <seg>スウォーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Swim Bladder</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T201155Z" creationid="nick2" creationdate="20190609T201155Z">
+        <seg>うきぶくろ</seg>
       </tuv>
     </tu>
     <tu>
