@@ -2098,6 +2098,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Could not find any servers.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190609T012535Z" creationid="kakonya" creationdate="20190609T012535Z">
+        <seg>すべてのサーバーが見つかりませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Could not install the file '[filename]'.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113023Z" creationid="kakonya" creationdate="20190607T113023Z">
@@ -3370,6 +3378,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Filter servers</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190609T012454Z" creationid="kakonya" creationdate="20190609T012454Z">
+        <seg>サーバーフィルター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Find ammunition for the coilguns and load them.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190609T001842Z" creationid="kakonya" creationdate="20190609T001842Z">
@@ -3902,6 +3918,30 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T061207Z" creationid="hiru4" creationdate="20190608T061207Z">
         <seg>彼女自身</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hide empty servers</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190609T012525Z" creationid="kakonya" creationdate="20190609T012525Z">
+        <seg>空のサーバーを隠します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hide full servers</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190609T012519Z" creationid="kakonya" creationdate="20190609T012519Z">
+        <seg>満員のサーバを隠します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hide incompatible servers</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190609T012503Z" creationid="kakonya" creationdate="20190609T012503Z">
+        <seg>互換性のないサーバを非表示にします</seg>
       </tuv>
     </tu>
     <tu>
@@ -5706,6 +5746,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No matching servers found.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190609T012528Z" creationid="kakonya" creationdate="20190609T012528Z">
+        <seg>一致するサーバが見つかりませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No mission</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T061743Z" creationid="hiru4" creationdate="20190608T061743Z">
@@ -5718,6 +5766,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T061733Z" creationid="hiru4" creationdate="20190608T061733Z">
         <seg>雇用できません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No password required</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190609T012500Z" creationid="kakonya" creationdate="20190609T012500Z">
+        <seg>パスワード無し</seg>
       </tuv>
     </tu>
     <tu>
@@ -6854,6 +6910,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113727Z" creationid="kakonya" creationdate="20190607T113727Z">
         <seg>ボイスチャット用に使用される入力デバイスを更新します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Refreshing server list...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190609T012532Z" creationid="kakonya" creationdate="20190609T012532Z">
+        <seg>サーバーのリストを更新...</seg>
       </tuv>
     </tu>
     <tu>
