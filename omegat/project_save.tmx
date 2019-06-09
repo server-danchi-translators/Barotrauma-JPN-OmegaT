@@ -1118,6 +1118,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alien Light Component</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T212659Z" creationid="nick2" creationdate="20190609T212659Z">
+        <seg>エイリアン光物質</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alien Motion Sensor</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T212007Z" creationid="nick2" creationdate="20190609T212007Z">
@@ -3995,6 +4003,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Emits light; used in alien ruins.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T212718Z" creationid="nick2" creationdate="20190609T212718Z">
+        <seg>光を発します。エイリアンの遺跡で使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enable</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112821Z" creationid="kakonya" creationdate="20190607T112821Z">
@@ -6075,6 +6091,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Large Alien Chest</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T212636Z" creationid="nick2" creationdate="20190609T212636Z">
+        <seg>大きなエイリアンチェスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Large Diving Suit Locker</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T202326Z" creationid="nick2" creationdate="20190609T202326Z">
@@ -6095,6 +6119,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T060950Z" creationid="hiru4" creationdate="20190608T060950Z">
         <seg>大型スチールキャビネット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Large alien item container.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T212638Z" creationid="nick2" creationdate="20190609T212638Z">
+        <seg>大きなエイリアンアイテムコンテナ。</seg>
       </tuv>
     </tu>
     <tu>
