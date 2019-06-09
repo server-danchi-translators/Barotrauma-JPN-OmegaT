@@ -3026,6 +3026,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Divide Component</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T194213Z" creationid="nick2" creationdate="20190609T194213Z">
+        <seg>除算回路</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Diving Knife</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T232519Z" creationid="kakonya" creationdate="20190608T232519Z">
@@ -6386,6 +6394,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Multiply Component</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T194325Z" creationid="nick2" creationdate="20190609T194325Z">
+        <seg>乗算回路</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Music volume</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113620Z" creationid="kakonya" creationdate="20190607T113620Z">
@@ -6918,6 +6934,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T192702Z" creationid="nick2" creationdate="20190609T192702Z">
         <seg>他の部品から更新することができる保存された値を出力します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Outputs the divided value of the received signals.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T194315Z" creationid="nick2" creationdate="20190609T194315Z">
+        <seg>受信信号が割られた値を出力します。</seg>
       </tuv>
     </tu>
     <tu>
