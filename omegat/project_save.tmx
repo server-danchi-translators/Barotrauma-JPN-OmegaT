@@ -662,6 +662,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A way to neatly stow coilgun ammunition.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T201713Z" creationid="nick2" creationdate="20190609T201713Z">
+        <seg>コイルガンの弾薬を効率よく積み込むための方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A way to neatly stow railgun shells.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T201644Z" creationid="nick2" creationdate="20190609T201644Z">
+        <seg>レールガンの弾薬を効率よく積み込むための方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AUTOPILOT ON\nAutopilot is set to navigate towards [locationname].</seg>
       </tuv>
       <tuv lang="JA" changeid="Rasiel" changedate="20190609T021440Z" creationid="Rasiel" creationdate="20190609T020554Z">
@@ -730,6 +746,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T201041Z" creationid="nick2" creationdate="20190609T201041Z">
         <seg>アドレナリン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adrenaline Gland</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T201532Z" creationid="nick2" creationdate="20190609T201532Z">
+        <seg>アドレナリン腺</seg>
       </tuv>
     </tu>
     <tu>
@@ -1070,6 +1094,22 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T162411Z" creationid="nick2" creationdate="20190608T162411Z">
         <seg>非常に強力な筋肉興奮剤。急がなきゃいけない状況にオススメ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An old acoustic guitar.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T201543Z" creationid="nick2" creationdate="20190609T201543Z">
+        <seg>古いアコースティックギター。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An old handmade harmonica.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T201555Z" creationid="nick2" creationdate="20190609T201555Z">
+        <seg>古い手作りハーモニカ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2234,6 +2274,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Coilgun Ammunition Shelf</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T201657Z" creationid="nick2" creationdate="20190609T201657Z">
+        <seg>コイルガンの弾薬収納庫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Coilgun Loader</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T024755Z" creationid="kakonya" creationdate="20190608T024755Z">
@@ -2372,8 +2420,8 @@
       <tuv lang="EN-US">
         <seg>Contains large amounts of adrenaline, which can be extracted using a deconstructor.</seg>
       </tuv>
-      <tuv lang="JA" changeid="kakonya" changedate="20190607T104956Z" creationid="kakonya" creationdate="20190607T104956Z">
-        <seg>デコンストラクタを使用して抽出できます。アドレナリンを大量に含まれています。</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T201539Z" creationid="kakonya" creationdate="20190607T104956Z">
+        <seg>デコンストラクタを使用して抽出できます。アドレナリンが大量に含まれています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4410,6 +4458,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Guitar</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T201540Z" creationid="nick2" creationdate="20190609T201540Z">
+        <seg>ギター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>HONK!</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190609T013759Z" creationid="totochan" creationdate="20190609T013759Z">
@@ -4470,6 +4526,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T140825Z" creationid="totochan" creationdate="20190607T140825Z">
         <seg>手</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Harmonica</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T201544Z" creationid="nick2" creationdate="20190609T201544Z">
+        <seg>ハーモニカ</seg>
       </tuv>
     </tu>
     <tu>
@@ -6118,6 +6182,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190609T003244Z" creationid="kakonya" creationdate="20190609T003244Z">
         <seg>医療インターフェース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Medicine Cabinet</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T201717Z" creationid="nick2" creationdate="20190609T201717Z">
+        <seg>薬箱</seg>
       </tuv>
     </tu>
     <tu>
@@ -9418,6 +9490,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Stow meds here.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T201736Z" creationid="nick2" creationdate="20190609T201736Z">
+        <seg>ここにクスリをしまおう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stow poisons here.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T201757Z" creationid="nick2" creationdate="20190609T201757Z">
+        <seg>ここに毒をしまおう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Stowage compartment</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T062137Z" creationid="hiru4" creationdate="20190608T062137Z">
@@ -10558,6 +10646,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190609T015210Z" creationid="totochan" creationdate="20190607T140838Z">
         <seg>体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Toxin Cabinet</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T201743Z" creationid="nick2" creationdate="20190609T201743Z">
+        <seg>毒箱</seg>
       </tuv>
     </tu>
     <tu>
