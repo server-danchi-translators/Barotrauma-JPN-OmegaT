@@ -6010,6 +6010,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Memory Component</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T192412Z" creationid="nick2" creationdate="20190609T192412Z">
+        <seg>メモリ部品</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mental disorders such as psychosis are unfortunately common among submarine crews, particularly after ruin expeditions.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T014846Z" creationid="nick2" creationdate="20190608T014846Z">
@@ -6906,6 +6914,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Outputs a stored value that can be updated from other sources.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T192702Z" creationid="nick2" creationdate="20190609T192702Z">
+        <seg>他の部品から更新することができる保存された値を出力します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Outstanding.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T234108Z" creationid="kakonya" creationdate="20190608T234108Z">
@@ -6932,8 +6948,8 @@
       <tuv lang="EN-US">
         <seg>Oxygen Detector</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190609T192238Z" creationid="nick2" creationdate="20190609T192238Z">
-        <seg>酸素検出器</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T192332Z" creationid="nick2" creationdate="20190609T192238Z">
+        <seg>酸素検知器</seg>
       </tuv>
     </tu>
     <tu>
@@ -8526,6 +8542,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T192234Z" creationid="nick2" creationdate="20190609T192234Z">
         <seg>検出器が水没した場合信号を送信します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sends out a value between 0-100 depending on the quality of the surrounding air.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T192408Z" creationid="nick2" creationdate="20190609T192408Z">
+        <seg>周囲の空気の質に応じて、0~100の間の値を送信します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10626,6 +10650,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use the signal_in connection to set the stored value, and the signal_store input to toggle whether the received signals should be stored.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T193007Z" creationid="nick2" creationdate="20190609T193007Z">
+        <seg>signal_in接続を使用し値を格納、signal_store信号を使用し接続された値が格納されるべきかどうかを切り替えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use very carefully.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T232329Z" creationid="kakonya" creationdate="20190608T232329Z">
@@ -10972,8 +11004,8 @@
       <tuv lang="EN-US">
         <seg>Water Detector</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190609T192143Z" creationid="nick2" creationdate="20190609T192143Z">
-        <seg>水検出器</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T192327Z" creationid="nick2" creationdate="20190609T192143Z">
+        <seg>水検知器</seg>
       </tuv>
     </tu>
     <tu>
