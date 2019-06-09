@@ -678,6 +678,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Adder Component</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T195641Z" creationid="nick2" creationdate="20190609T195641Z">
+        <seg>加算回路</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Additional Cargo</seg>
       </tuv>
       <tuv lang="JA" changeid="spears" changedate="20190608T100820Z" creationid="spears" creationdate="20190608T100820Z">
@@ -1054,6 +1062,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T162819Z" creationid="nick2" creationdate="20190608T162819Z">
         <seg>アナボリックステロイド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>And Component</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T195723Z" creationid="nick2" creationdate="20190609T195723Z">
+        <seg>AND回路</seg>
       </tuv>
     </tu>
     <tu>
@@ -3814,6 +3830,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T060737Z" creationid="hiru4" creationdate="20190608T060737Z">
         <seg>植物繊維</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Field-programmable gate array—a multipurpose circuit that can be reconfigured for use in a large variety of electrical devices.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T200153Z" creationid="nick2" creationdate="20190609T200153Z">
+        <seg>現地プログラム型ゲート配列 — 様々な電子機器に対応するために再設定が可能な多目的回路。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7026,6 +7050,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Outputs the sum of the received signals.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T195716Z" creationid="nick2" creationdate="20190609T195716Z">
+        <seg>受信値を足した値を出力します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Outstanding.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T234108Z" creationid="kakonya" creationdate="20190608T234108Z">
@@ -8612,16 +8644,16 @@
       <tuv lang="EN-US">
         <seg>Sends a signal if either of the inputs receives a signal.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190609T195505Z" creationid="nick2" creationdate="20190609T195505Z">
-        <seg>いずれかの入力が信号を受信したとき、信号を送信します。</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T195538Z" creationid="nick2" creationdate="20190609T195505Z">
+        <seg>いずれかの入力が信号を受信したとき、信号を出力します。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Sends a signal if either of the inputs, but not both, receives a signal.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190609T194158Z" creationid="nick2" creationdate="20190609T193110Z">
-        <seg>片方の入力が信号を受信し、かつ両方が受信していない場合のみ信号を受信します。</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T195532Z" creationid="nick2" creationdate="20190609T193110Z">
+        <seg>片方の入力が信号を受信し、かつ両方が受信していない場合のみ信号を出力します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8636,8 +8668,8 @@
       <tuv lang="EN-US">
         <seg>Sends a signal if the value the signal_in1 input is larger than the signal_in2 input.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190609T194853Z" creationid="nick2" creationdate="20190609T194853Z">
-        <seg>signal_in1入力値がsignal_in2入力値よりも大きい場合に信号を送ります。</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T195612Z" creationid="nick2" creationdate="20190609T194853Z">
+        <seg>signal_in1入力値がsignal_in2入力値よりも大きい場合に信号を出力します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8650,18 +8682,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sends a signal when both inputs receive a signal within a set period of each other.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T195823Z" creationid="nick2" creationdate="20190609T195823Z">
+        <seg>特定の期間内に両方の入力が受信したときのみ信号を出力します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sends a signal when both inputs receive the same signal.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190609T194937Z" creationid="nick2" creationdate="20190609T194937Z">
-        <seg>両方の入力値が同じ場合に信号を送ります。</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T195559Z" creationid="nick2" creationdate="20190609T194937Z">
+        <seg>両方の入力値が同じ場合に信号を出力します。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Sends a signal when the input is NOT receiving a signal.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190609T195400Z" creationid="nick2" creationdate="20190609T195400Z">
-        <seg>入力を受信していないときのみ信号を送信します。</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T195548Z" creationid="nick2" creationdate="20190609T195400Z">
+        <seg>入力を受信していないときのみ信号を出力します。</seg>
       </tuv>
     </tu>
     <tu>
