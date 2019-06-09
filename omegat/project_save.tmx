@@ -3594,6 +3594,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Get them to follow you while you go find some.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190609T003023Z" creationid="kakonya" creationdate="20190609T003023Z">
+        <seg>包帯を探しに行く間、あなたに従うように言いましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Get your ass up!</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T015705Z" creationid="kakonya" creationdate="20190608T015705Z">
@@ -8450,6 +8458,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>They’ve got a nasty burn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190609T002820Z" creationid="kakonya" creationdate="20190609T002820Z">
+        <seg>やけどで重傷です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This Workshop item is not compatible with your version of Barotrauma.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190608T055328Z" creationid="kakonya" creationdate="20190607T113040Z">
@@ -9728,6 +9744,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T041723Z" creationid="nick2" creationdate="20190608T041723Z">
         <seg>そのエージェントが誰かはわかりませんが、連絡の方法はあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You don’t have any bandages with you, do you?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190609T002841Z" creationid="kakonya" creationdate="20190609T002841Z">
+        <seg>包帯を持っていませんか？</seg>
       </tuv>
     </tu>
     <tu>
