@@ -5346,6 +5346,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mudraptors are bigger, meaner and more armored than crawlers.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190609T001709Z" creationid="kakonya" creationdate="20190609T001709Z">
+        <seg>zマッドラプターは、クローラーよりも大きくて、賢くて、装甲が厚いです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Multiplayer</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T101321Z" creationid="totochan" creationdate="20190607T101321Z">
