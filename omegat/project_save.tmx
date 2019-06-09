@@ -3450,6 +3450,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>First aid can be administered to other characters, too.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190609T012403Z" creationid="kakonya" creationdate="20190609T012403Z">
+        <seg>応急処置は他のキャラクターにも行うことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fission rate</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T111415Z" creationid="kakonya" creationdate="20190607T111415Z">
@@ -8902,6 +8910,22 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T032959Z" creationid="nick2" creationdate="20190608T032959Z">
         <seg>いわゆる"熱水廃棄物"を横断する時は、特別な注意が必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Treat burns</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190609T011317Z" creationid="kakonya" creationdate="20190609T011317Z">
+        <seg>火傷の治療</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Treat crew member’s injuries</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190609T011322Z" creationid="kakonya" creationdate="20190609T011322Z">
+        <seg>乗組員の負傷を治療</seg>
       </tuv>
     </tu>
     <tu>
