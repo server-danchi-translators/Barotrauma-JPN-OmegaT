@@ -6314,6 +6314,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Motion Detector</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T192306Z" creationid="nick2" creationdate="20190609T191917Z">
+        <seg>動体検知器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Move by pressing {0}, {1}, {2}, {3} buttons.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T055623Z" creationid="kakonya" creationdate="20190607T055623Z">
@@ -6918,6 +6926,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190609T015102Z" creationid="totochan" creationdate="20190609T015102Z">
         <seg>過電圧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Oxygen Detector</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T192238Z" creationid="nick2" creationdate="20190609T192238Z">
+        <seg>酸素検出器</seg>
       </tuv>
     </tu>
     <tu>
@@ -8474,10 +8490,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sends a signal when a signal matching a specific value is received.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T191904Z" creationid="nick2" creationdate="20190609T191904Z">
+        <seg>特定値と一致する信号が受信された場合に信号を送信します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sends out a periodic, oscillating signal.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190609T191346Z" creationid="nick2" creationdate="20190609T191333Z">
-        <seg>定期的に発振信号を送出します。</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T192004Z" creationid="nick2" creationdate="20190609T191333Z">
+        <seg>定期的に発振信号を送信します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sends out a signal when it detects movement.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T191955Z" creationid="nick2" creationdate="20190609T191955Z">
+        <seg>動きを検出するたび信号を送信します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sends out a signal when it senses smoke.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T192105Z" creationid="nick2" creationdate="20190609T192105Z">
+        <seg>煙を感知し信号を送信します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sends out a signal when the detector is submerged.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T192234Z" creationid="nick2" creationdate="20190609T192234Z">
+        <seg>検出器が水没した場合信号を送信します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8684,8 +8732,8 @@
       <tuv lang="EN-US">
         <seg>Signal Check Component</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190609T191824Z" creationid="nick2" creationdate="20190609T191824Z">
-        <seg>信号確認器</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T192319Z" creationid="nick2" creationdate="20190609T191824Z">
+        <seg>信号チェッカー</seg>
       </tuv>
     </tu>
     <tu>
@@ -8766,6 +8814,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T053804Z" creationid="kakonya" creationdate="20190608T053717Z">
         <seg>持ち運び可能なサイズのマスク。本格的な事故の場合には水圧から保護されません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Smoke Detector</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T192113Z" creationid="nick2" creationdate="20190609T192009Z">
+        <seg>煙感知器</seg>
       </tuv>
     </tu>
     <tu>
@@ -10910,6 +10966,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T044917Z" creationid="kakonya" creationdate="20190608T044917Z">
         <seg>警備員の服</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Water Detector</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T192143Z" creationid="nick2" creationdate="20190609T192143Z">
+        <seg>水検出器</seg>
       </tuv>
     </tu>
     <tu>
