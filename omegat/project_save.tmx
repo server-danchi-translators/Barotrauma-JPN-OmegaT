@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A diving suit locker with one dive-ready suit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T202322Z" creationid="nick2" creationdate="20190609T202322Z">
+        <seg>一人分の潜水準備完了スーツがしまってある潜水具ロッカー。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A diving suit protects the wearer from high pressure.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T013405Z" creationid="kakonya" creationdate="20190608T013405Z">
@@ -650,6 +658,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190609T002106Z" creationid="kakonya" creationdate="20190609T002106Z">
         <seg>通常はスーパーキャパシタの充電を50%にしておけば、モンスターの遭遇にあっても大丈夫でしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A vessel in which items may be stored.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T202457Z" creationid="nick2" creationdate="20190609T202457Z">
+        <seg>アイテムが格納可能な容器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3186,6 +3202,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Diving Suit Locker</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T202151Z" creationid="nick2" creationdate="20190609T202151Z">
+        <seg>潜水具ロッカー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Diving masks let you breathe underwater, but don't offer any protection against the bone-crushing pressure outside the submarine.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T032928Z" creationid="nick2" creationdate="20190608T032928Z">
@@ -5514,6 +5538,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Large Diving Suit Locker</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T202326Z" creationid="nick2" creationdate="20190609T202326Z">
+        <seg>大型の潜水具ロッカー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Large Engine</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T114856Z" creationid="kakonya" creationdate="20190607T114856Z">
@@ -6250,6 +6282,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Metal Crate</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T202450Z" creationid="nick2" creationdate="20190609T202450Z">
+        <seg>金属箱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Methamphetamine</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T162847Z" creationid="nick2" creationdate="20190608T162847Z">
@@ -6702,6 +6742,22 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T114817Z" creationid="kakonya" creationdate="20190607T114817Z">
         <seg>ナビゲーションターミナル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Neatly stores multiple diving suits.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T202342Z" creationid="nick2" creationdate="20190609T202342Z">
+        <seg>複数の潜水具を効率よく格納。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Neatly stores multiple oxygen tanks.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T202354Z" creationid="nick2" creationdate="20190609T202354Z">
+        <seg>複数の酸素ボンベを効率よく格納。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7262,6 +7318,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T114419Z" creationid="kakonya" creationdate="20190607T114419Z">
         <seg>酸素ボンベ（空）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Oxygen Tank Shelf</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T202345Z" creationid="nick2" creationdate="20190609T202345Z">
+        <seg>酸素ボンベ収納庫</seg>
       </tuv>
     </tu>
     <tu>
@@ -8730,6 +8794,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Secure Metal Crate</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T202611Z" creationid="nick2" creationdate="20190609T202611Z">
+        <seg>頑丈な金属箱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Secure Steel Cabinet</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T060956Z" creationid="hiru4" creationdate="20190608T060956Z">
@@ -9492,8 +9564,8 @@
       <tuv lang="EN-US">
         <seg>Stow meds here.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190609T201736Z" creationid="nick2" creationdate="20190609T201736Z">
-        <seg>ここにクスリをしまおう。</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T202157Z" creationid="nick2" creationdate="20190609T201736Z">
+        <seg>ここにおクスリをしまおう。</seg>
       </tuv>
     </tu>
     <tu>
