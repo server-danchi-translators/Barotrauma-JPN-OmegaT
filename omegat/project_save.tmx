@@ -2210,6 +2210,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Color Component</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T194655Z" creationid="nick2" creationdate="20190609T194638Z">
+        <seg>カラー回路</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Combat</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T105135Z" creationid="kakonya" creationdate="20190607T105135Z">
@@ -2790,6 +2798,22 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T104910Z" creationid="kakonya" creationdate="20190607T104910Z">
         <seg>デコンストラクタ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delay Component</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T194952Z" creationid="nick2" creationdate="20190609T194952Z">
+        <seg>遅延回路</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delays all received signals for a specific amount of time.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T195051Z" creationid="nick2" creationdate="20190609T195051Z">
+        <seg>全ての入力を特定の量だけ遅延させます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3562,6 +3586,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Equals Component</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T194902Z" creationid="nick2" creationdate="20190609T194902Z">
+        <seg>イコール回路</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Equip</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T140721Z" creationid="totochan" creationdate="20190607T140721Z">
@@ -4278,6 +4310,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T171153Z" creationid="nick2" creationdate="20190608T171153Z">
         <seg>黒鉛</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Greater Component</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T194807Z" creationid="nick2" creationdate="20190609T194807Z">
+        <seg>大なり回路</seg>
       </tuv>
     </tu>
     <tu>
@@ -6930,6 +6970,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Outputs a combined color signal for light control.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T194709Z" creationid="nick2" creationdate="20190609T194709Z">
+        <seg>光制御のための合成色信号を出力します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Outputs a stored value that can be updated from other sources.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T192702Z" creationid="nick2" creationdate="20190609T192702Z">
@@ -6950,6 +6998,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T194435Z" creationid="nick2" creationdate="20190609T194435Z">
         <seg>受信値を掛けた値を出力します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Outputs the subtracted value of the received signals.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T194635Z" creationid="nick2" creationdate="20190609T194635Z">
+        <seg>受信値を引いた値を出力します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8546,10 +8602,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sends a signal if the value the signal_in1 input is larger than the signal_in2 input.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T194853Z" creationid="nick2" creationdate="20190609T194853Z">
+        <seg>signal_in1入力値がsignal_in2入力値よりも大きい場合に信号を送ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sends a signal when a signal matching a specific value is received.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T191904Z" creationid="nick2" creationdate="20190609T191904Z">
         <seg>特定値と一致する信号が受信された場合に信号を送信します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sends a signal when both inputs receive the same signal.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T194937Z" creationid="nick2" creationdate="20190609T194937Z">
+        <seg>両方の入力値が同じ場合に信号を送ります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9342,6 +9414,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T050739Z" creationid="hiru4" creationdate="20190608T050739Z">
         <seg>ダウンロード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Subtract Component</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T194618Z" creationid="nick2" creationdate="20190609T194618Z">
+        <seg>減算回路</seg>
       </tuv>
     </tu>
     <tu>
