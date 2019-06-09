@@ -4684,8 +4684,8 @@
       <tuv lang="EN-US">
         <seg>In passive mode, the sonar only listens to sources of sound and sounds reflected from nearby obstacles without actively sending out pings.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190609T165511Z" creationid="totochan" creationdate="20190609T015046Z">
-        <seg>パッシブモードでは、ソナーは音波を能動的に送信せずに、近くの障害物から反射される音と音のソースのみを聞く。</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T165631Z" creationid="totochan" creationdate="20190609T015046Z">
+        <seg>パッシブモードでは、ソナーは探信音を能動的に送信せずに、近くの障害物から反射される音と音のソースのみを聞く。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9340,8 +9340,8 @@
       <tuv lang="EN-US">
         <seg>The pings may also be heard by hostile creatures or enemy submarines.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190609T165316Z" creationid="totochan" creationdate="20190609T015006Z">
-        <seg>探信音は敵対的な生き物や敵の潜水艦によって聞かれることがあります。</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T165517Z" creationid="totochan" creationdate="20190609T015006Z">
+        <seg>音波は敵対的な生き物や敵の潜水艦によって聞かれることがあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10673,11 +10673,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>ググったところ、ソナーの"ping"という単語は「探信音」「音波」という日本語訳が多いので、とりあえずそれで統一してみます。</note>
       <tuv lang="EN-US">
         <seg>When active sonar is on, the transponders send out pings that reflect from nearby obstacles.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190609T165309Z" creationid="nick2" creationdate="20190609T165309Z">
-        <seg>アクティブソナーがオンの場合、トランスポンダは近くの障害物に反射する探信音を送信します。</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T165554Z" creationid="nick2" creationdate="20190609T165309Z">
+        <seg>アクティブソナーがオンの場合、トランスポンダは近くの障害物に反射する探信音波を送信します。</seg>
       </tuv>
     </tu>
     <tu>
