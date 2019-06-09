@@ -630,6 +630,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>AUTOPILOT ON\nMaintaining position.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190609T014857Z" creationid="totochan" creationdate="20190609T014823Z">
+        <seg>自動操縦で\n停止位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Active Sonar</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190609T014907Z" creationid="totochan" creationdate="20190609T014907Z">
+        <seg>アクティブソナー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add files...</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112952Z" creationid="kakonya" creationdate="20190607T112952Z">
@@ -1890,6 +1906,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choose the position to maintain by clicking on the display.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190609T014850Z" creationid="totochan" creationdate="20190609T014850Z">
+        <seg>ディスプレイをクリックして、停止位置を選択してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Chromatic aberration</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113546Z" creationid="kakonya" creationdate="20190607T113546Z">
@@ -2038,6 +2062,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T230757Z" creationid="kakonya" creationdate="20190608T230757Z">
         <seg>化合物N</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Condition</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190609T014647Z" creationid="totochan" creationdate="20190609T014641Z">
+        <seg>状態</seg>
       </tuv>
     </tu>
     <tu>
@@ -2594,6 +2626,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Depth: [m] m</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190609T014746Z" creationid="totochan" creationdate="20190609T014746Z">
+        <seg>深度: [m] m</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Descent velocity: [kph] km/h</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190609T014744Z" creationid="totochan" creationdate="20190609T014744Z">
+        <seg>潜航速度: [kph] km/h</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Description</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112841Z" creationid="kakonya" creationdate="20190607T112841Z">
@@ -2654,6 +2702,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T163029Z" creationid="nick2" creationdate="20190608T162706Z">
         <seg>青酸中毒で死亡しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Directional ping</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190609T014911Z" creationid="totochan" creationdate="20190609T014911Z">
+        <seg>指向性ping</seg>
       </tuv>
     </tu>
     <tu>
@@ -4498,6 +4554,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Input</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190609T014727Z" creationid="totochan" creationdate="20190609T014727Z">
+        <seg>入力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Insufficient power</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190609T014739Z" creationid="totochan" creationdate="20190609T014739Z">
+        <seg>電力不足</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Insufficient skills to fabricate</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190609T014715Z" creationid="totochan" creationdate="20190609T014715Z">
+        <seg>製造するのに不十分なスキル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Interact with items and devices with {4} button.\n\nOpen this door by pressing {5} while your cursor is over it.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T055925Z" creationid="kakonya" creationdate="20190607T055925Z">
@@ -5930,6 +6010,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No signal</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190609T014930Z" creationid="totochan" creationdate="20190609T014930Z">
+        <seg>ノーシグナル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No to All</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T140903Z" creationid="totochan" creationdate="20190607T140903Z">
@@ -6170,6 +6258,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Output</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190609T014729Z" creationid="totochan" creationdate="20190609T014729Z">
+        <seg>出力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Output High</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T111519Z" creationid="kakonya" creationdate="20190607T111519Z">
@@ -6270,6 +6366,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113534Z" creationid="kakonya" creationdate="20190607T113534Z">
         <seg>粒子の制限</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Passive Sonar</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190609T014908Z" creationid="totochan" creationdate="20190609T014908Z">
+        <seg>パッシブソナー</seg>
       </tuv>
     </tu>
     <tu>
@@ -7178,6 +7282,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Required time</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190609T014638Z" creationid="totochan" creationdate="20190609T014638Z">
+        <seg>所要時間</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Requires very large surges of power (usually supplied by supercapacitors) and has a low rate of fire, and as such it's most often used against large and heavily armored targets.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T025526Z" creationid="kakonya" creationdate="20190608T025526Z">
@@ -7810,6 +7922,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Signal weak</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190609T014913Z" creationid="totochan" creationdate="20190609T014913Z">
+        <seg>弱い信号</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Silicon</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T174945Z" creationid="nick2" creationdate="20190608T174945Z">
@@ -7838,6 +7958,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T140909Z" creationid="totochan" creationdate="20190607T140909Z">
         <seg>スキル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Skills required to calibrate</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190609T014704Z" creationid="totochan" creationdate="20190609T014704Z">
+        <seg>調整するために必要なスキル</seg>
       </tuv>
     </tu>
     <tu>
@@ -8302,6 +8430,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T050739Z" creationid="hiru4" creationdate="20190608T050739Z">
         <seg>ダウンロード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sufficient skills to fabricate</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190609T014722Z" creationid="totochan" creationdate="20190609T014722Z">
+        <seg>製造するのに十分なスキル</seg>
       </tuv>
     </tu>
     <tu>
@@ -9626,6 +9762,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Velocity: [kph] km/h</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190609T014743Z" creationid="totochan" creationdate="20190609T014743Z">
+        <seg>速度: [kph] km/h</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Velonaceps Calyx Eggs</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T181132Z" creationid="nick2" creationdate="20190608T181132Z">
@@ -9750,6 +9894,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T061900Z" creationid="hiru4" creationdate="20190608T061900Z">
         <seg>ラウンド終了投票数 [votes]/[max]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WARNING: Insufficient power</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190609T014809Z" creationid="totochan" creationdate="20190609T014809Z">
+        <seg>警告：電力不足</seg>
       </tuv>
     </tu>
     <tu>
@@ -10512,6 +10664,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T175609Z" creationid="nick2" creationdate="20190608T175609Z">
         <seg>亜鉛</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zoom</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190609T014909Z" creationid="totochan" creationdate="20190609T014909Z">
+        <seg>ズーム</seg>
       </tuv>
     </tu>
     <tu>
