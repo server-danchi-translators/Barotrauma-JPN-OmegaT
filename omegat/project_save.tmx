@@ -582,6 +582,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A value of 50% for supercapacitors’ recharge is usually enough to keep them ready for monster encounters.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190609T002106Z" creationid="kakonya" creationdate="20190609T002106Z">
+        <seg>通常はスーパーキャパシタの充電を50%にしておけば、モンスターの遭遇にあっても大丈夫でしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add files...</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112952Z" creationid="kakonya" creationdate="20190607T112952Z">
@@ -3310,6 +3318,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T133240Z" creationid="nick2" creationdate="20190608T133240Z">
         <seg>フィルタ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find ammunition for the coilguns and load them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190609T001842Z" creationid="kakonya" creationdate="20190609T001842Z">
+        <seg>コイルガンの弾薬を見つけて、それらを装填してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6642,6 +6658,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Recharge supercapacitors.\n\nIn most submarines, gun loaders and supercapacitors are located next to their respective gun controls.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190609T002009Z" creationid="kakonya" creationdate="20190609T002009Z">
+        <seg>スーパーキャパシタを充電します。\n\n大抵の潜水艦では、ガンローダーとスーパーキャパシタはそれぞれのガンコントロールの隣にあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Refresh</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112950Z" creationid="kakonya" creationdate="20190607T112950Z">
@@ -7246,6 +7270,14 @@
       </tuv>
       <tuv lang="JA" changeid="spears" changedate="20190608T100811Z" creationid="spears" creationdate="20190608T100811Z">
         <seg>レガシーバインディングを設定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set it to 100% when a lot of firing is expected.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190609T002147Z" creationid="kakonya" creationdate="20190609T002147Z">
+        <seg>大量に発砲が予想される場合は、100%に設定してください。</seg>
       </tuv>
     </tu>
     <tu>
