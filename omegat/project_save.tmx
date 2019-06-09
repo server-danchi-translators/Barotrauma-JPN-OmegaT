@@ -1714,6 +1714,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Button</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T185035Z" creationid="nick2" creationdate="20190609T185035Z">
+        <seg>ボタン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Calcium</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T060400Z" creationid="hiru4" creationdate="20190608T060400Z">
@@ -1726,6 +1734,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T164410Z" creationid="nick2" creationdate="20190608T164410Z">
         <seg>クレイキサイド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Camera</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T185040Z" creationid="nick2" creationdate="20190609T185040Z">
+        <seg>カメラ</seg>
       </tuv>
     </tu>
     <tu>
@@ -2260,8 +2276,8 @@
       <tuv lang="EN-US">
         <seg>Connects an output from one piece of equipment to an input on another.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190609T184816Z" creationid="nick2" creationdate="20190609T184656Z">
-        <seg>機器の出力から別の機器の入力へ接続。</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T184826Z" creationid="nick2" creationdate="20190609T184656Z">
+        <seg>機器の出力から別の機器の入力へ接続できる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3358,6 +3374,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T023801Z" creationid="kakonya" creationdate="20190608T023801Z">
         <seg>電気室</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Emergency Light</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T184845Z" creationid="nick2" creationdate="20190609T184845Z">
+        <seg>非常灯</seg>
       </tuv>
     </tu>
     <tu>
@@ -5254,6 +5278,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T012029Z" creationid="nick2" creationdate="20190608T012013Z">
         <seg>群れの一匹を殺すと他が共食いの連鎖を始め、群れの注意をそらすことができるかもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lamp</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T184848Z" creationid="nick2" creationdate="20190609T184848Z">
+        <seg>ランプ</seg>
       </tuv>
     </tu>
     <tu>
@@ -7378,6 +7410,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Produces a constant signal that can be used to change the state of equipment and doors.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T185017Z" creationid="nick2" creationdate="20190609T185017Z">
+        <seg>機器とドアの状態を変更するために使用することができる、一定の信号を生成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Produces a harmful localized electrical shock across a portion of the adjacent hull.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T025309Z" creationid="kakonya" creationdate="20190608T025309Z">
@@ -7390,6 +7430,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T113302Z" creationid="kakonya" creationdate="20190608T113302Z">
         <seg>ソナーモニター、ハンドヘルドソナー、またはナビゲーション端末で検出できる信号を生成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Produces a signal that can be used to toggle the state of equipment and doors.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T185033Z" creationid="nick2" creationdate="20190609T185033Z">
+        <seg>設備やドアの状態を切り替えるために使用することができる信号を生成します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9242,6 +9290,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Switch</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T184851Z" creationid="nick2" creationdate="20190609T184851Z">
+        <seg>スイッチ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sylvite</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T171104Z" creationid="nick2" creationdate="20190608T171104Z">
@@ -10202,6 +10258,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Typically used in photonics masts to provide the crew with a high-resolution view of the area outside the sub.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T191240Z" creationid="nick2" creationdate="20190609T191240Z">
+        <seg>通常、潜水艦外の高解像度映像を提供する、フォトニクスマストとして使われます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>UPnP can be used for forwarding ports on your router to allow players to join the server.</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T104454Z" creationid="totochan" creationdate="20190607T104454Z">
@@ -10758,6 +10822,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T131438Z" creationid="nick2" creationdate="20190608T131438Z">
         <seg>ラウンド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wall-mounted lighting.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T184842Z" creationid="nick2" creationdate="20190609T184842Z">
+        <seg>壁掛け照明。</seg>
       </tuv>
     </tu>
     <tu>
