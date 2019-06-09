@@ -2802,6 +2802,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Drop ammunition into the slots or on the weapon itself to load the weapon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190609T001140Z" creationid="kakonya" creationdate="20190609T001140Z">
+        <seg>武器を装填するには、弾薬をスロットまたは武器自体にドロップします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Drop the empty boxes on the ground by holding the green arrow above the ammo box when it's equipped.\n\nAmmo boxes are large and unwieldy.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T235718Z" creationid="kakonya" creationdate="20190608T235718Z">
@@ -3836,8 +3844,8 @@
       <tuv lang="EN-US">
         <seg>Hover the mouse cursor over a ranged weapon to see how many bullets, harpoons, etc. are contained.</seg>
       </tuv>
-      <tuv lang="JA" changeid="kakonya" changedate="20190609T001102Z" creationid="kakonya" creationdate="20190609T001102Z">
-        <seg>武器の上にマウスカーソルを置くと、弾丸、銛などがいくつ装填されているかがわかります。.</seg>
+      <tuv lang="JA" changeid="kakonya" changedate="20190609T001106Z" creationid="kakonya" creationdate="20190609T001102Z">
+        <seg>武器の上にマウスカーソルを置くと、弾丸、銛などがいくつ装填されているかがわかります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4414,6 +4422,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T234504Z" creationid="kakonya" creationdate="20190608T234504Z">
         <seg>クローラを殺せ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Kill the mudraptor</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190609T001156Z" creationid="kakonya" creationdate="20190609T001156Z">
+        <seg>マッドラプターを殺せ</seg>
       </tuv>
     </tu>
     <tu>
@@ -5317,6 +5333,14 @@
         <seg>Mudraptor</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T061124Z" creationid="hiru4" creationdate="20190608T061124Z">
+        <seg>マッドラプター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mudraptors</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190609T001147Z" creationid="kakonya" creationdate="20190609T001147Z">
         <seg>マッドラプター</seg>
       </tuv>
     </tu>
