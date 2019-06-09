@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A battery cell constructed of the rare and poorly understood compound Fulgurium.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190609T014423Z" creationid="totochan" creationdate="20190609T014423Z">
+        <seg>希少でよく理解されていない化合物フルグリウムで構成された電池。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A battery-powered underwater propulsion device.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T053823Z" creationid="kakonya" creationdate="20190608T053823Z">
@@ -3298,6 +3306,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FPGA Circuit</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190609T014451Z" creationid="totochan" creationdate="20190609T014451Z">
+        <seg>FPGA回路</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fabricate a fire extinguisher</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T234734Z" creationid="kakonya" creationdate="20190607T234734Z">
@@ -5010,6 +5026,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lockable storage for small- and medium-sized items.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190609T014605Z" creationid="totochan" creationdate="20190609T014605Z">
+        <seg>中小アイテム用のロック可能収納</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Looks like the electrical room’s seen better days.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T020523Z" creationid="kakonya" creationdate="20190608T020523Z">
@@ -5318,6 +5342,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190609T003244Z" creationid="kakonya" creationdate="20190609T003244Z">
         <seg>医療インターフェース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Medium Steel Cabinet</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190609T014534Z" creationid="totochan" creationdate="20190609T014534Z">
+        <seg>スチールキャビネット(中)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7134,6 +7166,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T023754Z" creationid="kakonya" creationdate="20190608T023754Z">
         <seg>この作業を繰り返します。\n\nもし接続パネルインターフェースに電線が表示されない場合は、装備をしているか確認してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Required items</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190609T014633Z" creationid="totochan" creationdate="20190609T014633Z">
+        <seg>必要アイテム</seg>
       </tuv>
     </tu>
     <tu>
