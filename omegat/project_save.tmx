@@ -11028,6 +11028,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[sub] has arrived at [location].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190609T015852Z" creationid="totochan" creationdate="20190609T015852Z">
+        <seg>[sub] は [location].到着した。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[sub] has returned to [location].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190609T015825Z" creationid="totochan" creationdate="20190609T015825Z">
+        <seg>[sub] は [location].に戻りました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[traitorname] had a secret objective to assassinate you—and the task was successful.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T042940Z" creationid="nick2" creationdate="20190608T042940Z">
