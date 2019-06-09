@@ -6722,6 +6722,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Not Component</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T195303Z" creationid="nick2" creationdate="20190609T195303Z">
+        <seg>NOT回路</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Not only are they abundant in wildlife, but the water currents caused by geothermal activity make navigation even more hazardous.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T033007Z" creationid="nick2" creationdate="20190608T033007Z">
@@ -6870,6 +6878,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T170708Z" creationid="nick2" creationdate="20190608T170616Z">
         <seg>アヘン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Or Component</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T195407Z" creationid="nick2" creationdate="20190609T195407Z">
+        <seg>OR回路</seg>
       </tuv>
     </tu>
     <tu>
@@ -8002,6 +8018,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Relay Component</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T195116Z" creationid="nick2" creationdate="20190609T195116Z">
+        <seg>リレー回路</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reload the configuration file of the Workshop item (metadata.xml inside the item's folder) and add all new files in it to the file list.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113007Z" creationid="kakonya" creationdate="20190607T113007Z">
@@ -8586,6 +8610,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sends a signal if either of the inputs receives a signal.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T195505Z" creationid="nick2" creationdate="20190609T195505Z">
+        <seg>いずれかの入力が信号を受信したとき、信号を送信します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sends a signal if either of the inputs, but not both, receives a signal.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T194158Z" creationid="nick2" creationdate="20190609T193110Z">
@@ -8622,6 +8654,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T194937Z" creationid="nick2" creationdate="20190609T194937Z">
         <seg>両方の入力値が同じ場合に信号を送ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sends a signal when the input is NOT receiving a signal.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T195400Z" creationid="nick2" creationdate="20190609T195400Z">
+        <seg>入力を受信していないときのみ信号を送信します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11353,6 +11393,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113834Z" creationid="kakonya" creationdate="20190607T113834Z">
         <seg>有効にすると、ボイスチャットメッセージは、位置にスピーカーの相対的な向きに応じてパンされています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When switched on, forwards all received signals from the input connections to the outputs.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T195255Z" creationid="nick2" creationdate="20190609T195255Z">
+        <seg>オンになった時、全ての入力を出力に転送します。</seg>
       </tuv>
     </tu>
     <tu>
