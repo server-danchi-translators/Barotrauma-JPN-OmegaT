@@ -1370,6 +1370,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Battery</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190609T014105Z" creationid="totochan" creationdate="20190609T014105Z">
+        <seg>バッテリー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Battery Cell</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190609T013812Z" creationid="totochan" creationdate="20190609T013812Z">
@@ -1626,6 +1634,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Can deliver charge much faster than batteries.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190609T014320Z" creationid="totochan" creationdate="20190609T014320Z">
+        <seg>バッテリーよりもずっと早く充電できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cancel</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T111201Z" creationid="kakonya" creationdate="20190607T111201Z">
@@ -1798,6 +1814,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T104156Z" creationid="totochan" creationdate="20190607T104156Z">
         <seg>キャラクターエディタ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Charging Dock</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190609T014134Z" creationid="totochan" creationdate="20190609T014134Z">
+        <seg>充電設備</seg>
       </tuv>
     </tu>
     <tu>
@@ -3714,6 +3738,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Generally used for storing backup power in case of a reactor failure.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190609T014248Z" creationid="totochan" creationdate="20190609T014248Z">
+        <seg>一般的には、原子炉が故障した場合のバックアップ電源として使用される。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Generating more power than the devices in the submarine are consuming may damage junction boxes or cause fires.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190608T053115Z" creationid="kakonya" creationdate="20190607T052704Z">
@@ -4582,6 +4614,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T061936Z" creationid="hiru4" creationdate="20190608T061936Z">
         <seg>サーバーに参加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Junction Box</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190609T014034Z" creationid="totochan" creationdate="20190609T014034Z">
+        <seg>配電盤</seg>
       </tuv>
     </tu>
     <tu>
@@ -5574,6 +5614,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T020512Z" creationid="hiru4" creationdate="20190607T060003Z">
         <seg>ほとんどの潜水艦には原子炉の故障時の一時的な電力のバックアップ供給源として使用することができる設置型バッテリーが装備されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Most submarines have several stationary backup batteries with recharge docks for battery cells.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190609T014355Z" creationid="totochan" creationdate="20190609T014355Z">
+        <seg>ほとんどの潜水艦には、バッテリセル用の充電ドックを備えた固定式バックアップバッテリがいくつか装備されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7570,6 +7618,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Serves as a hub for power distribution and relaying signals between devices.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190609T014102Z" creationid="totochan" creationdate="20190609T014102Z">
+        <seg>動力分配装置との間で信号を中継するためのハブとして機能します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Set Default Bindings</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190608T061502Z" creationid="kakonya" creationdate="20190607T114125Z">
@@ -7654,6 +7710,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112827Z" creationid="kakonya" creationdate="20190607T112827Z">
         <seg>スチームに表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shuttle Battery</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190609T014115Z" creationid="totochan" creationdate="20190609T014115Z">
+        <seg>シャトルバッテリー</seg>
       </tuv>
     </tu>
     <tu>
@@ -8238,6 +8302,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T165912Z" creationid="nick2" creationdate="20190608T165912Z">
         <seg>硫酸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Supercapacitor</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190609T014121Z" creationid="totochan" creationdate="20190609T014121Z">
+        <seg>スーパーキャパシタ</seg>
       </tuv>
     </tu>
     <tu>
