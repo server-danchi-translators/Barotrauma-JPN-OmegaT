@@ -7668,8 +7668,8 @@
       <tuv lang="EN-US">
         <seg>Sometimes you will encounter afflictions that you don’t have supplies to treat on the spot.</seg>
       </tuv>
-      <tuv lang="JA" changeid="kakonya" changedate="20190609T010233Z" creationid="kakonya" creationdate="20190609T010233Z">
-        <seg>時にはあなたはその場で治療する物資を持っていないという苦痛に遭遇するでしょう。.</seg>
+      <tuv lang="JA" changeid="kakonya" changedate="20190609T010348Z" creationid="kakonya" creationdate="20190609T010233Z">
+        <seg>治療する物資を持っていないという事態が起こることもあります。.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8140,8 +8140,8 @@
       <tuv lang="EN-US">
         <seg>Take the crew member to the med bay</seg>
       </tuv>
-      <tuv lang="JA" changeid="kakonya" changedate="20190609T005850Z" creationid="kakonya" creationdate="20190609T005850Z">
-        <seg>乗組員をメッド湾に連れて行きます</seg>
+      <tuv lang="JA" changeid="kakonya" changedate="20190609T010244Z" creationid="kakonya" creationdate="20190609T005850Z">
+        <seg>乗組員を医務室に連れて行きます</seg>
       </tuv>
     </tu>
     <tu>
