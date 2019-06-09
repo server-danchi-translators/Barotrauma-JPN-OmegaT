@@ -1514,6 +1514,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Black Wire</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T184709Z" creationid="nick2" creationdate="20190609T184709Z">
+        <seg>黒色銅線</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bled out</seg>
       </tuv>
       <tuv lang="JA" changeid="Rasiel" changedate="20190609T021858Z" creationid="Rasiel" creationdate="20190609T021858Z">
@@ -1574,6 +1582,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T044705Z" creationid="kakonya" creationdate="20190608T044705Z">
         <seg>ブルージャンプスーツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Blue Wire</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T184735Z" creationid="nick2" creationdate="20190609T184735Z">
+        <seg>青色銅線</seg>
       </tuv>
     </tu>
     <tu>
@@ -1646,6 +1662,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T172238Z" creationid="nick2" creationdate="20190608T172238Z">
         <seg>ブロカイト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Brown Wire</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T184447Z" creationid="nick2" creationdate="20190609T184447Z">
+        <seg>茶色銅線</seg>
       </tuv>
     </tu>
     <tu>
@@ -2230,6 +2254,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T023516Z" creationid="kakonya" creationdate="20190608T023516Z">
         <seg>電線で接続し、電力を通します。\n\nドライバーと電線を別々の手に装備し、 ({0}) で電線を接続する機器にアクセスします</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Connects an output from one piece of equipment to an input on another.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T184816Z" creationid="nick2" creationdate="20190609T184656Z">
+        <seg>機器の出力から別の機器の入力へ接続。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4206,6 +4238,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T171153Z" creationid="nick2" creationdate="20190608T171153Z">
         <seg>黒鉛</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Green Wire</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T184720Z" creationid="nick2" creationdate="20190609T184720Z">
+        <seg>緑色銅線</seg>
       </tuv>
     </tu>
     <tu>
@@ -6730,6 +6770,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Orange Wire</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T184728Z" creationid="nick2" creationdate="20190609T184728Z">
+        <seg>オレンジ銅線</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Order</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T140949Z" creationid="totochan" creationdate="20190607T140949Z">
@@ -7718,6 +7766,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190609T002009Z" creationid="kakonya" creationdate="20190609T002009Z">
         <seg>スーパーキャパシタを充電します。\n\n大抵の潜水艦では、ガンローダーとスーパーキャパシタはそれぞれのガンコントロールの隣にあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Red Wire</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T184743Z" creationid="nick2" creationdate="20190609T184743Z">
+        <seg>赤色銅線</seg>
       </tuv>
     </tu>
     <tu>
@@ -11065,6 +11121,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T114635Z" creationid="kakonya" creationdate="20190607T114635Z">
         <seg>窓付きドア（ボタン制御）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wire</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T184805Z" creationid="nick2" creationdate="20190609T184805Z">
+        <seg>銅</seg>
       </tuv>
     </tu>
     <tu>
