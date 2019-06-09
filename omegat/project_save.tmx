@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -626,6 +626,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190609T002106Z" creationid="kakonya" creationdate="20190609T002106Z">
         <seg>通常はスーパーキャパシタの充電を50%にしておけば、モンスターの遭遇にあっても大丈夫でしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>AUTOPILOT ON\nAutopilot is set to navigate towards [locationname].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Rasiel" changedate="20190609T020554Z" creationid="Rasiel" creationdate="20190609T020554Z">
+        <seg>オートパイロット起動\オートパイロットは[locationname]へ操縦するように設定されています.</seg>
       </tuv>
     </tu>
     <tu>
