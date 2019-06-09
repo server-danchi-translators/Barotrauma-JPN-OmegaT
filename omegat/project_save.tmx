@@ -1210,6 +1210,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Attempting to fix [itemname]</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Rasiel" changedate="20190609T021739Z" creationid="Rasiel" creationdate="20190609T021739Z">
+        <seg>[itemname]を修理する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Attempting to rewire powered devices without adequate electrical engineering skills may get you electrocuted.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T002828Z" creationid="nick2" creationdate="20190608T002828Z">
@@ -8838,6 +8846,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T050739Z" creationid="hiru4" creationdate="20190608T050739Z">
         <seg>ダウンロード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Succumbed to their injuries</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Rasiel" changedate="20190609T021836Z" creationid="Rasiel" creationdate="20190609T021836Z">
+        <seg>負傷による死亡</seg>
       </tuv>
     </tu>
     <tu>
