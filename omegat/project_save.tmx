@@ -1194,6 +1194,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Assigned jobs</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T173132Z" creationid="nick2" creationdate="20190609T173132Z">
+        <seg>割り当てられたジョブ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Assistant Clothes</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T044834Z" creationid="kakonya" creationdate="20190608T044834Z">
@@ -1934,6 +1942,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T172612Z" creationid="nick2" creationdate="20190609T172612Z">
         <seg>このスポーンポイントでスポーンしたキャラクターは、指定された詳細がIDカードに追加されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Characters spawning at this spawnpoint will have the specified tags added to their ID card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T173017Z" creationid="nick2" creationdate="20190609T172947Z">
+        <seg>このスポーンポイントでスポーンしたキャラクターは、指定されたタグがIDカードに追加されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4618,6 +4634,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ID Card tags</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T172937Z" creationid="nick2" creationdate="20190609T172937Z">
+        <seg>IDカードタグ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>IP address</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T140410Z" creationid="totochan" creationdate="20190607T140410Z">
@@ -6590,6 +6614,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T125351Z" creationid="nick2" creationdate="20190608T125351Z">
         <seg>あなたの艦隊の内の一隻が出口に到達していません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Only characters with the specified job will spawn at this spawnpoint.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T173306Z" creationid="nick2" creationdate="20190609T173306Z">
+        <seg>このスポーンポイントからは指定されたジョブのキャラクターしか出現しません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11121,6 +11153,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112850Z" creationid="kakonya" creationdate="20190607T112850Z">
         <seg>スチームワークショップに新しいアイテムを公開するには、このタブを使用することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can, for example, use these tags to limit access to some parts of the sub.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T173129Z" creationid="nick2" creationdate="20190609T173129Z">
+        <seg>これらのタグを使用し、潜水艦の一部へのアクセスを制限することができます。</seg>
       </tuv>
     </tu>
     <tu>
