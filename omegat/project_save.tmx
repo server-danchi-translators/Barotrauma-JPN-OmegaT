@@ -638,6 +638,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A wall-mounted battery cell charging dock.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T200300Z" creationid="nick2" creationdate="20190609T200300Z">
+        <seg>バッテリーセル充電用壁掛けドック。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AUTOPILOT ON\nAutopilot is set to navigate towards [locationname].</seg>
       </tuv>
       <tuv lang="JA" changeid="Rasiel" changedate="20190609T021440Z" creationid="Rasiel" creationdate="20190609T020554Z">
@@ -1028,8 +1036,8 @@
       <tuv lang="EN-US">
         <seg>An element, useful for crafting.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190608T060450Z" creationid="hiru4" creationdate="20190608T060450Z">
-        <seg>クラフトに使用できます。.</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T200451Z" creationid="hiru4" creationdate="20190608T060450Z">
+        <seg>クラフトに使用できる元素。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3836,8 +3844,8 @@
       <tuv lang="EN-US">
         <seg>Field-programmable gate array—a multipurpose circuit that can be reconfigured for use in a large variety of electrical devices.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190609T200153Z" creationid="nick2" creationdate="20190609T200153Z">
-        <seg>現地プログラム型ゲート配列 — 様々な電子機器に対応するために再設定が可能な多目的回路。</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T200310Z" creationid="nick2" creationdate="20190609T200153Z">
+        <seg>現地プログラム型ゲート配列(FPGA) — 様々な電子機器に対応するために再設定が可能な多目的回路。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5446,6 +5454,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T171050Z" creationid="nick2" creationdate="20190608T171050Z">
         <seg>天藍石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lead</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T200415Z" creationid="nick2" creationdate="20190609T200415Z">
+        <seg>鉛</seg>
       </tuv>
     </tu>
     <tu>
@@ -10932,8 +10948,8 @@
       <tuv lang="EN-US">
         <seg>Useful for crafting.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190608T060532Z" creationid="hiru4" creationdate="20190608T060532Z">
-        <seg>クラフトに使用する</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T200458Z" creationid="hiru4" creationdate="20190608T060532Z">
+        <seg>クラフトに使用する。</seg>
       </tuv>
     </tu>
     <tu>
