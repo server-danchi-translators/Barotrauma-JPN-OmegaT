@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Locked)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T171350Z" creationid="nick2" creationdate="20190609T171350Z">
+        <seg>（ロック中）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>.38 caliber.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T231631Z" creationid="kakonya" creationdate="20190608T231631Z">
@@ -4404,8 +4412,8 @@
       <tuv lang="EN-US">
         <seg>How much power is currently being consumed by the devices connected to the electrical grid.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190609T171139Z" creationid="nick2" creationdate="20190609T171139Z">
-        <seg>現在、電力網に接続されたデバイスでどのように多くの電力を消費されています。</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T171307Z" creationid="nick2" creationdate="20190609T171139Z">
+        <seg>現在電力網に接続された機器が消費している電力量。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4422,6 +4430,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T111654Z" creationid="kakonya" creationdate="20190607T111654Z">
         <seg>原子炉に接続されている機器が現在どれだけの電力を消費しているか。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How much power is currently being supplied to the electrical grid.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T171342Z" creationid="nick2" creationdate="20190609T171342Z">
+        <seg>現在電力網が供給している電力量。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10727,8 +10743,8 @@
       <tuv lang="EN-US">
         <seg>When the electrical grid is supplied more power than what is being consumed, the voltage rises, which may cause damage to electrical devices.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190609T170351Z" creationid="nick2" creationdate="20190609T170351Z">
-        <seg>電力グリッドに消費量よりも多くの電力が供給されると、電圧が上昇し電気装置に損傷を与える可能性があります。</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T171218Z" creationid="nick2" creationdate="20190609T170351Z">
+        <seg>電力網に消費量よりも多くの電力が供給されると、電圧が上昇し電気装置に損傷を与える可能性があります。</seg>
       </tuv>
     </tu>
     <tu>
