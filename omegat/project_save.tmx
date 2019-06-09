@@ -702,6 +702,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A thorium bar, for use within a reactor.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T204058Z" creationid="nick2" creationdate="20190609T204058Z">
+        <seg>原子炉内で使用するためのトリウム棒。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A token of the captain's unquestionable authority.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T025859Z" creationid="kakonya" creationdate="20190608T025859Z">
@@ -2402,6 +2410,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Coilgun Bolt</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T204402Z" creationid="nick2" creationdate="20190609T204402Z">
+        <seg>コイルガンボルト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Coilgun Loader</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T024755Z" creationid="kakonya" creationdate="20190608T024755Z">
@@ -3118,6 +3134,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T025025Z" creationid="kakonya" creationdate="20190608T025025Z">
         <seg>デプスチャージローダー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Depth Charge Shell</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T204541Z" creationid="nick2" creationdate="20190609T204541Z">
+        <seg>デプスチャージシェル</seg>
       </tuv>
     </tu>
     <tu>
@@ -4330,6 +4354,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For firing from a coilgun.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T204412Z" creationid="nick2" creationdate="20190609T204412Z">
+        <seg>コイルガンから発射するためのボルト。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Forces doors and hatches open.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T113034Z" creationid="kakonya" creationdate="20190608T113034Z">
@@ -4524,8 +4556,16 @@
       <tuv lang="EN-US">
         <seg>Generates significantly more heat and lasts longer than uranium fuel rods.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190609T204032Z" creationid="nick2" creationdate="20190609T204032Z">
-        <seg>ウラン燃料棒よりも多量の熱を発生し、さらに長持ちします。</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T204330Z" creationid="nick2" creationdate="20190609T204032Z">
+        <seg>ウラン燃料棒と比べ多量の熱を発生し、長持ちします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Generates slightly more heat and lasts longer than uranium fuel rods.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T204223Z" creationid="nick2" creationdate="20190609T204223Z">
+        <seg>ウラン燃料棒と比べ少し熱量が高く、長持ちします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10830,6 +10870,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T060455Z" creationid="hiru4" creationdate="20190608T060455Z">
         <seg>トリウム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thorium Fuel Rod</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T204038Z" creationid="nick2" creationdate="20190609T204038Z">
+        <seg>トリウム燃料棒</seg>
       </tuv>
     </tu>
     <tu>
