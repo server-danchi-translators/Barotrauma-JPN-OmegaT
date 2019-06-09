@@ -654,6 +654,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Aim for the mouth or belly and try to keep your distance.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190609T001757Z" creationid="kakonya" creationdate="20190609T001757Z">
+        <seg>口や腹を狙い、十分に距離を取りましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Aim with {0} and fire with {1}.\n\nThey must also be loaded with ammunition.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190609T001004Z" creationid="kakonya" creationdate="20190609T001004Z">
@@ -6578,6 +6586,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ready coilguns</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190609T001812Z" creationid="kakonya" creationdate="20190609T001812Z">
+        <seg>コイルガンの準備</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ready to start</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T130851Z" creationid="nick2" creationdate="20190608T130851Z">
@@ -7770,6 +7786,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Submarine weapons</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190609T001802Z" creationid="kakonya" creationdate="20190609T001802Z">
+        <seg>潜水艦の武器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Submarines</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112817Z" creationid="kakonya" creationdate="20190607T112817Z">
@@ -7902,6 +7926,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T234550Z" creationid="kakonya" creationdate="20190608T234550Z">
         <seg>スタンバトンを使ってダウンさせます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Taking them down requires more firepower.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190609T001733Z" creationid="kakonya" creationdate="20190609T001733Z">
+        <seg>奴らを倒すには、より強力な火力が必要でしょう。</seg>
       </tuv>
     </tu>
     <tu>
