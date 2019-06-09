@@ -518,6 +518,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A nuclear shell for use with a railgun.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T205958Z" creationid="nick2" creationdate="20190609T205958Z">
+        <seg>レールガンで使用するための核シェル。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A pack of blood substitute for the treatment of blood loss.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T164903Z" creationid="nick2" creationdate="20190608T164903Z">
@@ -4395,6 +4403,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For firing from a railgun.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T205929Z" creationid="nick2" creationdate="20190609T205929Z">
+        <seg>レールガンから発射するためのシェル。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Forces doors and hatches open.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T113034Z" creationid="kakonya" creationdate="20190608T113034Z">
@@ -7299,10 +7315,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Nuclear Depth Decoy</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T205640Z" creationid="nick2" creationdate="20190609T205640Z">
+        <seg>核デコイ爆雷</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Nuclear Reactor</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T024637Z" creationid="kakonya" creationdate="20190608T024637Z">
         <seg>原子炉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nuclear Shell</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T205951Z" creationid="nick2" creationdate="20190609T205951Z">
+        <seg>核シェル</seg>
       </tuv>
     </tu>
     <tu>
@@ -7831,6 +7863,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190609T013951Z" creationid="totochan" creationdate="20190609T013951Z">
         <seg>サイコリウムヘルメット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Physicorium Shell</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T210002Z" creationid="nick2" creationdate="20190609T210002Z">
+        <seg>サイコリウムシェル</seg>
       </tuv>
     </tu>
     <tu>
@@ -8367,6 +8407,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T025756Z" creationid="kakonya" creationdate="20190608T025728Z">
         <seg>レールガンローダーシングル縦型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Railgun Shell</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T205646Z" creationid="nick2" creationdate="20190609T205646Z">
+        <seg>レールガンシェル</seg>
       </tuv>
     </tu>
     <tu>
