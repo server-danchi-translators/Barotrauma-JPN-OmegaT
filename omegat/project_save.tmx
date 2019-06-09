@@ -4402,6 +4402,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How much power is currently being consumed by the devices connected to the electrical grid.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T171139Z" creationid="nick2" creationdate="20190609T171139Z">
+        <seg>現在、電力網に接続されたデバイスでどのように多くの電力を消費されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How much power is currently being consumed by the devices connected to the reactor.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T111609Z" creationid="kakonya" creationdate="20190607T111609Z">
@@ -10737,6 +10745,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T103638Z" creationid="kakonya" creationdate="20190607T103541Z">
         <seg>潜水艦に浸水したら、ポンプを使用して余分な水を排水する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When there's not enough power available, the voltage drops, which may cause some devices to shut down.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T170523Z" creationid="nick2" creationdate="20190609T170523Z">
+        <seg>十分な電力が足りていない場合は、電圧が降下し一部の装置が停止するかもしれません。</seg>
       </tuv>
     </tu>
     <tu>
