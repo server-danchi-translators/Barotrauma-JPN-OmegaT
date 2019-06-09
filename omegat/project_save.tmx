@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A decoy that can be deployed via the depth charge launcher.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T205447Z" creationid="nick2" creationdate="20190609T205330Z">
+        <seg>爆雷ランチャーで発射することができるおとり。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A device that can be used to observe the outside of the sub by connecting it to a camera, or to control weapons such as the railgun and coilgun.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T025602Z" creationid="kakonya" creationdate="20190608T025602Z">
@@ -3153,7 +3161,7 @@
       </tuv>
     </tu>
     <tu>
-      <note>他の文節で"Depth Charge" は「爆雷」で統一されているようなのでそれに従います。</note>
+      <note>他の文節で弾薬としての"Depth Charge" は「爆雷」で統一されているようなのでそれに従います。</note>
       <tuv lang="EN-US">
         <seg>Depth Charge Shell</seg>
       </tuv>
@@ -12154,6 +12162,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T204717Z" creationid="nick2" creationdate="20190609T204717Z">
         <seg>沈み、その後爆発する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Will sink while producing a loud acoustic signal to attract attention away from the sub.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T205616Z" creationid="nick2" creationdate="20190609T205616Z">
+        <seg>潜水艦からの注目を逸らす為に大音量の音響信号を生成しながら沈みます。</seg>
       </tuv>
     </tu>
     <tu>
