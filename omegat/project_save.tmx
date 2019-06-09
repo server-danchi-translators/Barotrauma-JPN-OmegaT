@@ -6012,8 +6012,8 @@
       <tuv lang="EN-US">
         <seg>Memory Component</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190609T192412Z" creationid="nick2" creationdate="20190609T192412Z">
-        <seg>メモリ部品</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T193021Z" creationid="nick2" creationdate="20190609T192412Z">
+        <seg>メモリ回路</seg>
       </tuv>
     </tu>
     <tu>
@@ -8498,6 +8498,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sends a signal if either of the inputs, but not both, receives a signal.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T194158Z" creationid="nick2" creationdate="20190609T193110Z">
+        <seg>片方の入力が信号を受信し、かつ両方が受信していない場合のみ信号を受信します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sends a signal if the received signal matches a specific regular expression pattern.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T191806Z" creationid="nick2" creationdate="20190609T191806Z">
@@ -10652,8 +10660,8 @@
       <tuv lang="EN-US">
         <seg>Use the signal_in connection to set the stored value, and the signal_store input to toggle whether the received signals should be stored.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190609T193007Z" creationid="nick2" creationdate="20190609T193007Z">
-        <seg>signal_in接続を使用し値を格納、signal_store信号を使用し接続された値が格納されるべきかどうかを切り替えます。</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T193136Z" creationid="nick2" creationdate="20190609T193007Z">
+        <seg>signal_in接続を使用し値を格納、signal_store信号を使用し入力された値が格納されるべきかどうかを切り替えます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11385,6 +11393,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T112947Z" creationid="kakonya" creationdate="20190608T112947Z">
         <seg>レンチ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Xor Component</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T193050Z" creationid="nick2" creationdate="20190609T193050Z">
+        <seg>XOR回路</seg>
       </tuv>
     </tu>
     <tu>
