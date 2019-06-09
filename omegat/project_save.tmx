@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -862,6 +862,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T062015Z" creationid="hiru4" creationdate="20190608T062015Z">
         <seg>観戦を許可</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Allow vote kicking</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190609T020138Z" creationid="totochan" creationdate="20190609T020138Z">
+        <seg>投票でキックを許可</seg>
       </tuv>
     </tu>
     <tu>
@@ -11040,6 +11048,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190609T015852Z" creationid="totochan" creationdate="20190609T015852Z">
         <seg>[sub] は [location].到着した。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[sub] has made its way to [location].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190609T015959Z" creationid="totochan" creationdate="20190609T015959Z">
+        <seg>[sub] が [location]に移動しました。.</seg>
       </tuv>
     </tu>
     <tu>
