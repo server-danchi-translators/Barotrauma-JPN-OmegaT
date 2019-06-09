@@ -718,6 +718,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A stationary turret found in alien ruins.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T212208Z" creationid="nick2" creationdate="20190609T212208Z">
+        <seg>エイリアンの遺跡で見つかった設置型タレット。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A strong acid that causes burns when in contact with skin.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T165923Z" creationid="nick2" creationdate="20190608T165923Z">
@@ -1054,6 +1062,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alien Button</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T212147Z" creationid="nick2" creationdate="20190609T212147Z">
+        <seg>エイリアンボタン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alien Coil</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T212319Z" creationid="nick2" creationdate="20190609T212319Z">
+        <seg>エイリアンコイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alien Curio</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T210559Z" creationid="nick2" creationdate="20190609T210317Z">
@@ -1074,6 +1098,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T121341Z" creationid="kakonya" creationdate="20190608T121341Z">
         <seg>エイリアンフレア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alien Generator</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T212108Z" creationid="nick2" creationdate="20190609T212108Z">
+        <seg>エイリアンジェネレータ</seg>
       </tuv>
     </tu>
     <tu>
@@ -1110,10 +1142,50 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alien Power Cell</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T212120Z" creationid="nick2" creationdate="20190609T212120Z">
+        <seg>エイリアンパワーセル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alien Projectile</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T212222Z" creationid="nick2" creationdate="20190609T212208Z">
+        <seg>エイリアン弾薬</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alien Pump</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T212129Z" creationid="nick2" creationdate="20190609T212129Z">
+        <seg>エイリアンポンプ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alien Trinket</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T210301Z" creationid="nick2" creationdate="20190609T210301Z">
         <seg>エイリアントリンケット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alien Turret</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T212201Z" creationid="nick2" creationdate="20190609T212201Z">
+        <seg>エイリアンタレット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alien Vent</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T212419Z" creationid="nick2" creationdate="20190609T212327Z">
+        <seg>エイリアン排気口</seg>
       </tuv>
     </tu>
     <tu>
@@ -1270,6 +1342,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T210701Z" creationid="nick2" creationdate="20190609T210701Z">
         <seg>エイリアンの鉱物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An alien power source.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T212124Z" creationid="nick2" creationdate="20190609T212124Z">
+        <seg>エイリアンの電源。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1550,6 +1630,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113044Z" creationid="kakonya" creationdate="20190607T113044Z">
         <seg>アート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Artifact Holder</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T212034Z" creationid="nick2" creationdate="20190609T212034Z">
+        <seg>アーティファクトホルダー</seg>
       </tuv>
     </tu>
     <tu>
@@ -2754,6 +2842,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Converts alien power cells to electricity.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T212119Z" creationid="nick2" creationdate="20190609T212119Z">
+        <seg>エイリアンパワーセルを電力に変換します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Copper</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T175654Z" creationid="nick2" creationdate="20190608T175654Z">
@@ -3419,6 +3515,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Discharges electricity; used in alien ruins.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T212326Z" creationid="nick2" creationdate="20190609T212326Z">
+        <seg>電気を放電します。エイリアンの遺跡で使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Disconnected</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190609T015348Z" creationid="totochan" creationdate="20190609T015348Z">
@@ -3879,6 +3983,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T184204Z" creationid="nick2" creationdate="20190609T184204Z">
         <seg>非常サイレン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Emits gases in alien ruins.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T212349Z" creationid="nick2" creationdate="20190609T212349Z">
+        <seg>エイリアン遺跡内にガスを放出します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4443,6 +4555,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fired from alien turrets.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T212317Z" creationid="nick2" creationdate="20190609T212212Z">
+        <seg>エイリアンタレットから発射する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>First aid</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190609T004108Z" creationid="kakonya" creationdate="20190609T004108Z">
@@ -4519,6 +4639,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T205929Z" creationid="nick2" creationdate="20190609T205929Z">
         <seg>レールガンから発射するためのシェル。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For holding major artifacts.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T212106Z" creationid="nick2" creationdate="20190609T212106Z">
+        <seg>強大なアーティファクトを保持する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9403,6 +9531,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sends a signal to alien mechanisms.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T212200Z" creationid="nick2" creationdate="20190609T212200Z">
+        <seg>エイリアンの機械に信号を送ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sends a signal when a signal matching a specific value is received.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T191904Z" creationid="nick2" creationdate="20190609T191904Z">
@@ -9755,10 +9891,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Small Alien Chest</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T212423Z" creationid="nick2" creationdate="20190609T212423Z">
+        <seg>小さなエイリアンチェスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Small Pump</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T024452Z" creationid="kakonya" creationdate="20190608T024452Z">
         <seg>小さいポンプ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Small alien item container.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T212628Z" creationid="nick2" creationdate="20190609T212628Z">
+        <seg>小さなエイリアンアイテムコンテナ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11751,6 +11903,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T175804Z" creationid="nick2" creationdate="20190608T175729Z">
         <seg>ランプ、爆発物や一部の医療化合物の製造に使用される。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Used to pump water in and out of ruins.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T212147Z" creationid="nick2" creationdate="20190609T212147Z">
+        <seg>遺跡の内と外に水をポンプするために使用されます。</seg>
       </tuv>
     </tu>
     <tu>
