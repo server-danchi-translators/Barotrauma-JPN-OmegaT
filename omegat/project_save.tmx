@@ -222,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A horizontally aligned docking interface.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T203258Z" creationid="nick2" creationdate="20190609T203258Z">
+        <seg>水平方向ドッキングインターフェース。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A large wall cap.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190609T003815Z" creationid="kakonya" creationdate="20190609T003815Z">
@@ -242,6 +250,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T024117Z" creationid="kakonya" creationdate="20190608T024117Z">
         <seg>様々な薬を製造するために用いることができるマシン。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A mechanically operated vent that may be opened or closed to allow the passage of water.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T203509Z" creationid="nick2" creationdate="20190609T203509Z">
+        <seg>水の通過を可能にするために開閉することができる排水口。</seg>
       </tuv>
     </tu>
     <tu>
@@ -688,8 +704,8 @@
       <tuv lang="EN-US">
         <seg>A vertically aligned docking interface.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190609T203016Z" creationid="nick2" creationdate="20190609T203016Z">
-        <seg>垂直方向に向いたドッキングインターフェース。</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T203303Z" creationid="nick2" creationdate="20190609T203016Z">
+        <seg>垂直方向ドッキングインターフェース。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2978,6 +2994,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Decorative text label.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T203517Z" creationid="nick2" creationdate="20190609T203517Z">
+        <seg>装飾用のテキストラベル。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Delay Component</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T194952Z" creationid="nick2" creationdate="20190609T194952Z">
@@ -3370,6 +3394,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Docking Hatch</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T203241Z" creationid="nick2" creationdate="20190609T203241Z">
+        <seg>ドッキングハッチ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Docking Port</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T202926Z" creationid="nick2" creationdate="20190609T202926Z">
@@ -3534,6 +3566,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190609T015303Z" creationid="totochan" creationdate="20190609T015303Z">
         <seg>溺死</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Duct Block</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T203408Z" creationid="nick2" creationdate="20190609T203408Z">
+        <seg>ダクトブロック</seg>
       </tuv>
     </tu>
     <tu>
@@ -4852,8 +4892,8 @@
       <tuv lang="EN-US">
         <seg>Holds a fire extinguisher to the wall.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190609T202817Z" creationid="nick2" creationdate="20190609T202817Z">
-        <seg>壁に消火器を掛けることができます。</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T203233Z" creationid="nick2" creationdate="20190609T202817Z">
+        <seg>壁に消火器を掛けることができる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5610,6 +5650,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Label</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T203511Z" creationid="nick2" creationdate="20190609T203511Z">
+        <seg>ラベル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lamp</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T184848Z" creationid="nick2" creationdate="20190609T184848Z">
@@ -5942,6 +5990,22 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190609T014605Z" creationid="totochan" creationdate="20190609T014605Z">
         <seg>中小アイテム用のロック可能収納</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Locks to another docking hatch to form a watertight seal and allow passage between subs, shuttles and locations.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T203402Z" creationid="nick2" creationdate="20190609T203349Z">
+        <seg>他のドッキングハッチと接続し水封密閉を形成することで、他の潜水艦やシャトルとの通行を可能にする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Locks to another docking port to form a watertight seal and allow passage between subs, shuttles and locations.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T203224Z" creationid="nick2" creationdate="20190609T203224Z">
+        <seg>他のドッキングポートと接続し水封密閉を形成することで、他の潜水艦やシャトルとの通行を可能にする。</seg>
       </tuv>
     </tu>
     <tu>
