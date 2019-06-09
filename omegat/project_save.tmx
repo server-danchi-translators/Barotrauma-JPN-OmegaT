@@ -4250,6 +4250,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In these situations it’s handy to get the patient to follow you to the med bay, where there are more supplies to treat them.\n\nFind the character in question in the crew list to the left.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190609T010549Z" creationid="kakonya" creationdate="20190609T010549Z">
+        <seg>その時は、患者を医薬品がある医務室に案内すると良いでしょう。\n\n左の乗組員リストから問題のキャラクターを見つけます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In this case, you have some light internal damage.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190609T004522Z" creationid="kakonya" creationdate="20190609T004522Z">
@@ -8550,6 +8558,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T012937Z" creationid="kakonya" creationdate="20190607T235227Z">
         <seg> {0}を押し続けて狙いを定め、{1}を押して使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then find the “Follow” button and click on it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190609T011038Z" creationid="kakonya" creationdate="20190609T011038Z">
+        <seg>次に「フォロー」ボタンを見つけてクリックします。</seg>
       </tuv>
     </tu>
     <tu>
