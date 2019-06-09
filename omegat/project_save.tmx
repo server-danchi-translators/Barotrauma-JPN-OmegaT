@@ -638,6 +638,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Afflictions affecting the character are shown in the list to the left, although some afflictions are local to specific limbs.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190609T004209Z" creationid="kakonya" creationdate="20190609T004209Z">
+        <seg>怪我などは手足の局所的なものですが、キャラクターに影響を与える病気は左のリストに表示されています。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Aft access shaft</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T062348Z" creationid="hiru4" creationdate="20190608T062348Z">
@@ -3426,6 +3434,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>First aid</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190609T004108Z" creationid="kakonya" creationdate="20190609T004108Z">
+        <seg>応急処置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fission rate</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T111415Z" creationid="kakonya" creationdate="20190607T111415Z">
@@ -3814,6 +3830,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T044712Z" creationid="kakonya" creationdate="20190608T044712Z">
         <seg>ヘッドセット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Heal your injuries</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190609T004113Z" creationid="kakonya" creationdate="20190609T004113Z">
+        <seg>怪我を癒します</seg>
       </tuv>
     </tu>
     <tu>
@@ -6350,6 +6374,14 @@
       </tuv>
       <tuv lang="JA" changeid="spears" changedate="20190608T100232Z" creationid="spears" creationdate="20190608T100225Z">
         <seg>続けるにはどれかキーを押してください...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Press {0} or click your health bar to enter the medical interface.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190609T004100Z" creationid="kakonya" creationdate="20190609T004100Z">
+        <seg>{0}を押すか、ヘルスバーをクリックして医療用インターフェースに入ります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9768,6 +9800,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112854Z" creationid="kakonya" creationdate="20190607T112854Z">
         <seg>左側に「アイテム」メニューから既存の潜水艦やコンテンツパッケージを選択するか、「新しいアイテムを作成」ボタンをクリックすることにより、全く新しいアイテムを作成することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can inspect different limbs by clicking on them.\n\nTo treat an affliction, drag a medical item onto the highlighted area.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190609T004345Z" creationid="kakonya" creationdate="20190609T004345Z">
+        <seg>四肢をクリックして検査することができます。\n\n怪我を治療するには、医療アイテムを強調表示された場所にドラッグします。</seg>
       </tuv>
     </tu>
     <tu>
