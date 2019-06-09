@@ -4684,8 +4684,8 @@
       <tuv lang="EN-US">
         <seg>In passive mode, the sonar only listens to sources of sound and sounds reflected from nearby obstacles without actively sending out pings.</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190609T015046Z" creationid="totochan" creationdate="20190609T015046Z">
-        <seg>パッシブモードでは、ソナーはPINGを能動的に送信せずに、近くの障害物から反射される音と音のソースのみを聞く。</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T165511Z" creationid="totochan" creationdate="20190609T015046Z">
+        <seg>パッシブモードでは、ソナーは音波を能動的に送信せずに、近くの障害物から反射される音と音のソースのみを聞く。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9154,6 +9154,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The character can no longer be revived if you give in.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T164945Z" creationid="nick2" creationdate="20190609T164945Z">
+        <seg>あなたが諦めた場合、キャラクターはもう復活することはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The character will now follow you until dismissed by clicking on the button again.\n\n“Follow” command is only one of many commands you can give to other characters.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190609T011124Z" creationid="kakonya" creationdate="20190609T011124Z">
@@ -9332,8 +9340,8 @@
       <tuv lang="EN-US">
         <seg>The pings may also be heard by hostile creatures or enemy submarines.</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190609T015006Z" creationid="totochan" creationdate="20190609T015006Z">
-        <seg>ピングは敵対的な生き物や敵の潜水艦によって聞かれることがあります。</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T165316Z" creationid="totochan" creationdate="20190609T015006Z">
+        <seg>探信音は敵対的な生き物や敵の潜水艦によって聞かれることがあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10666,6 +10674,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When active sonar is on, the transponders send out pings that reflect from nearby obstacles.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T165309Z" creationid="nick2" creationdate="20190609T165309Z">
+        <seg>アクティブソナーがオンの場合、トランスポンダは近くの障害物に反射する探信音を送信します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When automatic control is on, the reactor will automatically adjust itself according to the power consumption.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T111728Z" creationid="kakonya" creationdate="20190607T111728Z">
@@ -11168,6 +11184,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112942Z" creationid="kakonya" creationdate="20190607T112942Z">
         <seg>既存のワークショップアイテムのアップデートを公開しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your chat messages will only be visible to other dead players.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T165045Z" creationid="nick2" creationdate="20190609T165045Z">
+        <seg>チャットメッセージは、他の死亡したプレイヤーにのみ表示されます。</seg>
       </tuv>
     </tu>
     <tu>
