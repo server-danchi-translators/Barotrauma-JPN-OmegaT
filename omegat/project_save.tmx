@@ -1930,6 +1930,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Characters spawning at this spawnpoint will have the specified description added to their ID card.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T172612Z" creationid="nick2" creationdate="20190609T172612Z">
+        <seg>このスポーンポイントでスポーンしたキャラクターは、指定された詳細がIDカードに追加されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Charge: [charge] kWm ([percentage] %)</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190609T015057Z" creationid="totochan" creationdate="20190609T015057Z">
@@ -4598,6 +4606,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T025804Z" creationid="kakonya" creationdate="20190608T025804Z">
         <seg>IDカード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ID Card description</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T172454Z" creationid="nick2" creationdate="20190609T172454Z">
+        <seg>IDカードの詳細</seg>
       </tuv>
     </tu>
     <tu>
@@ -8642,6 +8658,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Spawn type</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T172447Z" creationid="nick2" creationdate="20190609T172447Z">
+        <seg>スポーンタイプ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Spawnpoint</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T172443Z" creationid="nick2" creationdate="20190609T172443Z">
+        <seg>スポーンポイント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Special caution must be taken when bringing alien artifacts on board the submarine.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T005413Z" creationid="nick2" creationdate="20190608T005413Z">
@@ -9694,6 +9726,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190609T021100Z" creationid="totochan" creationdate="20190609T021100Z">
         <seg>[name], そこで待て!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This can be used to describe additional access levels their card has on the sub.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T172933Z" creationid="nick2" creationdate="20190609T172933Z">
+        <seg>これは潜水艦のアクセスレベルを追加して記述するために使用することができます。</seg>
       </tuv>
     </tu>
     <tu>
