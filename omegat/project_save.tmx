@@ -262,6 +262,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A horizontal hatch for alien ruins.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T211958Z" creationid="nick2" creationdate="20190609T211958Z">
+        <seg>エイリアン遺跡の水平方向のハッチ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A horizontally aligned docking interface.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T203258Z" creationid="nick2" creationdate="20190609T203258Z">
@@ -506,6 +514,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T171446Z" creationid="nick2" creationdate="20190608T171446Z">
         <seg>主に鉛からなる鉱物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A motion detector used by aliens.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T212029Z" creationid="nick2" creationdate="20190609T212029Z">
+        <seg>エイリアンによって使用された動体検出器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -766,6 +782,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A vertical door for alien ruins.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T212001Z" creationid="nick2" creationdate="20190609T212001Z">
+        <seg>エイリアン遺跡の垂直方向のドア。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A vertically aligned docking interface.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T203303Z" creationid="nick2" creationdate="20190609T203016Z">
@@ -818,6 +842,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T201644Z" creationid="nick2" creationdate="20190609T201644Z">
         <seg>レールガンの弾薬を効率よく積み込むための方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A weapon with powerful capabilities.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T211950Z" creationid="nick2" creationdate="20190609T211950Z">
+        <seg>強力な能力を持つ武器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1030,10 +1062,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alien Door</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T211958Z" creationid="nick2" creationdate="20190609T211958Z">
+        <seg>エイリアンドア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alien Flare</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T121341Z" creationid="kakonya" creationdate="20190608T121341Z">
         <seg>エイリアンフレア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alien Hatch</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T211952Z" creationid="nick2" creationdate="20190609T211952Z">
+        <seg>エイリアンハッチ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alien Motion Sensor</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T212007Z" creationid="nick2" creationdate="20190609T212007Z">
+        <seg>エイリアン動体センサー</seg>
       </tuv>
     </tu>
     <tu>
@@ -1318,6 +1374,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T162819Z" creationid="nick2" creationdate="20190608T162819Z">
         <seg>アナボリックステロイド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ancient Weapon</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T211943Z" creationid="nick2" creationdate="20190609T211943Z">
+        <seg>古代の武器</seg>
       </tuv>
     </tu>
     <tu>
