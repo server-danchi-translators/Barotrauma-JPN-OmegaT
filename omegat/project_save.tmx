@@ -4242,6 +4242,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In this case, you have some light internal damage.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190609T004522Z" creationid="kakonya" creationdate="20190609T004522Z">
+        <seg>この場合、あなたはいくらかの軽い内部ダメージを受けています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Incendiary grenade.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T232324Z" creationid="kakonya" creationdate="20190608T232324Z">
@@ -5342,6 +5350,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T165911Z" creationid="nick2" creationdate="20190608T165911Z">
         <seg>モルヒネ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Morphine is effective in treating this affliction.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190609T004539Z" creationid="kakonya" creationdate="20190609T004539Z">
+        <seg>モルヒネはこの病気の治療に効果的です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8006,6 +8022,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T163922Z" creationid="nick2" creationdate="20190608T163922Z">
         <seg>スフォリン解毒剤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Suggested items are shown in the interface, but caution must be exercised, since some characters’ medical skills aren’t high enough to suggest the correct treatment.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190609T004459Z" creationid="kakonya" creationdate="20190609T004459Z">
+        <seg>提案された項目はインターフェースに表示されますが、一部のキャラクターの医療スキルは正しい治療ができるほど高くないため、注意が必要です。</seg>
       </tuv>
     </tu>
     <tu>
