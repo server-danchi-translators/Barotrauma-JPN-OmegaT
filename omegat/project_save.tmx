@@ -4394,6 +4394,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hold space to link to another waypoint</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T172441Z" creationid="nick2" creationdate="20190609T172441Z">
+        <seg>スペースキーを長押しで別のウェイポイントにリンク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hold to drop</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T140747Z" creationid="totochan" creationdate="20190607T140747Z">
@@ -4750,6 +4758,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190609T004522Z" creationid="kakonya" creationdate="20190609T004522Z">
         <seg>この場合、あなたはいくらかの軽い内部ダメージを受けています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In use by [character]</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T172202Z" creationid="nick2" creationdate="20190609T172202Z">
+        <seg>[character] によって使用中</seg>
       </tuv>
     </tu>
     <tu>
@@ -7668,8 +7684,8 @@
       <tuv lang="EN-US">
         <seg>Repair</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190609T015244Z" creationid="totochan" creationdate="20190609T015244Z">
-        <seg>修復</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T171944Z" creationid="totochan" creationdate="20190609T015244Z">
+        <seg>修理</seg>
       </tuv>
     </tu>
     <tu>
@@ -7740,8 +7756,8 @@
       <tuv lang="EN-US">
         <seg>Repairing</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190609T171501Z" creationid="nick2" creationdate="20190609T171501Z">
-        <seg>修復中</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T171922Z" creationid="nick2" creationdate="20190609T171501Z">
+        <seg>修理中</seg>
       </tuv>
     </tu>
     <tu>
@@ -9946,6 +9962,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Try again after 10 seconds.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T172311Z" creationid="nick2" creationdate="20190609T172311Z">
+        <seg>10秒後にもう一度お試しください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Try to keep the output as close to load as possible.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T021634Z" creationid="kakonya" creationdate="20190608T021634Z">
@@ -10610,6 +10634,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Waypoint</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T172338Z" creationid="nick2" creationdate="20190609T172338Z">
+        <seg>ウェイポイント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We have a hull breach and some unwanted visitors!</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T232850Z" creationid="kakonya" creationdate="20190608T232850Z">
@@ -11077,6 +11109,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You have been blocked by the spam filter.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T172302Z" creationid="nick2" creationdate="20190609T172302Z">
+        <seg>スパムフィルタによってブロックされています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You have been crushed by water pressure.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T232516Z" creationid="kakonya" creationdate="20190607T232516Z">
@@ -11113,6 +11153,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T040233Z" creationid="nick2" creationdate="20190608T040233Z">
         <seg>サーバとクライアントを同期するのに時間がかかりすぎたので、あなたは切断されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You have been kicked by the spam filter.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T172254Z" creationid="nick2" creationdate="20190609T172254Z">
+        <seg>スパムフィルタによってキックされました。</seg>
       </tuv>
     </tu>
     <tu>
