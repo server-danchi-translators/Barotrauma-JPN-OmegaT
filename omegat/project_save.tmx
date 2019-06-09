@@ -1850,6 +1850,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Coilgun, part 2</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T235846Z" creationid="kakonya" creationdate="20190608T235846Z">
+        <seg>コイルガン, part 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Coilguns are standard-issue equipment in most subs.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T235014Z" creationid="kakonya" creationdate="20190608T235014Z">
@@ -4366,6 +4374,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T035120Z" creationid="nick2" creationdate="20190608T035120Z">
         <seg>投票によるキック。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Kill the attacking hammerhead</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190608T235932Z" creationid="kakonya" creationdate="20190608T235932Z">
+        <seg>攻撃的なハンマーヘッドを殺せ</seg>
       </tuv>
     </tu>
     <tu>
@@ -8406,6 +8422,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T013211Z" creationid="kakonya" creationdate="20190608T013211Z">
         <seg>装備から外すには、装備スロットからドラッグで移動させ、ボタンを離します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To use the coilgun, interact ({0}) with the periscope.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190609T000233Z" creationid="kakonya" creationdate="20190609T000233Z">
+        <seg>コイルガンは、潜望鏡を覗き（{0}）で使用します。</seg>
       </tuv>
     </tu>
     <tu>
