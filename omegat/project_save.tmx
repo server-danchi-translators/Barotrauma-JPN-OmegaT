@@ -1022,6 +1022,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alien Curio</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T210559Z" creationid="nick2" creationdate="20190609T210317Z">
+        <seg>エイリアン骨董品</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alien Flare</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T121341Z" creationid="kakonya" creationdate="20190608T121341Z">
@@ -1030,10 +1038,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alien Ornament</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T210322Z" creationid="nick2" creationdate="20190609T210322Z">
+        <seg>エイリアンの飾り</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alien Pistol</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T025810Z" creationid="kakonya" creationdate="20190608T025810Z">
         <seg>エイリアンピストル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alien Trinket</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T210301Z" creationid="nick2" creationdate="20190609T210301Z">
+        <seg>エイリアントリンケット</seg>
       </tuv>
     </tu>
     <tu>
@@ -1454,6 +1478,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113044Z" creationid="kakonya" creationdate="20190607T113044Z">
         <seg>アート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Artifact found in alien ruins.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T210056Z" creationid="nick2" creationdate="20190609T210056Z">
+        <seg>エイリアンの遺跡で見つかったアーティファクト。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4123,6 +4155,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Faraday Alien Artifact</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T210102Z" creationid="nick2" creationdate="20190609T210102Z">
+        <seg>ファラデーエイリアンアーティファクト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Feeds coilgun ammunition into a linked coilgun.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T024944Z" creationid="kakonya" creationdate="20190608T024927Z">
@@ -4397,8 +4437,8 @@
       <tuv lang="EN-US">
         <seg>For firing from a coilgun.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190609T204412Z" creationid="nick2" creationdate="20190609T204412Z">
-        <seg>コイルガンから発射するためのボルト。</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T210026Z" creationid="nick2" creationdate="20190609T204412Z">
+        <seg>コイルガンから発射するための弾薬。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6643,6 +6683,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Minor artifact found in alien ruins.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T210312Z" creationid="nick2" creationdate="20190609T210312Z">
+        <seg>エイリアンの遺跡で見つかった小さなアーティファクト。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Minor bleeding</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190609T020619Z" creationid="totochan" creationdate="20190609T020501Z">
@@ -7047,6 +7095,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T061950Z" creationid="totochan" creationdate="20190607T141125Z">
         <seg>名前</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nasonov Alien Artifact</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T210205Z" creationid="nick2" creationdate="20190609T210205Z">
+        <seg>ナサノフエイリアンアーティファクト</seg>
       </tuv>
     </tu>
     <tu>
@@ -8207,6 +8263,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T110508Z" creationid="kakonya" creationdate="20190607T110508Z">
         <seg>試掘</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Psychosis Alien Artifact</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T210226Z" creationid="nick2" creationdate="20190609T210226Z">
+        <seg>サイコシスエイリアンアーティファクト</seg>
       </tuv>
     </tu>
     <tu>
@@ -9587,6 +9651,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sky Alien Artifact</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T210052Z" creationid="nick2" creationdate="20190609T210052Z">
+        <seg>スカイエイリアンアーティファクト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Slime Bacteria</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T172417Z" creationid="nick2" creationdate="20190608T172417Z">
@@ -10823,6 +10895,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T234513Z" creationid="kakonya" creationdate="20190608T234513Z">
         <seg>隣の部屋にモンスターがいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thermal Alien Artifact</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T210114Z" creationid="nick2" creationdate="20190609T210058Z">
+        <seg>サーマルエイリアンアーティファクト</seg>
       </tuv>
     </tu>
     <tu>
