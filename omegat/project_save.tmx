@@ -1482,6 +1482,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Beacon</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T183707Z" creationid="nick2" creationdate="20190609T183707Z">
+        <seg>ビーコン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Berthing compartment</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T062139Z" creationid="hiru4" creationdate="20190608T062139Z">
@@ -3252,8 +3260,8 @@
       <tuv lang="EN-US">
         <seg>EMP Grenade</seg>
       </tuv>
-      <tuv lang="JA" changeid="kakonya" changedate="20190608T231719Z" creationid="kakonya" creationdate="20190608T231719Z">
-        <seg>爆発の際に明るい光と大きな音を発し、近くのキャラクターを気絶させます。EMP Grenade</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T183559Z" creationid="kakonya" creationdate="20190608T231719Z">
+        <seg>EMPグレネード</seg>
       </tuv>
     </tu>
     <tu>
@@ -4036,8 +4044,8 @@
       <tuv lang="EN-US">
         <seg>General purpose fragmentation grenade.</seg>
       </tuv>
-      <tuv lang="JA" changeid="kakonya" changedate="20190608T231843Z" creationid="kakonya" creationdate="20190608T231843Z">
-        <seg>一般的なフラグメンテーション手榴弾。</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T183610Z" creationid="kakonya" creationdate="20190608T231843Z">
+        <seg>一般的な破片手榴弾。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10871,6 +10879,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T111728Z" creationid="kakonya" creationdate="20190607T111728Z">
         <seg>自動制御がオンのとき、反応器は、自動的に消費電力に応じて自身を調整します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When deployed and activated in the correct location, it will signal colonists to come and set up an outpost.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T184115Z" creationid="nick2" creationdate="20190609T184115Z">
+        <seg>正しい場所に配置され使用された場合、入植者に信号を送信して前哨基地の建設準備の合図を出します。</seg>
       </tuv>
     </tu>
     <tu>
