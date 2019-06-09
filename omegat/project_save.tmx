@@ -182,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A highly elastic, naturally occurring protein.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T201039Z" creationid="nick2" creationdate="20190609T201039Z">
+        <seg>自然に存在する高弾性のタンパク質。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A highly potent neurotoxin.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T161620Z" creationid="nick2" creationdate="20190608T161620Z">
@@ -1118,6 +1126,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113214Z" creationid="kakonya" creationdate="20190607T113214Z">
         <seg>変更を適用しますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Aquatic Poppy</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T200816Z" creationid="nick2" creationdate="20190609T200816Z">
+        <seg>水生ポピー</seg>
       </tuv>
     </tu>
     <tu>
@@ -3402,6 +3418,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Elastin</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T201003Z" creationid="nick2" creationdate="20190609T201003Z">
+        <seg>エラスチン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Elastin Plant</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T200740Z" creationid="nick2" creationdate="20190609T200740Z">
+        <seg>エラスチン植物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Electrical</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T114406Z" creationid="kakonya" creationdate="20190607T114406Z">
@@ -5182,6 +5214,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T033120Z" creationid="nick2" creationdate="20190608T033120Z">
         <seg>潜水艦エディタでラジオチャットにwifi部品をリンクすることにより、音声制御システムを構築することが可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It's warm to the touch.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T200843Z" creationid="nick2" creationdate="20190609T200843Z">
+        <seg>触ると生暖かい。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8562,6 +8602,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sea Yeast Shroom</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T200909Z" creationid="nick2" creationdate="20190609T200909Z">
+        <seg>シーイーストキノコ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Seals bleeding wounds almost immediately and treats burns very effectively.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T112705Z" creationid="kakonya" creationdate="20190608T112705Z">
@@ -9898,6 +9946,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The foliage of this plant cannot be torn, only stretched.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T200820Z" creationid="nick2" creationdate="20190609T200808Z">
+        <seg>この植物の葉は引き裂く事はできず、伸びるのみ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The heat is used to spin the turbine, which generates electricity.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T111541Z" creationid="kakonya" creationdate="20190607T111541Z">
@@ -10054,6 +10110,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T231615Z" creationid="kakonya" creationdate="20190607T231615Z">
         <seg>冷や汗とチアノーゼが出て唇が真っ青です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The smell is beyond belief, like rotting meat on a hot day.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T201000Z" creationid="nick2" creationdate="20190609T201000Z">
+        <seg>暑い日に腐敗した肉のような、ありえない匂い。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10310,6 +10374,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T015119Z" creationid="kakonya" creationdate="20190608T015119Z">
         <seg>これはシンプルなものですが、あなたがゲームを始めるときは、様々なタイプの潜水艦を選ぶことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This plant has the texture of a coconut and its fibers move on their own under your fingers unnervingly.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190609T200824Z" creationid="nick2" creationdate="20190609T200729Z">
+        <seg>この植物はココナッツの食感を有し、繊維は緊張した様子で勝手に動く。</seg>
       </tuv>
     </tu>
     <tu>
