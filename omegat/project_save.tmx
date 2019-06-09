@@ -10980,6 +10980,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You have bled out.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Rasiel" changedate="20190609T022102Z" creationid="Rasiel" creationdate="20190609T022102Z">
+        <seg>あなたは失血死しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You have bled to death.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T122308Z" creationid="kakonya" creationdate="20190607T122308Z">
@@ -11004,10 +11012,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You have drowned.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Rasiel" changedate="20190609T022210Z" creationid="Rasiel" creationdate="20190609T022210Z">
+        <seg>あなたは溺死しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You have left the server.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T035223Z" creationid="nick2" creationdate="20190608T035223Z">
         <seg>サーバーから離脱しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You have succumbed to your injuries.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Rasiel" changedate="20190609T022048Z" creationid="Rasiel" creationdate="20190609T022048Z">
+        <seg>負傷のためあなたは死亡しました。</seg>
       </tuv>
     </tu>
     <tu>
