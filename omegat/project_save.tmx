@@ -321,8 +321,8 @@
       <tuv lang="EN-US">
         <seg>A local arms dealer is offering [reward] credits in exchange for delivering two crates of high explosives to a customer in [location2].</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190610T191541Z" creationid="nick2" creationdate="20190610T191105Z">
-        <seg>地元の武器商人が、二箱の爆発物を [location2] にいる顧客へ届ける代わりに [reward] クレジットの報酬を持ちかけています。</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T191943Z" creationid="nick2" creationdate="20190610T191105Z">
+        <seg>地元の武器商人が、二箱の成形爆薬を [location2] にいる顧客へ届ける代わりに [reward] クレジットの報酬を持ちかけています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2911,6 +2911,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T202743Z" creationid="nick2" creationdate="20190609T202718Z">
         <seg>化学薬品箱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chemical shipment</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T192014Z" creationid="nick2" creationdate="20190610T192014Z">
+        <seg>薬品配達</seg>
       </tuv>
     </tu>
     <tu>
@@ -12936,6 +12944,14 @@
       </tuv>
       <tuv lang="JA" changeid="spears" changedate="20190608T100319Z" creationid="spears" creationdate="20190608T100319Z">
         <seg>起動したファイルはコンテンツパッケージに存在しません [selectedpackage].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The explosives have been successfully delivered.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T191614Z" creationid="nick2" creationdate="20190610T191614Z">
+        <seg>爆発物は無事に配達されました。</seg>
       </tuv>
     </tu>
     <tu>
