@@ -1515,6 +1515,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An atmospheric diving suit capable of withstanding the immense pressure under Europa's crust.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Rasiel" changedate="20190610T085159Z" creationid="Rasiel" creationdate="20190610T085159Z">
+        <seg>ヨーロッパの地殻の様な巨大な圧力にも耐えうる潜水服</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An element, useful for crafting.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T200451Z" creationid="hiru4" creationdate="20190608T060450Z">
