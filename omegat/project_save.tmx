@@ -8547,6 +8547,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Please note that Barotrauma is still in Early Access, and that many aspects of the game are incomplete and still being worked on.\n\nThe Campaign Mode is still lacking many of the features we've planned for the full version, and is not yet as enjoyable as the multiplayer.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T030947Z" creationid="kakonya" creationdate="20190610T030947Z">
+        <seg>BarotraumaはまだEarly Accessにあり、ゲームの多くの面は不完全であり、まだ開発中です。\n\nキャンペーンモードには、フルバージョンで計画していた機能の多くがまだ欠けており、マルチプレイヤーほど楽しいものではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please select a submarine.</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T061241Z" creationid="hiru4" creationdate="20190608T061241Z">
@@ -9415,6 +9423,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T141233Z" creationid="totochan" creationdate="20190607T141233Z">
         <seg>リセット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reset Karma</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T030731Z" creationid="kakonya" creationdate="20190610T030731Z">
+        <seg>カルマをリセット</seg>
       </tuv>
     </tu>
     <tu>
@@ -12699,6 +12715,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Warning: You will be banned from the server if your Karma decreases below [banthreshold].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T030751Z" creationid="kakonya" creationdate="20190610T030751Z">
+        <seg>警告：あなたのカルマが[banthreshold]未満の場合、サーバーから禁止されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Watcher</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T061140Z" creationid="hiru4" creationdate="20190608T061140Z">
@@ -13190,6 +13214,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You are not allowed to select this job because your Karma is too low ([yourkarma]/[minkarma]).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T030817Z" creationid="kakonya" creationdate="20190610T030817Z">
+        <seg>あなたのカルマ（[yourkarma] / [minkarma]）が低すぎ、この仕事を選択することが許可されません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You are now onboard a submarine, which is where you will spend most of your time in Barotrauma.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T014901Z" creationid="kakonya" creationdate="20190608T014901Z">
@@ -13322,6 +13354,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190609T002841Z" creationid="kakonya" creationdate="20190609T002841Z">
         <seg>包帯を持っていませんか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You have been banned from the server because your Karma decreased below [banthreshold].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T030805Z" creationid="kakonya" creationdate="20190610T030805Z">
+        <seg>あなたのカルマ[banthreshold]は以下の為、サーバーから禁止されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13554,6 +13594,22 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112942Z" creationid="kakonya" creationdate="20190607T112942Z">
         <seg>既存のワークショップアイテムのアップデートを公開しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your Karma decreased by [karmadecrease].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T030743Z" creationid="kakonya" creationdate="20190610T030743Z">
+        <seg>カルマは、[karmadecrease]減少しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your Karma increased by [karmaincrease].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T030747Z" creationid="kakonya" creationdate="20190610T030747Z">
+        <seg>カルマは、[karmaincrease]増加しました。</seg>
       </tuv>
     </tu>
     <tu>
