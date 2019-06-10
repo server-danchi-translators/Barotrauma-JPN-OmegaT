@@ -5787,6 +5787,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you're interested in what's to come in future updates, click the Campaign Roadmap button below.\n\nWe do, however, recommend that you at least play the single-player tutorial before diving into the multiplayer.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T031349Z" creationid="kakonya" creationdate="20190610T031349Z">
+        <seg>今後のアップデートでどうなるかに興味がある場合は、下の[キャンペーンロードマップ]ボタンをクリックしてください。\n\nマルチプレイヤーに参加する前に、最低でもシングルプレイヤーのチュートリアルをプレイしておきましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If your Karma drops too low, you may not get assigned to certain jobs anymore, or, in more extreme cases, you may be banned from the server.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190610T030727Z" creationid="kakonya" creationdate="20190610T030727Z">
@@ -5823,6 +5831,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T165631Z" creationid="totochan" creationdate="20190609T015046Z">
         <seg>パッシブモードでは、ソナーは探信音を能動的に送信せずに、近くの障害物から反射される音と音のソースのみを聞く。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the current version, playing the game solo can also be more challenging to new players than playing it with other people—even though the AI crew can give you a hand with some tasks, they are usually not as useful as real human players.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T031227Z" creationid="kakonya" creationdate="20190610T031227Z">
+        <seg>現在のバージョンでは、シングルでゲームをプレイすることは、他のプレイヤーとプレイするよりも、難易度が高いことがあります。AIの乗組員にいくつかのタスクを与えることができるけれども、実際の人間のプレーヤーほど有用ではありません。</seg>
       </tuv>
     </tu>
     <tu>
