@@ -4716,6 +4716,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Emergency signal</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T190037Z" creationid="nick2" creationdate="20190610T190037Z">
+        <seg>緊急信号</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Emits gases in alien ruins.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T212349Z" creationid="nick2" creationdate="20190609T212349Z">
@@ -5384,6 +5392,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T023946Z" creationid="kakonya" creationdate="20190608T023925Z">
         <seg>持ち潜水艦の電気室を探し、ドライバー持ちジャンクションボックスを操作し、次に「Repair」ボタンを押して修理します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find the vessel and recover the cargo.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T190035Z" creationid="nick2" creationdate="20190610T190035Z">
+        <seg>船を発見し、貨物を回収してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13156,6 +13172,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The researchers of [location2] are eager to know all the details of the encounter, but seem hesitant to answer any questions regarding the vessel.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T190326Z" creationid="nick2" creationdate="20190610T190326Z">
+        <seg>[location2] の研究者たちは遭遇者の詳細を知りたがっていますが、対象の船についてはこちらから質問してもはぐらかされてしまいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The server has shut down.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190610T183019Z" creationid="nick2" creationdate="20190610T183019Z">
@@ -13440,6 +13464,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190610T010449Z" creationid="kakonya" creationdate="20190610T010334Z">
         <seg>CPRを使用し、蘇生することができます。\n\n ({0})で医療インターフェースに入り、緑色の「蘇生」ボタンをクリックして使用します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They do however offer you 1,000 credits as reimbursement for your troubles.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T190531Z" creationid="nick2" creationdate="20190610T190531Z">
+        <seg>しかし補償金として 1,000 クレジットの支払いを約束しました。</seg>
       </tuv>
     </tu>
     <tu>
