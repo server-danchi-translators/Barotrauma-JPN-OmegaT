@@ -2706,6 +2706,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Colliding with cave walls will damage the hull and cause leaks.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T025104Z" creationid="kakonya" creationdate="20190610T025104Z">
+        <seg>洞窟の壁とぶつかると船体が損傷し、水漏れの原因となります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Color Component</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T194655Z" creationid="nick2" creationdate="20190609T194638Z">
@@ -4767,6 +4775,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T212106Z" creationid="nick2" creationdate="20190609T212106Z">
         <seg>強大なアーティファクトを保持する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For tutorial purposes, this sub will be protected against hull breaches.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T025226Z" creationid="kakonya" creationdate="20190610T025226Z">
+        <seg>今はチュートリアルため、この潜水艦は船体の異常からは保護されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11095,6 +11111,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T104617Z" creationid="kakonya" creationdate="20190607T104617Z">
         <seg>ファブリケーターはいろんな材料を使用し、有用なアイテムに変えることができる装置です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The faster the submarine moves, the more difficult it will be to slow it down.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T024919Z" creationid="kakonya" creationdate="20190610T024919Z">
+        <seg>潜水艦が速く移動するほど、速度を落とすのは難しくなります。</seg>
       </tuv>
     </tu>
     <tu>
