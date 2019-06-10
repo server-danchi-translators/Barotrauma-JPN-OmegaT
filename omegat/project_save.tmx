@@ -7379,6 +7379,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Move slowly and carefully to avoid colliding with the outpost.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T030345Z" creationid="kakonya" creationdate="20190610T030345Z">
+        <seg>前哨地と衝突しないようにゆっくりと慎重に動いてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mud raptors can easily tear their way through metal doors with their sharp beaks.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T012250Z" creationid="nick2" creationdate="20190608T012250Z">
@@ -11403,6 +11411,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The submarine will then be locked into position, and the docking hatch will be open for as long as the docking clamps are engaged.\n\nWhen positioning the submarine for docking, radical movements can easily cause you to overshoot your target.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T030324Z" creationid="kakonya" creationdate="20190610T030324Z">
+        <seg>潜水艦は所定の位置にロックされ、ドッキングクランプがかみ合ってドッキングハッチが開きます。\n\nドッキングを急速に行おうとすると、衝突してしまうでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The suitable treatments list may be inaccurate.</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190609T015213Z" creationid="totochan" creationdate="20190609T015155Z">
@@ -12930,6 +12946,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T171218Z" creationid="nick2" creationdate="20190609T170351Z">
         <seg>電力網に消費量よりも多くの電力が供給されると、電圧が上昇し電気装置に損傷を与える可能性があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the line is fully green, close the clamps by pressing “toggle docking”.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T030135Z" creationid="kakonya" creationdate="20190610T030135Z">
+        <seg>ラインが完全に緑色になったら、「トグルドッキング」を押してクランプを閉じます。</seg>
       </tuv>
     </tu>
     <tu>
