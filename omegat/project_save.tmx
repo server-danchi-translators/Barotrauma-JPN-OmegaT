@@ -2451,6 +2451,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Blood pours freely from this ragged and particularly nasty open wound.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T202459Z" creationid="nick2" creationdate="20190610T202459Z">
+        <seg>ボロボロの大きく開いた傷口から血液が噴出しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Blue Jumpsuit</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T044705Z" creationid="kakonya" creationdate="20190608T044705Z">
@@ -9614,7 +9622,7 @@
       <tuv lang="EN-US">
         <seg>Out of ammo</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190610T201812Z" creationid="nick2" creationdate="20190610T201812Z">
+      <tuv lang="JA" changeid="nick2" changedate="20190610T202121Z" creationid="nick2" creationdate="20190610T201812Z">
         <seg>弾切れ</seg>
       </tuv>
     </tu>
@@ -13140,10 +13148,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The area is an ugly shade of purple, and apparently very painful to touch.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T202236Z" creationid="nick2" creationdate="20190610T202236Z">
+        <seg>患部は紫色に醜く変色しており、触られると痛そうです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The area is blistered and red, and skin is already beginning to peel away in sheets.</seg>
       </tuv>
-      <tuv lang="JA" changeid="kakonya" changedate="20190607T231055Z" creationid="kakonya" creationdate="20190607T231055Z">
-        <seg>この部分は水ぶくれして赤くなっており、皮膚がペロっと剥がれ始めています.</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T202518Z" creationid="kakonya" creationdate="20190607T231055Z">
+        <seg>この部分は水ぶくれして赤くなっており、皮膚がペロっと剥がれ始めています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13904,6 +13920,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T001840Z" creationid="nick2" creationdate="20190608T001840Z">
         <seg>それらはレールガンや高電流が瞬時に必要になる機械類に使用されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They are rendered completely mute, save for occasional clicking sounds apparently emanating from deep within the throat.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T202819Z" creationid="nick2" creationdate="20190610T202819Z">
+        <seg>それは喉の奥から不規則にカチカチと音を鳴らす以外は無音です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16099,6 +16123,14 @@
       </tuv>
       <tuv lang="JA" changeid="Rasiel" changedate="20190609T022048Z" creationid="Rasiel" creationdate="20190609T022048Z">
         <seg>負傷のためあなたは死亡しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You have succumbed to your internal injuries.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T202336Z" creationid="nick2" creationdate="20190610T202336Z">
+        <seg>あなたは内臓損傷に倒れた。</seg>
       </tuv>
     </tu>
     <tu>
