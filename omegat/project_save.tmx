@@ -2275,6 +2275,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Biohazard</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T192221Z" creationid="nick2" creationdate="20190610T192221Z">
+        <seg>バイオハザード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Black Wire</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T184709Z" creationid="nick2" creationdate="20190609T184709Z">
@@ -6076,6 +6084,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Handle with care</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T192423Z" creationid="nick2" creationdate="20190610T192423Z">
+        <seg>取扱注意</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hands</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T140825Z" creationid="totochan" creationdate="20190607T140825Z">
@@ -7744,6 +7760,22 @@
       </tuv>
       <tuv lang="JA" changeid="spears" changedate="20190608T100138Z" creationid="spears" creationdate="20190608T100138Z">
         <seg>ロード中....</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Local researchers are offering [reward] credits for delivering a container of husk parasite eggs to [location2].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T192404Z" creationid="nick2" creationdate="20190610T192404Z">
+        <seg>地元の科学者が、一箱のハスク寄生虫卵を [location2] へ届ける代わりに [reward] クレジットの報酬を持ちかけています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Local researchers are offering [reward] credits for delivering a large amount of nitroglycerin to [location2].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T192500Z" creationid="nick2" creationdate="20190610T192500Z">
+        <seg>地元の科学者が、大量のニトログリセリンを [location2] へ届ける代わりに [reward] クレジットの報酬を持ちかけています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10028,6 +10060,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Praise the honkmother</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T192656Z" creationid="nick2" creationdate="20190610T192656Z">
+        <seg>パフ母を称賛せよ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Praise the honkmother.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T044832Z" creationid="kakonya" creationdate="20190608T044832Z">
@@ -10912,6 +10952,14 @@
       </tuv>
       <tuv lang="JA" changeid="PalZaxson" changedate="20190610T050850Z" creationid="PalZaxson" creationdate="20190610T043623Z">
         <seg>[location1] の研究者たちが以前エウロパで発見されたエイリアンの人工物が発するものと非常によく似た、超低周波の信号を発見した。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Researchersof [location1] need someone to deliver some dangerous chemicals to [location2] for a reward of 250 credits.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T192202Z" creationid="nick2" creationdate="20190610T192202Z">
+        <seg>[location1] の科学者は [location2] へ危険な薬物を配達できる人物を250クレジットの報酬で探しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12908,6 +12956,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The chemicals have been successfully delivered.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T192217Z" creationid="nick2" creationdate="20190610T192217Z">
+        <seg>薬品は無事に配達されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The crew is ready to leave, but they are a bit banged up and someone is unconscious.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190610T020813Z" creationid="kakonya" creationdate="20190610T020813Z">
@@ -13032,6 +13088,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T132737Z" creationid="nick2" creationdate="20190608T132737Z">
         <seg>ホストがあなたのすべての特別な権限を削除しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The husk eggs have been successfully delivered.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T192421Z" creationid="nick2" creationdate="20190610T192421Z">
+        <seg>ハスクの卵は無事に配達されました。</seg>
       </tuv>
     </tu>
     <tu>
