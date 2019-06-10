@@ -7044,6 +7044,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It turns out the signal was emitted by a Moloch.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T185403Z" creationid="nick2" creationdate="20190610T185341Z">
+        <seg>この信号はモロクから発信されたものであることが判明しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It's possible to build voice-controlled systems by linking wifi components to the radio chat in the submarine editor.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T033120Z" creationid="nick2" creationdate="20190608T033120Z">
@@ -12572,6 +12580,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Target</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T185157Z" creationid="nick2" creationdate="20190610T185157Z">
+        <seg>ターゲット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Target down!</seg>
       </tuv>
       <tuv lang="JA" changeid="spears" changedate="20190607T134205Z" creationid="spears" creationdate="20190607T134205Z">
@@ -12648,6 +12664,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190609T002220Z" creationid="kakonya" creationdate="20190609T002220Z">
         <seg>大きな奴だった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The End Worm is dead and the passageway is open for transport again.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T185241Z" creationid="nick2" creationdate="20190610T185241Z">
+        <seg>エンドワームは死亡し、航路は再び輸送のために開かれました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12752,6 +12776,14 @@
       </tuv>
       <tuv lang="JA" changeid="PalZaxson" changedate="20190610T045930Z" creationid="PalZaxson" creationdate="20190610T044116Z">
         <seg>アーティファクトは船上に積まれました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The beast is dead.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T185251Z" creationid="nick2" creationdate="20190610T185251Z">
+        <seg>怪物は死亡しました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13096,6 +13128,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T033129Z" creationid="nick2" creationdate="20190608T033129Z">
         <seg>木星の周りの放射線帯は、エウロパの表面上の永続的な入植地を確立することを不可能にします。そのためほぼ全てのエウロパの前哨基地は、その氷の地殻の下に建築されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The researchers of [location1] have agreed to pay you the reward nevertheless for getting rid of the Moloch.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T185443Z" creationid="nick2" creationdate="20190610T185443Z">
+        <seg>[location1] の研究者たちは、モロク駆除の報酬を支払うことに同意した。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13896,6 +13936,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T103124Z" creationid="kakonya" creationdate="20190607T103124Z">
         <seg>排水するために、近くのポンプをオンにする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Turns out the signal was emitted by a Moloch!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T185526Z" creationid="nick2" creationdate="20190610T185526Z">
+        <seg>信号はモロクにより発信されていたことが判明！</seg>
       </tuv>
     </tu>
     <tu>
