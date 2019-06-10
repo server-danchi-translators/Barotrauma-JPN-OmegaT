@@ -327,6 +327,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A local clown syndicate is offering [reward] credits for delivering a shipment of clowning supplies to [location2].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T192954Z" creationid="nick2" creationdate="20190610T192954Z">
+        <seg>地元のピエロ連合が、ピエロ物資を [location2] へ届ける代わりに [reward] クレジットの報酬を持ちかけています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A machine capable of manufacturing a wide range of items out of basic raw materials.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T115012Z" creationid="kakonya" creationdate="20190607T115012Z">
@@ -10062,8 +10070,8 @@
       <tuv lang="EN-US">
         <seg>Praise the honkmother</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190610T192656Z" creationid="nick2" creationdate="20190610T192656Z">
-        <seg>パフ母を称賛せよ</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T193022Z" creationid="nick2" creationdate="20190610T192656Z">
+        <seg>ホンク母を称賛せよ</seg>
       </tuv>
     </tu>
     <tu>
