@@ -974,6 +974,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ahoy, captain.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T021827Z" creationid="kakonya" creationdate="20190610T021827Z">
+        <seg>オッス、船長。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Aim</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T140248Z" creationid="kakonya" creationdate="20190607T113943Z">
@@ -1502,6 +1510,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T141018Z" creationid="totochan" creationdate="20190607T141018Z">
         <seg>どれか</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Any orders?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T021837Z" creationid="kakonya" creationdate="20190610T021837Z">
+        <seg>他になにか?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2726,6 +2742,22 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T061048Z" creationid="hiru4" creationdate="20190608T061048Z">
         <seg>指令室</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Command the medic to follow</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T022026Z" creationid="kakonya" creationdate="20190610T022026Z">
+        <seg>フォローするメディックを命じます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Commands, part 1</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T022018Z" creationid="kakonya" creationdate="20190610T022018Z">
+        <seg>コマンド, part 1</seg>
       </tuv>
     </tu>
     <tu>
@@ -4547,6 +4579,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Find the medic in the crew list to the left.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T022048Z" creationid="kakonya" creationdate="20190610T022048Z">
+        <seg>左の乗組員リストでメディックを見つけてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Find the sub’s electrical room and repair the junction boxes by interacting with them while holding a screwdriver, then pressing the “Repair” button.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T023946Z" creationid="kakonya" creationdate="20190608T023925Z">
@@ -4959,6 +4999,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190609T005758Z" creationid="kakonya" creationdate="20190609T005758Z">
         <seg>コマンドを与えます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Glad you made it out of there.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T021958Z" creationid="kakonya" creationdate="20190610T021958Z">
+        <seg>作り出すことに喜びを</seg>
       </tuv>
     </tu>
     <tu>
@@ -10851,6 +10899,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The character will now follow you until dismissed by clicking on the button again.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T022123Z" creationid="kakonya" creationdate="20190610T022123Z">
+        <seg>もう一度ボタンをクリックすることで取り消しするまでキャラクターは、あなたに従います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The character will now follow you until dismissed by clicking on the button again.\n\n“Follow” command is only one of many commands you can give to other characters.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190609T011124Z" creationid="kakonya" creationdate="20190609T011124Z">
@@ -11231,6 +11287,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190609T011038Z" creationid="kakonya" creationdate="20190609T011038Z">
         <seg>次に「フォロー」ボタンを見つけてクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then find the “Follow” button in the command interface next to the portraits and click on it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T022103Z" creationid="kakonya" creationdate="20190610T022103Z">
+        <seg>その後、肖像画の横のコマンドインタフェースで、「フォロー」ボタンを見つけ、クリックしてください。</seg>
       </tuv>
     </tu>
     <tu>
