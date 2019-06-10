@@ -4228,6 +4228,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Died of opiate withdrawal.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T203819Z" creationid="nick2" creationdate="20190610T203819Z">
+        <seg>アヘンの離脱症状で死亡しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Died of sufforin poisoning.</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190610T061833Z" creationid="totochan" creationdate="20190610T061833Z">
@@ -13540,10 +13548,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The patient has pinpoint pupils and icy cold skin.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T203923Z" creationid="nick2" creationdate="20190610T203923Z">
+        <seg>患者は瞳孔が全く動かず、肌は氷のように冷たいです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The patient is dazed and unresponsive.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T231935Z" creationid="kakonya" creationdate="20190607T231935Z">
         <seg>意識がなく反応がありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The patient is happy enough...so long as they get what they need.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T204300Z" creationid="nick2" creationdate="20190610T204300Z">
+        <seg>患者は大丈夫なようです。少なくともブツが摂取できている間は...</seg>
       </tuv>
     </tu>
     <tu>
@@ -14024,6 +14048,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T235441Z" creationid="kakonya" creationdate="20190608T235441Z">
         <seg>準備には、充電率を高く（通常は50%で十分）設定し、スーパーキャパシターの電力があることを確認し、弾薬箱をコイルガンローダーに挿入します。\n\nこのコイルガンに装填された弾薬箱は、空っぽです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They struggle to breathe and swallow.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T204022Z" creationid="nick2" creationdate="20190610T204022Z">
+        <seg>呼吸するのにいっぱいいっぱいなようです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16171,6 +16203,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190610T061852Z" creationid="totochan" creationdate="20190610T061852Z">
         <seg>アヘンの過剰摂取で死亡しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You have died of opiate withdrawal.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T203824Z" creationid="nick2" creationdate="20190610T203824Z">
+        <seg>あなたはアヘンの離脱症状で死亡しました。</seg>
       </tuv>
     </tu>
     <tu>
