@@ -3908,6 +3908,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dorsal Coilgun Control</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T032925Z" creationid="kakonya" creationdate="20190610T032925Z">
+        <seg>甲板部コイルガンコントロール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Down</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T140253Z" creationid="totochan" creationdate="20190607T140253Z">
@@ -4864,6 +4872,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T231815Z" creationid="kakonya" creationdate="20190608T231815Z">
         <seg>FRAGグレネード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Front Coilgun Control</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T033035Z" creationid="kakonya" creationdate="20190610T033035Z">
+        <seg>前部コイルガンコントロール</seg>
       </tuv>
     </tu>
     <tu>
@@ -9180,6 +9196,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rear Coilgun Control</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T033002Z" creationid="kakonya" creationdate="20190610T033002Z">
+        <seg>後部コイルガンコントロールRear Coilgun Control</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rear ballast</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T062201Z" creationid="hiru4" creationdate="20190608T062144Z">
@@ -12608,6 +12632,22 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T181132Z" creationid="nick2" creationdate="20190608T181132Z">
         <seg>Velonacepsがく卵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ventral Coilgun Control</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T032854Z" creationid="kakonya" creationdate="20190610T032854Z">
+        <seg>船底部コイルガンコントロール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ventral Railgun Control</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T033100Z" creationid="kakonya" creationdate="20190610T033100Z">
+        <seg>船底部レールガンコントロール</seg>
       </tuv>
     </tu>
     <tu>
