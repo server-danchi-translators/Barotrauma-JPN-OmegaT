@@ -3251,6 +3251,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Could not determine compatibility (unknown game version)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T174610Z" creationid="nick2" creationdate="20190610T174610Z">
+        <seg>互換性の確認に失敗 (ゲームバージョン不明)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Could not determine compatibility with the server because it did not respond to queries.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T174702Z" creationid="nick2" creationdate="20190610T174702Z">
+        <seg>クエリーに応答しなかったため、サーバーとの互換性が確認できませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Could not find any servers.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190609T012535Z" creationid="kakonya" creationdate="20190609T012535Z">
@@ -12800,6 +12816,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T123850Z" creationid="nick2" creationdate="20190608T123850Z">
         <seg>潜水艦がステージの入り口にも出口にも到達していません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The submarine may not be compatible with the currently selected content packages, because it requires the content packages [requiredcontentpackages].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T174543Z" creationid="nick2" creationdate="20190610T174543Z">
+        <seg>この潜水艦は現在のコンテンツパッケージとの互換性が無いかもしれません。次のコンテンツパッケージが必要です: [requiredcontentpackages].</seg>
       </tuv>
     </tu>
     <tu>
