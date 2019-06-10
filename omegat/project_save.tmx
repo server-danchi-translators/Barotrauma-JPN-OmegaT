@@ -185,8 +185,8 @@
       <tuv lang="EN-US">
         <seg>A former military vessel, WH4-L3 'Humpback' has been outfitted to withstand most of the dangers in deep Europa.</seg>
       </tuv>
-      <tuv lang="JA" changeid="kakonya" changedate="20190610T034342Z" creationid="kakonya" creationdate="20190610T034342Z">
-        <seg>旧軍の容器、WH4-L3「ザトウクジラは」深いヨーロッパにおける危険のほとんどに耐えられるように装備されています。</seg>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T034522Z" creationid="kakonya" creationdate="20190610T034342Z">
+        <seg>旧軍の容器、WH4-L3「Humpback」ヨーロッパにおける危険のほとんどに耐えられるような装備品が搭載されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5564,6 +5564,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Her relatively high velocity is offset by low maneuverability.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T034618Z" creationid="kakonya" creationdate="20190610T034618Z">
+        <seg>比較的高い速度は低い機動性によって相殺されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Herself</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T061207Z" creationid="hiru4" creationdate="20190608T061207Z">
@@ -5760,14 +5768,6 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T141324Z" creationid="totochan" creationdate="20190607T141324Z">
         <seg>人間ハスク</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Humpback</seg>
-      </tuv>
-      <tuv lang="JA" changeid="kakonya" changedate="20190610T034145Z" creationid="kakonya" creationdate="20190610T034145Z">
-        <seg>ザトウクジラ</seg>
       </tuv>
     </tu>
     <tu>
