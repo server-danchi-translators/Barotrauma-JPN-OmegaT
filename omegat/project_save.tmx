@@ -6140,6 +6140,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Incompatible content package.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="spears" changedate="20190610T060000Z" creationid="spears" creationdate="20190610T060000Z">
+        <seg>互換性のないコンテンツパッケージ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Increasing the fission rate makes the reactor consume more fuel and generate more heat.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T111531Z" creationid="kakonya" creationdate="20190607T111531Z">
@@ -7444,6 +7452,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Missing content package.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="spears" changedate="20190610T055957Z" creationid="spears" creationdate="20190610T055957Z">
+        <seg>コンテンツパッケージがありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mission</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112524Z" creationid="kakonya" creationdate="20190607T112524Z">
@@ -7968,6 +7984,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T061743Z" creationid="hiru4" creationdate="20190608T061743Z">
         <seg>ミッションが無い</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No name given.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="spears" changedate="20190610T055856Z" creationid="spears" creationdate="20190610T055856Z">
+        <seg>名前が与えられていません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11460,6 +11484,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>That name is taken.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="spears" changedate="20190610T055945Z" creationid="spears" creationdate="20190610T055945Z">
+        <seg>その名前は使われています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>That was a big one.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190609T002220Z" creationid="kakonya" creationdate="20190609T002220Z">
@@ -13711,6 +13743,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You are not on the server's whitelist.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="spears" changedate="20190610T060033Z" creationid="spears" creationdate="20190610T060033Z">
+        <seg>貴方はサーバーのホワイトリストに入っていません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You are now onboard a submarine, which is where you will spend most of your time in Barotrauma.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T014901Z" creationid="kakonya" creationdate="20190608T014901Z">
@@ -13843,6 +13883,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190609T002841Z" creationid="kakonya" creationdate="20190609T002841Z">
         <seg>包帯を持っていませんか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You have been away from keyboard for too long.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="spears" changedate="20190610T060101Z" creationid="spears" creationdate="20190610T060101Z">
+        <seg>あまりにも長い間、キーボードから離れています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14131,6 +14179,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T061939Z" creationid="hiru4" creationdate="20190608T061939Z">
         <seg>名前</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your name contains illegal symbols.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="spears" changedate="20190610T055929Z" creationid="spears" creationdate="20190610T055929Z">
+        <seg>名前に使用不可な記号が含まれています。</seg>
       </tuv>
     </tu>
     <tu>
