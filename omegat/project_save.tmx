@@ -4052,6 +4052,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Editors</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T031758Z" creationid="kakonya" creationdate="20190610T031758Z">
+        <seg>エディター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Elastin</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T201003Z" creationid="nick2" creationdate="20190609T201003Z">
@@ -11480,6 +11488,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T002606Z" creationid="nick2" creationdate="20190608T002606Z">
         <seg>ナビゲーション端末上のソナー画像は、端末がダメージを受けていると不正確になるかもしれません。エンジニアは端末の状態を維持するようにしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The submarine and character editors are modding tools that can be used to expand the core game by creating your own submarines and monsters.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T031913Z" creationid="kakonya" creationdate="20190610T031913Z">
+        <seg>潜水艦とキャラクターエディタはあなた自身の潜水艦とモンスターを作成することによってゲームを拡大するのに使用できる改造ツールです。</seg>
       </tuv>
     </tu>
     <tu>
