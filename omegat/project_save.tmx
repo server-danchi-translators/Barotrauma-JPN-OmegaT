@@ -183,6 +183,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A former military vessel, WH4-L3 'Humpback' has been outfitted to withstand most of the dangers in deep Europa.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T034342Z" creationid="kakonya" creationdate="20190610T034342Z">
+        <seg>旧軍の容器、WH4-L3「ザトウクジラは」深いヨーロッパにおける危険のほとんどに耐えられるように装備されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A handgun powered by alien power cells.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T025833Z" creationid="kakonya" creationdate="20190608T025833Z">
@@ -1755,6 +1763,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Auto Loadout</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T034142Z" creationid="kakonya" creationdate="20190610T034142Z">
+        <seg>オートバックパック内</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Autoban duration:</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190609T020201Z" creationid="totochan" creationdate="20190609T020201Z">
@@ -1863,6 +1879,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T061054Z" creationid="hiru4" creationdate="20190608T061054Z">
         <seg>バラスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ballast hatch</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T034056Z" creationid="kakonya" creationdate="20190610T034047Z">
+        <seg>バラストハッチ</seg>
       </tuv>
     </tu>
     <tu>
@@ -2007,6 +2031,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T183707Z" creationid="nick2" creationdate="20190609T183707Z">
         <seg>ビーコン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Beginner</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T034132Z" creationid="kakonya" creationdate="20190610T034132Z">
+        <seg>初心者</seg>
       </tuv>
     </tu>
     <tu>
@@ -2653,8 +2685,8 @@
       <tuv lang="EN-US">
         <seg>Close</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190607T141020Z" creationid="totochan" creationdate="20190607T141020Z">
-        <seg>閉じる</seg>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T034046Z" creationid="totochan" creationdate="20190607T141020Z">
+        <seg>クローズ閉じる</seg>
       </tuv>
     </tu>
     <tu>
@@ -3604,6 +3636,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dimensions</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T034100Z" creationid="kakonya" creationdate="20190610T034100Z">
+        <seg>大きさ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Directional ping</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T170015Z" creationid="totochan" creationdate="20190609T014911Z">
@@ -4000,6 +4040,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T170009Z" creationid="nick2" creationdate="20190608T170009Z">
         <seg>勤務中に飲酒することはお勧めできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Drone control</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T034035Z" creationid="kakonya" creationdate="20190610T034035Z">
+        <seg>ドローン制御</seg>
       </tuv>
     </tu>
     <tu>
@@ -4512,6 +4560,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190609T003155Z" creationid="kakonya" creationdate="20190609T003155Z">
         <seg>全員揃いました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Experienced</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T034135Z" creationid="kakonya" creationdate="20190610T034135Z">
+        <seg>熟練者</seg>
       </tuv>
     </tu>
     <tu>
@@ -5708,6 +5764,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Humpback</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T034145Z" creationid="kakonya" creationdate="20190610T034145Z">
+        <seg>ザトウクジラ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Husk</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T141333Z" creationid="totochan" creationdate="20190607T141333Z">
@@ -6152,6 +6216,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T055925Z" creationid="kakonya" creationdate="20190607T055925Z">
         <seg> {4} でアイテムや機器の使用\n\nカーソルを合わせて {5}でドアを開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Intermediate</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T034134Z" creationid="kakonya" creationdate="20190610T034134Z">
+        <seg>経験者</seg>
       </tuv>
     </tu>
     <tu>
@@ -7372,6 +7444,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Modify the quantity of items to be spawned on the sub initially</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T034140Z" creationid="kakonya" creationdate="20190610T034140Z">
+        <seg>最初潜水艦上にスポーンされるアイテムの数量を変更します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mods that only add things to the Vanilla game (or another core package) should not be marked as core packages.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112925Z" creationid="kakonya" creationdate="20190607T112925Z">
@@ -8060,6 +8140,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Offline</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T034039Z" creationid="kakonya" creationdate="20190610T034039Z">
+        <seg>オフライン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On its own, can be mildly useful in the treatment of internal damage and burns, and slightly more effective for oxygen deprivation.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T170254Z" creationid="nick2" creationdate="20190608T170254Z">
@@ -8092,6 +8180,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Online</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T034038Z" creationid="kakonya" creationdate="20190610T034038Z">
+        <seg>オンライン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Only characters with the specified job will spawn at this spawnpoint.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T173306Z" creationid="nick2" creationdate="20190609T173306Z">
@@ -8112,6 +8208,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113538Z" creationid="kakonya" creationdate="20190607T113538Z">
         <seg>オペーク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T034044Z" creationid="kakonya" creationdate="20190610T034044Z">
+        <seg>オープン</seg>
       </tuv>
     </tu>
     <tu>
@@ -8916,6 +9020,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Preview image</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T034109Z" creationid="kakonya" creationdate="20190610T034109Z">
+        <seg>プレビュー画像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Preview image not found</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T034106Z" creationid="kakonya" creationdate="20190610T034106Z">
+        <seg>プレビュー画像が見つかりません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Previous</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T141121Z" creationid="totochan" creationdate="20190607T141121Z">
@@ -9396,6 +9516,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Recommended crew experience</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T034128Z" creationid="kakonya" creationdate="20190610T034128Z">
+        <seg>推奨乗組員の経験</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recommended crew size</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T034124Z" creationid="kakonya" creationdate="20190610T034124Z">
+        <seg>推奨乗組員の数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Red Wire</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T184743Z" creationid="nick2" creationdate="20190609T184743Z">
@@ -9600,6 +9736,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190610T032139Z" creationid="kakonya" creationdate="20190610T032139Z">
         <seg>バグ報告</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Required content packages</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T034131Z" creationid="kakonya" creationdate="20190610T034131Z">
+        <seg>必要なコンテンツパッケージ</seg>
       </tuv>
     </tu>
     <tu>
@@ -10776,6 +10920,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T001542Z" creationid="nick2" creationdate="20190608T001027Z">
         <seg>設置されたバッテリーには、バッテリーセルを充電するためのドックが付いています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Status</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T034037Z" creationid="kakonya" creationdate="20190610T034037Z">
+        <seg>状態</seg>
       </tuv>
     </tu>
     <tu>
