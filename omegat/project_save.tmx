@@ -6332,6 +6332,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Its operating radius is considerably lower than its more advanced cousins and no weapons on board makes it vulnerable to attacks.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T054200Z" creationid="kakonya" creationdate="20190610T054200Z">
+        <seg>その動作半径は、類似船よりもかなり低く、搭載されている武器がないため、攻撃に対して脆弱です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I’m reading something big on the sonar.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T233332Z" creationid="kakonya" creationdate="20190608T233332Z">
