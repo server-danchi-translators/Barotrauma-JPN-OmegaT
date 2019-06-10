@@ -1087,6 +1087,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Airlock Label</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T061439Z" creationid="totochan" creationdate="20190610T061427Z">
+        <seg>エアロックラベル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alarm Buzzer</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T184118Z" creationid="nick2" creationdate="20190609T184118Z">
@@ -1707,6 +1715,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Arrow Down</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T061456Z" creationid="totochan" creationdate="20190610T061456Z">
+        <seg>下矢印</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Arrow Left</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T061530Z" creationid="totochan" creationdate="20190610T061457Z">
+        <seg>左矢印</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Arrow Right</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T061501Z" creationid="totochan" creationdate="20190610T061501Z">
+        <seg>右矢印</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Arrow Up</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T061454Z" creationid="totochan" creationdate="20190610T061454Z">
+        <seg>上矢印</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Art</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113044Z" creationid="kakonya" creationdate="20190607T113044Z">
@@ -1743,6 +1783,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T173132Z" creationid="nick2" creationdate="20190609T173132Z">
         <seg>割り当てられたジョブ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Assistant</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T061547Z" creationid="totochan" creationdate="20190610T061547Z">
+        <seg>アシスタント</seg>
       </tuv>
     </tu>
     <tu>
@@ -2299,6 +2347,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cabins Label</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T061445Z" creationid="totochan" creationdate="20190610T061445Z">
+        <seg>キャビンラベル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Calcium</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T060400Z" creationid="hiru4" creationdate="20190608T060400Z">
@@ -2447,6 +2503,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113148Z" creationid="kakonya" creationdate="20190607T113148Z">
         <seg>バニラのコンテンツパッケージで定義された潜水艦を編集することはできません！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Captain</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T061534Z" creationid="totochan" creationdate="20190610T061534Z">
+        <seg>キャプテン</seg>
       </tuv>
     </tu>
     <tu>
@@ -4452,6 +4516,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Engineer</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T061536Z" creationid="totochan" creationdate="20190610T061536Z">
+        <seg>エンジニア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Engineering</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T062154Z" creationid="hiru4" creationdate="20190608T062154Z">
@@ -4768,6 +4840,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T133001Z" creationid="nick2" creationdate="20190608T132944Z">
         <seg>ファイル '[filename]' のダウンロードが完了しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File [path] not found.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T061353Z" creationid="totochan" creationdate="20190610T061353Z">
+        <seg>ファイルが見つかりません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7300,6 +7380,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mechanic</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T061538Z" creationid="totochan" creationdate="20190610T061538Z">
+        <seg>メカニック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mechanical Engineering</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190609T020916Z" creationid="totochan" creationdate="20190609T020916Z">
@@ -7332,10 +7420,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Medical Doctor</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T061544Z" creationid="totochan" creationdate="20190610T061544Z">
+        <seg>ドクター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Medical Fabricator</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T115029Z" creationid="kakonya" creationdate="20190607T115029Z">
         <seg>医療用ファブリケーター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Medical Label</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T061450Z" creationid="totochan" creationdate="20190610T061450Z">
+        <seg>医療ラベル</seg>
       </tuv>
     </tu>
     <tu>
@@ -10304,6 +10408,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T060956Z" creationid="hiru4" creationdate="20190608T060956Z">
         <seg>セキュアスチールキャビネット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Security Officer</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T061540Z" creationid="totochan" creationdate="20190610T061540Z">
+        <seg>セキュリティーガード</seg>
       </tuv>
     </tu>
     <tu>
@@ -13360,6 +13472,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T061140Z" creationid="hiru4" creationdate="20190608T061140Z">
         <seg>ウォッチャー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Watchman</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T061611Z" creationid="totochan" creationdate="20190610T061611Z">
+        <seg>ウォッチマン</seg>
       </tuv>
     </tu>
     <tu>
