@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2851,6 +2851,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Command Label</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T061221Z" creationid="totochan" creationdate="20190610T061221Z">
+        <seg>コマンドラベル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Command room</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T061048Z" creationid="hiru4" creationdate="20190608T061048Z">
@@ -3455,6 +3463,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T104910Z" creationid="kakonya" creationdate="20190607T104910Z">
         <seg>デコンストラクタ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Decorative label.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T061208Z" creationid="totochan" creationdate="20190610T061208Z">
+        <seg>装飾ラベル。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4440,6 +4456,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T062154Z" creationid="hiru4" creationdate="20190608T062154Z">
         <seg>エンジニアリング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Engineering Label</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T061205Z" creationid="totochan" creationdate="20190610T061205Z">
+        <seg>エンジニアリングラベル</seg>
       </tuv>
     </tu>
     <tu>
@@ -5524,6 +5548,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Head Angle</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T061254Z" creationid="totochan" creationdate="20190610T061254Z">
+        <seg>ヘッド角度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Head Position</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T061257Z" creationid="totochan" creationdate="20190610T061257Z">
+        <seg>ヘッド位置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Headset</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T044712Z" creationid="kakonya" creationdate="20190608T044712Z">
@@ -6360,6 +6400,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T114412Z" creationid="kakonya" creationdate="20190607T114412Z">
         <seg>アイテム組み立て</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Items</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T061317Z" creationid="totochan" creationdate="20190610T061317Z">
+        <seg>アイテム</seg>
       </tuv>
     </tu>
     <tu>
@@ -11084,6 +11132,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Structures</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T061315Z" creationid="totochan" creationdate="20190610T061315Z">
+        <seg>構造</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Stun</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T231917Z" creationid="totochan" creationdate="20190607T140704Z">
@@ -12448,6 +12504,22 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190609T015210Z" creationid="totochan" creationdate="20190607T140838Z">
         <seg>体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Torso Angle</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T061259Z" creationid="totochan" creationdate="20190610T061259Z">
+        <seg>胴体角度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Torso Position</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T061311Z" creationid="totochan" creationdate="20190610T061311Z">
+        <seg>体幹位置</seg>
       </tuv>
     </tu>
     <tu>
