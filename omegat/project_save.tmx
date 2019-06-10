@@ -39,6 +39,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A Coalition vessel has been dispatched from [location1] to destroy a renegade vessel at the outskirts of [location2].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T200411Z" creationid="nick2" creationdate="20190610T200411Z">
+        <seg>[location2] 外郭付近に確認された反逆船を破壊するため、連合の艦が [location1] から出動しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A bar of enriched fulgurium, for use within a reactor.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T203931Z" creationid="nick2" creationdate="20190609T203913Z">
@@ -2271,6 +2279,30 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T183707Z" creationid="nick2" creationdate="20190609T183707Z">
         <seg>ビーコン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Beacon deployment</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T195713Z" creationid="nick2" creationdate="20190610T195713Z">
+        <seg>ビーコン展開</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Beacon deployment location</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T195951Z" creationid="nick2" creationdate="20190610T195951Z">
+        <seg>ビーコン展開場所</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Beacon successfully deployed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T195959Z" creationid="nick2" creationdate="20190610T195959Z">
+        <seg>ビーコンが正常に展開しました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6212,6 +6244,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Head over to [location2] and drop a beacon to begin the process of colonizing the area.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T195835Z" creationid="nick2" creationdate="20190610T195835Z">
+        <seg>[location2] に向かい、コロニー開拓のためのビーコンを展開してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Headset</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T044712Z" creationid="kakonya" creationdate="20190608T044712Z">
@@ -9748,6 +9788,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Payment is [reward] credits when the beacon starts transmitting</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T200007Z" creationid="nick2" creationdate="20190610T195941Z">
+        <seg>ビーコンの送信が確認出来たら、[reward]クレジットが支払われます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Perform CPR</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190610T010143Z" creationid="kakonya" creationdate="20190610T010143Z">
@@ -11420,6 +11468,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Search and destroy</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T200023Z" creationid="nick2" creationdate="20190610T200023Z">
+        <seg>サーチ アンド デストロイ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Searchlight</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T024501Z" creationid="kakonya" creationdate="20190608T024501Z">
@@ -12944,6 +13000,14 @@
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190608T063106Z" creationid="urakata" creationdate="20190608T062619Z">
         <seg>人員補充船を潜水艦へ合流させるまでにかけられる時間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The antidote has been successfully delivered.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T195710Z" creationid="nick2" creationdate="20190610T195710Z">
+        <seg>解毒剤が無事に配達されました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16019,6 +16083,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T023544Z" creationid="kakonya" creationdate="20190608T023544Z">
         <seg>いくつかの接続ピンとワイヤーが下から突き出ている接続パネルが見えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You'll be paid [reward] credits on delivery.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T195656Z" creationid="nick2" creationdate="20190610T195627Z">
+        <seg>配達に成功すれば[reward]クレジットの報酬が見込めるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
