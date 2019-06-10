@@ -878,6 +878,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Actions such as repairing the submarine, operating devices and killing monsters increase Karma, while actions such as attacking members of your crew or damaging the submarine decrease it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T030634Z" creationid="kakonya" creationdate="20190610T030628Z">
+        <seg>潜水艦の修理、装置の操作、モンスターの殺害などの行為はカルマを増加させますが、乗組員への攻撃や潜水艦の損傷などの行為は減少させます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Active Sonar</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190609T014907Z" creationid="totochan" creationdate="20190609T014907Z">
@@ -5779,6 +5787,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If your Karma drops too low, you may not get assigned to certain jobs anymore, or, in more extreme cases, you may be banned from the server.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T030727Z" creationid="kakonya" creationdate="20190610T030727Z">
+        <seg>カルマがあまりにも低くなると、特定の仕事に割り当てられないかもしれません。もっと極端な場合には、あなたはサーバーから禁止されるかもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If your crewmates start seeing or hearing things others don't see or hear, report it to a medical doctor immediately.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T015142Z" creationid="nick2" creationdate="20190608T015142Z">
@@ -6151,6 +6167,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190609T015422Z" creationid="totochan" creationdate="20190609T015422Z">
         <seg>カルマ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Karma reflects the helpful and harmful actions you've taken while playing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T030558Z" creationid="kakonya" creationdate="20190610T030558Z">
+        <seg>カルマはプレイ中にあなたが取った良いことや悪いことの行動を反映しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11413,8 +11437,8 @@
       <tuv lang="EN-US">
         <seg>The submarine will then be locked into position, and the docking hatch will be open for as long as the docking clamps are engaged.\n\nWhen positioning the submarine for docking, radical movements can easily cause you to overshoot your target.</seg>
       </tuv>
-      <tuv lang="JA" changeid="kakonya" changedate="20190610T030324Z" creationid="kakonya" creationdate="20190610T030324Z">
-        <seg>潜水艦は所定の位置にロックされ、ドッキングクランプがかみ合ってドッキングハッチが開きます。\n\nドッキングを急速に行おうとすると、衝突してしまうでしょう。</seg>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T030351Z" creationid="kakonya" creationdate="20190610T030324Z">
+        <seg>潜水艦は所定の位置にロックされ、ドッキングクランプがかみ合ってドッキングハッチが開きます。\n\nドッキングを急速に行おうとすると、ぶつかってしまうでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12431,6 +12455,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T045539Z" creationid="kakonya" creationdate="20190608T045539Z">
         <seg>問題のある船員を抑制します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using autopilot and “maintain position” is helpful in setting the position you want the submarine to move to.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T030504Z" creationid="kakonya" creationdate="20190610T030504Z">
+        <seg>自動操縦と「位置の維持」を使用すると、潜水艦を移動させたい位置を設定するのに役立ちます。</seg>
       </tuv>
     </tu>
     <tu>
