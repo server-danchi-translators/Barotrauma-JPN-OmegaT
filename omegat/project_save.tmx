@@ -3916,6 +3916,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dorsal Railgun Control</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T033111Z" creationid="kakonya" creationdate="20190610T033111Z">
+        <seg>甲板部レールガンコントロールDorsal Railgun Control</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Down</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T140253Z" creationid="totochan" creationdate="20190607T140253Z">
@@ -4264,6 +4272,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T062408Z" creationid="hiru4" creationdate="20190608T062408Z">
         <seg>エンジン#1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Engine #2</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T033213Z" creationid="kakonya" creationdate="20190610T033213Z">
+        <seg>エンジン#2</seg>
       </tuv>
     </tu>
     <tu>
@@ -4878,8 +4894,16 @@
       <tuv lang="EN-US">
         <seg>Front Coilgun Control</seg>
       </tuv>
-      <tuv lang="JA" changeid="kakonya" changedate="20190610T033035Z" creationid="kakonya" creationdate="20190610T033035Z">
-        <seg>前部コイルガンコントロール</seg>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T033148Z" creationid="kakonya" creationdate="20190610T033035Z">
+        <seg>前方部コイルガンコントロール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Front Railgun Control</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T033138Z" creationid="kakonya" creationdate="20190610T033138Z">
+        <seg>前方部レールガンコントロール</seg>
       </tuv>
     </tu>
     <tu>
@@ -9164,6 +9188,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reactor Shutdown</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T033210Z" creationid="kakonya" creationdate="20190610T033210Z">
+        <seg>原子炉の停止</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reactor room</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T061039Z" creationid="hiru4" creationdate="20190608T061039Z">
@@ -9198,8 +9230,16 @@
       <tuv lang="EN-US">
         <seg>Rear Coilgun Control</seg>
       </tuv>
-      <tuv lang="JA" changeid="kakonya" changedate="20190610T033002Z" creationid="kakonya" creationdate="20190610T033002Z">
-        <seg>後部コイルガンコントロールRear Coilgun Control</seg>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T033154Z" creationid="kakonya" creationdate="20190610T033002Z">
+        <seg>後方部コイルガンコントロールRear Coilgun Control</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rear Railgun Control</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T033144Z" creationid="kakonya" creationdate="20190610T033120Z">
+        <seg>後方部レールガンコントロール</seg>
       </tuv>
     </tu>
     <tu>
@@ -12008,6 +12048,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190609T000233Z" creationid="kakonya" creationdate="20190609T000233Z">
         <seg>コイルガンは、潜望鏡を覗き（{0}）で使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Toggle Docking</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T033201Z" creationid="kakonya" creationdate="20190610T033201Z">
+        <seg>トグルドッキング</seg>
       </tuv>
     </tu>
     <tu>
