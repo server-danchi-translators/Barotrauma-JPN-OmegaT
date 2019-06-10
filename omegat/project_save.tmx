@@ -1343,6 +1343,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All transports through the passageway have been canceled for now and a reward of [reward] has been promised to those who get rid of whatever is causing the seismic activity.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T185156Z" creationid="nick2" creationdate="20190610T184735Z">
+        <seg>今のところ、この航路を通るすべての輸送はキャンセルされており、地震活動の原因となっているものを取り除いたクルーには [reward] の報酬が約束されている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All your unsaved progress will be lost.</seg>
       </tuv>
       <tuv lang="JA" changeid="spears" changedate="20190608T101247Z" creationid="totochan" creationdate="20190607T104422Z">
@@ -11272,6 +11280,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T020556Z" creationid="kakonya" creationdate="20190608T020556Z">
         <seg>オンラインにできるかどうかを確認してから、原子炉を起動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Seismic readings are indicating that something colossal has emerged from the depths of Europa into the passageway between [location1] and [location2].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T184740Z" creationid="nick2" creationdate="20190610T184708Z">
+        <seg>地震の記録から察するに、[[location1] と [location2]の間の航路にエウロパの深部から何か巨大なものが現れたことを示している。</seg>
       </tuv>
     </tu>
     <tu>
