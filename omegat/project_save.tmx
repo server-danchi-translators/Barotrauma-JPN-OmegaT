@@ -9796,6 +9796,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Personnel transport</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T194233Z" creationid="nick2" creationdate="20190610T194233Z">
+        <seg>人員輸送</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Phosphorus</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T175731Z" creationid="nick2" creationdate="20190608T175731Z">
@@ -13180,6 +13188,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The mining crews want to start extracting [resourcename] if you can prove there are enough deposits of it in the area between [location1] and the mining outpost at [location2].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T194836Z" creationid="nick2" creationdate="20190610T194836Z">
+        <seg>採掘隊が [resourcename] の採掘を開始するにあたって、あなたのクルーに [location1] から [location2] の採掘基地までの地域に十分な量の鉱源があるかどうかの調査を依頼してきました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The missing content packages are available in the Steam Workshop, but Steam features are not available if you don't own Barotrauma on Steam.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190610T180806Z" creationid="nick2" creationdate="20190610T180638Z">
@@ -13280,6 +13296,22 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T014430Z" creationid="nick2" creationdate="20190608T014430Z">
         <seg>また、患者は失われた血液を補充するために生理食塩水や血液パックを必要とする場合があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The payment is [reward] credits if you get them there in once piece.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T194439Z" creationid="nick2" creationdate="20190610T194439Z">
+        <seg>対象人物が無事に到着した場合、[reward]クレジットが支払われます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The personnel have been successfully delivered.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T194455Z" creationid="nick2" creationdate="20190610T194455Z">
+        <seg>対象人物が無事に到着しました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13624,6 +13656,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190610T193821Z" creationid="nick2" creationdate="20190610T193821Z">
         <seg>無事に物資を届けることができれば [reward] クレジットを受け取ることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There's [reward] credits if you can get them there.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T194151Z" creationid="nick2" creationdate="20190610T194151Z">
+        <seg>物資が配達された場合、 [reward] のクレジット報酬が受け取れます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14984,6 +15024,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T172338Z" creationid="nick2" creationdate="20190609T172338Z">
         <seg>ウェイポイント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We have a crew member here who needs to get to [location2] in a hurry.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T194335Z" creationid="nick2" creationdate="20190610T194335Z">
+        <seg>[location2] へ急ぎで到達しなければならない人物がいます。</seg>
       </tuv>
     </tu>
     <tu>
