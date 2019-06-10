@@ -3115,6 +3115,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Connection error</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T180844Z" creationid="nick2" creationdate="20190610T180844Z">
+        <seg>接続エラー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Connects an output from one piece of equipment to an input on another.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T184826Z" creationid="nick2" creationdate="20190609T184656Z">
@@ -3259,6 +3267,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Could not connect to master server (request timed out).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T180908Z" creationid="nick2" creationdate="20190610T180908Z">
+        <seg>マスターサーバーに接続できませんでした(要求がタイムアウトしました)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Could not delete file '[file]'!</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T141202Z" creationid="totochan" creationdate="20190607T141202Z">
@@ -3287,6 +3303,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190610T174752Z" creationid="nick2" creationdate="20190610T174702Z">
         <seg>クエリに応答しなかったため、サーバーとの互換性が確認できませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Could not find any servers (not connected to Steam).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T180913Z" creationid="nick2" creationdate="20190610T180839Z">
+        <seg>サーバーが一つも見つかりませんでした(Steamに接続されていません)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4848,6 +4872,30 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T141009Z" creationid="totochan" creationdate="20190607T141009Z">
         <seg>エラー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error while connecting to master server (404 - [masterserverurl] not found)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T181121Z" creationid="nick2" creationdate="20190610T181102Z">
+        <seg>マスターサーバーに接続中にエラーが発生しました (404 - [masterserverurl] not found)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error while connecting to master server (505 - Service Unavailable).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T181148Z" creationid="nick2" creationdate="20190610T181148Z">
+        <seg>マスターサーバーに接続中にエラーが発生しました (505 - Service Unavailable).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error while connecting to master server { [error] }</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T181054Z" creationid="nick2" creationdate="20190610T181054Z">
+        <seg>マスターサーバーに接続中にエラーが発生しました { [error] }</seg>
       </tuv>
     </tu>
     <tu>
