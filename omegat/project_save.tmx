@@ -1323,6 +1323,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alpha Deck</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T033756Z" creationid="kakonya" creationdate="20190610T033756Z">
+        <seg>アルファデッキ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Also a blunt weapon.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T113049Z" creationid="kakonya" creationdate="20190608T113049Z">
@@ -1831,6 +1839,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T060811Z" creationid="hiru4" creationdate="20190608T060811Z">
         <seg>背景ロック4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Backup power array</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T034032Z" creationid="kakonya" creationdate="20190610T034032Z">
+        <seg>バックアップ電源配列</seg>
       </tuv>
     </tu>
     <tu>
@@ -3451,6 +3467,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Delta Deck</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T033800Z" creationid="kakonya" creationdate="20190610T033800Z">
+        <seg>デルタデッキ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dementonite Bar</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T060721Z" creationid="hiru4" creationdate="20190608T060721Z">
@@ -3820,6 +3844,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Docked</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T033803Z" creationid="kakonya" creationdate="20190610T033803Z">
+        <seg>ドッキング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Docked to [outpost].\nUndock before attempting to maneuver the submarine.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T124736Z" creationid="nick2" creationdate="20190608T124722Z">
@@ -3920,6 +3952,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190610T033111Z" creationid="kakonya" creationdate="20190610T033111Z">
         <seg>甲板部レールガンコントロールDorsal Railgun Control</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dorsal camera view</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T033744Z" creationid="kakonya" creationdate="20190610T033744Z">
+        <seg>甲板側カメラビュー</seg>
       </tuv>
     </tu>
     <tu>
@@ -4132,6 +4172,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Emergency</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T033947Z" creationid="kakonya" creationdate="20190610T033947Z">
+        <seg>緊急</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Emergency Light</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T184845Z" creationid="nick2" creationdate="20190609T184845Z">
@@ -4144,6 +4192,22 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T184204Z" creationid="nick2" creationdate="20190609T184204Z">
         <seg>非常サイレン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Emergency door override</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T033929Z" creationid="kakonya" creationdate="20190610T033807Z">
+        <seg>緊急時のドアを無効にする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Emergency hatch override</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T033939Z" creationid="kakonya" creationdate="20190610T033913Z">
+        <seg>緊急ハッチを無効にする</seg>
       </tuv>
     </tu>
     <tu>
@@ -5016,6 +5080,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T061957Z" creationid="hiru4" creationdate="20190608T061957Z">
         <seg>ゲームのバージョン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gamma Deck</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T033758Z" creationid="kakonya" creationdate="20190610T033758Z">
+        <seg>ガンマデッキ</seg>
       </tuv>
     </tu>
     <tu>
@@ -6552,6 +6624,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T140842Z" creationid="totochan" creationdate="20190607T140842Z">
         <seg>下肢</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Let all water drain before exiting</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T033753Z" creationid="kakonya" creationdate="20190610T033753Z">
+        <seg>終了する前に、すべての水抜きをしてみましょう</seg>
       </tuv>
     </tu>
     <tu>
@@ -9204,6 +9284,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reactor temp.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T033747Z" creationid="kakonya" creationdate="20190610T033747Z">
+        <seg>原子炉の温度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reacts violently when in contact with water.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T174132Z" creationid="nick2" creationdate="20190608T174115Z">
@@ -9216,6 +9304,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190609T001812Z" creationid="kakonya" creationdate="20190609T001812Z">
         <seg>コイルガンの準備</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ready to dock</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T033802Z" creationid="kakonya" creationdate="20190610T033802Z">
+        <seg>ドッキングする準備ができました</seg>
       </tuv>
     </tu>
     <tu>
@@ -11020,6 +11116,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Supplies</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T033942Z" creationid="kakonya" creationdate="20190610T033942Z">
+        <seg>備品</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Supplies Cabinet</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T060814Z" creationid="hiru4" creationdate="20190608T060814Z">
@@ -12052,10 +12156,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Toggle Batteries</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T033944Z" creationid="kakonya" creationdate="20190610T033944Z">
+        <seg>トグルバッテリー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Toggle Docking</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190610T033201Z" creationid="kakonya" creationdate="20190610T033201Z">
         <seg>トグルドッキング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Toggle Siren</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T033945Z" creationid="kakonya" creationdate="20190610T033945Z">
+        <seg>トグルサイレン</seg>
       </tuv>
     </tu>
     <tu>
@@ -12696,6 +12816,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190610T033100Z" creationid="kakonya" creationdate="20190610T033100Z">
         <seg>船底部レールガンコントロール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ventral camera view</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T033733Z" creationid="kakonya" creationdate="20190610T033733Z">
+        <seg>船底側カメラビュー</seg>
       </tuv>
     </tu>
     <tu>
@@ -14195,6 +14323,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112833Z" creationid="kakonya" creationdate="20190607T112833Z">
         <seg>投票数[votecount]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>camera view</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T033722Z" creationid="kakonya" creationdate="20190610T033722Z">
+        <seg>カメラビュー</seg>
       </tuv>
     </tu>
     <tu>
