@@ -2075,6 +2075,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ballistic Helmet</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Rasiel" changedate="20190610T085036Z" creationid="Rasiel" creationdate="20190610T085036Z">
+        <seg>防弾ヘルメット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ban range</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T132121Z" creationid="nick2" creationdate="20190608T132121Z">
