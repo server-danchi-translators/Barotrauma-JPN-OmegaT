@@ -11956,6 +11956,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The workhorse of the colonies, these little shuttles have good speed and dive/ascent characteristics, but they are fragile and their low-capacity batteries limit their range somewhat.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T054339Z" creationid="kakonya" creationdate="20190610T054339Z">
+        <seg>コロニーの主力の小さなシャトルは良いスピードと飛び降り/上昇の特徴を持っています。しかし、壊れやすく、バッテリーが低用量のため、移動範囲は制限されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Their heart beats in an alarmingly rapid fashion.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T231829Z" creationid="kakonya" creationdate="20190607T231829Z">
