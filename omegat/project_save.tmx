@@ -5084,10 +5084,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fire in the hole!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T062611Z" creationid="totochan" creationdate="20190610T062611Z">
+        <seg>尻に火が付いた！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fired from alien turrets.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T212317Z" creationid="nick2" creationdate="20190609T212212Z">
         <seg>エイリアンタレットから発射する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Firing!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T062608Z" creationid="totochan" creationdate="20190610T062608Z">
+        <seg>発射！</seg>
       </tuv>
     </tu>
     <tu>
@@ -5836,6 +5852,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hey, we don't need two people at the reactor!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T062549Z" creationid="totochan" creationdate="20190610T062549Z">
+        <seg>おいおい、原子炉にふたりもいらないよ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hide empty servers</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190609T012525Z" creationid="kakonya" creationdate="20190609T012525Z">
@@ -5912,6 +5936,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T140747Z" creationid="totochan" creationdate="20190607T140747Z">
         <seg>長押しで装備を外す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Holding fire!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T062840Z" creationid="totochan" creationdate="20190610T062840Z">
+        <seg>攻撃中止</seg>
       </tuv>
     </tu>
     <tu>
@@ -6060,6 +6092,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I can't find a way to operate the [item]!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T062553Z" creationid="totochan" creationdate="20190610T062553Z">
+        <seg>[item]を動作させるための方法を見つけることができません！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I don't know how to control the [item]!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T062557Z" creationid="totochan" creationdate="20190610T062557Z">
+        <seg>[item]を制御する方法がわかりません！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I don't think anyone needs medical attention at the moment.</seg>
       </tuv>
       <tuv lang="JA" changeid="spears" changedate="20190608T101559Z" creationid="spears" creationdate="20190608T101506Z">
@@ -6092,10 +6140,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I think I got it!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T062639Z" creationid="totochan" creationdate="20190610T062639Z">
+        <seg>理解できたと思う</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I want you to grab what you need to get us online again.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T020030Z" creationid="kakonya" creationdate="20190608T020030Z">
         <seg>必要なものをつかんで、再びオンラインにしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'll man the guns!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T062734Z" creationid="totochan" creationdate="20190610T062734Z">
+        <seg>銃を撃つぞ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'll operate the reactor!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T062710Z" creationid="totochan" creationdate="20190610T062710Z">
+        <seg>原子炉を動かしてやる!</seg>
       </tuv>
     </tu>
     <tu>
@@ -6112,6 +6184,22 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190610T023827Z" creationid="kakonya" creationdate="20190610T023827Z">
         <seg>原子炉を停止します！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'll take care of the reactor!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T062715Z" creationid="totochan" creationdate="20190610T062715Z">
+        <seg>私が原子炉の面倒をみる!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'm ready to fire!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T062753Z" creationid="totochan" creationdate="20190610T062753Z">
+        <seg>撃つ用意ができた!</seg>
       </tuv>
     </tu>
     <tu>
@@ -7152,6 +7240,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T111413Z" creationid="kakonya" creationdate="20190607T111413Z">
         <seg>負荷: [kw] kW</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Loading ammunition to the [itemname]!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T062604Z" creationid="totochan" creationdate="20190610T062604Z">
+        <seg>[itemname]に弾薬を装填！</seg>
       </tuv>
     </tu>
     <tu>
@@ -14979,6 +15075,30 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T123746Z" creationid="nick2" creationdate="20190608T123746Z">
         <seg>[name] の[skillname]スキルが[newlevel]にレベルアップ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[name], fire at will!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T062750Z" creationid="totochan" creationdate="20190610T062750Z">
+        <seg>[name]、好きなように撃て!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[name], hold fire!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T062821Z" creationid="totochan" creationdate="20190610T062821Z">
+        <seg>[name]、攻撃中止!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[name], man the guns!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T062725Z" creationid="totochan" creationdate="20190610T062725Z">
+        <seg>[name]、銃を持って!</seg>
       </tuv>
     </tu>
     <tu>
