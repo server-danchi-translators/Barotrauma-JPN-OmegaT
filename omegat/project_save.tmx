@@ -5606,8 +5606,8 @@
       <tuv lang="EN-US">
         <seg>Get missing packages from Workshop</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190610T180215Z" creationid="nick2" creationdate="20190610T180215Z">
-        <seg>足りないパッケージをワークショップから取得してください。</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T180645Z" creationid="nick2" creationdate="20190610T180215Z">
+        <seg>不足しているパッケージをワークショップから取得してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12036,6 +12036,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Subscribe to the missing content packages in the Steam Workshop and open the Workshop menu where you can download and enable them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T180650Z" creationid="nick2" creationdate="20190610T180422Z">
+        <seg>不足しているコンテンツパッケージをスチームワークショップでサブスクライブし、ワークショップメニューを開いてダウンロードと有効化を行ってください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Subscribed Mods</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T050739Z" creationid="hiru4" creationdate="20190608T050739Z">
@@ -12648,6 +12656,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T015426Z" creationid="nick2" creationdate="20190608T015216Z">
         <seg>ドクターの主な仕事は、乗組員の健康を維持することですが、注射器ガンと毒物の知識も侵入者に対して非常に役立つでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The missing content packages are available in the Steam Workshop, but Steam features are not available if you don't own Barotrauma on Steam.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T180806Z" creationid="nick2" creationdate="20190610T180638Z">
+        <seg>不足しているコンテンツパッケージはスチームワークショップで利用可能ですが、SteamでBarotraumaを所有していない場合はSteamの機能は使用できません。</seg>
       </tuv>
     </tu>
     <tu>
