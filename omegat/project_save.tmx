@@ -3740,10 +3740,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Died of alcohol poisoning.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T061658Z" creationid="totochan" creationdate="20190610T061658Z">
+        <seg>アルコール中毒で死亡しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Died of cyanide poisoning.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T163029Z" creationid="nick2" creationdate="20190608T162706Z">
         <seg>青酸中毒で死亡しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Died of morbusine poisoning.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T061821Z" creationid="totochan" creationdate="20190610T061821Z">
+        <seg>モルビシン中毒で死亡しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Died of opiate overdose.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T061734Z" creationid="totochan" creationdate="20190610T061734Z">
+        <seg>アヘンの過剰摂取で死亡しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Died of sufforin poisoning.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T061833Z" creationid="totochan" creationdate="20190610T061833Z">
+        <seg>スフォリン中毒で死亡しました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5508,6 +5540,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gunshot wound</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T061748Z" creationid="totochan" creationdate="20190610T061748Z">
+        <seg>銃創</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>HONK!</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190609T013759Z" creationid="totochan" creationdate="20190609T013759Z">
@@ -6392,6 +6432,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190610T034134Z" creationid="kakonya" creationdate="20190610T034134Z">
         <seg>経験者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Internal damage</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T061939Z" creationid="totochan" creationdate="20190610T061939Z">
+        <seg>構造損傷e</seg>
       </tuv>
     </tu>
     <tu>
@@ -7748,6 +7796,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Morbusine poisoning</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T061816Z" creationid="totochan" creationdate="20190610T061816Z">
+        <seg>モルビシン中毒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Morphine</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T165911Z" creationid="nick2" creationdate="20190608T165911Z">
@@ -8480,6 +8536,22 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190610T023350Z" creationid="kakonya" creationdate="20190610T023350Z">
         <seg>武器の操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Opiate addiction</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T061902Z" creationid="totochan" creationdate="20190610T061902Z">
+        <seg>アヘン中毒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Opiate overdose</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T061742Z" creationid="totochan" creationdate="20190610T061717Z">
+        <seg>アヘンの過剰摂取</seg>
       </tuv>
     </tu>
     <tu>
@@ -10724,6 +10796,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shot to death.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T061808Z" creationid="totochan" creationdate="20190610T061808Z">
+        <seg>撃たれて死亡</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Show folder</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112926Z" creationid="kakonya" creationdate="20190607T112926Z">
@@ -11464,6 +11544,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T163922Z" creationid="nick2" creationdate="20190608T163922Z">
         <seg>スフォリン解毒剤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sufforin poisoning</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T061824Z" creationid="totochan" creationdate="20190610T061824Z">
+        <seg>スフォリン中毒</seg>
       </tuv>
     </tu>
     <tu>
@@ -14243,6 +14331,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T163033Z" creationid="nick2" creationdate="20190608T162712Z">
         <seg>あなたは青酸中毒で死亡しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You have died of opiate overdose.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T061852Z" creationid="totochan" creationdate="20190610T061852Z">
+        <seg>アヘンの過剰摂取で死亡しています。</seg>
       </tuv>
     </tu>
     <tu>
