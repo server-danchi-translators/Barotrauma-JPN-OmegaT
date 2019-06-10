@@ -10076,6 +10076,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Randomize level seed between rounds</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T173747Z" creationid="nick2" creationdate="20190610T173747Z">
+        <seg>ステージのシード値をラウンド毎ランダム化する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ranged weapons</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190609T000548Z" creationid="kakonya" creationdate="20190609T000548Z">
@@ -12612,6 +12620,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The ocean has claimed [sub] and its crew.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T174318Z" creationid="nick2" creationdate="20190610T174318Z">
+        <seg>海は [sub] とその乗組員を飲み込みました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The only life encountered inside the structures are the biomechanical entities that maintain and guard them.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T010757Z" creationid="nick2" creationdate="20190608T010757Z">
@@ -13728,6 +13744,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T140213Z" creationid="totochan" creationdate="20190607T140213Z">
         <seg>使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use % of players for max traitors</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T173902Z" creationid="nick2" creationdate="20190610T173902Z">
+        <seg>プレイヤーの%を使い裏切り者の最大数を決める。</seg>
       </tuv>
     </tu>
     <tu>
