@@ -3251,6 +3251,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Could not determine compatibility (unknown content package)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T175206Z" creationid="nick2" creationdate="20190610T175206Z">
+        <seg>互換性の確認に失敗 (コンテンツパッケージ不明)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Could not determine compatibility (unknown game version)</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190610T174610Z" creationid="nick2" creationdate="20190610T174610Z">
@@ -3261,8 +3269,8 @@
       <tuv lang="EN-US">
         <seg>Could not determine compatibility with the server because it did not respond to queries.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190610T174702Z" creationid="nick2" creationdate="20190610T174702Z">
-        <seg>クエリーに応答しなかったため、サーバーとの互換性が確認できませんでした。</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T174752Z" creationid="nick2" creationdate="20190610T174702Z">
+        <seg>クエリに応答しなかったため、サーバーとの互換性が確認できませんでした。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13096,6 +13104,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113002Z" creationid="kakonya" creationdate="20190607T113002Z">
         <seg>modはプレイヤーが既に持っているそうしないと、ワークショップのアイテムフォルダにファイルをコピーする必要がありますバニラのファイルを使用する場合、これは望ましいことであろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This may happen if the server is down or if the host has not forwarded their query port, but you may still attempt to connect to the server.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T175134Z" creationid="nick2" creationdate="20190610T175134Z">
+        <seg>サーバがダウンしているか、ホストがクエリポートをフォワードしていない可能性があります。あるいはもう一度接続を試してみても良いかもしれません。</seg>
       </tuv>
     </tu>
     <tu>
