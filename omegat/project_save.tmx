@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -575,6 +575,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A particularly aggressive Hammerhead has been terrorizing vessels traveling between [location1] and [location2].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="PalZaxson" changedate="20190610T050737Z" creationid="PalZaxson" creationdate="20190610T050057Z">
+        <seg>特に攻撃的なハンマーヘッドは[location1] と [location2] の間を航行する船舶を恐怖に陥れている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A particularly aggressive Moloch has been terrorizing vessels traveling between [location1] and [location2].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="PalZaxson" changedate="20190610T050745Z" creationid="PalZaxson" creationdate="20190610T044447Z">
+        <seg>特に攻撃的なモロクは[location1] と [location2] の間を航行する船舶を恐怖に陥れている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A particularly aggressive Tiger Thresher has been terrorizing vessels traveling between [location1] and [location2].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="PalZaxson" changedate="20190610T050742Z" creationid="PalZaxson" creationdate="20190610T045407Z">
+        <seg>特に攻撃的なタイガーサッシャは [location1] と [location2] の間を航行する船舶を恐怖に陥れている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A place to stow your weapons neatly.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T202845Z" creationid="nick2" creationdate="20190609T202839Z">
@@ -643,6 +667,22 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T170816Z" creationid="nick2" creationdate="20190608T170622Z">
         <seg>水生ケシから得られた比較的軽度なオピオイド麻薬。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A reward of [reward] credits has been promised to those who kill the creature.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="PalZaxson" changedate="20190610T044503Z" creationid="PalZaxson" creationdate="20190610T044503Z">
+        <seg>この生物を殺した者には[reward]の報奨金が約束されている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A reward of [reward] credits has been promised to whoever kills the creature.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="PalZaxson" changedate="20190610T050105Z" creationid="PalZaxson" creationdate="20190610T050105Z">
+        <seg>この生物を殺した者には[reward]の報奨金が約束されている。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1759,6 +1799,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T212034Z" creationid="nick2" creationdate="20190609T212034Z">
         <seg>アーティファクトホルダー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Artifact collected</seg>
+      </tuv>
+      <tuv lang="JA" changeid="PalZaxson" changedate="20190610T045931Z" creationid="PalZaxson" creationdate="20190610T043915Z">
+        <seg>アーティファクトが収集されました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5694,8 +5742,8 @@
       <tuv lang="EN-US">
         <seg>Hammerhead</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190608T061150Z" creationid="hiru4" creationdate="20190608T061150Z">
-        <seg>ハンマーヘッドアップディスプレイ</seg>
+      <tuv lang="JA" changeid="PalZaxson" changedate="20190610T050318Z" creationid="hiru4" creationdate="20190608T061150Z">
+        <seg>ハンマーヘッド</seg>
       </tuv>
     </tu>
     <tu>
@@ -6588,6 +6636,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Infrasonic signal</seg>
+      </tuv>
+      <tuv lang="JA" changeid="PalZaxson" changedate="20190610T043846Z" creationid="PalZaxson" creationdate="20190610T043805Z">
+        <seg>超低周波信号</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Initializing Steam client failed (steam_api64.dll not found).</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T141211Z" creationid="totochan" creationdate="20190607T141211Z">
@@ -6680,6 +6736,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113612Z" creationid="kakonya" creationdate="20190607T113549Z">
         <seg>インベントリスケール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Investigate the signal and retrieve the potential artifact.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="PalZaxson" changedate="20190610T050748Z" creationid="PalZaxson" creationdate="20190610T043746Z">
+        <seg>シグナルを調査し潜在的なアーティファクトを取得します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6936,6 +7000,30 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190609T001156Z" creationid="kakonya" creationdate="20190609T001156Z">
         <seg>マッドラプターを殺せ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Killing a Hammerhead</seg>
+      </tuv>
+      <tuv lang="JA" changeid="PalZaxson" changedate="20190610T050003Z" creationid="PalZaxson" creationdate="20190610T050003Z">
+        <seg>ハンマーヘッド討伐</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Killing a Moloch</seg>
+      </tuv>
+      <tuv lang="JA" changeid="PalZaxson" changedate="20190610T044422Z" creationid="PalZaxson" creationdate="20190610T044422Z">
+        <seg>モロク討伐</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Killing a Tiger Thresher</seg>
+      </tuv>
+      <tuv lang="JA" changeid="PalZaxson" changedate="20190610T045351Z" creationid="PalZaxson" creationdate="20190610T045351Z">
+        <seg>タイガーサッシャー討伐</seg>
       </tuv>
     </tu>
     <tu>
@@ -8352,6 +8440,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T210205Z" creationid="nick2" creationdate="20190609T210205Z">
         <seg>ナサノフエイリアンアーティファクト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Navigate the submarine out of the cavern to claim the reward.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="PalZaxson" changedate="20190610T044133Z" creationid="PalZaxson" creationdate="20190610T044133Z">
+        <seg>報酬を請求するため洞窟の外に潜水艦をナビゲートします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10436,6 +10532,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Researchers of [location1] have picked up an infrasonic signal highly similar to those emitted by alien artifacts previously discovered on Europa.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="PalZaxson" changedate="20190610T050850Z" creationid="PalZaxson" creationdate="20190610T043623Z">
+        <seg>[location1] の研究者たちが以前エウロパで発見されたエイリアンの人工物が発するものと非常によく似た、超低周波の信号を発見した。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reset</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T141233Z" creationid="totochan" creationdate="20190607T141233Z">
@@ -10536,6 +10640,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T020741Z" creationid="kakonya" creationdate="20190608T020741Z">
         <seg>キャビネットから装備品を取りだす</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Retrieving the artifact failed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="PalZaxson" changedate="20190610T045933Z" creationid="PalZaxson" creationdate="20190610T043911Z">
+        <seg>アーティファクトの取得に失敗しました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12108,6 +12220,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Target terminated</seg>
+      </tuv>
+      <tuv lang="JA" changeid="PalZaxson" changedate="20190610T050855Z" creationid="PalZaxson" creationdate="20190610T045132Z">
+        <seg>目標は無力化されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Temp Low</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T111516Z" creationid="kakonya" creationdate="20190607T111516Z">
@@ -12172,6 +12292,54 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Hammerhead has been killed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="PalZaxson" changedate="20190610T050733Z" creationid="PalZaxson" creationdate="20190610T050358Z">
+        <seg>ハンマーヘッドは討伐されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Hammerhead is dead.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="PalZaxson" changedate="20190610T050729Z" creationid="PalZaxson" creationdate="20190610T050729Z">
+        <seg>ハンマーヘッドは死んでいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Moloch has been killed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="PalZaxson" changedate="20190610T050853Z" creationid="PalZaxson" creationdate="20190610T044644Z">
+        <seg>モロクは討伐されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Moloch is dead.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="PalZaxson" changedate="20190610T051945Z" creationid="PalZaxson" creationdate="20190610T045211Z">
+        <seg>モロクは死んでいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Thresher is dead.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="PalZaxson" changedate="20190610T045634Z" creationid="PalZaxson" creationdate="20190610T045634Z">
+        <seg>サッシャーは死んでいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Tiger Thresher has been killed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="PalZaxson" changedate="20190610T045612Z" creationid="PalZaxson" creationdate="20190610T045439Z">
+        <seg>タイガーサッシャーは、討伐されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The [loser] vessel has been defeated by the [winner] crew!</seg>
       </tuv>
       <tuv lang="JA" changeid="spears" changedate="20190607T133657Z" creationid="spears" creationdate="20190607T133657Z">
@@ -12200,6 +12368,22 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T231055Z" creationid="kakonya" creationdate="20190607T231055Z">
         <seg>この部分は水ぶくれして赤くなっており、皮膚がペロっと剥がれ始めています.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The artifact has been successfully retrieved.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="PalZaxson" changedate="20190610T045938Z" creationid="PalZaxson" creationdate="20190610T043856Z">
+        <seg>アーティファクトは正常に取得されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The artifact is now on board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="PalZaxson" changedate="20190610T045930Z" creationid="PalZaxson" creationdate="20190610T044116Z">
+        <seg>アーティファクトは船上に積まれました。</seg>
       </tuv>
     </tu>
     <tu>
