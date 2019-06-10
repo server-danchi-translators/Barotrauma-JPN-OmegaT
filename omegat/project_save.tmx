@@ -1159,6 +1159,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Agitation and a tremor are obvious, as are the signs of nausea.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T203753Z" creationid="nick2" creationdate="20190610T203753Z">
+        <seg>興奮状態で震えており、さらに吐き気の兆候もあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ahoy, captain.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190610T021827Z" creationid="kakonya" creationdate="20190610T021827Z">
@@ -4728,6 +4736,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190609T015303Z" creationid="totochan" creationdate="20190609T015303Z">
         <seg>溺死</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Drunk</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T203203Z" creationid="nick2" creationdate="20190610T203203Z">
+        <seg>泥酔</seg>
       </tuv>
     </tu>
     <tu>
@@ -9516,6 +9532,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Opiate withdrawal</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T203525Z" creationid="nick2" creationdate="20190610T203525Z">
+        <seg>アヘン離脱症状</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Opiates such as morphine and fentanyl are an effective way of treating injuries in an emergency, but regular use may eventually lead to a state of addiction and cause dangerous withdrawal symptoms.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T013853Z" creationid="nick2" creationdate="20190608T013853Z">
@@ -13692,6 +13716,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The smell of alcohol rises from them like a vapor, their speech slurs a little, and their eyes fail to focus.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T203459Z" creationid="nick2" creationdate="20190610T203459Z">
+        <seg>相手からまるで蒸気のようにアルコール臭が漂ってきます。喋る話は的を得ず、瞳は据わっています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The so-called husk parasites slowly take over and consume the body of their host, eventually turning them into nothing but an empty exoskeleton controlled by the parasite.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T013058Z" creationid="nick2" creationdate="20190608T013058Z">
@@ -16115,6 +16147,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T231505Z" creationid="kakonya" creationdate="20190607T231505Z">
         <seg>焼死しました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You have died of alcohol poisoning.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T203511Z" creationid="nick2" creationdate="20190610T203511Z">
+        <seg>アルコール中毒で死亡しました。</seg>
       </tuv>
     </tu>
     <tu>
