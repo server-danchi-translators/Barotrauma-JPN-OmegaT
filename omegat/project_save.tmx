@@ -3155,6 +3155,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Content package '[contentpackage]' (MD5: [hash]) required to play on this server.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T175754Z" creationid="nick2" creationdate="20190610T175754Z">
+        <seg>このサーバーに参加するにはコンテンツパッケージ '[contentpackage]' (MD5: [hash]) が必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Content package '[packagename]' cannot be marked as a core package because it does not contain all the required files for a core package.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190608T060248Z" creationid="urakata" creationdate="20190608T060248Z">
@@ -13136,6 +13144,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T103938Z" creationid="kakonya" creationdate="20190607T103938Z">
         <seg>ポンプは水を排水するだけのプログラムがされています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This server is not compatible with your version of Barotrauma ([version] required).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T175423Z" creationid="nick2" creationdate="20190610T175423Z">
+        <seg>このサーバーはあなたのバージョンのBarotraumaと互換性がありません ([version] が必要)</seg>
       </tuv>
     </tu>
     <tu>
