@@ -727,6 +727,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A renegade vessel has been detected at the outskirts of [location2].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T200506Z" creationid="nick2" creationdate="20190610T200506Z">
+        <seg>反逆者の船は [location2] 外郭付近で発見されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A reward of [reward] credits has been promised to any crew who can neutralize it.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190610T184255Z" creationid="nick2" creationdate="20190610T184255Z">
@@ -14248,6 +14256,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T032959Z" creationid="nick2" creationdate="20190608T032959Z">
         <seg>いわゆる"熱水廃棄物"を横断する時は、特別な注意が必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Treason against the Europa Coalition is punishable by death—eliminate the renegades by any means necessary.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T200629Z" creationid="nick2" creationdate="20190610T200629Z">
+        <seg>エウロパ連合に対する反逆行為は死を以って罰されます — いかなる手段を以ってしても対象を排除してください。</seg>
       </tuv>
     </tu>
     <tu>
