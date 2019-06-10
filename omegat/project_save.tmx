@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_11_r10546" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2539,6 +2539,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Captain training</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T063041Z" creationid="totochan" creationdate="20190610T063041Z">
+        <seg>キャプテンのトレーニング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Captain's Cap</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T025835Z" creationid="kakonya" creationdate="20190608T025835Z">
@@ -2687,6 +2695,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T173017Z" creationid="nick2" creationdate="20190609T172947Z">
         <seg>このスポーンポイントでスポーンしたキャラクターは、指定されたタグがIDカードに追加されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Charge Batteries</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T062915Z" creationid="totochan" creationdate="20190610T062915Z">
+        <seg>バッテリーを充電</seg>
       </tuv>
     </tu>
     <tu>
@@ -4596,6 +4612,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Engineer training</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T063036Z" creationid="totochan" creationdate="20190610T063036Z">
+        <seg>エンジニアのトレーニング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Engineering</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T062154Z" creationid="hiru4" creationdate="20190608T062154Z">
@@ -4804,6 +4828,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Extinguish Fires</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T062909Z" creationid="totochan" creationdate="20190610T062909Z">
+        <seg>消火</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>FPGA Circuit</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190609T014451Z" creationid="totochan" creationdate="20190609T014451Z">
@@ -4904,6 +4936,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T200310Z" creationid="nick2" creationdate="20190609T200153Z">
         <seg>現地プログラム型ゲート配列(FPGA) — 様々な電子機器に対応するために再設定が可能な多目的回路。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fight Intruders</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T062912Z" creationid="totochan" creationdate="20190610T062912Z">
+        <seg>侵入者を排除</seg>
       </tuv>
     </tu>
     <tu>
@@ -5140,6 +5180,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fix Leaks</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T062906Z" creationid="totochan" creationdate="20190610T062906Z">
+        <seg>浸水を修理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flare</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T121213Z" creationid="kakonya" creationdate="20190608T121213Z">
@@ -5160,6 +5208,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T121203Z" creationid="kakonya" creationdate="20190608T121203Z">
         <seg>フラッシュライト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Follow</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T062854Z" creationid="totochan" creationdate="20190610T062854Z">
+        <seg>従がわす</seg>
       </tuv>
     </tu>
     <tu>
@@ -5760,6 +5816,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T044712Z" creationid="kakonya" creationdate="20190608T044712Z">
         <seg>ヘッドセット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Heal and Rescue</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T062922Z" creationid="totochan" creationdate="20190610T062922Z">
+        <seg>救助と治療</seg>
       </tuv>
     </tu>
     <tu>
@@ -7116,6 +7180,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Let's go!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T063032Z" creationid="totochan" creationdate="20190610T063032Z">
+        <seg>始めよう！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Letting the submarine's nuclear reactor overheat may cause fires.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T054352Z" creationid="kakonya" creationdate="20190607T054352Z">
@@ -7612,6 +7684,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mechanic training</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T063034Z" creationid="totochan" creationdate="20190610T063034Z">
+        <seg>メカニックトレーニング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mechanical Engineering</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190609T020916Z" creationid="totochan" creationdate="20190609T020916Z">
@@ -7680,6 +7760,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190610T020621Z" creationid="kakonya" creationdate="20190610T020621Z">
         <seg>医療アシスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Medical doctor training</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T063039Z" creationid="totochan" creationdate="20190610T063039Z">
+        <seg>ドクターのトレーニング</seg>
       </tuv>
     </tu>
     <tu>
@@ -8324,6 +8412,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>New Objective</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T063044Z" creationid="totochan" creationdate="20190610T063044Z">
+        <seg>新しい目的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>New campaign</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T061211Z" creationid="hiru4" creationdate="20190608T061211Z">
@@ -8720,6 +8816,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T055358Z" creationid="kakonya" creationdate="20190607T055358Z">
         <seg>近くのボタンを押してドアを開ける</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Operate Pumps</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T062918Z" creationid="totochan" creationdate="20190610T062918Z">
+        <seg>ポンプの操作</seg>
       </tuv>
     </tu>
     <tu>
@@ -10740,6 +10844,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Security officer training</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T063038Z" creationid="totochan" creationdate="20190610T063038Z">
+        <seg>セキュリティ担当者のトレーニング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See if you can get it online, then start up the reactor.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T020556Z" creationid="kakonya" creationdate="20190608T020556Z">
@@ -11520,6 +11632,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T060513Z" creationid="hiru4" creationdate="20190608T060513Z">
         <seg>スチールバー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Steer</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T062903Z" creationid="totochan" creationdate="20190610T062903Z">
+        <seg>操艦</seg>
       </tuv>
     </tu>
     <tu>
@@ -12996,6 +13116,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Training Course</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T063004Z" creationid="totochan" creationdate="20190610T063004Z">
+        <seg>トレーニングコース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Training Course complete!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T063021Z" creationid="totochan" creationdate="20190610T063021Z">
+        <seg>トレーニングを完了！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Trait</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T140927Z" creationid="totochan" creationdate="20190607T140927Z">
@@ -13752,6 +13888,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T140848Z" creationid="totochan" creationdate="20190607T140848Z">
         <seg>腰</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wait</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T062858Z" creationid="totochan" creationdate="20190610T062858Z">
+        <seg>待機</seg>
       </tuv>
     </tu>
     <tu>
