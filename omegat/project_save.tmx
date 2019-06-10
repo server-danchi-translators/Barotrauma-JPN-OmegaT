@@ -13332,6 +13332,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The entry site is a small, dark, bruised hole oozing a little blood.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T204540Z" creationid="nick2" creationdate="20190610T204540Z">
+        <seg>射入口は小さく、黒い穴からは少量の出血が見られます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The executable you have launched is not present in the content package [selectedpackage].</seg>
       </tuv>
       <tuv lang="JA" changeid="spears" changedate="20190608T100319Z" creationid="spears" creationdate="20190608T100319Z">
