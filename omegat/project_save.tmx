@@ -113,8 +113,16 @@
       <tuv lang="EN-US">
         <seg>A consignment of materials for construction needs to be transported to [location2] and the crew chief here is prepared to pay [reward] credits for your trouble.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190610T193552Z" creationid="nick2" creationdate="20190610T193552Z">
-        <seg>建設のための物資を [location2] まで委託配達する必要があり、地元のクルーチーフは [reward] クレジットを報酬として支払う準備ができています。</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T193632Z" creationid="nick2" creationdate="20190610T193552Z">
+        <seg>建設のための物資が [location2] まで委託配達される必要があり、地元のクルーチーフは [reward] クレジットを報酬として支払う準備ができています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A consignment of medical items needs to be transported to [location2].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T194112Z" creationid="nick2" creationdate="20190610T193918Z">
+        <seg>医療品の委託配達を[location2]までする必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8244,6 +8252,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Medical item transport</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T193827Z" creationid="nick2" creationdate="20190610T193827Z">
+        <seg>医療品の輸送</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Medicine Cabinet</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T201717Z" creationid="nick2" creationdate="20190609T201717Z">
@@ -8358,8 +8374,8 @@
       <tuv lang="EN-US">
         <seg>Mining outpost material transport</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190610T193206Z" creationid="nick2" creationdate="20190610T193110Z">
-        <seg>前哨基地の為の建設物資</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T193958Z" creationid="nick2" creationdate="20190610T193110Z">
+        <seg>採掘基地への物資配達</seg>
       </tuv>
     </tu>
     <tu>
@@ -13148,6 +13164,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The materials have been successfully delivered.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T193615Z" creationid="nick2" creationdate="20190610T193615Z">
+        <seg>物資は無事に配達されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The medical doctors' main task is to keep the crew in a good shape, but a medic with a syringe gun and a bit of knowhow on poisons can also be very useful in fending off intruders.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T015426Z" creationid="nick2" creationdate="20190608T015216Z">
@@ -13328,6 +13352,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190610T190929Z" creationid="nick2" creationdate="20190610T190326Z">
         <seg>[location2] の研究者たちは遭遇対象の詳細を知りたがっていますが、対象の船についてはこちらから質問してもはぐらかされてしまいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The security team at [location2] needs to be resupplied with materials for weapon fabrication.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T193738Z" creationid="nick2" creationdate="20190610T193738Z">
+        <seg>[location2] のセキュリティチームが武器製作のための追加物資を必要としています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13584,6 +13616,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112922Z" creationid="kakonya" creationdate="20190607T112922Z">
         <seg>常に1つだけ選択されたコアパッケージが存在する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There's [reward] credits for you if you get these supplies to them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T193821Z" creationid="nick2" creationdate="20190610T193821Z">
+        <seg>無事に物資を届けることができれば [reward] クレジットを受け取ることができます。</seg>
       </tuv>
     </tu>
     <tu>
