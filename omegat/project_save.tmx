@@ -11531,6 +11531,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Treat them by highlighting the target character and pressing {0}.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T005727Z" creationid="kakonya" creationdate="20190610T005727Z">
+        <seg> {0}を押して、ハイライトされたターゲットに使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Triphylite</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T171400Z" creationid="nick2" creationdate="20190608T171400Z">
