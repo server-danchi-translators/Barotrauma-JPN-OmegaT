@@ -22,6 +22,15 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>- Explorable locations: As of now, the locations on the campaign map are essentially just menus where you can buy supplies and hire new crew members, but during the Early Access period they will become actual physical locations you can enter and explore.\n\n- Expanded story: You will be able to learn more about the world of Barotrauma by interacting with NPCs and by exploring the outposts and non-man-made locations.\n\n- New mission types: We have plans for several completely new mission types, including personnel transport missions and salvage missions into shipwrecks.\n\n- Balancing: Currently the campaign economy is not very well balanced, but we will start to put more focus into it when we have more of the content in.\n\n- End goal: At the moment it’s not possible to complete the campaign, but in future versions the mysterious location at the center of the map will become reachable...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T031739Z" creationid="kakonya" creationdate="20190610T031739Z">
+        <seg> - 探検可能な場所：現時点では、キャンペーンマップ上の場所は基本的に単なるメニューであり、物資を購入して新しい乗組員を雇うことができますが、アーリーアクセス期間中は実際の物理的な場所になります。\n\nNPCと交流し、前哨地と人造の場所以外を探検することで、Barotraumaの世界についてさらに学ぶことができます。\n\n人員輸送任務や難破船への救助任務を含む、まったく新しい任務の種類をいくつか計画しています。\n\n現在、キャンペーンの経済はあまりバランスが取れていませんが、より多くのコンテンツが含まれている場合は、それに焦点を絞ります。
+\n\n現時点ではキャンペーンを完了することはできませんが、将来のバージョンでは地図の中心にある不思議な場所に到達できるようになるでしょう... </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>.38 caliber.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T231631Z" creationid="kakonya" creationdate="20190608T231631Z">
@@ -2238,6 +2247,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190607T055003Z" creationid="hiru4" creationdate="20190607T055003Z">
         <seg>キャンペーン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Campaign Roadmap</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T031411Z" creationid="kakonya" creationdate="20190610T031411Z">
+        <seg>キャンペーンのロードマップ</seg>
       </tuv>
     </tu>
     <tu>
@@ -5095,6 +5112,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T232959Z" creationid="kakonya" creationdate="20190608T232959Z">
         <seg>よくやった！これはベビークローラーだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Good luck, sailor!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T031406Z" creationid="kakonya" creationdate="20190610T031406Z">
+        <seg>Good luck!!</seg>
       </tuv>
     </tu>
     <tu>
