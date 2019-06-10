@@ -887,6 +887,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A strange chitinous appendage bursts out from your mouth.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T201616Z" creationid="nick2" creationdate="20190610T201616Z">
+        <seg>奇妙な甲殻をもった器官があなたの口から飛び出した。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A strong acid that causes burns when in contact with skin.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T165923Z" creationid="nick2" creationdate="20190608T165923Z">
@@ -9604,6 +9612,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Out of ammo</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T201812Z" creationid="nick2" creationdate="20190610T201812Z">
+        <seg>弾切れ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Out of spears</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T202040Z" creationid="nick2" creationdate="20190610T201805Z">
+        <seg>もう銛が無い</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Out of syringes</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T201823Z" creationid="nick2" creationdate="20190610T201823Z">
+        <seg>もう注射器が無い</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Outpost</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T061638Z" creationid="hiru4" creationdate="20190608T061638Z">
@@ -14468,6 +14500,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>UNAUTHORIZED ACCESS</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T201728Z" creationid="nick2" creationdate="20190610T201711Z">
+        <seg>不正アクセス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>UPnP can be used for forwarding ports on your router to allow players to join the server.</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T104454Z" creationid="totochan" creationdate="20190607T104454Z">
@@ -14744,6 +14784,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T232007Z" creationid="kakonya" creationdate="20190608T232007Z">
         <seg>慎重に使用してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use it to inject eggs into a living body by pressing [Attack]!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T201645Z" creationid="nick2" creationdate="20190610T201645Z">
+        <seg>[Attack]キーで他人に卵を植え付けよう!</seg>
       </tuv>
     </tu>
     <tu>
@@ -15871,6 +15919,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You feel something moving in your throat.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T201551Z" creationid="nick2" creationdate="20190610T201551Z">
+        <seg>あなたの喉で何かが動き回っている感じがする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You have been away from keyboard for too long.</seg>
       </tuv>
       <tuv lang="JA" changeid="spears" changedate="20190610T060101Z" creationid="spears" creationdate="20190610T060101Z">
@@ -16167,6 +16223,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You try to scream but no sound comes out.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T201606Z" creationid="nick2" creationdate="20190610T201606Z">
+        <seg>叫んでみたが、声はでない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You were disconnected from the server.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T164713Z" creationid="nick2" creationdate="20190609T164713Z">
@@ -16267,6 +16331,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112809Z" creationid="kakonya" creationdate="20190607T112809Z">
         <seg>あなたのアイテム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your muscles are aching</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T201540Z" creationid="nick2" creationdate="20190610T201540Z">
+        <seg>全身の筋肉がうずく。</seg>
       </tuv>
     </tu>
     <tu>
