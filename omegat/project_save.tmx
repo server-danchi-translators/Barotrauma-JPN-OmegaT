@@ -3163,6 +3163,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Content package '[contentpackage]' required to play on this server.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T180038Z" creationid="nick2" creationdate="20190610T180038Z">
+        <seg>このサーバーに参加するにはコンテンツパッケージ '[contentpackage]' が必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Content package '[packagename]' cannot be marked as a core package because it does not contain all the required files for a core package.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190608T060248Z" creationid="urakata" creationdate="20190608T060248Z">
@@ -5592,6 +5600,14 @@
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190608T053115Z" creationid="kakonya" creationdate="20190607T052704Z">
         <seg>発電過多になると、ジャンクションボックスの損傷や、火災の原因になります。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Get missing packages from Workshop</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T180215Z" creationid="nick2" creationdate="20190610T180215Z">
+        <seg>足りないパッケージをワークショップから取得してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14847,6 +14863,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can install the package from the Steam Workshop.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T180146Z" creationid="nick2" creationdate="20190610T180146Z">
+        <seg>このパッケージはスチームワークショップからインストールする事ができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can see load and output values to the right.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T021455Z" creationid="kakonya" creationdate="20190608T021455Z">
@@ -15099,6 +15123,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T235757Z" creationid="kakonya" creationdate="20190608T235757Z">
         <seg>運ぶためには両手が必要で、インベントリにしまうことができません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You need to enable the content package '[contentpackage]' in the game's settings to play on this server.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T180007Z" creationid="nick2" creationdate="20190610T180007Z">
+        <seg>このサーバーに参加するにはコンテンツパッケージ '[contentpackage]' を設定から有効化する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
