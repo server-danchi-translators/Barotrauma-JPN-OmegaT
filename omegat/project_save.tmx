@@ -13348,6 +13348,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The exit wound, however, is a large ragged mess of exposed tissue, and it's pouring blood.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T204726Z" creationid="nick2" creationdate="20190610T204726Z">
+        <seg>しかし射出口は大きく、綻んだ肉片が飛び出て出血しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The explosives have been successfully delivered.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190610T191614Z" creationid="nick2" creationdate="20190610T191614Z">
@@ -13552,6 +13560,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T164652Z" creationid="nick2" creationdate="20190609T164652Z">
         <seg>寄生虫があなたの体を支配しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The patient can't breathe at all, and their heart rate is slowing rapidly.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T204828Z" creationid="nick2" creationdate="20190610T204828Z">
+        <seg>患者は息が全くできず、心拍が衰えてきています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15807,6 +15823,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Without prompt treatment, sufforine poisoning leads to delusions and rapid death.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T205048Z" creationid="nick2" creationdate="20190610T205048Z">
+        <seg>迅速な治療なしでは、スフォリン中毒により急死してしまうでしょう</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Workshop items are only allowed to modify files in the Mod folder or add submarine files to the Submarines folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113005Z" creationid="kakonya" creationdate="20190607T113005Z">
@@ -16203,6 +16227,22 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T163033Z" creationid="nick2" creationdate="20190608T162712Z">
         <seg>あなたは青酸中毒で死亡しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You have died of gunshot wounds.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T204747Z" creationid="nick2" creationdate="20190610T204747Z">
+        <seg>銃創により死亡しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You have died of morbusine poisoning.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T204850Z" creationid="nick2" creationdate="20190610T204850Z">
+        <seg>あなたはモルビシン中毒で死亡しました。</seg>
       </tuv>
     </tu>
     <tu>
