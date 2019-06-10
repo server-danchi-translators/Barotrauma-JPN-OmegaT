@@ -3756,6 +3756,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Died of internal injuries.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T062125Z" creationid="totochan" creationdate="20190610T062125Z">
+        <seg>内蔵損傷で死亡しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Died of morbusine poisoning.</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190610T061821Z" creationid="totochan" creationdate="20190610T061821Z">
@@ -6438,8 +6446,8 @@
       <tuv lang="EN-US">
         <seg>Internal damage</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190610T061939Z" creationid="totochan" creationdate="20190610T061939Z">
-        <seg>構造損傷e</seg>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T062016Z" creationid="totochan" creationdate="20190610T061939Z">
+        <seg>打ち身</seg>
       </tuv>
     </tu>
     <tu>
@@ -8340,6 +8348,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Not breathing</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T062205Z" creationid="totochan" creationdate="20190610T062205Z">
+        <seg>息をしていないNot breathing</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Not only are they abundant in wildlife, but the water currents caused by geothermal activity make navigation even more hazardous.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T033007Z" creationid="nick2" creationdate="20190608T033007Z">
@@ -10036,6 +10052,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Report Fire</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T062235Z" creationid="totochan" creationdate="20190610T062235Z">
+        <seg>報告：火災</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Report Hull Breach</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T062236Z" creationid="totochan" creationdate="20190610T062236Z">
+        <seg>報告：装甲に異常</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Report Intruders</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T062239Z" creationid="totochan" creationdate="20190610T062239Z">
+        <seg>報告：侵入者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Report a bug</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190610T032139Z" creationid="kakonya" creationdate="20190610T032139Z">
@@ -10888,6 +10928,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190609T014913Z" creationid="totochan" creationdate="20190609T014913Z">
         <seg>弱い信号</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Signs of oxygen deprivation</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T062225Z" creationid="totochan" creationdate="20190610T062225Z">
+        <seg>酸欠の兆候が見られる</seg>
       </tuv>
     </tu>
     <tu>
@@ -14419,6 +14467,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T235550Z" creationid="kakonya" creationdate="20190608T235503Z">
         <seg>取り外し</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You suspect a bone might be broken.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T062057Z" creationid="totochan" creationdate="20190610T062057Z">
+        <seg>骨が折れている疑いがあります。</seg>
       </tuv>
     </tu>
     <tu>
