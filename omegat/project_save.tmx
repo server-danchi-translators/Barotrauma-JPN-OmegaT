@@ -3275,6 +3275,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Could not connect to the server.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T181537Z" creationid="nick2" creationdate="20190610T181537Z">
+        <seg>サーバーに接続できませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Could not delete file '[file]'!</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T141202Z" creationid="totochan" creationdate="20190607T141202Z">
@@ -4878,16 +4886,24 @@
       <tuv lang="EN-US">
         <seg>Error while connecting to master server (404 - [masterserverurl] not found)</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190610T181121Z" creationid="nick2" creationdate="20190610T181102Z">
-        <seg>マスターサーバーに接続中にエラーが発生しました (404 - [masterserverurl] not found)</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T181411Z" creationid="nick2" creationdate="20190610T181102Z">
+        <seg>マスターサーバーに接続中にエラーが発生しました (404 - [masterserverurl] が見つかりません)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Error while connecting to master server (505 - Service Unavailable).</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190610T181148Z" creationid="nick2" creationdate="20190610T181148Z">
-        <seg>マスターサーバーに接続中にエラーが発生しました (505 - Service Unavailable).</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T181403Z" creationid="nick2" creationdate="20190610T181148Z">
+        <seg>マスターサーバーに接続中にエラーが発生しました (505 - サービスは利用できません)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error while connecting to master server ([statuscode]: [statusdescription])</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T181534Z" creationid="nick2" creationdate="20190610T181534Z">
+        <seg>マスターサーバーに接続中にエラーが発生しました ([statuscode]: [statusdescription])</seg>
       </tuv>
     </tu>
     <tu>
@@ -5008,6 +5024,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T114934Z" creationid="kakonya" creationdate="20190607T114934Z">
         <seg>ファブリケーター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to resolve address '[serverip]:[port]'.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T181610Z" creationid="nick2" creationdate="20190610T181610Z">
+        <seg>アドレスの解決に失敗しました '[serverip]:[port]'</seg>
       </tuv>
     </tu>
     <tu>
@@ -9644,6 +9668,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Please make sure you have entered a valid IP address.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T181722Z" creationid="nick2" creationdate="20190610T181722Z">
+        <seg>正しいIPアドレスを入力したか確認してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please note that Barotrauma is still in Early Access, and that many aspects of the game are incomplete and still being worked on.\n\nThe Campaign Mode is still lacking many of the features we've planned for the full version, and is not yet as enjoyable as the multiplayer.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190610T030947Z" creationid="kakonya" creationdate="20190610T030947Z">
@@ -9656,6 +9688,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T061241Z" creationid="hiru4" creationdate="20190608T061241Z">
         <seg>潜水艦を選択してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please try again in a few moments.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T181500Z" creationid="nick2" creationdate="20190610T181500Z">
+        <seg>しばらくしてからもう一度お試しください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12696,6 +12736,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190610T005855Z" creationid="kakonya" creationdate="20190610T005845Z">
         <seg>画面の左側にインターフェースのステータスが表示されます。\n\nそこへ適切なアイテムをドラッグしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The master server may be down for maintenance or temporarily overloaded.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T181451Z" creationid="nick2" creationdate="20190610T181451Z">
+        <seg>マスターサーバーは、メンテナンスや一時的な過負荷状態のためにダウンしている可能性があります。</seg>
       </tuv>
     </tu>
     <tu>
