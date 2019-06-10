@@ -8995,6 +8995,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remember to check each limb by selecting them in the medical interface.\n\nMedical supplies are often found in the med bay or storage, along with some basic meds in the supply cabinets scattered throughout the sub.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T021801Z" creationid="kakonya" creationdate="20190610T021801Z">
+        <seg>医療インターフェースでは、体の各部位をチェックしてください。\n\n医療品は薬品室、保管庫や、あちこちの供給キャビネットの中にあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Remember to select the correct limb before administering treatment.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190610T010006Z" creationid="kakonya" creationdate="20190610T010006Z">
@@ -12826,6 +12834,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T171819Z" creationid="nick2" creationdate="20190609T171819Z">
         <seg>また、インベントリのホットキーを押すか、ダブルクリックしてアイテムを使用することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can check each medical item’s description to see what they treat.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T021815Z" creationid="kakonya" creationdate="20190610T021815Z">
+        <seg>インベントリのホットキーを押すか、ダブルクリックしてアイテムを使用することもできます。</seg>
       </tuv>
     </tu>
     <tu>
