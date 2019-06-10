@@ -111,6 +111,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A consignment of materials for construction needs to be transported to [location2] and the crew chief here is prepared to pay [reward] credits for your trouble.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T193552Z" creationid="nick2" creationdate="20190610T193552Z">
+        <seg>建設のための物資を [location2] まで委託配達する必要があり、地元のクルーチーフは [reward] クレジットを報酬として支払う準備ができています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A crawler.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T234531Z" creationid="kakonya" creationdate="20190608T234531Z">
@@ -8348,6 +8356,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mining outpost material transport</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T193206Z" creationid="nick2" creationdate="20190610T193110Z">
+        <seg>前哨基地の為の建設物資</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Minor artifact found in alien ruins.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T210312Z" creationid="nick2" creationdate="20190609T210312Z">
@@ -10070,8 +10086,8 @@
       <tuv lang="EN-US">
         <seg>Praise the honkmother</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190610T193022Z" creationid="nick2" creationdate="20190610T192656Z">
-        <seg>ホンク母を称賛せよ</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T193115Z" creationid="nick2" creationdate="20190610T192656Z">
+        <seg>パフの母を称賛せよ</seg>
       </tuv>
     </tu>
     <tu>
@@ -12968,6 +12984,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190610T192217Z" creationid="nick2" creationdate="20190610T192217Z">
         <seg>薬品は無事に配達されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The clown gear has been successfully delivered.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T193051Z" creationid="nick2" creationdate="20190610T193051Z">
+        <seg>ピエロ物資は無事に配達されました。</seg>
       </tuv>
     </tu>
     <tu>
