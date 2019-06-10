@@ -9099,6 +9099,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Repair Damaged Systems</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T022952Z" creationid="kakonya" creationdate="20190610T022952Z">
+        <seg>故障の修理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Repair all items</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190609T015252Z" creationid="totochan" creationdate="20190609T015252Z">
@@ -11579,6 +11587,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To order repairs, click on the “Repair Damaged Systems” button in the list next to the mechanic’s portrait.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T022940Z" creationid="kakonya" creationdate="20190610T022940Z">
+        <seg>修理をオーダーするには整備士の肖像画の横にあるリストの中のをクリックしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To repair leaks in hulls, equip the welding tool by double-clicking on it.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T102232Z" creationid="kakonya" creationdate="20190607T102232Z">
@@ -13562,6 +13578,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T123746Z" creationid="nick2" creationdate="20190608T123746Z">
         <seg>[name] の[skillname]スキルが[newlevel]にレベルアップ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[name], repair damaged systems!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T023024Z" creationid="kakonya" creationdate="20190610T023024Z">
+        <seg>[name], 故障の修理!</seg>
       </tuv>
     </tu>
     <tu>
