@@ -3787,10 +3787,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dock with destination outpost</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T025550Z" creationid="kakonya" creationdate="20190610T025550Z">
+        <seg>前哨基地とドッキングする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Docked to [outpost].\nUndock before attempting to maneuver the submarine.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T124736Z" creationid="nick2" creationdate="20190608T124722Z">
         <seg>[outpost] にドック中。\n船を動かす前にドック状態を解いてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Docking</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T025412Z" creationid="kakonya" creationdate="20190610T025412Z">
+        <seg>ドッキング</seg>
       </tuv>
     </tu>
     <tu>
