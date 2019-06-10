@@ -8603,6 +8603,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ports are displayed in green on the sonar display.\n\nWhen the ports are close to each other, a line will be shown on the sonar display—use that to your advantage.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T030100Z" creationid="kakonya" creationdate="20190610T030100Z">
+        <seg>ポートはソナーディスプレイに緑色で表示されます。\n\nポートが互いに近づくと、ソナーディスプレイに線が表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Potassium</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T174118Z" creationid="nick2" creationdate="20190608T174118Z">
@@ -11751,6 +11759,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112840Z" creationid="kakonya" creationdate="20190607T112840Z">
         <seg>タイトル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To dock the submarine, maneuver the ship’s and outpost’s docking ports close to each other and toggle the docking clamps.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T025624Z" creationid="kakonya" creationdate="20190610T025624Z">
+        <seg>潜水艦をドッキングするには、船と前哨基地のドッキングポートを互いに近づけ、ドッキングクランプをトグルします。</seg>
       </tuv>
     </tu>
     <tu>
