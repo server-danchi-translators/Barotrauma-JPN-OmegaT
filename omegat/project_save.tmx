@@ -3683,6 +3683,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do that by finding the sonar settings next to the display and setting it from “passive” to “active”.\n\nMove carefully.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T024848Z" creationid="kakonya" creationdate="20190610T024848Z">
+        <seg>ディスプレイの横にあるソナー設定を見つけて、「パッシブ」から「アクティブ」に設定してください。\n\n慎重にね！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do this by dragging the empty boxes away from the loader.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T235629Z" creationid="kakonya" creationdate="20190608T235629Z">
@@ -11175,6 +11183,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T033151Z" creationid="nick2" creationdate="20190608T033151Z">
         <seg>乗組員が身を置く高ストレス環境に対する奇策として、艦に専用のお笑い芸人が雇用された過去がありますが、速やかに失敗とみなされ中止しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The navigation terminal will adjust the ballast and engine’s force accordingly and automatically.\n\nTo see where the sub is heading, turn on active sonar.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T024745Z" creationid="kakonya" creationdate="20190610T024745Z">
+        <seg>ナビゲーション端末は自動的にバラストとエンジンの力を調整します。\n\n潜水艦が向かっている場所を確認するには、アクティブソナーをオンにします。</seg>
       </tuv>
     </tu>
     <tu>
