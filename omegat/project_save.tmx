@@ -321,8 +321,8 @@
       <tuv lang="EN-US">
         <seg>A local arms dealer is offering [reward] credits in exchange for delivering two crates of high explosives to a customer in [location2].</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190610T191105Z" creationid="nick2" creationdate="20190610T191105Z">
-        <seg>地元の武器商人が [reward] credits in exchange for delivering two crates of high explosives to a customer in [location2].</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T191541Z" creationid="nick2" creationdate="20190610T191105Z">
+        <seg>地元の武器商人が、二箱の爆発物を [location2] にいる顧客へ届ける代わりに [reward] クレジットの報酬を持ちかけています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11350,8 +11350,8 @@
       <tuv lang="EN-US">
         <seg>Seismic readings are indicating that something colossal has emerged from the depths of Europa into the passageway between [location1] and [location2].</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190610T184740Z" creationid="nick2" creationdate="20190610T184708Z">
-        <seg>地震の記録から察するに、[[location1] と [location2]の間の航路にエウロパの深部から何か巨大なものが現れたことを示している。</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T191143Z" creationid="nick2" creationdate="20190610T184708Z">
+        <seg>地震の記録から察するに、[location1] と [location2]の間の航路にエウロパの深部から何か巨大なものが現れたことを示している。</seg>
       </tuv>
     </tu>
     <tu>
