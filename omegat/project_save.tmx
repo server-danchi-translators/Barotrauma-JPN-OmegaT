@@ -4243,6 +4243,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Equipping the Health Scanner HUD will let you see who is injured and how.\n\nInspect each patient by pressing {0}, then administer the correct treatment.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T021619Z" creationid="kakonya" creationdate="20190610T021619Z">
+        <seg>ヘルススキャナーを装備すると、誰がどのように怪我をしているかがわかります。\n\n {0}を押して、患者を検査してから正しい治療をしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Error</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T141009Z" creationid="totochan" creationdate="20190607T141009Z">
@@ -4935,6 +4943,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T164720Z" creationid="nick2" creationdate="20190609T164720Z">
         <seg>諦める</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Give medical assistance to everyone who needs it</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T020654Z" creationid="kakonya" creationdate="20190610T020654Z">
+        <seg>必要な人すべてに医療アシストを与えます</seg>
       </tuv>
     </tu>
     <tu>
@@ -6807,6 +6823,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T165957Z" creationid="nick2" creationdate="20190608T165957Z">
         <seg>様々な医薬品の原料として使用される医療アルコール。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Medical assistance</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T020621Z" creationid="kakonya" creationdate="20190610T020621Z">
+        <seg>医療アシスト</seg>
       </tuv>
     </tu>
     <tu>
@@ -10823,6 +10847,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190609T011124Z" creationid="kakonya" creationdate="20190609T011124Z">
         <seg>ボタンをもう一度クリックして解除されるまで、キャラクターはあなたをフォローします。\n\n「フォロー」コマンドは、他のキャラクターに指示できるコマンドの1つにすぎません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The crew is ready to leave, but they are a bit banged up and someone is unconscious.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T020813Z" creationid="kakonya" creationdate="20190610T020813Z">
+        <seg>乗組員は去ろうとしていますが、誰かがやられて意識不明です。</seg>
       </tuv>
     </tu>
     <tu>
