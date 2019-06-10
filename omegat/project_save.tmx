@@ -2778,6 +2778,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Commands, part 4</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T023522Z" creationid="kakonya" creationdate="20190610T023522Z">
+        <seg>コマンド, part 4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Compatible</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T062018Z" creationid="hiru4" creationdate="20190608T062018Z">
@@ -7835,6 +7843,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Operate Weapons</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T023350Z" creationid="kakonya" creationdate="20190610T023350Z">
+        <seg>武器の操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Opiates such as morphine and fentanyl are an effective way of treating injuries in an emergency, but regular use may eventually lead to a state of addiction and cause dangerous withdrawal symptoms.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T013853Z" creationid="nick2" creationdate="20190608T013853Z">
@@ -7879,6 +7895,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T140949Z" creationid="totochan" creationdate="20190607T140949Z">
         <seg>命令</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Order the engineer to power up the reactor</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T023618Z" creationid="kakonya" creationdate="20190610T023618Z">
+        <seg>エンジニアに原子炉の電源を入れさせる</seg>
       </tuv>
     </tu>
     <tu>
@@ -11327,6 +11351,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T012937Z" creationid="kakonya" creationdate="20190607T235227Z">
         <seg> {0}を押し続けて狙いを定め、{1}を押して使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then choose the weapon you want them to operate.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T023514Z" creationid="kakonya" creationdate="20190610T023514Z">
+        <seg>そのあと使用する武器を選んでください。</seg>
       </tuv>
     </tu>
     <tu>
