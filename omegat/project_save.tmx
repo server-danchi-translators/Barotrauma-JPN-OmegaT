@@ -13580,6 +13580,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The patient is confused and has trouble breathing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T205422Z" creationid="nick2" creationdate="20190610T205422Z">
+        <seg>患者は混乱しており、呼吸困難に陥っているようです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The patient is dazed and unresponsive.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T231935Z" creationid="kakonya" creationdate="20190607T231935Z">
@@ -13920,6 +13928,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T231829Z" creationid="kakonya" creationdate="20190607T231829Z">
         <seg>心拍が上がっています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Their skin is red and they have occasional muscle spasms.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T205556Z" creationid="nick2" creationdate="20190610T205556Z">
+        <seg>肌は赤色化し、筋肉が不規則にけいれんしています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15825,8 +15841,8 @@
       <tuv lang="EN-US">
         <seg>Without prompt treatment, sufforine poisoning leads to delusions and rapid death.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190610T205048Z" creationid="nick2" creationdate="20190610T205048Z">
-        <seg>迅速な治療なしでは、スフォリン中毒により急死してしまうでしょう</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T205317Z" creationid="nick2" creationdate="20190610T205048Z">
+        <seg>迅速な治療なしでは、スフォリン中毒により虚妄の後、急死してしまうでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16259,6 +16275,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190610T203824Z" creationid="nick2" creationdate="20190610T203824Z">
         <seg>あなたはアヘンの離脱症状で死亡しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You have died of sufforin poisoning.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T205342Z" creationid="nick2" creationdate="20190610T205342Z">
+        <seg>あなたはスフォリン中毒で死亡しました。</seg>
       </tuv>
     </tu>
     <tu>
