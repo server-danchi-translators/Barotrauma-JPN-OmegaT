@@ -3691,6 +3691,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do this by going into the navigation console and pressing the “Toggle docking” button.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T024317Z" creationid="kakonya" creationdate="20190610T024317Z">
+        <seg>ナビゲーションコンソールに入り「トグルドッキング」ボタンを押すことで行います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do you want to abort the mission and end the round now?</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T123858Z" creationid="nick2" creationdate="20190608T123858Z">
@@ -7475,6 +7483,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Navigate to destination</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T024340Z" creationid="kakonya" creationdate="20190610T024340Z">
+        <seg>目的地に移動する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Navigation</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T024320Z" creationid="kakonya" creationdate="20190610T024320Z">
+        <seg>ナビゲーション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Navigation Terminal</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T114817Z" creationid="kakonya" creationdate="20190607T114817Z">
@@ -8487,6 +8511,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T140138Z" creationid="totochan" creationdate="20190607T140138Z">
         <seg>お待ちください...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Plot a course for the submarine by clicking on the sonar display.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T024636Z" creationid="kakonya" creationdate="20190610T024636Z">
+        <seg>ディスプレイをクリックして、停止位置を選択してください。</seg>
       </tuv>
     </tu>
     <tu>
