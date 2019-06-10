@@ -2770,6 +2770,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Commands, part 3</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T023157Z" creationid="kakonya" creationdate="20190610T023157Z">
+        <seg>コマンド, part 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Compatible</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T062018Z" creationid="hiru4" creationdate="20190608T062018Z">
@@ -7883,6 +7891,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Order the security to man guns</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T023251Z" creationid="kakonya" creationdate="20190610T023227Z">
+        <seg>銃で警備を命じる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Organic Fiber</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T060624Z" creationid="hiru4" creationdate="20190608T060624Z">
@@ -10939,6 +10955,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The character will then patrol and search for any mechanical items in need of repairing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T023150Z" creationid="kakonya" creationdate="20190610T023150Z">
+        <seg>すると、そのキャラクターは、修理が必要な機械を巡回して探します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The crew is ready to leave, but they are a bit banged up and someone is unconscious.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190610T020813Z" creationid="kakonya" creationdate="20190610T020813Z">
@@ -11589,8 +11613,16 @@
       <tuv lang="EN-US">
         <seg>To order repairs, click on the “Repair Damaged Systems” button in the list next to the mechanic’s portrait.</seg>
       </tuv>
-      <tuv lang="JA" changeid="kakonya" changedate="20190610T022940Z" creationid="kakonya" creationdate="20190610T022940Z">
-        <seg>修理をオーダーするには整備士の肖像画の横にあるリストの中のをクリックしてください。</seg>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T023044Z" creationid="kakonya" creationdate="20190610T022940Z">
+        <seg>修理をオーダーするには整備士の肖像画の横にあるリストの中の「故障の修理」をクリックしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To order somebody to man guns, click on the “Operate Weapons” button in the list next to the character’s portrait.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T023343Z" creationid="kakonya" creationdate="20190610T023343Z">
+        <seg>誰かに銃を発射させるには、キャラクターの肖像の横にあるリストの中の「武器の操作」ボタンをクリックしてください。.</seg>
       </tuv>
     </tu>
     <tu>
