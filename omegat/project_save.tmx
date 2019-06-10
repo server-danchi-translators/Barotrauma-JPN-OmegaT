@@ -295,6 +295,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A large crew is needed to operate this submarine.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T060839Z" creationid="kakonya" creationdate="20190610T060839Z">
+        <seg>この潜水艦を操縦するには沢山の乗組員が必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A large wall cap.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190609T003815Z" creationid="kakonya" creationdate="20190609T003815Z">
@@ -1551,6 +1559,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T141018Z" creationid="totochan" creationdate="20190607T141018Z">
         <seg>どれか</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Any captain should be aware of their poor rate of descent and unimpressive top speed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T061101Z" creationid="kakonya" creationdate="20190610T061101Z">
+        <seg>どんな船長でも下降率の悪さと最高速度の遅さを知っているべきです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12592,6 +12608,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T114812Z" creationid="kakonya" creationdate="20190607T114812Z">
         <seg>２個の内臓ボタンで制御</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Typhon class subs are known for their brutish appearance, reasonable array of light and heavy firepower, and their general dependability.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T060932Z" creationid="kakonya" creationdate="20190610T060932Z">
+        <seg>Typhonクラスの潜水艦は、その荒々しい外観、合理的な軽さと重さのパワー、一般的な信頼性で知られています。</seg>
       </tuv>
     </tu>
     <tu>
