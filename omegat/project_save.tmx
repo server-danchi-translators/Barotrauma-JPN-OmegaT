@@ -15439,6 +15439,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You must disable the content package [incompatiblecontentpackage] before joining.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T183913Z" creationid="nick2" creationdate="20190610T183913Z">
+        <seg>サーバーに参加する前にコンテンツパッケージ [incompatiblecontentpackage] を無効化する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You must disable the content packages [incompatiblecontentpackages] before joining.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T183939Z" creationid="nick2" creationdate="20190610T183939Z">
+        <seg>サーバーに参加する前にコンテンツパッケージ [incompatiblecontentpackages] を無効化する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You must use two hands to carry one and they can’t be carried around in the inventory.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T235757Z" creationid="kakonya" creationdate="20190608T235757Z">
@@ -15451,6 +15467,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190610T183747Z" creationid="nick2" creationdate="20190610T183747Z">
         <seg>このサーバーに参加するにはコンテンツパッケージ [missingcontentpackage] が必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You need the content packages [missingcontentpackages] to play on the server.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T183830Z" creationid="nick2" creationdate="20190610T183820Z">
+        <seg>このサーバーに参加するにはコンテンツパッケージ [missingcontentpackages] が必要です。</seg>
       </tuv>
     </tu>
     <tu>
