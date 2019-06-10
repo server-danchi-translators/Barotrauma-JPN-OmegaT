@@ -1874,6 +1874,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bandages heal burns quickly.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T010024Z" creationid="kakonya" creationdate="20190610T010024Z">
+        <seg>包帯は火傷を素早く治します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Banlist</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T114146Z" creationid="kakonya" creationdate="20190607T114146Z">
@@ -4539,6 +4547,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Find them in the highlighted cabinet.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T010049Z" creationid="kakonya" creationdate="20190610T010049Z">
+        <seg>ハイライトされているキャビネットで見つかります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Find what you need to take out these monsters.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T232923Z" creationid="kakonya" creationdate="20190608T232923Z">
@@ -5663,6 +5679,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190609T004522Z" creationid="kakonya" creationdate="20190609T004522Z">
         <seg>この場合、あなたはいくらかの軽い内部ダメージを受けています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this state, their oxygen level falls constantly and when it gets to zero, they die.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T010249Z" creationid="kakonya" creationdate="20190610T010249Z">
+        <seg>そうすると、酸素レベルが下がっていき、０になると死に至ります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8067,6 +8091,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Perform CPR</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T010143Z" creationid="kakonya" creationdate="20190610T010143Z">
+        <seg>CPRを行います</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Performing CPR without adequate medical skills may cause internal damage to the patient.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T013509Z" creationid="nick2" creationdate="20190608T013509Z">
@@ -9175,6 +9207,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112134Z" creationid="totochan" creationdate="20190607T104208Z">
         <seg>続ける</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Resuscitation</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T010139Z" creationid="kakonya" creationdate="20190610T010139Z">
+        <seg>蘇生</seg>
       </tuv>
     </tu>
     <tu>
@@ -11203,6 +11243,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>They can be resuscitated through CPR, which gets them to a stable state.\n\nResuscitate the patient by entering the medical interface ({0}) and clicking the green “resuscitate” button.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T010334Z" creationid="kakonya" creationdate="20190610T010334Z">
+        <seg>CPRを使用し、蘇生することができます。\n\nResuscitate the patient by entering the medical interface ({0}) and clicking the green “resuscitate” button.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>They require fuel to create heat and a crew member to regulate the output.\n\nDrag a fuel rod to the item slot on the left side.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T021221Z" creationid="kakonya" creationdate="20190608T021221Z">
@@ -12448,6 +12496,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T111728Z" creationid="kakonya" creationdate="20190607T111728Z">
         <seg>自動制御がオンのとき、反応器は、自動的に消費電力に応じて自身を調整します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When characters suffer too many injuries, they enter an unconscious state.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T010219Z" creationid="kakonya" creationdate="20190610T010219Z">
+        <seg>重症を負うと、意識がなくなっててしまいます。</seg>
       </tuv>
     </tu>
     <tu>
