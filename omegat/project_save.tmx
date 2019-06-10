@@ -8939,6 +8939,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remember to select the correct limb before administering treatment.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T010006Z" creationid="kakonya" creationdate="20190610T010006Z">
+        <seg>治療を施す前に、正しい部位を選択することを忘れないでください。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Remember to switch the reactor to automatic before you go.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T020135Z" creationid="kakonya" creationdate="20190608T020135Z">
@@ -10871,6 +10879,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T132737Z" creationid="nick2" creationdate="20190608T132737Z">
         <seg>ホストがあなたのすべての特別な権限を削除しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The interface will show their status on the left side of the screen.\n\nDrag the correct item into the medical interface to treat the affliction.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T005855Z" creationid="kakonya" creationdate="20190610T005845Z">
+        <seg>画面の左側にインターフェースのステータスが表示されます。\n\nそこへ適切なアイテムをドラッグしてください。</seg>
       </tuv>
     </tu>
     <tu>
