@@ -41,8 +41,8 @@
       <tuv lang="EN-US">
         <seg>A Coalition vessel has been dispatched from [location1] to destroy a renegade vessel at the outskirts of [location2].</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190610T200411Z" creationid="nick2" creationdate="20190610T200411Z">
-        <seg>[location2] 外郭付近に確認された反逆船を破壊するため、連合の艦が [location1] から出動しました。</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T200831Z" creationid="nick2" creationdate="20190610T200411Z">
+        <seg>[location2] 外郭付近に確認された反逆船を破壊するため、連合の艦が [location1] から出撃しました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1035,6 +1035,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190609T014857Z" creationid="totochan" creationdate="20190609T014823Z">
         <seg>自動操縦で\n停止位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>According to your informants at [location1], a Coalition vessel has just been dispatched on a mission to take down your boat.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T200956Z" creationid="nick2" creationdate="20190610T200820Z">
+        <seg>[location1] に潜伏している情報者によると、あなたの船を破壊するため連合の艦がたった今出撃したようです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2475,6 +2483,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Both crews have perished.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T201142Z" creationid="nick2" creationdate="20190610T201142Z">
+        <seg>両勢力とも消滅しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Brain dead</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190609T015316Z" creationid="totochan" creationdate="20190609T015316Z">
@@ -3079,6 +3095,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T044716Z" creationid="kakonya" creationdate="20190608T044716Z">
         <seg>ピエロマスク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Coalition</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T200925Z" creationid="nick2" creationdate="20190610T200925Z">
+        <seg>連合</seg>
       </tuv>
     </tu>
     <tu>
@@ -4768,6 +4792,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T023801Z" creationid="kakonya" creationdate="20190608T023801Z">
         <seg>電気室</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Eliminate their crew by any means necessary.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T200921Z" creationid="nick2" creationdate="20190610T200921Z">
+        <seg>いかなる手段を以ってしても相手を排除してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10868,6 +10900,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Renegade</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T200939Z" creationid="nick2" creationdate="20190610T200939Z">
+        <seg>反逆者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Repair</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T171944Z" creationid="totochan" creationdate="20190609T015244Z">
@@ -16107,6 +16147,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190610T195656Z" creationid="nick2" creationdate="20190610T195627Z">
         <seg>配達に成功すれば[reward]クレジットの報酬が見込めるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You're a member of a renegade group opposing the Europa Coalition.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T200719Z" creationid="nick2" creationdate="20190610T200719Z">
+        <seg>あなたはエウロパ連合に敵対する反逆者の一人です。</seg>
       </tuv>
     </tu>
     <tu>
