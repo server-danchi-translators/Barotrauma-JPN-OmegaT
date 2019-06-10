@@ -1899,6 +1899,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Aye aye!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T062325Z" creationid="totochan" creationdate="20190610T062325Z">
+        <seg>アイアイサー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Aye!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T062346Z" creationid="totochan" creationdate="20190610T062346Z">
+        <seg>サー!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Back</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T141044Z" creationid="totochan" creationdate="20190607T141044Z">
@@ -2455,6 +2471,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190609T014320Z" creationid="totochan" creationdate="20190609T014320Z">
         <seg>バッテリーよりもずっと早く充電できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Can't reach the target.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T062423Z" creationid="totochan" creationdate="20190610T062423Z">
+        <seg>目標を達成することはできません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3111,6 +3135,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T175654Z" creationid="nick2" creationdate="20190608T175654Z">
         <seg>銅</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copy that.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T062355Z" creationid="totochan" creationdate="20190610T062355Z">
+        <seg>了解。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5484,6 +5516,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Got it!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T062349Z" creationid="totochan" creationdate="20190610T062349Z">
+        <seg>理解した！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Grab</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T114117Z" creationid="kakonya" creationdate="20190607T114117Z">
@@ -5616,6 +5656,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T140825Z" creationid="totochan" creationdate="20190607T140825Z">
         <seg>手</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hands off please!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T062521Z" creationid="totochan" creationdate="20190610T062521Z">
+        <seg>手を貸してくれ！</seg>
       </tuv>
     </tu>
     <tu>
@@ -5776,6 +5824,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T061207Z" creationid="hiru4" creationdate="20190608T061207Z">
         <seg>彼女自身</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hey, I'm operating the reactor!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T062507Z" creationid="totochan" creationdate="20190610T062507Z">
+        <seg>俺は原子炉を稼働させてるよ！</seg>
       </tuv>
     </tu>
     <tu>
@@ -6056,6 +6112,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190610T023827Z" creationid="kakonya" creationdate="20190610T023827Z">
         <seg>原子炉を停止します！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I've got this!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T062544Z" creationid="totochan" creationdate="20190610T062544Z">
+        <seg>別のことをしている！</seg>
       </tuv>
     </tu>
     <tu>
@@ -7088,6 +7152,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T111413Z" creationid="kakonya" creationdate="20190607T111413Z">
         <seg>負荷: [kw] kW</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Loading more fuel to the reactor!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T062501Z" creationid="totochan" creationdate="20190610T062435Z">
+        <seg>原子炉へ、もっと多くの燃料を投入！</seg>
       </tuv>
     </tu>
     <tu>
@@ -8140,6 +8212,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Negative.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T062417Z" creationid="totochan" creationdate="20190610T062417Z">
+        <seg>気に入らない</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>New Game</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T104147Z" creationid="totochan" creationdate="20190607T104147Z">
@@ -8296,6 +8376,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190609T020634Z" creationid="totochan" creationdate="20190609T020634Z">
         <seg>目に見える怪我ありません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No way!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T062420Z" creationid="totochan" creationdate="20190610T062420Z">
+        <seg>とんでもない！</seg>
       </tuv>
     </tu>
     <tu>
@@ -10052,6 +10140,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Report Broken Devices</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T062240Z" creationid="totochan" creationdate="20190610T062240Z">
+        <seg>報告：破損箇所</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Report Fire</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190610T062235Z" creationid="totochan" creationdate="20190610T062235Z">
@@ -10062,8 +10158,8 @@
       <tuv lang="EN-US">
         <seg>Report Hull Breach</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190610T062236Z" creationid="totochan" creationdate="20190610T062236Z">
-        <seg>報告：装甲に異常</seg>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T062310Z" creationid="totochan" creationdate="20190610T062236Z">
+        <seg>報告：隔壁異常</seg>
       </tuv>
     </tu>
     <tu>
@@ -10080,6 +10176,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190610T032139Z" creationid="kakonya" creationdate="20190610T032139Z">
         <seg>バグ報告</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Request First Aid</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T062241Z" creationid="totochan" creationdate="20190610T062241Z">
+        <seg>要請：応急処置</seg>
       </tuv>
     </tu>
     <tu>
@@ -11664,6 +11768,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T060814Z" creationid="hiru4" creationdate="20190608T060814Z">
         <seg>備品箱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sure thing!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T062352Z" creationid="totochan" creationdate="20190610T062352Z">
+        <seg>確実に作業します！</seg>
       </tuv>
     </tu>
     <tu>
@@ -14099,6 +14211,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T140857Z" creationid="totochan" creationdate="20190607T140857Z">
         <seg>すべて、はい</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yes, sir!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190610T062330Z" creationid="totochan" creationdate="20190610T062330Z">
+        <seg>かしこまりました！</seg>
       </tuv>
     </tu>
     <tu>
