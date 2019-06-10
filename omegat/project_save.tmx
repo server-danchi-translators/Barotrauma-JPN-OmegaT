@@ -1707,6 +1707,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As she's still boasting an older model reactor, power needs to be supplemented by a backup battery array or the crew will find themselves unable to run all of the new equipment.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T034756Z" creationid="kakonya" creationdate="20190610T034756Z">
+        <seg>まだ古いモデルの原子炉が搭載されているので、電力は予備のバッテリーアレイによって補われる必要があります、さもなければ乗組員は新しい設備の全てを動かすことができないでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Assigned jobs</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T173132Z" creationid="nick2" creationdate="20190609T173132Z">
