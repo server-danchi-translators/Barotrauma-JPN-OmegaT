@@ -10444,6 +10444,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Psychosis</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T202859Z" creationid="nick2" creationdate="20190610T202859Z">
+        <seg>精神病</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Psychosis Alien Artifact</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T210226Z" creationid="nick2" creationdate="20190609T210226Z">
@@ -12940,6 +12948,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Taken over by a husk parasite.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T202836Z" creationid="nick2" creationdate="20190610T202836Z">
+        <seg>ハスク寄生虫によって支配された。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Taken over by a parasite</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T164526Z" creationid="nick2" creationdate="20190609T164526Z">
@@ -13528,6 +13544,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T014430Z" creationid="nick2" creationdate="20190608T014430Z">
         <seg>また、患者は失われた血液を補充するために生理食塩水や血液パックを必要とする場合があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The patient rants and mutters in an agitated fashion, a steady commentary of unseen events.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T203109Z" creationid="nick2" creationdate="20190610T203109Z">
+        <seg>患者は現実には起こっていない事象を延々と苛ついた様子でブツブツと呟いています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16051,6 +16075,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T133206Z" creationid="nick2" creationdate="20190608T133206Z">
         <seg>サーバーによってミュートされています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You have been taken over by the husk parasite.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T202857Z" creationid="nick2" creationdate="20190610T202857Z">
+        <seg>あなたはハスク寄生虫によって支配された。</seg>
       </tuv>
     </tu>
     <tu>
