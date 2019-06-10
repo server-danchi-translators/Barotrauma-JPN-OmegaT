@@ -5579,6 +5579,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I'll power up the reactor!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T023759Z" creationid="kakonya" creationdate="20190610T023759Z">
+        <seg>原子炉の電源を入れるぞ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'll shut down the reactor!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T023827Z" creationid="kakonya" creationdate="20190610T023827Z">
+        <seg>原子炉を停止します！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>IC-4 Block</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T230810Z" creationid="kakonya" creationdate="20190608T230810Z">
@@ -7839,6 +7855,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T055358Z" creationid="kakonya" creationdate="20190607T055358Z">
         <seg>近くのボタンを押してドアを開ける</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Operate Reactor</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T023703Z" creationid="kakonya" creationdate="20190610T023703Z">
+        <seg>原子炉を操作</seg>
       </tuv>
     </tu>
     <tu>
@@ -11659,6 +11683,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To order somebody to operate the reactor, click on the command interface and choose “Operate Reactor”, then “Power up”.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T024041Z" creationid="kakonya" creationdate="20190610T024041Z">
+        <seg>原子炉を起動を命令するには、 コマンドのインターフェースをクリックして「原子炉の操作」を選択し、「電源を入れる」を選んでください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To repair leaks in hulls, equip the welding tool by double-clicking on it.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T102232Z" creationid="kakonya" creationdate="20190607T102232Z">
@@ -13646,10 +13678,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[name], operate the weapons!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T023839Z" creationid="kakonya" creationdate="20190610T023839Z">
+        <seg>[name],武器の操作!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[name], power up the reactor!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T023749Z" creationid="kakonya" creationdate="20190610T023749Z">
+        <seg>[name], 原子炉の電源を入れる!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[name], repair damaged systems!</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190610T023024Z" creationid="kakonya" creationdate="20190610T023024Z">
         <seg>[name], 故障の修理!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[name], shut down the reactor!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T023813Z" creationid="kakonya" creationdate="20190610T023813Z">
+        <seg>[name], 原子炉の停止!</seg>
       </tuv>
     </tu>
     <tu>
