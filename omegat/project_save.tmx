@@ -1391,6 +1391,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T201155Z" creationid="nick2" creationdate="20190610T201145Z">
+        <seg>すべての</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All Steam features have been disabled—you will not be able to use the Steam Workshop or join servers that use Steam.</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T141218Z" creationid="totochan" creationdate="20190607T141218Z">
@@ -2047,6 +2055,14 @@
       </tuv>
       <tuv lang="JA" changeid="spears" changedate="20190608T100853Z" creationid="spears" creationdate="20190608T100853Z">
         <seg>自動再開遅延：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Aux.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T201310Z" creationid="nick2" creationdate="20190610T201310Z">
+        <seg>補助</seg>
       </tuv>
     </tu>
     <tu>
@@ -4604,6 +4620,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Downloading...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T201233Z" creationid="nick2" creationdate="20190610T201233Z">
+        <seg>ダウンロード中...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Drag the wire to “power” pin, then press {1} to close the panel.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T023614Z" creationid="kakonya" creationdate="20190608T023614Z">
@@ -5264,6 +5288,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190610T190949Z" creationid="nick2" creationdate="20190610T190949Z">
         <seg>爆発物物資</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ext.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T201350Z" creationid="nick2" creationdate="20190610T201350Z">
+        <seg>外部</seg>
       </tuv>
     </tu>
     <tu>
@@ -7212,6 +7244,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It feels as if something was stuck in your throat</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T201532Z" creationid="nick2" creationdate="20190610T201532Z">
+        <seg>喉になにかつっかえてる気がする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is possible that there are other agents on this submarine.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T041703Z" creationid="nick2" creationdate="20190608T041703Z">
@@ -7960,6 +8000,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190609T015104Z" creationid="totochan" creationdate="20190609T015104Z">
         <seg>低電圧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lower Discharge Coil</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T201340Z" creationid="nick2" creationdate="20190610T201340Z">
+        <seg>下部放電コイル</seg>
       </tuv>
     </tu>
     <tu>
@@ -14556,6 +14604,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Upper Discharge Coil</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T201329Z" creationid="nick2" creationdate="20190610T201329Z">
+        <seg>上部放電コイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Upper docking port</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T062449Z" creationid="hiru4" creationdate="20190608T062259Z">
@@ -15807,6 +15863,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You feel feverish</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T201512Z" creationid="nick2" creationdate="20190610T201512Z">
+        <seg>なんだか風邪気味だ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You have been away from keyboard for too long.</seg>
       </tuv>
       <tuv lang="JA" changeid="spears" changedate="20190610T060101Z" creationid="spears" creationdate="20190610T060101Z">
@@ -16243,6 +16307,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T123503Z" creationid="nick2" creationdate="20190608T123503Z">
         <seg>あなたのスキルはアイテムを使用するには不十分かもしれません！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your throat feels sore</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T201459Z" creationid="nick2" creationdate="20190610T201459Z">
+        <seg>喉が痛い</seg>
       </tuv>
     </tu>
     <tu>
