@@ -791,6 +791,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A small cargo vessel went missing approximately two months ago when transporting xenomaterials from [location1] to [location2].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T185628Z" creationid="nick2" creationdate="20190610T185628Z">
+        <seg>約二か月前、 [location1] から [location2]に異種材料を輸送中に小型貨物船が行方不明となった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A small swarm of crawlers has been terrorizing vessels traveling between [location1] and [location2].</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190610T184147Z" creationid="nick2" creationdate="20190610T184147Z">
@@ -11140,6 +11148,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Salvaging a derelict</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T185551Z" creationid="nick2" creationdate="20190610T185551Z">
+        <seg>遺跡でサルベージ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Salvaging an artifact</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T110519Z" creationid="kakonya" creationdate="20190607T110519Z">
@@ -13006,8 +13022,8 @@
       <tuv lang="EN-US">
         <seg>The ocean has claimed [sub] and its crew.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190610T174318Z" creationid="nick2" creationdate="20190610T174318Z">
-        <seg>海は [sub] とその乗組員を飲み込みました。</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T185952Z" creationid="nick2" creationdate="20190610T174318Z">
+        <seg>海は [sub] とその乗組員を飲み込んでしまいました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13304,6 +13320,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T111600Z" creationid="kakonya" creationdate="20190607T111600Z">
         <seg>炉心の温度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The vessel was presumed to be taken by the Abyss, but now its emergency beacon seems to have been activated near [location2].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T190017Z" creationid="nick2" creationdate="20190610T185905Z">
+        <seg>この船は深淵に取り込まれたものと思われていましたが、いまだに[location2]付近で非常ビーコンが作動しているようです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15627,6 +15651,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T235550Z" creationid="kakonya" creationdate="20190608T235503Z">
         <seg>取り外し</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You should navigate out of the cavern and inform the researchers.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T185533Z" creationid="nick2" creationdate="20190610T185533Z">
+        <seg>洞窟の外に移動し、研究者に知らせるべきです。</seg>
       </tuv>
     </tu>
     <tu>
