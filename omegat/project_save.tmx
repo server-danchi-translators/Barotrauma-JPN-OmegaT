@@ -6788,6 +6788,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you can find [quantity] units, you'll be paid a reward of [reward] credits, and you can keep whatever you find.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T195127Z" creationid="nick2" creationdate="20190610T194949Z">
+        <seg>もし [quantity] 個分の鉱脈を見つけた場合、 [reward] を受け取れる上、旅路で見つけた物資はすべてあなたのものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you don't have enough materials for fabrication, you can break down items in the deconstructor.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T234546Z" creationid="kakonya" creationdate="20190607T104819Z">
@@ -13190,8 +13198,8 @@
       <tuv lang="EN-US">
         <seg>The mining crews want to start extracting [resourcename] if you can prove there are enough deposits of it in the area between [location1] and the mining outpost at [location2].</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190610T194836Z" creationid="nick2" creationdate="20190610T194836Z">
-        <seg>採掘隊が [resourcename] の採掘を開始するにあたって、あなたのクルーに [location1] から [location2] の採掘基地までの地域に十分な量の鉱源があるかどうかの調査を依頼してきました。</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T194954Z" creationid="nick2" creationdate="20190610T194836Z">
+        <seg>採掘隊が [resourcename] の採掘を開始するにあたって、あなたのクルーに [location1] から [location2] の採掘基地までの地域に十分な量の鉱脈があるかどうかの調査を依頼してきました。</seg>
       </tuv>
     </tu>
     <tu>
