@@ -607,6 +607,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A range of customization options are available for Remora.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T060601Z" creationid="kakonya" creationdate="20190610T060601Z">
+        <seg>Remoraにはさまざまなカスタマイズオプションがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A rapid-firing turret that propels metal bolts using electromagnets.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T024709Z" creationid="kakonya" creationdate="20190608T024709Z">
@@ -6088,6 +6096,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190609T004522Z" creationid="kakonya" creationdate="20190609T004522Z">
         <seg>この場合、あなたはいくらかの軽い内部ダメージを受けています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this model, some of the main hull space has been replaced by a detachable ballast and a remote-controlled drone.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T060807Z" creationid="kakonya" creationdate="20190610T060807Z">
+        <seg>In this model, some of the main hull space has been replaced by a このモデルでは、主要な船体スペースの一部が、取り外し可能なバラストと遠隔操作ドローンに置き換えられています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13675,6 +13691,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T023050Z" creationid="kakonya" creationdate="20190608T023050Z">
         <seg>配線</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With a relatively high top speed and fantastic ascent and descent characteristics due to her 3 large ballast tanks, Orca class subs are agile vessels, let down only by their small compliment of weapons, unreliable engine and reactors with a greater than average hunger for fuel.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T060458Z" creationid="kakonya" creationdate="20190610T060458Z">
+        <seg>3つの大型バラストタンクを搭載し、比較的高い最高速度と素晴らしい上昇と下降の特徴を持つ、Orca潜水艦は機敏な船です。武器、信頼性の低いエンジン、平均以上の燃料を必要とする原子炉が難点です。</seg>
       </tuv>
     </tu>
     <tu>
