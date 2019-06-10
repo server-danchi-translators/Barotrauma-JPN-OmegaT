@@ -11035,6 +11035,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The process may take a while.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T010552Z" creationid="kakonya" creationdate="20190610T010552Z">
+        <seg>この処理はしばらくの時間を必要とします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The purchased supplies have been delivered to [roomname].</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T124840Z" creationid="nick2" creationdate="20190608T124840Z">
@@ -11245,8 +11253,8 @@
       <tuv lang="EN-US">
         <seg>They can be resuscitated through CPR, which gets them to a stable state.\n\nResuscitate the patient by entering the medical interface ({0}) and clicking the green “resuscitate” button.</seg>
       </tuv>
-      <tuv lang="JA" changeid="kakonya" changedate="20190610T010334Z" creationid="kakonya" creationdate="20190610T010334Z">
-        <seg>CPRを使用し、蘇生することができます。\n\nResuscitate the patient by entering the medical interface ({0}) and clicking the green “resuscitate” button.</seg>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T010449Z" creationid="kakonya" creationdate="20190610T010334Z">
+        <seg>CPRを使用し、蘇生することができます。\n\n ({0})で医療インターフェースに入り、緑色の「蘇生」ボタンをクリックして使用します</seg>
       </tuv>
     </tu>
     <tu>
