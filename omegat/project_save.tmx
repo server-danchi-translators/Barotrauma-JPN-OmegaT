@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_11_r10546" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1517,8 +1517,8 @@
       <tuv lang="EN-US">
         <seg>An atmospheric diving suit capable of withstanding the immense pressure under Europa's crust.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Rasiel" changedate="20190610T085702Z" creationid="Rasiel" creationdate="20190610T085159Z">
-        <seg>ヨーロッパの地殻の様な巨大な圧力にも耐えうる潜水服。</seg>
+      <tuv lang="JA" changeid="Rasiel" changedate="20190610T093455Z" creationid="Rasiel" creationdate="20190610T085159Z">
+        <seg>エウロパの地殻の様な巨大な圧力にも耐えうる潜水服。</seg>
       </tuv>
     </tu>
     <tu>
