@@ -8916,6 +8916,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Non-matching game version.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T183521Z" creationid="nick2" creationdate="20190610T183521Z">
+        <seg>ゲームバージョンが合っていません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>None</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T105127Z" creationid="kakonya" creationdate="20190607T105127Z">
@@ -12020,6 +12028,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Steam authentication is no longer valid ([status]).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T183616Z" creationid="nick2" creationdate="20190610T183616Z">
+        <seg>このSteam認証はもはや有効ではありません([status])</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Steam authentication required.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190610T183103Z" creationid="nick2" creationdate="20190610T183047Z">
@@ -13612,6 +13628,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Too many failed login attempts.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T183456Z" creationid="nick2" creationdate="20190610T183456Z">
+        <seg>ログイン失敗数が多すぎます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Toolbox</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T044707Z" creationid="kakonya" creationdate="20190608T044707Z">
@@ -14304,6 +14328,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190610T033733Z" creationid="kakonya" creationdate="20190610T033733Z">
         <seg>船底側カメラビュー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Version '[version]' required to connect to the server (your version: '[clientversion]').</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T183659Z" creationid="nick2" creationdate="20190610T183659Z">
+        <seg>このサーバーに接続するにはバージョン '[version]' が必要です (あなたのバージョン: '[clientversion]').</seg>
       </tuv>
     </tu>
     <tu>
@@ -15411,6 +15443,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T235757Z" creationid="kakonya" creationdate="20190608T235757Z">
         <seg>運ぶためには両手が必要で、インベントリにしまうことができません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You need the content package [missingcontentpackage] to play on the server.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T183747Z" creationid="nick2" creationdate="20190610T183747Z">
+        <seg>このサーバーに参加するにはコンテンツパッケージ [missingcontentpackage] が必要です。</seg>
       </tuv>
     </tu>
     <tu>
