@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_11_r10546" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11150,8 +11150,8 @@
       <tuv lang="EN-US">
         <seg>Server</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190607T140329Z" creationid="totochan" creationdate="20190607T140329Z">
-        <seg>サーバ</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T173519Z" creationid="totochan" creationdate="20190607T140329Z">
+        <seg>サーバー</seg>
       </tuv>
     </tu>
     <tu>
@@ -11248,6 +11248,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T104158Z" creationid="totochan" creationdate="20190607T104158Z">
         <seg>設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Share submarine files with players</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T173703Z" creationid="nick2" creationdate="20190610T173703Z">
+        <seg>潜水艦ファイルをプレイヤーで共有する</seg>
       </tuv>
     </tu>
     <tu>
@@ -15483,6 +15491,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190610T023813Z" creationid="kakonya" creationdate="20190610T023813Z">
         <seg>[name], 原子炉の停止!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[percentage] % need to be ready</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T173632Z" creationid="nick2" creationdate="20190610T173437Z">
+        <seg>[percentage] % のプレイヤーが準備完了する必要があります</seg>
       </tuv>
     </tu>
     <tu>
