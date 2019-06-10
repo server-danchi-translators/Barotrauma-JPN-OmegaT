@@ -11011,6 +11011,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The character will then tend to the reactor.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T024144Z" creationid="kakonya" creationdate="20190610T024144Z">
+        <seg>そうすると原子炉に向かいます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The crew is ready to leave, but they are a bit banged up and someone is unconscious.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190610T020813Z" creationid="kakonya" creationdate="20190610T020813Z">
@@ -11667,6 +11675,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To get moving, you need to undock the submarine from the outpost.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T024250Z" creationid="kakonya" creationdate="20190610T024250Z">
+        <seg>動くためには、潜水艦をドッキング解除する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To order repairs, click on the “Repair Damaged Systems” button in the list next to the mechanic’s portrait.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190610T023044Z" creationid="kakonya" creationdate="20190610T022940Z">
@@ -11951,6 +11967,22 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T053821Z" creationid="kakonya" creationdate="20190608T053821Z">
         <seg>水中スクーター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Undock from the station</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T024203Z" creationid="kakonya" creationdate="20190610T024203Z">
+        <seg>ステーションからドッキング解除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Undocking</seg>
+      </tuv>
+      <tuv lang="JA" changeid="kakonya" changedate="20190610T024149Z" creationid="kakonya" creationdate="20190610T024149Z">
+        <seg>ドッキング解除</seg>
       </tuv>
     </tu>
     <tu>
