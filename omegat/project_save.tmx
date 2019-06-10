@@ -319,6 +319,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A local arms dealer is offering [reward] credits in exchange for delivering two crates of high explosives to a customer in [location2].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T191105Z" creationid="nick2" creationdate="20190610T191105Z">
+        <seg>地元の武器商人が [reward] credits in exchange for delivering two crates of high explosives to a customer in [location2].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A machine capable of manufacturing a wide range of items out of basic raw materials.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T115012Z" creationid="kakonya" creationdate="20190607T115012Z">
@@ -5132,6 +5140,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Explosive cargo</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T190949Z" creationid="nick2" creationdate="20190610T190949Z">
+        <seg>爆発物物資</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Extinguish Fires</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190610T062909Z" creationid="totochan" creationdate="20190610T062909Z">
@@ -7064,6 +7080,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T022008Z" creationid="kakonya" creationdate="20190608T022008Z">
         <seg>自動制御では負荷のどんな変動にも反応しますが、人間のオペレータよりかなり遅いです。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It seems to be incapacitated now.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T190810Z" creationid="nick2" creationdate="20190610T190810Z">
+        <seg>対象は無力化されたようです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12620,6 +12644,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Target destroyed</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T190545Z" creationid="nick2" creationdate="20190610T190545Z">
+        <seg>目標は破壊されました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Target down!</seg>
       </tuv>
       <tuv lang="JA" changeid="spears" changedate="20190607T134205Z" creationid="spears" creationdate="20190607T134205Z">
@@ -13020,6 +13052,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The missing vessel appears to have been taken over by some sort of parasitic growth and tried to attack your submarine.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T190734Z" creationid="nick2" creationdate="20190610T190734Z">
+        <seg>行方不明となった船は何らかの寄生生物によって支配され、あなたの潜水艦に攻撃してきているようです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The much-ridiculed initiative to help submariners cope in a high-stress environment by including professional entertainers in the crews was promptly deemed a failure and discontinued.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T033151Z" creationid="nick2" creationdate="20190608T033151Z">
@@ -13174,8 +13214,8 @@
       <tuv lang="EN-US">
         <seg>The researchers of [location2] are eager to know all the details of the encounter, but seem hesitant to answer any questions regarding the vessel.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190610T190326Z" creationid="nick2" creationdate="20190610T190326Z">
-        <seg>[location2] の研究者たちは遭遇者の詳細を知りたがっていますが、対象の船についてはこちらから質問してもはぐらかされてしまいます。</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T190929Z" creationid="nick2" creationdate="20190610T190326Z">
+        <seg>[location2] の研究者たちは遭遇対象の詳細を知りたがっていますが、対象の船についてはこちらから質問してもはぐらかされてしまいます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15691,6 +15731,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190610T185533Z" creationid="nick2" creationdate="20190610T185533Z">
         <seg>洞窟の外に移動し、研究者に知らせるべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You should report the incident to [location2].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T190900Z" creationid="nick2" creationdate="20190610T190900Z">
+        <seg>[location2]へ事象を報告するべきです。</seg>
       </tuv>
     </tu>
     <tu>
