@@ -2427,6 +2427,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CONNECTING</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T181730Z" creationid="nick2" creationdate="20190610T181730Z">
+        <seg>接続中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cabins Label</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190610T061445Z" creationid="totochan" creationdate="20190610T061445Z">
@@ -3115,10 +3123,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Connecting failed</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T181838Z" creationid="nick2" creationdate="20190610T181838Z">
+        <seg>接続に失敗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Connecting to [serverip]</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T181849Z" creationid="nick2" creationdate="20190610T181849Z">
+        <seg>[serverip]へ接続中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Connection error</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190610T180844Z" creationid="nick2" creationdate="20190610T180844Z">
         <seg>接続エラー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Connection lost</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T181803Z" creationid="nick2" creationdate="20190610T181803Z">
+        <seg>接続を失いました</seg>
       </tuv>
     </tu>
     <tu>
@@ -4036,6 +4068,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Disconnecting</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T181747Z" creationid="nick2" creationdate="20190610T181747Z">
+        <seg>切断中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Discretion is of utmost concern; sinking the submarine and killing the entire crew will arouse suspicion amongst the fleet.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T041553Z" creationid="nick2" creationdate="20190608T041553Z">
@@ -4168,6 +4208,14 @@
       </tuv>
       <tuv lang="JA" changeid="Rasiel" changedate="20190609T015427Z" creationid="Rasiel" creationdate="20190609T015427Z">
         <seg> [locationname]に入りますか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do you want to join the server queue and wait for a slot to free up?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T182101Z" creationid="nick2" creationdate="20190610T182101Z">
+        <seg>サーバーの順番待ちに参加して、プレイヤー枠が空くのを待ちますか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -9436,6 +9484,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Password required</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T181752Z" creationid="nick2" creationdate="20190610T181752Z">
+        <seg>パスワードが必要</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Password-protected</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T062000Z" creationid="hiru4" creationdate="20190608T062000Z">
@@ -10116,6 +10172,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Queue</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T182111Z" creationid="nick2" creationdate="20190610T182111Z">
+        <seg>順番待ち</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Radio chat</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T114104Z" creationid="kakonya" creationdate="20190607T114104Z">
@@ -10392,6 +10456,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190610T034124Z" creationid="kakonya" creationdate="20190610T034124Z">
         <seg>推奨乗組員の数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reconnecting...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T181829Z" creationid="nick2" creationdate="20190610T181829Z">
+        <seg>再接続中...</seg>
       </tuv>
     </tu>
     <tu>
@@ -14324,6 +14396,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Waiting for a slot to free up on the server.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T182338Z" creationid="nick2" creationdate="20190610T182338Z">
+        <seg>プレイヤー枠が空くのを待っています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Waiting for file transfers to finish before starting the round...</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T132609Z" creationid="nick2" creationdate="20190608T132609Z">
@@ -15115,6 +15195,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T040233Z" creationid="nick2" creationdate="20190608T040233Z">
         <seg>サーバとクライアントを同期するのに時間がかかりすぎたので、あなたは切断されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You have been disconnected from the server.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T181824Z" creationid="nick2" creationdate="20190610T181812Z">
+        <seg>サーバーから切断されました。</seg>
       </tuv>
     </tu>
     <tu>
