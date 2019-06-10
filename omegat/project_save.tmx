@@ -135,6 +135,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A crew member over at [location2] has gone and gotten themselves a nasty case of morbusine poisoning.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T195521Z" creationid="nick2" creationdate="20190610T195521Z">
+        <seg>[location2] の隊員が重度のモルビジン中毒に罹ってしまいました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A crystal composed of solid carbon.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T171746Z" creationid="nick2" creationdate="20190608T171746Z">
@@ -11052,6 +11060,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Resource has been prospected successfully.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T195317Z" creationid="nick2" creationdate="20190610T195157Z">
+        <seg>十分な量の鉱脈が見つかりました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Respawn shuttle</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T141005Z" creationid="totochan" creationdate="20190607T141005Z">
@@ -13712,6 +13728,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190610T190531Z" creationid="nick2" creationdate="20190610T190531Z">
         <seg>しかし補償金として 1,000 クレジットの支払いを約束しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They might stand a chance of survival if you can get a shipment of antidote to them ASAP...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T195617Z" creationid="nick2" creationdate="20190610T195617Z">
+        <seg>今すぐ解毒剤の物資を届けることができれば生還の可能性があるかもしれません...</seg>
       </tuv>
     </tu>
     <tu>
