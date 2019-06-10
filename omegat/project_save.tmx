@@ -303,6 +303,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A large swarm of crawlers has been terrorizing vessels traveling between [location1] and [location2].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T184503Z" creationid="nick2" creationdate="20190610T184503Z">
+        <seg>クローラーの大きな群れが 、[location1] と [location2] の間を航行する船舶を危険にさらしている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A large wall cap.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190609T003815Z" creationid="kakonya" creationdate="20190609T003815Z">
@@ -671,6 +679,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A reward of [reward] credits has been promised to any crew who can neutralize it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T184255Z" creationid="nick2" creationdate="20190610T184255Z">
+        <seg>群れを討伐できたクルーに [reward] クレジットの報酬が約束されている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A reward of [reward] credits has been promised to those who kill the creature.</seg>
       </tuv>
       <tuv lang="JA" changeid="PalZaxson" changedate="20190610T044503Z" creationid="PalZaxson" creationdate="20190610T044503Z">
@@ -771,6 +787,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T114633Z" creationid="kakonya" creationdate="20190607T114633Z">
         <seg>2個の内蔵ボタンを備えたスライドドア。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A small swarm of crawlers has been terrorizing vessels traveling between [location1] and [location2].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T184147Z" creationid="nick2" creationdate="20190610T184147Z">
+        <seg>クローラーの小さな群れが 、[location1] と [location2] の間を航行する船舶を危険にさらしている。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2191,6 +2215,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T183707Z" creationid="nick2" creationdate="20190609T183707Z">
         <seg>ビーコン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Beast from the Abyss</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T184603Z" creationid="nick2" creationdate="20190610T184603Z">
+        <seg>深淵からの怪物</seg>
       </tuv>
     </tu>
     <tu>
@@ -8662,8 +8694,8 @@
       <tuv lang="EN-US">
         <seg>Navigate the submarine out of the cavern to claim the reward.</seg>
       </tuv>
-      <tuv lang="JA" changeid="PalZaxson" changedate="20190610T044133Z" creationid="PalZaxson" creationdate="20190610T044133Z">
-        <seg>報酬を請求するため洞窟の外に潜水艦をナビゲートします。</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T184428Z" creationid="PalZaxson" creationdate="20190610T044133Z">
+        <seg>報酬を受け取るため洞窟の外へ潜水艦を操縦してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12422,8 +12454,8 @@
       <tuv lang="EN-US">
         <seg>Swarm</seg>
       </tuv>
-      <tuv lang="JA" changeid="kakonya" changedate="20190607T105202Z" creationid="kakonya" creationdate="20190607T105202Z">
-        <seg>スウォーム</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T184307Z" creationid="kakonya" creationdate="20190607T105202Z">
+        <seg>群れ</seg>
       </tuv>
     </tu>
     <tu>
@@ -12560,6 +12592,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T121225Z" creationid="kakonya" creationdate="20190608T121225Z">
         <seg>一時的なハンドヘルド光源。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Terminate a Swarm</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T184110Z" creationid="nick2" creationdate="20190610T184110Z">
+        <seg>群れを討伐</seg>
       </tuv>
     </tu>
     <tu>
@@ -13136,6 +13176,22 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190609T015213Z" creationid="totochan" creationdate="20190609T015155Z">
         <seg>治療法のリストが不正確になることがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The swarm has been terminated.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T184320Z" creationid="nick2" creationdate="20190610T184320Z">
+        <seg>群れは無力化されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The swarm is terminated.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T184343Z" creationid="nick2" creationdate="20190610T184343Z">
+        <seg>群れは無力化されました。</seg>
       </tuv>
     </tu>
     <tu>
