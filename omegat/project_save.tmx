@@ -2907,6 +2907,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Client did not properly request authentication.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T183039Z" creationid="nick2" creationdate="20190610T183039Z">
+        <seg>クライアントが正常に認証を要求しませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Close</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190610T034046Z" creationid="totochan" creationdate="20190607T141020Z">
@@ -12004,6 +12012,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Steam authentication failed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T183120Z" creationid="nick2" creationdate="20190610T183120Z">
+        <seg>Steam認証が失敗しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Steam authentication required.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T183103Z" creationid="nick2" creationdate="20190610T183047Z">
+        <seg>Steam認証が必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Steel Bar</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T060513Z" creationid="hiru4" creationdate="20190608T060513Z">
@@ -13000,6 +13024,22 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T033129Z" creationid="nick2" creationdate="20190608T033129Z">
         <seg>木星の周りの放射線帯は、エウロパの表面上の永続的な入植地を確立することを不可能にします。そのためほぼ全てのエウロパの前哨基地は、その氷の地殻の下に建築されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The server has shut down.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T183019Z" creationid="nick2" creationdate="20190610T183019Z">
+        <seg>サーバがシャットダウンしました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The server is full.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T183027Z" creationid="nick2" creationdate="20190610T183027Z">
+        <seg>サーバは満員です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15183,6 +15223,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You have been banned from the server.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T182750Z" creationid="nick2" creationdate="20190610T182750Z">
+        <seg>サーバーからBANされました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You have been blocked by the spam filter.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T172302Z" creationid="nick2" creationdate="20190609T172302Z">
@@ -15243,6 +15291,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T172254Z" creationid="nick2" creationdate="20190609T172254Z">
         <seg>スパムフィルタによってキックされました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You have been kicked from the server.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T183008Z" creationid="nick2" creationdate="20190610T183008Z">
+        <seg>サーバーからキックされました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15507,6 +15563,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T041423Z" creationid="nick2" creationdate="20190608T041423Z">
         <seg>あなたの任務は[targetname]の暗殺です！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your session was taken by a new connection on the same IP address.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190610T183249Z" creationid="nick2" creationdate="20190610T183249Z">
+        <seg>あなたのセッションは同じIPアドレスからの接続によって取られました。</seg>
       </tuv>
     </tu>
     <tu>
