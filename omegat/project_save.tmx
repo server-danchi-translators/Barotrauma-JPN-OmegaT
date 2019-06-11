@@ -7302,8 +7302,8 @@
       <tuv lang="EN-US">
         <seg>It responds to any fluctuations in grid load, but is considerably slower than a human operator.</seg>
       </tuv>
-      <tuv lang="JA" changeid="kakonya" changedate="20190608T022008Z" creationid="kakonya" creationdate="20190608T022008Z">
-        <seg>自動制御では負荷のどんな変動にも反応しますが、人間のオペレータよりかなり遅いです。.</seg>
+      <tuv lang="JA" changeid="hiru4" changedate="20190611T062103Z" creationid="kakonya" creationdate="20190608T022008Z">
+        <seg>自動制御は、どのような電圧変動にも対応することができるが対応速度が人間より遅い。.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9384,6 +9384,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T002015Z" creationid="nick2" creationdate="20190608T001929Z">
         <seg>原子炉は、電力出力を適切なレベルに調整する自動制御システムが装備されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nuclear reactors provide power to submarines and outposts.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190611T061824Z" creationid="hiru4" creationdate="20190611T061824Z">
+        <seg>最後の衝撃でパワーが半減されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14068,6 +14076,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>They require fuel to create heat and a crew member to regulate the output.\n\nDrag a fuel rod to the item slot on the left side.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190611T061851Z" creationid="hiru4" creationdate="20190611T061851Z">
+        <seg>熱を発生させるために燃料を必要とし、出力を調整するために乗組員を必要とする。\n\n燃料棒を左側の項目スロットにドラッグします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>They require short bursts of power and boxes of ammunition.\n\nTo ready the coilgun, you must make sure the supercapacitor has enough power by setting the recharge rate high enough (50% is usually enough), then insert full ammunition boxes into the coilgun loader.\n\nThe ammo boxes loaded in the coilguns seem empty.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T235441Z" creationid="kakonya" creationdate="20190608T235441Z">
@@ -15673,8 +15689,8 @@
       <tuv lang="EN-US">
         <seg>When the output is lower it leads to power outages and, when it’s higher, overvoltage and fires.\n\nWhen the reactor operator leaves the interface, it’s recommended to turn automatic control on.</seg>
       </tuv>
-      <tuv lang="JA" changeid="kakonya" changedate="20190608T021924Z" creationid="kakonya" creationdate="20190608T021924Z">
-        <seg>出力が低いと停電になり、高いと過電圧となり発火します。\n\n原子炉を離れるときには自動制御をオンにすること良いでしょう。</seg>
+      <tuv lang="JA" changeid="hiru4" changedate="20190611T061916Z" creationid="kakonya" creationdate="20190608T021924Z">
+        <seg>出力が低いと停電になり、高いと過電圧となり発火します。\n\n原子炉を離れるときには自動制御をオンにすると良いでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15985,8 +16001,8 @@
       <tuv lang="EN-US">
         <seg>You can see load and output values to the right.</seg>
       </tuv>
-      <tuv lang="JA" changeid="kakonya" changedate="20190608T021455Z" creationid="kakonya" creationdate="20190608T021455Z">
-        <seg> ({0})で中のものを見ることができます.</seg>
+      <tuv lang="JA" changeid="hiru4" changedate="20190611T061802Z" creationid="kakonya" creationdate="20190608T021455Z">
+        <seg>で中のものを見ることができます.</seg>
       </tuv>
     </tu>
     <tu>
