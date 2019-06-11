@@ -9628,6 +9628,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Originally intended as research vessels, Venture shuttles have been co-opted as a more robust alternative for travel between outposts and submarines.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="PalZaxson" changedate="20190611T150803Z" creationid="PalZaxson" creationdate="20190611T150803Z">
+        <seg>もともと研究船として意図されていましたが、ベンチャーシャトルは前哨基地と潜水艦の間を移動するためのより堅牢な代替手段として選ばれました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Oscillator</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T191441Z" creationid="nick2" creationdate="20190609T191317Z">
