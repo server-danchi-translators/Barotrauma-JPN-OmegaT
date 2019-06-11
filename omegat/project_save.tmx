@@ -8918,8 +8918,8 @@
       <tuv lang="EN-US">
         <seg>Multiple fuel rods create more heat, but in normal circumstances one is enough and any more might lead to overheating.\n\nStart by setting the fission rate so that the needle is on green, then do the same for turbine output.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190611T054416Z" creationid="kakonya" creationdate="20190608T021448Z">
-        <seg>燃料棒を複数入れると多くの熱が発生しますが、通常の状況では1本で十分で、それ以上になると過熱しすぎになります。\n\nスライドバーを操作して、緑のゾーンに合わせ、核分裂速度と、タービン出力を設定してください.</seg>
+      <tuv lang="JA" changeid="hiru4" changedate="20190611T061413Z" creationid="kakonya" creationdate="20190608T021448Z">
+        <seg>.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9384,14 +9384,6 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T002015Z" creationid="nick2" creationdate="20190608T001929Z">
         <seg>原子炉は、電力出力を適切なレベルに調整する自動制御システムが装備されています。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Nuclear reactors provide power to submarines and outposts.</seg>
-      </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190611T054352Z" creationid="kakonya" creationdate="20190608T021052Z">
-        <seg>最後の影響でパワーが半減されています.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14072,14 +14064,6 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190610T195617Z" creationid="nick2" creationdate="20190610T195617Z">
         <seg>今すぐ解毒剤の物資を届けることができれば生還の可能性があるかもしれません...</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>They require fuel to create heat and a crew member to regulate the output.\n\nDrag a fuel rod to the item slot on the left side.</seg>
-      </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190611T054401Z" creationid="kakonya" creationdate="20190608T021221Z">
-        <seg>熱を発生させるために燃料が、出力を調整するのに乗組員を必要とします。\n\n左のアイテムスロットに燃料棒を入れます.</seg>
       </tuv>
     </tu>
     <tu>
