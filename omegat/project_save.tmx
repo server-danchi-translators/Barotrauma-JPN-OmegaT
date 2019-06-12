@@ -5092,6 +5092,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Engineers are the backbone of a submarine's crew, complementing a mechanic's mechanical engineering skill with their knowledge of electrical engineering.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Rasiel" changedate="20190612T062211Z" creationid="Rasiel" creationdate="20190612T062211Z">
+        <seg>エンジニアは潜水艦の乗組員の中枢であり、電気工学の知識でメカニックの機械工学スキルを補完します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>English</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113209Z" creationid="kakonya" creationdate="20190607T113209Z">
@@ -13310,8 +13318,8 @@
       <tuv lang="EN-US">
         <seg>The commanding officer is responsible for commanding the entirety of the crew and ensuring that everything is running smoothly.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Rasiel" changedate="20190612T061856Z" creationid="Rasiel" creationdate="20190612T061856Z">
-        <seg>指揮官たるキャプテンは乗組員を指揮し、船を円滑に運営する責任があります。</seg>
+      <tuv lang="JA" changeid="Rasiel" changedate="20190612T062104Z" creationid="Rasiel" creationdate="20190612T061856Z">
+        <seg>指揮官たるキャプテンは乗組員を指揮し、潜水艦を円滑に運用する責任があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14048,6 +14056,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T210114Z" creationid="nick2" creationdate="20190609T210058Z">
         <seg>サーマルエイリアンアーティファクト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They are capable of performing maintenance on the various electrical pieces of the submarine.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Rasiel" changedate="20190612T062446Z" creationid="Rasiel" creationdate="20190612T062446Z">
+        <seg>彼らは潜水艦の様々な電気部品のメンテナンスを実行することが可能です。</seg>
       </tuv>
     </tu>
     <tu>
