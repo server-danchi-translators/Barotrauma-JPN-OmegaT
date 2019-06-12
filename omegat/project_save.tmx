@@ -8372,6 +8372,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mechanics are capable of fixing various mechanical devices with their high mechanical engineering skill.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Rasiel" changedate="20190612T062515Z" creationid="Rasiel" creationdate="20190612T062515Z">
+        <seg>メカニックは高い機械工学技術で様々な機械装置を修理することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Medical</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190609T020957Z" creationid="totochan" creationdate="20190609T020913Z">
@@ -14408,6 +14416,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190609T000233Z" creationid="kakonya" creationdate="20190609T000233Z">
         <seg>コイルガンは、潜望鏡を覗き（{0}）で使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Together with engineers they ensure a submarine is working to its fullest.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Rasiel" changedate="20190612T062855Z" creationid="Rasiel" creationdate="20190612T062855Z">
+        <seg>エンジニアと共に潜水艦が最大限稼働するように務めます。</seg>
       </tuv>
     </tu>
     <tu>
