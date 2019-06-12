@@ -1557,8 +1557,8 @@
       <tuv lang="EN-US">
         <seg>Although usually taken for granted, doctors play an important role on the submarine, possessing the required skill to treat injured or unconscious crew members.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Rasiel" changedate="20190612T063513Z" creationid="Rasiel" creationdate="20190612T063513Z">
-        <seg>普段当たり前のことと考えられますが、ドクターは潜水艦で重要な役割を果たし、負傷したか意識不明の乗組員を治療するのに必要なスキルを持っています。</seg>
+      <tuv lang="JA" changeid="Rasiel" changedate="20190612T063607Z" creationid="Rasiel" creationdate="20190612T063513Z">
+        <seg>普段当たり前のことと考えられますがドクターは潜水艦で重要な役割を果たし、負傷したか意識不明の乗組員を治療するのに必要なスキルを持っています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1991,6 +1991,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T044834Z" creationid="kakonya" creationdate="20190608T044834Z">
         <seg>アシスタントの服</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Assistants don't have any specific responsibilities or areas of expertise.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Rasiel" changedate="20190612T063708Z" creationid="Rasiel" creationdate="20190612T063708Z">
+        <seg>アシスタントには、特別な任務や専門知識はありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13988,6 +13996,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Their skills can also be useful for creating various non-medicinal chemicals.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Rasiel" changedate="20190612T063601Z" creationid="Rasiel" creationdate="20190612T063601Z">
+        <seg>彼らのスキルは様々な医療用以外の薬物を作り出すのにも役立ちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Their skin is red and they have occasional muscle spasms.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190610T205556Z" creationid="nick2" creationdate="20190610T205556Z">
@@ -14224,6 +14240,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190609T021114Z" creationid="totochan" creationdate="20190609T021114Z">
         <seg>このドアは、有線ボタンまたはリモコンによって制御されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This job is a good choice for newcomers who want to get a hang of working on board the submarine without taking up tasks that they aren't qualified for.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Rasiel" changedate="20190612T063826Z" creationid="Rasiel" creationdate="20190612T063826Z">
+        <seg>この仕事は資格なしで潜水艦に乗って仕事をしたいという新人にとっては良い選択です。</seg>
       </tuv>
     </tu>
     <tu>
