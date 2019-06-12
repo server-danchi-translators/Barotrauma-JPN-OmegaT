@@ -1555,6 +1555,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Although usually taken for granted, doctors play an important role on the submarine, possessing the required skill to treat injured or unconscious crew members.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Rasiel" changedate="20190612T063513Z" creationid="Rasiel" creationdate="20190612T063513Z">
+        <seg>普段当たり前のことと考えられますが、ドクターは潜水艦で重要な役割を果たし、負傷したか意識不明の乗組員を治療するのに必要なスキルを持っています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Aluminium</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T060411Z" creationid="hiru4" creationdate="20190608T060411Z">
