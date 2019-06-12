@@ -11716,6 +11716,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Security Officers are responsible for keeping the submarine safe from threats, both external and internal.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Rasiel" changedate="20190612T062932Z" creationid="Rasiel" creationdate="20190612T062932Z">
+        <seg>セキュリティガードは、潜水艦を外部と内部の両方の脅威から守る責任があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Security officer training</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190610T063038Z" creationid="totochan" creationdate="20190610T063038Z">
