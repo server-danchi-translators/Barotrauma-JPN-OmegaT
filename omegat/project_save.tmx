@@ -13340,6 +13340,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The creatures inhabiting the ocean aren't the only threat they need to worry about, as several of the renegade groups opposing the Europa Coalition are known to have sent infiltrators on board the vessels.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Rasiel" changedate="20190612T063352Z" creationid="Rasiel" creationdate="20190612T063352Z">
+        <seg>エウロパ連合に反対するいくつかの反逆者グループが潜水艦に侵入することがあるため、海に生息する生き物が心配する必要のある唯一の脅威であるとは限りません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The crew is ready to leave, but they are a bit banged up and someone is unconscious.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190610T020813Z" creationid="kakonya" creationdate="20190610T020813Z">
