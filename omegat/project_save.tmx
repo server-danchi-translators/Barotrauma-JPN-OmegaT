@@ -13308,6 +13308,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The commanding officer is responsible for commanding the entirety of the crew and ensuring that everything is running smoothly.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Rasiel" changedate="20190612T061856Z" creationid="Rasiel" creationdate="20190612T061856Z">
+        <seg>指揮官たるキャプテンは乗組員を指揮し、船を円滑に運営する責任があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The crew is ready to leave, but they are a bit banged up and someone is unconscious.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190610T020813Z" creationid="kakonya" creationdate="20190610T020813Z">
