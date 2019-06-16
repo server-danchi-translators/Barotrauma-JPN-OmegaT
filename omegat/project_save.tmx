@@ -3046,8 +3046,8 @@
       <tuv lang="EN-US">
         <seg>Captain and security are harmless, and way below your intelligence.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190616T135622Z" creationid="nick2" creationdate="20190616T135622Z">
-        <seg>知能指数が低すぎるので船長とセキュリティは無害です。</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T135923Z" creationid="nick2" creationdate="20190616T135622Z">
+        <seg>知能指数が低すぎるのでキャプテンとセキュリティは無害です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7000,8 +7000,8 @@
       <tuv lang="EN-US">
         <seg>He’s so deep in his softie inner world he’s practically a woman.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190616T135451Z" creationid="nick2" creationdate="20190616T135451Z">
-        <seg>雑魚メンタルメディックのナルシスト妄想が女々しすぎて男の娘かな？と思うくらいです。</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T135827Z" creationid="nick2" creationdate="20190616T135451Z">
+        <seg>雑魚メンタルメディックはナルシスト妄想が女々しすぎて男の娘かな？と思うくらいです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8114,6 +8114,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T041703Z" creationid="nick2" creationdate="20190608T041703Z">
         <seg>あなた以外のエージェントが潜伏している可能性もあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is said that pressure brings out the worst in people.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T140218Z" creationid="nick2" creationdate="20190616T140218Z">
+        <seg>話によると、プレッシャーは人の最悪な部分を引き出すと言われています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12906,6 +12914,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190610T061540Z" creationid="totochan" creationdate="20190610T061540Z">
         <seg>セキュリティーガード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Security Officer - The backbone of violence.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T140012Z" creationid="nick2" creationdate="20190616T135849Z">
+        <seg>セキュリティ担当者 - 暴力の主役。</seg>
       </tuv>
     </tu>
     <tu>
