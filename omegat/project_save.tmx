@@ -7628,6 +7628,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Insert oxygen tank to refill it</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Rasiel" changedate="20190616T123816Z" creationid="Rasiel" creationdate="20190616T123816Z">
+        <seg>酸素を補充するために酸素タンクを差し込んでください</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Insufficient power</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190609T014739Z" creationid="totochan" creationdate="20190609T014739Z">
@@ -14928,6 +14936,22 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190610T175423Z" creationid="nick2" creationdate="20190610T175423Z">
         <seg>このサーバーはあなたのバージョンのBarotraumaと互換性がありません ([version] が必要)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This text will be translated to [translation].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Rasiel" changedate="20190616T123922Z" creationid="Rasiel" creationdate="20190616T123922Z">
+        <seg>このテキストは[translation]に翻訳されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This text will not be translated - text with the tag [tag] not found in the language files.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Rasiel" changedate="20190616T123855Z" creationid="Rasiel" creationdate="20190616T123855Z">
+        <seg>このテキストは翻訳されません - タグ[tag]の付いたテキストは言語ファイルに見つかりません。</seg>
       </tuv>
     </tu>
     <tu>
