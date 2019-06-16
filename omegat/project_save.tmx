@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2795,6 +2795,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Can't see any fires!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T122832Z" creationid="totochan" creationdate="20190616T122832Z">
+        <seg>火災を見つけれない!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cancel</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T111201Z" creationid="kakonya" creationdate="20190607T111201Z">
@@ -3999,6 +4007,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T231808Z" creationid="kakonya" creationdate="20190608T231808Z">
         <seg>電気機器を損傷します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dangerous pressure in [roomname]!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T122642Z" creationid="totochan" creationdate="20190616T122642Z">
+        <seg>[roomname]で圧力が危険なレベル！</seg>
       </tuv>
     </tu>
     <tu>
@@ -5444,6 +5460,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Extinguished a fire in [roomname]!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T122803Z" creationid="totochan" creationdate="20190616T122803Z">
+        <seg>[roomname]の火災を鎮火！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>FPGA Circuit</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190609T014451Z" creationid="totochan" creationdate="20190609T014451Z">
@@ -6236,6 +6260,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Got to find an extinguisher!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T122734Z" creationid="totochan" creationdate="20190616T122734Z">
+        <seg>消火器を見つけることができました！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Grab</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T114117Z" creationid="kakonya" creationdate="20190607T114117Z">
@@ -6580,6 +6612,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hey, I'm at the helm now!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T122925Z" creationid="totochan" creationdate="20190616T122925Z">
+        <seg>今は俺が舵を握っている！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hey, I'm operating the reactor!</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190610T062507Z" creationid="totochan" creationdate="20190610T062507Z">
@@ -6592,6 +6632,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190610T062549Z" creationid="totochan" creationdate="20190610T062549Z">
         <seg>おいおい、原子炉にふたりもいらないよ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hey, we don't need two people to steer!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T123034Z" creationid="totochan" creationdate="20190616T123034Z">
+        <seg>おい、操縦に2人は必要ないだろ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6860,10 +6908,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I don't think there's any fire to put out!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T122900Z" creationid="totochan" creationdate="20190616T122900Z">
+        <seg>火災は発生していないと思われます！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I guess that’ll do.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190609T003111Z" creationid="kakonya" creationdate="20190609T003111Z">
         <seg>すぐにできると思います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I need a fire extinguisher!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T122655Z" creationid="totochan" creationdate="20190616T122655Z">
+        <seg>消火器を必要とします！</seg>
       </tuv>
     </tu>
     <tu>
@@ -7068,6 +7132,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I'm losing blood!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T122630Z" creationid="totochan" creationdate="20190616T122630Z">
+        <seg>血が流れ続けている！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I'm passing out!</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190616T122247Z" creationid="totochan" creationdate="20190616T122247Z">
@@ -7080,6 +7152,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190610T062753Z" creationid="totochan" creationdate="20190610T062753Z">
         <seg>撃つ用意ができた!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'm steering now!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T123049Z" creationid="totochan" creationdate="20190616T123049Z">
+        <seg>操舵中!</seg>
       </tuv>
     </tu>
     <tu>
@@ -10756,6 +10836,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pressure level dangerously high in [roomname]!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T122649Z" creationid="totochan" creationdate="20190616T122649Z">
+        <seg>[roomname]の圧力が高すぎる！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pressure rising in [roomname]!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T122636Z" creationid="totochan" creationdate="20190616T122636Z">
+        <seg>[roomname]にて圧力上昇！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Preview Image</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112856Z" creationid="kakonya" creationdate="20190607T112856Z">
@@ -10960,6 +11056,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190609T021049Z" creationid="totochan" creationdate="20190609T021049Z">
         <seg>[itemname]を投入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Put out a fire in [roomname]!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T122758Z" creationid="totochan" creationdate="20190616T122740Z">
+        <seg>[roomname]を消火！</seg>
       </tuv>
     </tu>
     <tu>
@@ -15116,6 +15220,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Trying to find an extinguisher!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T122730Z" creationid="totochan" creationdate="20190616T122730Z">
+        <seg>消化器見つけなくては！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Turbine output</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T111417Z" creationid="kakonya" creationdate="20190607T111417Z">
@@ -16128,6 +16240,14 @@
       </tuv>
       <tuv lang="JA" changeid="PalZaxson" changedate="20190611T122540Z" creationid="PalZaxson" creationdate="20190611T122540Z">
         <seg>何のバッテリーだ？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What fire?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T122817Z" creationid="totochan" creationdate="20190616T122817Z">
+        <seg>火が出てるって？</seg>
       </tuv>
     </tu>
     <tu>
