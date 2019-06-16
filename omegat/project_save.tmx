@@ -1653,8 +1653,8 @@
       <tuv lang="EN-US">
         <seg>Also, keep your eye on that damn toy-tinkering wannabe engineer mechanic, and whatever you do, don’t bite into the psycho-babble of the medic.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190616T135028Z" creationid="nick2" creationdate="20190616T134649Z">
-        <seg>それと、あのおもちゃ弄りが得意なエンジニアもどきのメカニック達に注意し、メディックの精神演説に耳を貸さないようにしてください。</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T135042Z" creationid="nick2" creationdate="20190616T134649Z">
+        <seg>それと、あのおもちゃ弄りが得意なエンジニアもどきのメカニック共に注意し、メディックの精神演説に耳を貸さないようにしてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6985,6 +6985,15 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190616T123034Z" creationid="totochan" creationdate="20190616T123034Z">
         <seg>おい、操縦に2人は必要ないだろ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>もう意訳過ぎてめちゃくちゃ、もっと面白い訳を思いついた方は是非直してください。</note>
+      <tuv lang="EN-US">
+        <seg>He’s so deep in his softie inner world he’s practically a woman.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T135451Z" creationid="nick2" creationdate="20190616T135451Z">
+        <seg>雑魚メンタルメディックのナルシスト妄想が女々しすぎて男の娘かな？と思うくらいです。</seg>
       </tuv>
     </tu>
     <tu>
