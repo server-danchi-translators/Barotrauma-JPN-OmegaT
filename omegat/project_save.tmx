@@ -3206,8 +3206,8 @@
       <tuv lang="EN-US">
         <seg>Channel the crew’s anger toward the creatures outside, but never fool yourself into trusting them.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190616T140910Z" creationid="nick2" creationdate="20190616T140910Z">
-        <seg>他の乗組員の怒りを外のクリーチャーに向けてください。彼らを信じる、などというバカげた事は間違ってもしないでください。</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T141258Z" creationid="nick2" creationdate="20190616T140910Z">
+        <seg>他の乗組員の怒りを外のクリーチャーに向けてください。そして彼らを信じる、などというバカげた事は間違ってもしないでください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8328,8 +8328,8 @@
       <tuv lang="EN-US">
         <seg>Keep the nukes ready, the handcuffs available, and every now and then put someone in the brig just so they know who’s in charge!</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190616T141255Z" creationid="nick2" creationdate="20190616T141255Z">
-        <seg>核の準備をして、手錠を手の届くところに置いておきましょう。定期的に誰かを拘禁室にぶち込み、いじめっ子とられっ子の関係性をハッキリさせましょう!</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T141309Z" creationid="nick2" creationdate="20190616T141255Z">
+        <seg>核の準備をし、手錠を手の届くところに置いておきましょう。さらに定期的に誰かを拘禁室にぶち込み、いじめっ子とられっ子の関係性をハッキリさせましょう!</seg>
       </tuv>
     </tu>
     <tu>
@@ -12570,6 +12570,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190616T135715Z" creationid="nick2" creationdate="20190616T135715Z">
         <seg>主な仕事\n-電子機器のメンテナンス\n-原子炉の操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Responsibilities\n-Keeping the order\n-Repelling intruders</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T141456Z" creationid="nick2" creationdate="20190616T141456Z">
+        <seg>主な仕事\n-治安維持\n-侵入者排除</seg>
       </tuv>
     </tu>
     <tu>
