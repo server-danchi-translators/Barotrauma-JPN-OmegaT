@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6860,10 +6860,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I'll maintain our position!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T121605Z" creationid="nick2" creationdate="20190616T121605Z">
+        <seg>私たちの位置を維持します!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I'll man the guns!</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190610T062734Z" creationid="totochan" creationdate="20190610T062734Z">
         <seg>銃を撃つぞ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'll man the helm!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T121447Z" creationid="nick2" creationdate="20190616T121447Z">
+        <seg>かじを取るぞ!</seg>
       </tuv>
     </tu>
     <tu>
@@ -6884,10 +6900,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I'll set the course back!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T121811Z" creationid="nick2" creationdate="20190616T121811Z">
+        <seg>進路を元に戻す!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I'll shut down the reactor!</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190610T023827Z" creationid="kakonya" creationdate="20190610T023827Z">
         <seg>原子炉を停止します！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'll steer the submarine!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T121440Z" creationid="nick2" creationdate="20190616T121440Z">
+        <seg>潜水艦の舵を取るぞ!</seg>
       </tuv>
     </tu>
     <tu>
@@ -17223,10 +17255,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[name], hold our position!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T121550Z" creationid="nick2" creationdate="20190616T121511Z">
+        <seg>[name]、一時停止!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[name], maintain position!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T121456Z" creationid="nick2" creationdate="20190616T121456Z">
+        <seg>[name]、現在位置を保持!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[name], man the guns!</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190610T062725Z" creationid="totochan" creationdate="20190610T062725Z">
-        <seg>[name]、銃を持って!</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T121348Z" creationid="totochan" creationdate="20190610T062725Z">
+        <seg>[name]、銃座に付け!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[name], man the helm!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T121426Z" creationid="nick2" creationdate="20190616T121426Z">
+        <seg>[name]、かじを切れ!</seg>
       </tuv>
     </tu>
     <tu>
@@ -17255,10 +17311,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[name], set the course back!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T121701Z" creationid="nick2" creationdate="20190616T121701Z">
+        <seg>[name]、経路を戻せ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[name], shut down the reactor!</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190610T023813Z" creationid="kakonya" creationdate="20190610T023813Z">
         <seg>[name], 原子炉の停止!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[name], steer the submarine!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T121435Z" creationid="nick2" creationdate="20190616T121435Z">
+        <seg>[name]、潜水艦を操縦しろ!</seg>
       </tuv>
     </tu>
     <tu>
