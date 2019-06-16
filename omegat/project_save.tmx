@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2879,6 +2879,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113148Z" creationid="kakonya" creationdate="20190607T113148Z">
         <seg>バニラのコンテンツパッケージで定義された潜水艦を編集することはできません！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot repair [itemname]!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T124002Z" creationid="totochan" creationdate="20190616T124002Z">
+        <seg>[itemname]修理できません！</seg>
       </tuv>
     </tu>
     <tu>
@@ -5972,6 +5980,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Found [targetname] unconscious in [roomname]!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T123823Z" creationid="totochan" creationdate="20190616T123747Z">
+        <seg>[roomname]で、 [targetname] を治療！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fractal Guardian</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T141313Z" creationid="totochan" creationdate="20190607T141313Z">
@@ -6260,6 +6276,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Giving first aid to [targetname] in [roomname]!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T123828Z" creationid="totochan" creationdate="20190616T123828Z">
+        <seg>[roomname]で [targetname]に応急処置を与えます！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Glad you made it out of there.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190610T021958Z" creationid="kakonya" creationdate="20190610T021958Z">
@@ -6294,8 +6318,8 @@
       <tuv lang="EN-US">
         <seg>Got a large ping at [direction]!</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190616T123346Z" creationid="totochan" creationdate="20190616T123346Z">
-        <seg>[direction]から。</seg>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T123454Z" creationid="totochan" creationdate="20190616T123346Z">
+        <seg>[direction]に何らかの大きな物体！</seg>
       </tuv>
     </tu>
     <tu>
@@ -6988,6 +7012,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I need [treatmentlist] to treat [targetname]!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T123854Z" creationid="totochan" creationdate="20190616T123854Z">
+        <seg>[treatmentlist]  [targetname]を治療する必要があります！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I need a fire extinguisher!</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190616T122655Z" creationid="totochan" creationdate="20190616T122655Z">
@@ -7016,6 +7048,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190616T122211Z" creationid="totochan" creationdate="20190616T122211Z">
         <seg>酸素が必要だI need oxygen!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I need to find [treatmentlist]!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T123834Z" creationid="totochan" creationdate="20190616T123834Z">
+        <seg>[treatmentlist]見つける必要があります！</seg>
       </tuv>
     </tu>
     <tu>
@@ -12940,6 +12980,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Something big on the sonar at [direction]!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T123513Z" creationid="totochan" creationdate="20190616T123513Z">
+        <seg>[direction]に大型の何かが存在します!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Something dark and unpleasant moves in the mouth.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T233423Z" creationid="kakonya" creationdate="20190607T233423Z">
@@ -16276,6 +16324,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We've got [count] targets at [direction]!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T123812Z" creationid="totochan" creationdate="20190616T123744Z">
+        <seg>[direction]に [count] 物体 !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Weapon Holder</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T202820Z" creationid="nick2" creationdate="20190609T202820Z">
@@ -17647,6 +17703,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[count] targets on the sonar at [direction]!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T123621Z" creationid="totochan" creationdate="20190616T123621Z">
+        <seg>[direction]に[count]の物体を確認</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[dir] o'clock</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T062126Z" creationid="hiru4" creationdate="20190608T062126Z">
@@ -18027,6 +18091,30 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190609T015825Z" creationid="totochan" creationdate="20190609T015825Z">
         <seg>[sub] は [location].に戻りました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[targetname] has been resuscitated!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T123945Z" creationid="totochan" creationdate="20190616T123945Z">
+        <seg>[targetname]は蘇生しました！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[targetname] is all right!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T123941Z" creationid="totochan" creationdate="20190616T123941Z">
+        <seg>[targetname]は無事です！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[targetname] is back in shape!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T123928Z" creationid="totochan" creationdate="20190616T123928Z">
+        <seg>[targetname] が回復</seg>
       </tuv>
     </tu>
     <tu>
