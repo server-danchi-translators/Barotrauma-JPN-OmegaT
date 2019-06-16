@@ -2530,6 +2530,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>自信なし、「get it?」と聞かれているからにはギャグが込められているはずだが自分はわからない。</note>
+      <tuv lang="EN-US">
+        <seg>Beyond the fancy talk and costume play, you are the guy who really runs the ship, get it?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T134454Z" creationid="nick2" creationdate="20190616T134454Z">
+        <seg>冗談を言い合ってコスプレする他、船を動かすための"本物の"ジョブです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>Bike Horn</seg>
       </tuv>
