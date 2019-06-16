@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -635,6 +635,30 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T201051Z" creationid="nick2" creationdate="20190609T201051Z">
         <seg>自然発生するホルモン。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A new military outpost has been established at [previousname].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T130822Z" creationid="totochan" creationdate="20190616T130822Z">
+        <seg>[previousname]に新たな軍の前哨基地が設置された。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A new outpost has been established at [previousname].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T130802Z" creationid="totochan" creationdate="20190616T130802Z">
+        <seg>[previousname]に新しい前哨基地が設置された。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A new research outpost has been established at [previousname].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T130839Z" creationid="totochan" creationdate="20190616T130839Z">
+        <seg>[previousname]に研究拠点を新設された。.</seg>
       </tuv>
     </tu>
     <tu>
