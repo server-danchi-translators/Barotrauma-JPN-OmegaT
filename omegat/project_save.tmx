@@ -4484,6 +4484,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dismissed</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T124301Z" creationid="nick2" creationdate="20190616T124301Z">
+        <seg>解散</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Display mode</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113524Z" creationid="kakonya" creationdate="20190607T113524Z">
@@ -11838,8 +11846,8 @@
       <tuv lang="EN-US">
         <seg>Repair job specific, Repair everything</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190616T124255Z" creationid="nick2" creationdate="20190616T124255Z">
-        <seg>特定ジョブの修理, 全て修理</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T124330Z" creationid="nick2" creationdate="20190616T124255Z">
+        <seg>専門ジョブの修理, 全て修理</seg>
       </tuv>
     </tu>
     <tu>
