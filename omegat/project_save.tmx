@@ -1811,6 +1811,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Anything you can—I don't care about your training now!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T123732Z" creationid="nick2" creationdate="20190616T123732Z">
+        <seg>どれでもいい! - 今は自分の専門のことは忘れろ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Apply</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113212Z" creationid="kakonya" creationdate="20190607T113212Z">
@@ -6940,6 +6948,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I don't care if you don't have the skills—do your best!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T123147Z" creationid="nick2" creationdate="20190616T123147Z">
+        <seg>スキルが足りなくても構わない! - 最善を尽くせ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I don't know how to control the [item]!</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190610T062557Z" creationid="totochan" creationdate="20190610T062557Z">
@@ -7052,6 +7068,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I'll give medical aid to anyone in need!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T122902Z" creationid="nick2" creationdate="20190616T122902Z">
+        <seg>医療援助を開始します!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I'll maintain our position!</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190616T121605Z" creationid="nick2" creationdate="20190616T121605Z">
@@ -7152,6 +7176,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190616T122733Z" creationid="nick2" creationdate="20190616T122733Z">
         <seg>ポンプを止める!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'll take care of broken devices!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T123024Z" creationid="nick2" creationdate="20190616T123024Z">
+        <seg>壊れた機器を修理する!</seg>
       </tuv>
     </tu>
     <tu>
@@ -17703,6 +17735,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[name], give medical aid to anyone in need!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T122937Z" creationid="nick2" creationdate="20190616T122850Z">
+        <seg>[name]、怪我人に医療援助を!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[name], hold fire!</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190610T062821Z" creationid="totochan" creationdate="20190610T062821Z">
@@ -17791,10 +17831,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[name], repair any damaged devices!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T123433Z" creationid="nick2" creationdate="20190616T123433Z">
+        <seg>[name]、故障したデバイスの修理!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[name], repair any damaged systems!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T123107Z" creationid="nick2" creationdate="20190616T123107Z">
+        <seg>[name]、故障した機器の修理!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[name], repair damaged systems!</seg>
       </tuv>
-      <tuv lang="JA" changeid="kakonya" changedate="20190610T023024Z" creationid="kakonya" creationdate="20190610T023024Z">
-        <seg>[name], 故障の修理!</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T122955Z" creationid="kakonya" creationdate="20190610T023024Z">
+        <seg>[name]、故障の修理!</seg>
       </tuv>
     </tu>
     <tu>
@@ -17891,6 +17947,22 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190616T122040Z" creationid="nick2" creationdate="20190616T122040Z">
         <seg>[name]、浸水を見つけて直せ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[name], take care of broken devices!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T123034Z" creationid="nick2" creationdate="20190616T123008Z">
+        <seg>[name]、壊れた機器を修理せよ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[name], try to fix any broken devices, even if it's something you're not trained for!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T123421Z" creationid="nick2" creationdate="20190616T123349Z">
+        <seg>[name]、壊れた機器を修理せよ! 専門分野外の機器も頼む!</seg>
       </tuv>
     </tu>
     <tu>
