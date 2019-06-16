@@ -3204,6 +3204,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Channel the crew’s anger toward the creatures outside, but never fool yourself into trusting them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T140910Z" creationid="nick2" creationdate="20190616T140910Z">
+        <seg>他の乗組員の怒りを外のクリーチャーに向けてください。彼らを信じる、などというバカげた事は間違ってもしないでください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Character Editor</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T104156Z" creationid="totochan" creationdate="20190607T104156Z">
@@ -8314,6 +8322,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T015800Z" creationid="nick2" creationdate="20190608T015800Z">
         <seg>患者から目を離さず、これらの副作用に対抗するために必要に応じて追加の薬剤を投与しましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Keep the nukes ready, the handcuffs available, and every now and then put someone in the brig just so they know who’s in charge!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T141255Z" creationid="nick2" creationdate="20190616T141255Z">
+        <seg>核の準備をして、手錠を手の届くところに置いておきましょう。定期的に誰かを拘禁室にぶち込み、いじめっ子とられっ子の関係性をハッキリさせましょう!</seg>
       </tuv>
     </tu>
     <tu>
