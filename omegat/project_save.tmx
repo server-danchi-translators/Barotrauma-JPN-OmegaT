@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -337,8 +337,8 @@
       <tuv lang="EN-US">
         <seg>A horizontally aligned docking interface.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190609T203258Z" creationid="nick2" creationdate="20190609T203258Z">
-        <seg>水平方向ドッキングインターフェース。</seg>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T132543Z" creationid="nick2" creationdate="20190609T203258Z">
+        <seg>水平方向係留インターフェース。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1041,8 +1041,8 @@
       <tuv lang="EN-US">
         <seg>A vertically aligned docking interface.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190609T203303Z" creationid="nick2" creationdate="20190609T203016Z">
-        <seg>垂直方向ドッキングインターフェース。</seg>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T132543Z" creationid="nick2" creationdate="20190609T203016Z">
+        <seg>垂直方向係留インターフェース。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4726,8 +4726,8 @@
       <tuv lang="EN-US">
         <seg>Do this by going into the navigation console and pressing the “Toggle docking” button.</seg>
       </tuv>
-      <tuv lang="JA" changeid="kakonya" changedate="20190610T024317Z" creationid="kakonya" creationdate="20190610T024317Z">
-        <seg>ナビゲーションコンソールに入り「トグルドッキング」ボタンを押すことで行います。</seg>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T132543Z" creationid="kakonya" creationdate="20190610T024317Z">
+        <seg>ナビゲーションコンソールに入り「トグル係留」ボタンを押すことで行います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4838,16 +4838,16 @@
       <tuv lang="EN-US">
         <seg>Dock with destination outpost</seg>
       </tuv>
-      <tuv lang="JA" changeid="kakonya" changedate="20190610T025550Z" creationid="kakonya" creationdate="20190610T025550Z">
-        <seg>前哨基地とドッキングする</seg>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T132543Z" creationid="kakonya" creationdate="20190610T025550Z">
+        <seg>前哨基地と係留する</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Docked</seg>
       </tuv>
-      <tuv lang="JA" changeid="kakonya" changedate="20190610T033803Z" creationid="kakonya" creationdate="20190610T033803Z">
-        <seg>ドッキング</seg>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T132543Z" creationid="kakonya" creationdate="20190610T033803Z">
+        <seg>係留</seg>
       </tuv>
     </tu>
     <tu>
@@ -4862,32 +4862,32 @@
       <tuv lang="EN-US">
         <seg>Docking</seg>
       </tuv>
-      <tuv lang="JA" changeid="kakonya" changedate="20190610T025412Z" creationid="kakonya" creationdate="20190610T025412Z">
-        <seg>ドッキング</seg>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T132543Z" creationid="kakonya" creationdate="20190610T025412Z">
+        <seg>係留</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Docking Hatch</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190609T203241Z" creationid="nick2" creationdate="20190609T203241Z">
-        <seg>ドッキングハッチ</seg>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T132543Z" creationid="nick2" creationdate="20190609T203241Z">
+        <seg>係留ハッチ</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Docking Port</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190609T202926Z" creationid="nick2" creationdate="20190609T202926Z">
-        <seg>ドッキングポート</seg>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T132543Z" creationid="nick2" creationdate="20190609T202926Z">
+        <seg>係留ポート</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Docking port</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190608T062244Z" creationid="hiru4" creationdate="20190608T062244Z">
-        <seg>ドッキングポート</seg>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T132543Z" creationid="hiru4" creationdate="20190608T062244Z">
+        <seg>係留ポート</seg>
       </tuv>
     </tu>
     <tu>
@@ -8798,16 +8798,16 @@
       <tuv lang="EN-US">
         <seg>Locks to another docking hatch to form a watertight seal and allow passage between subs, shuttles and locations.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190609T203402Z" creationid="nick2" creationdate="20190609T203349Z">
-        <seg>他のドッキングハッチと接続し水封密閉を形成することで、他の潜水艦やシャトルとの通行を可能にする。</seg>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T132543Z" creationid="nick2" creationdate="20190609T203349Z">
+        <seg>他の係留ハッチと接続し水封密閉を形成することで、他の潜水艦やシャトルとの通行を可能にする。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Locks to another docking port to form a watertight seal and allow passage between subs, shuttles and locations.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190609T203224Z" creationid="nick2" creationdate="20190609T203224Z">
-        <seg>他のドッキングポートと接続し水封密閉を形成することで、他の潜水艦やシャトルとの通行を可能にする。</seg>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T132543Z" creationid="nick2" creationdate="20190609T203224Z">
+        <seg>他の係留ポートと接続し水封密閉を形成することで、他の潜水艦やシャトルとの通行を可能にする。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8854,8 +8854,8 @@
       <tuv lang="EN-US">
         <seg>Lower docking port</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190608T062314Z" creationid="hiru4" creationdate="20190608T062314Z">
-        <seg>下部ドッキングポート</seg>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T132543Z" creationid="hiru4" creationdate="20190608T062314Z">
+        <seg>下部係留ポート</seg>
       </tuv>
     </tu>
     <tu>
@@ -11926,8 +11926,8 @@
       <tuv lang="EN-US">
         <seg>Ready to dock</seg>
       </tuv>
-      <tuv lang="JA" changeid="kakonya" changedate="20190610T033802Z" creationid="kakonya" creationdate="20190610T033802Z">
-        <seg>ドッキングする準備ができました</seg>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T132543Z" creationid="kakonya" creationdate="20190610T033802Z">
+        <seg>係留する準備ができました</seg>
       </tuv>
     </tu>
     <tu>
@@ -15062,8 +15062,8 @@
       <tuv lang="EN-US">
         <seg>The submarine will then be locked into position, and the docking hatch will be open for as long as the docking clamps are engaged.\n\nWhen positioning the submarine for docking, radical movements can easily cause you to overshoot your target.</seg>
       </tuv>
-      <tuv lang="JA" changeid="kakonya" changedate="20190610T030351Z" creationid="kakonya" creationdate="20190610T030324Z">
-        <seg>潜水艦は所定の位置にロックされ、ドッキングクランプがかみ合ってドッキングハッチが開きます。\n\nドッキングを急速に行おうとすると、ぶつかってしまうでしょう。</seg>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T132543Z" creationid="kakonya" creationdate="20190610T030324Z">
+        <seg>潜水艦は所定の位置にロックされ、係留クランプがかみ合って係留ハッチが開きます。\n\n係留を急速に行おうとすると、ぶつかってしまうでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15630,8 +15630,8 @@
       <tuv lang="EN-US">
         <seg>To dock the submarine, maneuver the ship’s and outpost’s docking ports close to each other and toggle the docking clamps.</seg>
       </tuv>
-      <tuv lang="JA" changeid="kakonya" changedate="20190610T025624Z" creationid="kakonya" creationdate="20190610T025624Z">
-        <seg>潜水艦をドッキングするには、船と前哨基地のドッキングポートを互いに近づけ、ドッキングクランプをトグルします。</seg>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T132543Z" creationid="kakonya" creationdate="20190610T025624Z">
+        <seg>潜水艦を係留するには、船と前哨基地の係留ポートを互いに近づけ、係留クランプをトグルします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15646,8 +15646,8 @@
       <tuv lang="EN-US">
         <seg>To get moving, you need to undock the submarine from the outpost.</seg>
       </tuv>
-      <tuv lang="JA" changeid="kakonya" changedate="20190610T024250Z" creationid="kakonya" creationdate="20190610T024250Z">
-        <seg>動くためには、潜水艦をドッキング解除する必要があります。</seg>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T132543Z" creationid="kakonya" creationdate="20190610T024250Z">
+        <seg>動くためには、潜水艦を係留解除する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15726,8 +15726,8 @@
       <tuv lang="EN-US">
         <seg>Toggle Docking</seg>
       </tuv>
-      <tuv lang="JA" changeid="kakonya" changedate="20190610T033201Z" creationid="kakonya" creationdate="20190610T033201Z">
-        <seg>トグルドッキング</seg>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T132543Z" creationid="kakonya" creationdate="20190610T033201Z">
+        <seg>トグル係留</seg>
       </tuv>
     </tu>
     <tu>
@@ -16062,16 +16062,16 @@
       <tuv lang="EN-US">
         <seg>Undock from the station</seg>
       </tuv>
-      <tuv lang="JA" changeid="kakonya" changedate="20190610T024203Z" creationid="kakonya" creationdate="20190610T024203Z">
-        <seg>ステーションからドッキング解除</seg>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T132543Z" creationid="kakonya" creationdate="20190610T024203Z">
+        <seg>ステーションから係留解除</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Undocking</seg>
       </tuv>
-      <tuv lang="JA" changeid="kakonya" changedate="20190610T024149Z" creationid="kakonya" creationdate="20190610T024149Z">
-        <seg>ドッキング解除</seg>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T132543Z" creationid="kakonya" creationdate="20190610T024149Z">
+        <seg>係留解除</seg>
       </tuv>
     </tu>
     <tu>
@@ -16166,8 +16166,8 @@
       <tuv lang="EN-US">
         <seg>Upper docking port</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190608T062449Z" creationid="hiru4" creationdate="20190608T062259Z">
-        <seg>上部ドッキングポート</seg>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T132543Z" creationid="hiru4" creationdate="20190608T062259Z">
+        <seg>上部係留ポート</seg>
       </tuv>
     </tu>
     <tu>
@@ -17097,8 +17097,8 @@
       <tuv lang="EN-US">
         <seg>When the line is fully green, close the clamps by pressing “toggle docking”.</seg>
       </tuv>
-      <tuv lang="JA" changeid="kakonya" changedate="20190610T030135Z" creationid="kakonya" creationdate="20190610T030135Z">
-        <seg>ラインが完全に緑色になったら、「トグルドッキング」を押してクランプを閉じます。</seg>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T132543Z" creationid="kakonya" creationdate="20190610T030135Z">
+        <seg>ラインが完全に緑色になったら、「トグル係留」を押してクランプを閉じます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18359,6 +18359,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[name] Breeding Grounds</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T131818Z" creationid="totochan" creationdate="20190616T131818Z">
+        <seg>[name] 繁殖地</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[name] City</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190616T120632Z" creationid="totochan" creationdate="20190616T120632Z">
@@ -18795,6 +18803,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190610T173632Z" creationid="nick2" creationdate="20190610T173437Z">
         <seg>[percentage] % のプレイヤーが準備完了する必要があります</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[previousname] has been depopulated.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T132540Z" creationid="totochan" creationdate="20190616T132540Z">
+        <seg>[previousname] が削除されました。</seg>
       </tuv>
     </tu>
     <tu>
