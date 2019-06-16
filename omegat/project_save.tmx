@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6996,10 +6996,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I'll start pumping out water!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T122638Z" creationid="nick2" creationdate="20190616T122638Z">
+        <seg>ポンプで排水します!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I'll steer the submarine!</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190616T121440Z" creationid="nick2" creationdate="20190616T121440Z">
         <seg>潜水艦の舵を取るぞ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'll stop charging the batteries!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T122546Z" creationid="nick2" creationdate="20190616T122532Z">
+        <seg>バッテリー充電を停止する!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'll stop the pumps!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T122733Z" creationid="nick2" creationdate="20190616T122733Z">
+        <seg>ポンプを止める!</seg>
       </tuv>
     </tu>
     <tu>
@@ -17441,8 +17465,8 @@
       <tuv lang="EN-US">
         <seg>[name], make sure all batteries are charged!</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190616T122223Z" creationid="nick2" creationdate="20190616T122223Z">
-        <seg>[name],、すべてのバッテリの充電確認をしろ!</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T122338Z" creationid="nick2" creationdate="20190616T122223Z">
+        <seg>[name]、すべてのバッテリの充電確認をしろ!</seg>
       </tuv>
     </tu>
     <tu>
@@ -17459,6 +17483,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190616T121426Z" creationid="nick2" creationdate="20190616T121426Z">
         <seg>[name]、かじを切れ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[name], man the weapons!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T122503Z" creationid="nick2" creationdate="20190616T122503Z">
+        <seg>[name]、武装準備!</seg>
       </tuv>
     </tu>
     <tu>
@@ -17481,8 +17513,8 @@
       <tuv lang="EN-US">
         <seg>[name], operate the weapons!</seg>
       </tuv>
-      <tuv lang="JA" changeid="kakonya" changedate="20190610T023839Z" creationid="kakonya" creationdate="20190610T023839Z">
-        <seg>[name],武器の操作!</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T122511Z" creationid="kakonya" creationdate="20190610T023839Z">
+        <seg>[name]、武器の操作!</seg>
       </tuv>
     </tu>
     <tu>
@@ -17499,6 +17531,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190610T023024Z" creationid="kakonya" creationdate="20190610T023024Z">
         <seg>[name], 故障の修理!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[name], rescue anyone in distress!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T122755Z" creationid="nick2" creationdate="20190616T122755Z">
+        <seg>[name]、救命開始!</seg>
       </tuv>
     </tu>
     <tu>
@@ -17527,6 +17567,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[name], shut down the pumps!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T122727Z" creationid="nick2" creationdate="20190616T122655Z">
+        <seg>[name]、ポンプを停止しろ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[name], shut down the reactor!</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190610T023813Z" creationid="kakonya" creationdate="20190610T023813Z">
@@ -17543,10 +17591,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[name], start pumping out water!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T122644Z" creationid="nick2" creationdate="20190616T122613Z">
+        <seg>[name]、ポンプ排水開始!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[name], steer the submarine!</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190616T121435Z" creationid="nick2" creationdate="20190616T121435Z">
         <seg>[name]、潜水艦を操縦しろ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[name], stop charging the batteries!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T122335Z" creationid="nick2" creationdate="20190616T122335Z">
+        <seg>[name]、バッテリーの充電を中止!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[name], stop the pumps!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T122720Z" creationid="nick2" creationdate="20190616T122707Z">
+        <seg>[name]、ポンプを止めろ!</seg>
       </tuv>
     </tu>
     <tu>
