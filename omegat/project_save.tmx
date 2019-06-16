@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2955,6 +2955,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Channel</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T120459Z" creationid="totochan" creationdate="20190616T120459Z">
+        <seg>チャンネル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Character Editor</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T104156Z" creationid="totochan" creationdate="20190607T104156Z">
@@ -3239,6 +3247,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190610T025104Z" creationid="kakonya" creationdate="20190610T025104Z">
         <seg>洞窟の壁とぶつかると船体が損傷し、水漏れの原因となります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Color</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T120421Z" creationid="totochan" creationdate="20190616T120421Z">
+        <seg>色</seg>
       </tuv>
     </tu>
     <tu>
@@ -4007,6 +4023,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T203517Z" creationid="nick2" creationdate="20190609T203517Z">
         <seg>装飾用のテキストラベル。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delay</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T120417Z" creationid="totochan" creationdate="20190616T120417Z">
+        <seg>遅延イ</seg>
       </tuv>
     </tu>
     <tu>
@@ -5420,6 +5444,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>False output</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T120402Z" creationid="totochan" creationdate="20190616T120402Z">
+        <seg>出力無効</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Faraday Alien Artifact</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T210102Z" creationid="nick2" creationdate="20190609T210102Z">
@@ -6580,6 +6612,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hold to unequip</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T120503Z" creationid="totochan" creationdate="20190616T120503Z">
+        <seg>長押しで装備を外す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Holding fire!</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190610T062840Z" creationid="totochan" creationdate="20190610T062840Z">
@@ -7120,6 +7160,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T060658Z" creationid="hiru4" creationdate="20190608T060658Z">
         <seg>インセンディウムバー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Incendium Fuel Tank</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T120507Z" creationid="totochan" creationdate="20190616T120507Z">
+        <seg>インセンディウム燃料タンク</seg>
       </tuv>
     </tu>
     <tu>
@@ -9748,6 +9796,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Output type</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T120425Z" creationid="totochan" creationdate="20190616T120425Z">
+        <seg>出力タイプ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Output: [kw] kW</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T111410Z" creationid="kakonya" creationdate="20190607T111410Z">
@@ -10076,6 +10132,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Physicorium Ammunition Box</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T120509Z" creationid="totochan" creationdate="20190616T120509Z">
+        <seg>サイコリウム弾薬箱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Physicorium Bar</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T060715Z" creationid="hiru4" creationdate="20190608T060715Z">
@@ -10088,6 +10152,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190609T013856Z" creationid="totochan" creationdate="20190609T013856Z">
         <seg>サイコリウムボディアーマー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Physicorium Bolt</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T120515Z" creationid="totochan" creationdate="20190616T120515Z">
+        <seg>サイコリウムボルト</seg>
       </tuv>
     </tu>
     <tu>
@@ -10788,6 +10860,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Range X</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T120452Z" creationid="totochan" creationdate="20190616T120452Z">
+        <seg>範囲X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Range Y</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T120457Z" creationid="totochan" creationdate="20190616T120457Z">
+        <seg>範囲Y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ranged weapons</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190609T000548Z" creationid="kakonya" creationdate="20190609T000548Z">
@@ -11304,6 +11392,22 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190610T030731Z" creationid="kakonya" creationdate="20190610T030731Z">
         <seg>カルマをリセット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reset when different signal received</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T120441Z" creationid="totochan" creationdate="20190616T120441Z">
+        <seg>異なる信号を受信したときにリセット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reset when signal received</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T120436Z" creationid="totochan" creationdate="20190616T120436Z">
+        <seg>信号を受信したときにリセット</seg>
       </tuv>
     </tu>
     <tu>
@@ -13076,6 +13180,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Target signal</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T120454Z" creationid="totochan" creationdate="20190616T120454Z">
+        <seg>目標信号</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Target terminated</seg>
       </tuv>
       <tuv lang="JA" changeid="PalZaxson" changedate="20190610T050855Z" creationid="PalZaxson" creationdate="20190610T045132Z">
@@ -14348,6 +14460,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Timeframe</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T120405Z" creationid="totochan" creationdate="20190616T120405Z">
+        <seg>時間枠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tin</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T175806Z" creationid="nick2" creationdate="20190608T175806Z">
@@ -15200,6 +15320,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T062142Z" creationid="hiru4" creationdate="20190608T062142Z">
         <seg>ユーティリティ区画</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Value</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T120448Z" creationid="totochan" creationdate="20190616T120448Z">
+        <seg>値</seg>
       </tuv>
     </tu>
     <tu>
@@ -16971,6 +17099,14 @@
       </tuv>
       <tuv lang="JA" changeid="spears" changedate="20190607T135538Z" creationid="spears" creationdate="20190607T135538Z">
         <seg>[itemname] の充電は現在 [rate] %!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[name] City</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T120632Z" creationid="totochan" creationdate="20190616T120632Z">
+        <seg>[name] シティー</seg>
       </tuv>
     </tu>
     <tu>
