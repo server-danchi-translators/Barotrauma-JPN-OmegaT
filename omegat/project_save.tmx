@@ -2755,6 +2755,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Can't find any batteries!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T121331Z" creationid="totochan" creationdate="20190616T121331Z">
+        <seg>電池が見つかりません!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Can't reach the target.</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190610T062423Z" creationid="totochan" creationdate="20190610T062423Z">
@@ -14176,6 +14184,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T114158Z" creationid="nick2" creationdate="20190608T001012Z">
         <seg>ロックがかかったドアを開く方法は数種類あります。バールでこじ開けたり、あなたがアクセス権を持っているボタンにドアを再配線するなどです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There aren't any batteries on this boat!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T121232Z" creationid="totochan" creationdate="20190616T121232Z">
+        <seg>このボートにはバッテリーがない!</seg>
       </tuv>
     </tu>
     <tu>
