@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6406,8 +6406,8 @@
       <tuv lang="EN-US">
         <seg>Giving first aid to [targetname] in [roomname]!</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190616T124348Z" creationid="totochan" creationdate="20190616T123828Z">
-        <seg>[roomname]で [targetname]に初期治療を与えます！</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T125704Z" creationid="totochan" creationdate="20190616T123828Z">
+        <seg>[roomname]で [targetname]に応急処置を与えます！</seg>
       </tuv>
     </tu>
     <tu>
@@ -7198,8 +7198,8 @@
       <tuv lang="EN-US">
         <seg>I need to find [treatmentlist]!</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190616T123834Z" creationid="totochan" creationdate="20190616T123834Z">
-        <seg>[treatmentlist]見つける必要があります！</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T125720Z" creationid="totochan" creationdate="20190616T123834Z">
+        <seg>[treatmentlist] を見つける必要があります！</seg>
       </tuv>
     </tu>
     <tu>
