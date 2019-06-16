@@ -2435,6 +2435,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Berilia is top of the line when it comes to mass and firepower.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Rasiel" changedate="20190616T124924Z" creationid="Rasiel" creationdate="20190616T124924Z">
+        <seg>Beriliaは、質量と火力に関しては最上位にあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Berthing compartment</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T062139Z" creationid="hiru4" creationdate="20190608T062139Z">
@@ -2607,6 +2615,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T005126Z" creationid="nick2" creationdate="20190608T005126Z">
         <seg>デコンストラクタでエイリアンのアーティファクトを分解すると、外来的な原料を確保できるかもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Brig</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Rasiel" changedate="20190616T124423Z" creationid="Rasiel" creationdate="20190616T124423Z">
+        <seg>営倉</seg>
       </tuv>
     </tu>
     <tu>
@@ -3895,6 +3911,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T114107Z" creationid="kakonya" creationdate="20190607T114107Z">
         <seg>乗員の注文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Crew quarters</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Rasiel" changedate="20190616T124629Z" creationid="Rasiel" creationdate="20190616T124629Z">
+        <seg>舎営</seg>
       </tuv>
     </tu>
     <tu>
@@ -7980,6 +8004,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Its two engines and three ballasts require a copious amount of power to operate, and keeping the machinery in condition is a handful for even a moderately large crew.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Rasiel" changedate="20190616T125117Z" creationid="Rasiel" creationdate="20190616T125117Z">
+        <seg>その2つのエンジンと3つのバラストは作動するために莫大な量の電力を必要とします、そして機械を最適な状態に保てるのは多くの乗組員の中でも一握りです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I’m reading something big on the sonar.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T233332Z" creationid="kakonya" creationdate="20190608T233332Z">
@@ -8992,6 +9024,14 @@
       </tuv>
       <tuv lang="JA" changeid="Rasiel" changedate="20190612T062515Z" creationid="Rasiel" creationdate="20190612T062515Z">
         <seg>メカニックは高い機械工学技術で様々な機械装置を修理することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Medbay</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Rasiel" changedate="20190616T124413Z" creationid="Rasiel" creationdate="20190616T124413Z">
+        <seg>医務室</seg>
       </tuv>
     </tu>
     <tu>
@@ -15022,8 +15062,8 @@
       <tuv lang="EN-US">
         <seg>They are capable of performing maintenance on the various electrical pieces of the submarine.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Rasiel" changedate="20190612T062446Z" creationid="Rasiel" creationdate="20190612T062446Z">
-        <seg>彼らは潜水艦の様々な電気部品のメンテナンスを実行することが可能です。</seg>
+      <tuv lang="JA" changeid="Rasiel" changedate="20190616T124136Z" creationid="Rasiel" creationdate="20190612T062446Z">
+        <seg>彼らは潜水艦の様々な電子機器のメンテナンスを実行することが可能です。</seg>
       </tuv>
     </tu>
     <tu>
