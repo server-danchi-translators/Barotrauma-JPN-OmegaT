@@ -4492,6 +4492,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do you allow Barotrauma to send usage statistics and error reports to the developers?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Rasiel" changedate="20190616T122922Z" creationid="Rasiel" creationdate="20190616T122922Z">
+        <seg>Barotraumaから使用状況の統計とエラーレポートを開発者に送信することを許可しますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do you want to abort the mission and end the round now?</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T123858Z" creationid="nick2" creationdate="20190608T123858Z">
@@ -4520,6 +4528,14 @@
       </tuv>
       <tuv lang="JA" changeid="Rasiel" changedate="20190609T015427Z" creationid="Rasiel" creationdate="20190609T015427Z">
         <seg> [locationname]に入りますか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do you want to help us make Barotrauma better?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Rasiel" changedate="20190616T122900Z" creationid="Rasiel" creationdate="20190616T122900Z">
+        <seg>あなたは私たちがBarotraumaを良くするのを手助けしたいですか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -9268,6 +9284,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mysteries lie ahead...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Rasiel" changedate="20190616T123033Z" creationid="Rasiel" creationdate="20190616T123033Z">
+        <seg>謎は先にある...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Naloxone</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T163940Z" creationid="nick2" creationdate="20190608T163940Z">
@@ -10124,6 +10148,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Oxygen Levels: Nominal.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Rasiel" changedate="20190616T122827Z" creationid="Rasiel" creationdate="20190616T122827Z">
+        <seg>酸素濃度:わずか</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Oxygen Tank</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T112922Z" creationid="kakonya" creationdate="20190608T112922Z">
@@ -10644,6 +10676,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Power Levels: Nominal.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Rasiel" changedate="20190616T122806Z" creationid="Rasiel" creationdate="20190616T122806Z">
+        <seg>パワーレベル:わずか</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Power up submarine’s reactor</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T024005Z" creationid="kakonya" creationdate="20190608T024005Z">
@@ -10976,6 +11016,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190610T182111Z" creationid="nick2" creationdate="20190610T182111Z">
         <seg>順番待ち</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Radiation Levels: Suboptimal.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Rasiel" changedate="20190616T122656Z" creationid="Rasiel" creationdate="20190616T122656Z">
+        <seg>放射線レベル:準最適</seg>
       </tuv>
     </tu>
     <tu>
@@ -13728,6 +13776,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190610T031935Z" creationid="kakonya" creationdate="20190610T031935Z">
         <seg>カスタム作成はSteamワークショップで共有できます。\n\n現時点では、エディターは英語でしか利用できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The data is anonymous, does not contain any personal information and is only used to help us diagnose issues and improve Barotrauma.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Rasiel" changedate="20190616T122943Z" creationid="Rasiel" creationdate="20190616T122943Z">
+        <seg>このデータは匿名で、個人情報は一切含まれていません。問題の診断やBarotraumaの改善に役立てるためにのみ使用されています。</seg>
       </tuv>
     </tu>
     <tu>
