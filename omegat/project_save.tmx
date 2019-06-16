@@ -8358,6 +8358,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Keep them alive and sane, or put them down like dogs.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T143514Z" creationid="nick2" creationdate="20190616T143514Z">
+        <seg>正気を保たせるか、野良犬のように処分するかはあなたに任せます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Kick</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T105031Z" creationid="kakonya" creationdate="20190607T105031Z">
