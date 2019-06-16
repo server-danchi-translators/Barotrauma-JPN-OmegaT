@@ -3044,6 +3044,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Captain and security are harmless, and way below your intelligence.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T135622Z" creationid="nick2" creationdate="20190616T135622Z">
+        <seg>知能指数が低すぎるので船長とセキュリティは無害です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Captain training</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190610T063041Z" creationid="totochan" creationdate="20190610T063041Z">
@@ -10374,6 +10382,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Obviously.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T135635Z" creationid="nick2" creationdate="20190616T135635Z">
+        <seg>当たり前ですよねぇ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Offline</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190610T034039Z" creationid="kakonya" creationdate="20190610T034039Z">
@@ -12514,6 +12530,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T061910Z" creationid="hiru4" creationdate="20190608T061910Z">
         <seg>プレイヤーの復帰[time]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Responsibilities\n-Electrical item maintenance\n-Operating the reactor</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T135715Z" creationid="nick2" creationdate="20190616T135715Z">
+        <seg>主な仕事\n-電子機器のメンテナンス\n-原子炉の操作</seg>
       </tuv>
     </tu>
     <tu>
