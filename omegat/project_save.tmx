@@ -9318,8 +9318,8 @@
       <tuv lang="EN-US">
         <seg>Military Outpost</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190616T120722Z" creationid="totochan" creationdate="20190616T120722Z">
-        <seg>軍事施設t</seg>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T130935Z" creationid="totochan" creationdate="20190616T120722Z">
+        <seg>軍事施設</seg>
       </tuv>
     </tu>
     <tu>
@@ -12280,6 +12280,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T025526Z" creationid="kakonya" creationdate="20190608T025526Z">
         <seg>非常に大きな電力サージ（通常スーパーキャパシターによって供給される）を必要とし、連射ができないため、大きくて重装甲の標的に対して有効でしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Research Outpost</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T131040Z" creationid="totochan" creationdate="20190616T131031Z">
+        <seg>研究施設</seg>
       </tuv>
     </tu>
     <tu>
@@ -18255,10 +18263,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[name] Facility</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T130954Z" creationid="totochan" creationdate="20190616T130954Z">
+        <seg>[name] 施設</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[name] Fortification</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T131022Z" creationid="totochan" creationdate="20190616T131022Z">
+        <seg>[name] 要塞</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[name] Habitation Outpost</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190616T120809Z" creationid="totochan" creationdate="20190616T120809Z">
         <seg>[name] 居留施設</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[name] Institute of Astrobiology</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T131200Z" creationid="totochan" creationdate="20190616T131200Z">
+        <seg>[name] 生物研究j施設</seg>
       </tuv>
     </tu>
     <tu>
@@ -18271,10 +18303,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[name] Research Center</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T131115Z" creationid="totochan" creationdate="20190616T131115Z">
+        <seg>[name] 研究センター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[name] Research Facility</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T131106Z" creationid="totochan" creationdate="20190616T131106Z">
+        <seg>[name] 研究施設</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[name] Station</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190616T120647Z" creationid="totochan" creationdate="20190616T120647Z">
-        <seg>[name] ステーションon</seg>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T130959Z" creationid="totochan" creationdate="20190616T120647Z">
+        <seg>[name] ステーション</seg>
       </tuv>
     </tu>
     <tu>
