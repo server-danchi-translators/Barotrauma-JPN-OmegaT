@@ -1851,6 +1851,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>And remember, your job goes well beyond the physical.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T141832Z" creationid="nick2" creationdate="20190616T141832Z">
+        <seg>そして、あなたの専門は外科だけではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Another one eliminated.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190616T125323Z" creationid="nick2" creationdate="20190616T125323Z">
@@ -6693,6 +6701,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Guns and engines and reactors don't keep the ship running—people do.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T141657Z" creationid="nick2" creationdate="20190616T141657Z">
+        <seg>銃やエンジンや原子炉が船を維持するわけではありません。 - 人がするのです</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gunshot wound</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190610T061748Z" creationid="totochan" creationdate="20190610T061748Z">
@@ -8222,6 +8238,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It’s up to you to keep the gunner alive to man the guns and captain alive to steer the ship.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T141808Z" creationid="nick2" creationdate="20190616T141808Z">
+        <seg>あなたがいなければ、銃を撃つためのガンナーや船の操縦をするキャプテンは生きていません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I’m reading something big on the sonar.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T233332Z" creationid="kakonya" creationdate="20190608T233332Z">
@@ -9274,6 +9298,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190610T061544Z" creationid="totochan" creationdate="20190610T061544Z">
         <seg>ドクター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Medical Doctor - Maintaining the key resource: the people</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T141604Z" creationid="nick2" creationdate="20190616T141604Z">
+        <seg>医療ドクター - 重要な資源の管理:(資源=人)</seg>
       </tuv>
     </tu>
     <tu>
@@ -16974,6 +17006,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We live crammed into tight spaces, under ice, in the sea.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T141955Z" creationid="nick2" creationdate="20190616T141955Z">
+        <seg>我々は氷の下、海の奥深くの狭い空間に閉じ込められています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We need a medic here stat.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190609T002800Z" creationid="kakonya" creationdate="20190609T002800Z">
@@ -17229,6 +17269,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T171218Z" creationid="nick2" creationdate="20190609T170351Z">
         <seg>電力網に消費量よりも多くの電力が供給されると、電圧が上昇し電気装置に損傷を与える可能性があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the lights go out and your buddies go to sleep, all kinds of dark shit crawls into their minds.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T143409Z" creationid="nick2" creationdate="20190616T143409Z">
+        <seg>消灯し、仲間たちが眠りにつく度、彼らの心には暗い影が差します。</seg>
       </tuv>
     </tu>
     <tu>
