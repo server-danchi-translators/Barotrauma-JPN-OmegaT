@@ -439,6 +439,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A military outpost has been established at [previousname].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T131726Z" creationid="totochan" creationdate="20190616T131726Z">
+        <seg>[previousname]に軍の前哨基地を設置した。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A mineral composed of calcium and phosphorus.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T171731Z" creationid="nick2" creationdate="20190608T171731Z">
@@ -779,6 +787,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190610T200506Z" creationid="nick2" creationdate="20190610T200506Z">
         <seg>反逆者の船は [location2] 外郭付近で発見されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A research outpost has been established at [previousname].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T131755Z" creationid="totochan" creationdate="20190616T131755Z">
+        <seg> [previousname]に研究拠点を設置。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1779,6 +1795,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An outpost has been established at [previousname].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T131711Z" creationid="totochan" creationdate="20190616T131711Z">
+        <seg> [previousname]に前哨基地を設置した。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An unstable explosive compound.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T230807Z" creationid="kakonya" creationdate="20190608T230807Z">
@@ -2663,6 +2687,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T005126Z" creationid="nick2" creationdate="20190608T005126Z">
         <seg>デコンストラクタでエイリアンのアーティファクトを分解すると、外来的な原料を確保できるかもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Breeding Grounds</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T131804Z" creationid="totochan" creationdate="20190616T131804Z">
+        <seg>繁殖地</seg>
       </tuv>
     </tu>
     <tu>
@@ -4776,6 +4808,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T141238Z" creationid="totochan" creationdate="20190607T141238Z">
         <seg>取り替えたいですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do you want to try again?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T131630Z" creationid="totochan" creationdate="20190616T131630Z">
+        <seg>もう一度、挑戦しますか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -17607,6 +17647,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You have died</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T131610Z" creationid="totochan" creationdate="20190616T131610Z">
+        <seg>死亡しています</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You have died of alcohol poisoning.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190610T203511Z" creationid="nick2" creationdate="20190610T203511Z">
@@ -18315,6 +18363,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190616T131200Z" creationid="totochan" creationdate="20190616T131200Z">
         <seg>[name] 生物研究j施設</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[name] Mine</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T131548Z" creationid="totochan" creationdate="20190616T131539Z">
+        <seg>[name] 採掘所</seg>
       </tuv>
     </tu>
     <tu>
