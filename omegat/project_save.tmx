@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3551,6 +3551,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112820Z" creationid="kakonya" creationdate="20190607T112820Z">
         <seg>コンテンツパッケージ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Continuous output</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Rasiel" changedate="20190616T123203Z" creationid="Rasiel" creationdate="20190616T123203Z">
+        <seg>連続出力</seg>
       </tuv>
     </tu>
     <tu>
@@ -15932,6 +15940,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>WARNING: High pressure</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Rasiel" changedate="20190616T123332Z" creationid="Rasiel" creationdate="20190616T123332Z">
+        <seg>警告:高圧力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>WARNING: Insufficient power</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190609T014809Z" creationid="totochan" creationdate="20190609T014809Z">
@@ -17883,6 +17899,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190610T033722Z" creationid="kakonya" creationdate="20190610T033722Z">
         <seg>カメラビュー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>caution</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Rasiel" changedate="20190616T123303Z" creationid="Rasiel" creationdate="20190616T123303Z">
+        <seg>警告</seg>
       </tuv>
     </tu>
     <tu>
