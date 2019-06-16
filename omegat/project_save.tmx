@@ -6276,6 +6276,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Habitation Outpost</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T120752Z" creationid="totochan" creationdate="20190616T120752Z">
+        <seg>居留施設</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Haloperidol</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T164402Z" creationid="nick2" creationdate="20190608T164402Z">
@@ -8624,6 +8632,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T231653Z" creationid="kakonya" creationdate="20190608T231653Z">
         <seg>死に至る場合があります...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Military Outpost</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T120722Z" creationid="totochan" creationdate="20190616T120722Z">
+        <seg>軍事施設t</seg>
       </tuv>
     </tu>
     <tu>
@@ -17107,6 +17123,30 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190616T120632Z" creationid="totochan" creationdate="20190616T120632Z">
         <seg>[name] シティー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[name] Habitation Outpost</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T120809Z" creationid="totochan" creationdate="20190616T120809Z">
+        <seg>[name] 居留施設</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[name] Outpost</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T120740Z" creationid="totochan" creationdate="20190616T120740Z">
+        <seg>[name] 施設</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[name] Station</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T120647Z" creationid="totochan" creationdate="20190616T120647Z">
+        <seg>[name] ステーションon</seg>
       </tuv>
     </tu>
     <tu>
