@@ -1779,6 +1779,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Another one eliminated.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T125323Z" creationid="nick2" creationdate="20190616T125323Z">
+        <seg>もう一人やった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Antibiotic Glue</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T053945Z" creationid="kakonya" creationdate="20190608T053945Z">
@@ -15054,8 +15062,8 @@
       <tuv lang="EN-US">
         <seg>There's nothing to repair.</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190616T124133Z" creationid="totochan" creationdate="20190616T124133Z">
-        <seg>修理するものは何もありません。.</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T125325Z" creationid="totochan" creationdate="20190616T124133Z">
+        <seg>修理するものは何もありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18417,8 +18425,8 @@
       <tuv lang="EN-US">
         <seg>[name], you are dismissed!</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190616T124511Z" creationid="totochan" creationdate="20190616T124511Z">
-        <seg>[name]は解雇されます!</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T125345Z" creationid="totochan" creationdate="20190616T124511Z">
+        <seg>[name]、解散!</seg>
       </tuv>
     </tu>
     <tu>
