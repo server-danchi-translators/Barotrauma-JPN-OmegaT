@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1829,8 +1829,8 @@
       <tuv lang="EN-US">
         <seg>Anything you can—I don't care about your training now!</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190616T123732Z" creationid="nick2" creationdate="20190616T123732Z">
-        <seg>どれでもいい! - 今は自分の専門のことは忘れろ!</seg>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T125644Z" creationid="nick2" creationdate="20190616T123732Z">
+        <seg>とにかく! - 今は自分の専門のことは忘れろ!</seg>
       </tuv>
     </tu>
     <tu>
@@ -7118,8 +7118,8 @@
       <tuv lang="EN-US">
         <seg>I don't care if you don't have the skills—do your best!</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190616T123147Z" creationid="nick2" creationdate="20190616T123147Z">
-        <seg>スキルが足りなくても構わない! - 最善を尽くせ!</seg>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T125602Z" creationid="totochan" creationdate="20190616T125602Z">
+        <seg>スキルがなくても構いません。最善を尽くしてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7350,8 +7350,8 @@
       <tuv lang="EN-US">
         <seg>I'll stop charging the batteries!</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190616T122546Z" creationid="nick2" creationdate="20190616T122532Z">
-        <seg>バッテリー充電を停止する!</seg>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T125321Z" creationid="nick2" creationdate="20190616T122532Z">
+        <seg>バッテリーの充電を停止する!</seg>
       </tuv>
     </tu>
     <tu>
@@ -7374,8 +7374,8 @@
       <tuv lang="EN-US">
         <seg>I'll take care of leaks!</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190616T122053Z" creationid="nick2" creationdate="20190616T122053Z">
-        <seg>浸水を直す!</seg>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T125238Z" creationid="nick2" creationdate="20190616T122053Z">
+        <seg>浸水を修理!</seg>
       </tuv>
     </tu>
     <tu>
@@ -18121,8 +18121,8 @@
       <tuv lang="EN-US">
         <seg>[name], charge the batteries!</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190616T122153Z" creationid="nick2" creationdate="20190616T122153Z">
-        <seg>[name]、バッテリーをチャージしろ!</seg>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T125305Z" creationid="nick2" creationdate="20190616T122153Z">
+        <seg>[name]、バッテリーを充電しろ!</seg>
       </tuv>
     </tu>
     <tu>
@@ -18169,8 +18169,8 @@
       <tuv lang="EN-US">
         <seg>[name], give medical aid to anyone in need!</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190616T122937Z" creationid="nick2" creationdate="20190616T122850Z">
-        <seg>[name]、怪我人に医療援助を!</seg>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T125410Z" creationid="nick2" creationdate="20190616T122850Z">
+        <seg>[name]、怪我人に治療を!</seg>
       </tuv>
     </tu>
     <tu>
@@ -18289,8 +18289,8 @@
       <tuv lang="EN-US">
         <seg>[name], repair any damaged systems!</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190616T123107Z" creationid="nick2" creationdate="20190616T123107Z">
-        <seg>[name]、故障した機器の修理!</seg>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T125531Z" creationid="nick2" creationdate="20190616T123107Z">
+        <seg>[name]、故障したデバイスの修理!</seg>
       </tuv>
     </tu>
     <tu>
@@ -18361,8 +18361,8 @@
       <tuv lang="EN-US">
         <seg>[name], start pumping out water!</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190616T122644Z" creationid="nick2" creationdate="20190616T122613Z">
-        <seg>[name]、ポンプ排水開始!</seg>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T125329Z" creationid="nick2" creationdate="20190616T122613Z">
+        <seg>[name]、ポンプで排水開始!</seg>
       </tuv>
     </tu>
     <tu>
@@ -18401,8 +18401,8 @@
       <tuv lang="EN-US">
         <seg>[name], take care of any leaks!</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190616T122040Z" creationid="nick2" creationdate="20190616T122040Z">
-        <seg>[name]、浸水を見つけて直せ!</seg>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T125230Z" creationid="nick2" creationdate="20190616T122040Z">
+        <seg>[name]、浸水を探し修理しろ!</seg>
       </tuv>
     </tu>
     <tu>
@@ -18417,8 +18417,8 @@
       <tuv lang="EN-US">
         <seg>[name], try to fix any broken devices, even if it's something you're not trained for!</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190616T123421Z" creationid="nick2" creationdate="20190616T123349Z">
-        <seg>[name]、壊れた機器を修理せよ! 専門分野外の機器も頼む!</seg>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T125610Z" creationid="nick2" creationdate="20190616T123349Z">
+        <seg>[name]、壊れた機器を修理せよ! 専門分野外の機器でも頼む!</seg>
       </tuv>
     </tu>
     <tu>
