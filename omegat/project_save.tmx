@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9052,6 +9052,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mechanic - Glue, duct tape and your nerve are the only things keeping the crew alive.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T130540Z" creationid="nick2" creationdate="20190616T130448Z">
+        <seg>メカニック - 接着剤とダクトテープ、さらに図太い神経だけで乗組員を生存させています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mechanic training</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190610T063034Z" creationid="totochan" creationdate="20190610T063034Z">
@@ -10224,6 +10232,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T045058Z" creationid="kakonya" creationdate="20190608T045058Z">
         <seg>権威に従って!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Objective (Click to review)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T130310Z" creationid="nick2" creationdate="20190616T130310Z">
+        <seg>目標 (クリックして表示)</seg>
       </tuv>
     </tu>
     <tu>
@@ -16971,6 +16987,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190611T061916Z" creationid="kakonya" creationdate="20190608T021924Z">
         <seg>出力が低いと停電になり、高いと過電圧となり発火します。\n\n原子炉を離れるときには自動制御をオンにすると良いでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the plan goes as planned and the gear works is as probable as the human race leaving this shithole.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T130836Z" creationid="nick2" creationdate="20190616T130836Z">
+        <seg>計画通りに計画が進み、機械の動作確率がこのクソ星から人類がオサラバするのと同じくらいなら</seg>
       </tuv>
     </tu>
     <tu>
