@@ -8246,6 +8246,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It’s up to you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T143547Z" creationid="nick2" creationdate="20190616T143547Z">
+        <seg>それはあなた次第です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I’m reading something big on the sonar.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T233332Z" creationid="kakonya" creationdate="20190608T233332Z">
@@ -8360,8 +8368,8 @@
       <tuv lang="EN-US">
         <seg>Keep them alive and sane, or put them down like dogs.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190616T143514Z" creationid="nick2" creationdate="20190616T143514Z">
-        <seg>正気を保たせるか、野良犬のように処分するかはあなたに任せます。</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T143530Z" creationid="nick2" creationdate="20190616T143514Z">
+        <seg>正気を保たせるか、野良犬のように処分するか。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12610,6 +12618,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190616T135715Z" creationid="nick2" creationdate="20190616T135715Z">
         <seg>主な仕事\n-電子機器のメンテナンス\n-原子炉の操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Responsibilities\n-First aid\n-Poisons and antidotes</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T143631Z" creationid="nick2" creationdate="20190616T143631Z">
+        <seg>主な仕事\n-応急処置\n-毒と解毒</seg>
       </tuv>
     </tu>
     <tu>
@@ -17283,8 +17299,8 @@
       <tuv lang="EN-US">
         <seg>When the lights go out and your buddies go to sleep, all kinds of dark shit crawls into their minds.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190616T143409Z" creationid="nick2" creationdate="20190616T143409Z">
-        <seg>消灯し、仲間たちが眠りにつく度、彼らの心には暗い影が差します。</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T143559Z" creationid="nick2" creationdate="20190616T143409Z">
+        <seg>消灯し、仲間たちが眠りにつく度、彼らの心には深く暗い影が差します。</seg>
       </tuv>
     </tu>
     <tu>
