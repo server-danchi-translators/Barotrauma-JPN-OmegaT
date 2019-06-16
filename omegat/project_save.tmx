@@ -6836,6 +6836,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I need an oxygen tank!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T122143Z" creationid="totochan" creationdate="20190616T122143Z">
+        <seg>酸素ボンベを必要とします！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I need diving gear!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T122134Z" creationid="totochan" creationdate="20190616T122134Z">
+        <seg>潜水具を必要とします！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I need you to make sure we’re ready to deal with whatever comes after us when we leave.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T234019Z" creationid="kakonya" creationdate="20190608T234019Z">
@@ -9216,6 +9232,22 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T202354Z" creationid="nick2" creationdate="20190609T202354Z">
         <seg>複数の酸素ボンベを効率よく格納。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Need to find a diving suit!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T122130Z" creationid="totochan" creationdate="20190616T122130Z">
+        <seg>潜水具を見つける必要があります！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Need to find an oxygen tank!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T122139Z" creationid="totochan" creationdate="20190616T122139Z">
+        <seg>酸素ボンベを見つける必要があります！</seg>
       </tuv>
     </tu>
     <tu>
