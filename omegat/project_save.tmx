@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -18217,8 +18217,8 @@
       <tuv lang="EN-US">
         <seg>[name], navigate onwards!</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190616T124844Z" creationid="nick2" creationdate="20190616T121836Z">
-        <seg>[name]、前に移動します</seg>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T125022Z" creationid="totochan" creationdate="20190616T125022Z">
+        <seg>[name], 移動を開始！</seg>
       </tuv>
     </tu>
     <tu>
@@ -18297,8 +18297,8 @@
       <tuv lang="EN-US">
         <seg>[name], set the course onwards!</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190616T121903Z" creationid="nick2" creationdate="20190616T121903Z">
-        <seg>[name]、進路を前へ!</seg>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T125038Z" creationid="totochan" creationdate="20190616T125038Z">
+        <seg>[name], に目的地を設定!</seg>
       </tuv>
     </tu>
     <tu>
@@ -18329,8 +18329,8 @@
       <tuv lang="EN-US">
         <seg>[name], start fixing leaks!</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190616T122016Z" creationid="nick2" creationdate="20190616T122002Z">
-        <seg>[name]、浸水の修理を開始せよ!</seg>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T125221Z" creationid="nick2" creationdate="20190616T122002Z">
+        <seg>[name]、浸水に対応しろ!</seg>
       </tuv>
     </tu>
     <tu>
