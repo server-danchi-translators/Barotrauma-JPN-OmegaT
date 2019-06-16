@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1075,6 +1075,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190609T014857Z" creationid="totochan" creationdate="20190609T014823Z">
         <seg>自動操縦で\n停止位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Aand it's dead!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T125117Z" creationid="nick2" creationdate="20190616T125117Z">
+        <seg>ぶっ殺してやったぜ!</seg>
       </tuv>
     </tu>
     <tu>
@@ -5934,8 +5942,8 @@
       <tuv lang="EN-US">
         <seg>Fire in the hole!</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190610T062611Z" creationid="totochan" creationdate="20190610T062611Z">
-        <seg>尻に火が付いた！</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T125150Z" creationid="totochan" creationdate="20190610T062611Z">
+        <seg>爆風に注意しろ！</seg>
       </tuv>
     </tu>
     <tu>
@@ -7206,8 +7214,8 @@
       <tuv lang="EN-US">
         <seg>I think I got it!</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190610T062639Z" creationid="totochan" creationdate="20190610T062639Z">
-        <seg>理解できたと思う</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T125204Z" creationid="totochan" creationdate="20190610T062639Z">
+        <seg>やったか!?</seg>
       </tuv>
     </tu>
     <tu>
