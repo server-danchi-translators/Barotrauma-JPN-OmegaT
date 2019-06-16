@@ -1651,6 +1651,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Also, keep your eye on that damn toy-tinkering wannabe engineer mechanic, and whatever you do, don’t bite into the psycho-babble of the medic.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T135028Z" creationid="nick2" creationdate="20190616T134649Z">
+        <seg>それと、あのおもちゃ弄りが得意なエンジニアもどきのメカニック達に注意し、メディックの精神演説に耳を貸さないようにしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Although usually taken for granted, doctors play an important role on the submarine, possessing the required skill to treat injured or unconscious crew members.</seg>
       </tuv>
       <tuv lang="JA" changeid="Rasiel" changedate="20190612T063607Z" creationid="Rasiel" creationdate="20190612T063513Z">
@@ -2534,8 +2542,8 @@
       <tuv lang="EN-US">
         <seg>Beyond the fancy talk and costume play, you are the guy who really runs the ship, get it?</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190616T134454Z" creationid="nick2" creationdate="20190616T134454Z">
-        <seg>冗談を言い合ってコスプレする他、船を動かすための"本物の"ジョブです。</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T134657Z" creationid="nick2" creationdate="20190616T134454Z">
+        <seg>冗談を言い合ってコスプレする他に、船を動かすための"本物の仕事"をするジョブです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15961,6 +15969,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T171400Z" creationid="nick2" creationdate="20190608T171400Z">
         <seg>トリフィライト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Trust in the laws of physics and think clear.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T134609Z" creationid="nick2" creationdate="20190616T134557Z">
+        <seg>物理の法則を信頼し、鮮明に脳みそを使いましょう。</seg>
       </tuv>
     </tu>
     <tu>
