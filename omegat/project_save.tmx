@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6884,6 +6884,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I'll charge the batteries!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T122231Z" creationid="nick2" creationdate="20190616T122231Z">
+        <seg>バッテリーを充電する!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'll extinguish the fires!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T122128Z" creationid="nick2" creationdate="20190616T122128Z">
+        <seg>消火する!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I'll maintain our position!</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190616T121605Z" creationid="nick2" creationdate="20190616T121605Z">
@@ -6904,6 +6920,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190616T121447Z" creationid="nick2" creationdate="20190616T121447Z">
         <seg>かじを取るぞ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'll operate the batteries!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T122140Z" creationid="nick2" creationdate="20190616T122140Z">
+        <seg>バッテリーを操作する!</seg>
       </tuv>
     </tu>
     <tu>
@@ -6932,6 +6956,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I'll set the course onwards!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T121927Z" creationid="nick2" creationdate="20190616T121927Z">
+        <seg>進路を進める!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I'll shut down the reactor!</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190610T023827Z" creationid="kakonya" creationdate="20190610T023827Z">
@@ -6944,6 +6976,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190616T121440Z" creationid="nick2" creationdate="20190616T121440Z">
         <seg>潜水艦の舵を取るぞ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'll take care of leaks!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T122053Z" creationid="nick2" creationdate="20190616T122053Z">
+        <seg>浸水を直す!</seg>
       </tuv>
     </tu>
     <tu>
@@ -17303,6 +17343,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[name], charge the batteries!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T122153Z" creationid="nick2" creationdate="20190616T122153Z">
+        <seg>[name]、バッテリーをチャージしろ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[name], extinguish the fire!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T122102Z" creationid="nick2" creationdate="20190616T122102Z">
+        <seg>[name]、火を消せ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[name], fire at will!</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190610T062750Z" creationid="totochan" creationdate="20190610T062750Z">
@@ -17335,6 +17391,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[name], make sure all batteries are charged!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T122223Z" creationid="nick2" creationdate="20190616T122223Z">
+        <seg>[name],、すべてのバッテリの充電確認をしろ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[name], man the guns!</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190616T121348Z" creationid="totochan" creationdate="20190610T062725Z">
@@ -17347,6 +17411,22 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190616T121426Z" creationid="nick2" creationdate="20190616T121426Z">
         <seg>[name]、かじを切れ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[name], navigate onwards!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T121836Z" creationid="nick2" creationdate="20190616T121836Z">
+        <seg>[name]、前進!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[name], operate the batteries!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T122134Z" creationid="nick2" creationdate="20190616T122134Z">
+        <seg>[name]、バッテリーを操作しろ!</seg>
       </tuv>
     </tu>
     <tu>
@@ -17377,8 +17457,24 @@
       <tuv lang="EN-US">
         <seg>[name], set the course back!</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190616T121701Z" creationid="nick2" creationdate="20190616T121701Z">
-        <seg>[name]、経路を戻せ!</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T121815Z" creationid="nick2" creationdate="20190616T121701Z">
+        <seg>[name]、進路を戻せ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[name], set the course onwards!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T121903Z" creationid="nick2" creationdate="20190616T121903Z">
+        <seg>[name]、進路を前へ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[name], set the course to our destination!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T121913Z" creationid="nick2" creationdate="20190616T121913Z">
+        <seg>[name]、進路を目的地に設定!</seg>
       </tuv>
     </tu>
     <tu>
@@ -17391,10 +17487,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[name], start fixing leaks!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T122016Z" creationid="nick2" creationdate="20190616T122002Z">
+        <seg>[name]、浸水の修理を開始せよ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[name], steer the submarine!</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190616T121435Z" creationid="nick2" creationdate="20190616T121435Z">
         <seg>[name]、潜水艦を操縦しろ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[name], take care of any leaks!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T122040Z" creationid="nick2" creationdate="20190616T122040Z">
+        <seg>[name]、浸水を見つけて直せ!</seg>
       </tuv>
     </tu>
     <tu>
