@@ -1447,6 +1447,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alien Ruins</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T131510Z" creationid="totochan" creationdate="20190616T131510Z">
+        <seg>エイリアンの遺跡</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alien Trinket</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T210301Z" creationid="nick2" creationdate="20190609T210301Z">
@@ -9328,6 +9336,14 @@
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190608T062722Z" creationid="totochan" creationdate="20190607T140351Z">
         <seg>人員補充を開始するプレイヤー数:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mining Outpost</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T131259Z" creationid="totochan" creationdate="20190616T131259Z">
+        <seg>採掘基地</seg>
       </tuv>
     </tu>
     <tu>
@@ -18255,6 +18271,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[name] Biomedical Research Center</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T131235Z" creationid="totochan" creationdate="20190616T131235Z">
+        <seg>[name] バイオ生物研究施設</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[name] City</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190616T120632Z" creationid="totochan" creationdate="20190616T120632Z">
@@ -18295,10 +18319,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[name] Mining Facility</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T131309Z" creationid="totochan" creationdate="20190616T131309Z">
+        <seg>[name] 採掘施設</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[name] Outpost</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190616T120740Z" creationid="totochan" creationdate="20190616T120740Z">
         <seg>[name] 施設</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[name] Prospecting Outpost</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T131438Z" creationid="totochan" creationdate="20190616T131438Z">
+        <seg>[name] 探査基地</seg>
       </tuv>
     </tu>
     <tu>
@@ -18315,6 +18355,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190616T131106Z" creationid="totochan" creationdate="20190616T131106Z">
         <seg>[name] 研究施設</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[name] Ruins</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T131444Z" creationid="totochan" creationdate="20190616T131444Z">
+        <seg>[name] 遺跡</seg>
       </tuv>
     </tu>
     <tu>
