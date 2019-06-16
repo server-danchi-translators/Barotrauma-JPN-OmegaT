@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9044,6 +9044,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mission failed</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Rasiel" changedate="20190616T123341Z" creationid="Rasiel" creationdate="20190616T123341Z">
+        <seg>ミッション失敗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mission info</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T061806Z" creationid="hiru4" creationdate="20190608T061806Z">
@@ -10940,6 +10948,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Privacy policy</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Rasiel" changedate="20190616T123359Z" creationid="Rasiel" creationdate="20190616T123359Z">
+        <seg>個人情報保護方針</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Produces a constant signal that can be used to change the state of equipment and doors.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T185017Z" creationid="nick2" creationdate="20190609T185017Z">
@@ -11800,6 +11816,14 @@
       </tuv>
       <tuv lang="JA" changeid="PalZaxson" changedate="20190610T050850Z" creationid="PalZaxson" creationdate="20190610T043623Z">
         <seg>[location1] の研究者たちが以前エウロパで発見されたエイリアンの人工物が発するものと非常によく似た、超低周波の信号を発見した。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Researchers of [location1] need someone to deliver some dangerous chemicals to [location2] for a reward of [reward] credits.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Rasiel" changedate="20190616T123707Z" creationid="Rasiel" creationdate="20190616T123707Z">
+        <seg>[location1]の研究員は[location2]へ危険な化学物質を運ぶ人を[reward]クレジットで募集してます。</seg>
       </tuv>
     </tu>
     <tu>
