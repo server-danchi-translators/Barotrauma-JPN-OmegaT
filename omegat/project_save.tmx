@@ -3499,6 +3499,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Compared to larger vessels, the Dugong series is overshadowed in all aspects except one: their reliability for their price is world class.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Rasiel" changedate="20190616T130054Z" creationid="Rasiel" creationdate="20190616T130054Z">
+        <seg>大型船と比較して、Dugongシリーズはすべての面で影が薄くなっています。しかし、価格に対する信頼性は世界トップクラスです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Compatible</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T062018Z" creationid="hiru4" creationdate="20190608T062018Z">
@@ -8054,8 +8062,8 @@
       <tuv lang="EN-US">
         <seg>Its two engines and three ballasts require a copious amount of power to operate, and keeping the machinery in condition is a handful for even a moderately large crew.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Rasiel" changedate="20190616T125117Z" creationid="Rasiel" creationdate="20190616T125117Z">
-        <seg>その2つのエンジンと3つのバラストは作動するために莫大な量の電力を必要とします、そして機械を最適な状態に保てるのは多くの乗組員の中でも一握りです。</seg>
+      <tuv lang="JA" changeid="Rasiel" changedate="20190616T125304Z" creationid="Rasiel" creationdate="20190616T125117Z">
+        <seg>その2つのエンジンと3つのバラストは作動するために莫大な量の電力を必要とします、そして機械を最適な状態に保てるのは多くの乗組員がいても一苦労です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15232,6 +15240,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190610T204022Z" creationid="nick2" creationdate="20190610T204022Z">
         <seg>呼吸するのにいっぱいいっぱいなようです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They're lacking in firepower and speed, so smart maneuvering is key.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Rasiel" changedate="20190616T130339Z" creationid="Rasiel" creationdate="20190616T130339Z">
+        <seg>この船は火力とスピードに欠けているので、スマートな操縦が重要です。</seg>
       </tuv>
     </tu>
     <tu>
