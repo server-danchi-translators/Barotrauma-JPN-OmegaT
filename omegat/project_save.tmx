@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3039,6 +3039,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T043008Z" creationid="nick2" creationdate="20190608T043008Z">
         <seg>死因</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Causes chemicals to last longer.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T125856Z" creationid="nick2" creationdate="20190616T125856Z">
+        <seg>化学物質が長持ちするようにします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7092,10 +7100,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Husk infection resistance</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T125958Z" creationid="nick2" creationdate="20190616T125958Z">
+        <seg>ハスク感染耐性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hydroxyapatite</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T171715Z" creationid="nick2" creationdate="20190608T171715Z">
         <seg>ハイドロキシアパタイト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hyperactivity</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T125905Z" creationid="nick2" creationdate="20190616T125905Z">
+        <seg>多動性</seg>
       </tuv>
     </tu>
     <tu>
@@ -7864,6 +7888,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190610T062016Z" creationid="totochan" creationdate="20190610T061939Z">
         <seg>打ち身</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Internal organs are more accustomed to high pressures.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T130126Z" creationid="nick2" creationdate="20190616T130126Z">
+        <seg>内臓が高い圧力に慣れています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9580,6 +9612,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Movement speed and reflexes are heightened.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T125913Z" creationid="nick2" creationdate="20190616T125913Z">
+        <seg>移動速度と反射神経が高まっています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mud raptors can easily tear their way through metal doors with their sharp beaks.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T012250Z" creationid="nick2" creationdate="20190608T012250Z">
@@ -10732,6 +10772,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Patient exhibits high mental fortitude.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T130103Z" creationid="nick2" creationdate="20190616T130103Z">
+        <seg>患者は、精神的な安定性がとても高いです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Patient's immune system is more attuned to alien parasites.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T130011Z" creationid="nick2" creationdate="20190616T130011Z">
+        <seg>患者の免疫系は、エイリアンの寄生虫に対してより敏感です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Patient's pain receptors are numbed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T130153Z" creationid="nick2" creationdate="20190616T130153Z">
+        <seg>患者の痛みの受容体は麻痺しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pause on focus lost</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113451Z" creationid="kakonya" creationdate="20190607T113451Z">
@@ -11220,6 +11284,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pressure resistance</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T130109Z" creationid="nick2" creationdate="20190616T130109Z">
+        <seg>耐圧性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pressure rising in [roomname]!</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190616T122636Z" creationid="totochan" creationdate="20190616T122636Z">
@@ -11344,6 +11416,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T210226Z" creationid="nick2" creationdate="20190609T210226Z">
         <seg>サイコシスエイリアンアーティファクト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Psychosis resistance</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T130022Z" creationid="nick2" creationdate="20190616T130022Z">
+        <seg>精神病耐性</seg>
       </tuv>
     </tu>
     <tu>
@@ -13112,6 +13192,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T172417Z" creationid="nick2" creationdate="20190608T172417Z">
         <seg>スライム細菌</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Slow metabolism</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T125851Z" creationid="nick2" creationdate="20190616T125851Z">
+        <seg>遅い代謝</seg>
       </tuv>
     </tu>
     <tu>
@@ -16288,6 +16376,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T141243Z" creationid="totochan" creationdate="20190607T141243Z">
         <seg>ビデオ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vigor</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T130128Z" creationid="nick2" creationdate="20190616T130128Z">
+        <seg>活力</seg>
       </tuv>
     </tu>
     <tu>
