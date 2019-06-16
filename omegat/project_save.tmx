@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2767,6 +2767,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190609T014320Z" creationid="totochan" creationdate="20190609T014320Z">
         <seg>バッテリーよりもずっと早く充電できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Can't breathe!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T122252Z" creationid="totochan" creationdate="20190616T122252Z">
+        <seg>息ができない!</seg>
       </tuv>
     </tu>
     <tu>
@@ -6516,6 +6524,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Help, I'm bleeding!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T122311Z" creationid="totochan" creationdate="20190616T122311Z">
+        <seg>出血を止めてくれ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Helps prevent screen tearing artifacts.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113534Z" creationid="kakonya" creationdate="20190607T113534Z">
@@ -6852,6 +6868,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I need oxygen!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T122211Z" creationid="totochan" creationdate="20190616T122211Z">
+        <seg>酸素が必要だI need oxygen!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I need you to make sure we’re ready to deal with whatever comes after us when we leave.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T234019Z" creationid="kakonya" creationdate="20190608T234019Z">
@@ -6992,6 +7016,22 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190610T062715Z" creationid="totochan" creationdate="20190610T062715Z">
         <seg>私が原子炉の面倒をみる!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'm bleeding out!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T122544Z" creationid="totochan" creationdate="20190616T122544Z">
+        <seg>血が止まらない</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'm passing out!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T122247Z" creationid="totochan" creationdate="20190616T122247Z">
+        <seg>意識を無くしそうだ！</seg>
       </tuv>
     </tu>
     <tu>
@@ -16135,6 +16175,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Where are the oxygen tanks?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T122154Z" creationid="totochan" creationdate="20190616T122154Z">
+        <seg>酸素ボンベはどこにある？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>While aiming, hold {1} to weld.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T103045Z" creationid="kakonya" creationdate="20190607T103045Z">
@@ -17595,6 +17643,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T062415Z" creationid="hiru4" creationdate="20190608T062415Z">
         <seg>エンジン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>gasping</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T122259Z" creationid="totochan" creationdate="20190616T122259Z">
+        <seg>苦しい！</seg>
       </tuv>
     </tu>
     <tu>
