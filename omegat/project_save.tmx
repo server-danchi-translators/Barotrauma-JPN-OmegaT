@@ -7000,8 +7000,8 @@
       <tuv lang="EN-US">
         <seg>He’s so deep in his softie inner world he’s practically a woman.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190616T135827Z" creationid="nick2" creationdate="20190616T135451Z">
-        <seg>雑魚メンタルメディックはナルシスト妄想が女々しすぎて男の娘かな？と思うくらいです。</seg>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T140639Z" creationid="nick2" creationdate="20190616T135451Z">
+        <seg>ナルシストメディックは妄想が女々しすぎて男の娘かな？と思うくらいです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10290,6 +10290,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190616T124930Z" creationid="totochan" creationdate="20190610T062205Z">
         <seg>息をしていない</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Not everybody has your moral strength—hell, most of them are so crooked that it’s questionable if they even should be allowed to live.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T140724Z" creationid="nick2" creationdate="20190616T140627Z">
+        <seg>誰もがあなたほどの精神力を有しているわけではありません。 - というか、ほとんどの人は雑魚メンタルすぎて生きている価値があるのか疑問に思うくらいです。</seg>
       </tuv>
     </tu>
     <tu>
