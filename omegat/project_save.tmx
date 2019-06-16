@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -91,6 +91,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T053823Z" creationid="kakonya" creationdate="20190608T053823Z">
         <seg>バッテリ駆動の水中推進装置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A blip on the sonar at [direction]!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T123149Z" creationid="totochan" creationdate="20190616T123149Z">
+        <seg>[direction]のソナーが弾かれる！</seg>
       </tuv>
     </tu>
     <tu>
@@ -347,6 +355,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190610T184503Z" creationid="nick2" creationdate="20190610T184503Z">
         <seg>クローラーの大きな群れが 、[location1] と [location2] の間を航行する船舶を危険にさらしている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A large target on the sonar at [direction]!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T123257Z" creationid="totochan" creationdate="20190616T123257Z">
+        <seg>[direction]に大型の目標を確認!</seg>
       </tuv>
     </tu>
     <tu>
@@ -931,6 +947,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190609T013809Z" creationid="totochan" creationdate="20190609T013809Z">
         <seg>液体酸素を収容するタンク。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A target on the sonar at [direction]!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T123113Z" creationid="totochan" creationdate="20190616T123113Z">
+        <seg>[direction]に標的を確認！</seg>
       </tuv>
     </tu>
     <tu>
@@ -6256,6 +6280,22 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T020605Z" creationid="kakonya" creationdate="20190608T020605Z">
         <seg>良いでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Got a large ping at [direction]!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T123346Z" creationid="totochan" creationdate="20190616T123346Z">
+        <seg>[direction]から。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Got a target at [direction]!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T123224Z" creationid="totochan" creationdate="20190616T123224Z">
+        <seg>[direction]にて標的!</seg>
       </tuv>
     </tu>
     <tu>
@@ -12840,6 +12880,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T233423Z" creationid="kakonya" creationdate="20190607T233423Z">
         <seg>暗くて不快なものが口の中でうごめいています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Something on the sonar at [direction]!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T123154Z" creationid="totochan" creationdate="20190616T123154Z">
+        <seg>[direction]のソナーに何か映っています!</seg>
       </tuv>
     </tu>
     <tu>
