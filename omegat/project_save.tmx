@@ -7214,8 +7214,8 @@
       <tuv lang="EN-US">
         <seg>I'll maintain our position!</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190616T121605Z" creationid="nick2" creationdate="20190616T121605Z">
-        <seg>私たちの位置を維持します!</seg>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T124827Z" creationid="nick2" creationdate="20190616T121605Z">
+        <seg>持ち場を離れるな!</seg>
       </tuv>
     </tu>
     <tu>
@@ -7230,8 +7230,8 @@
       <tuv lang="EN-US">
         <seg>I'll man the helm!</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190616T121447Z" creationid="nick2" creationdate="20190616T121447Z">
-        <seg>かじを取るぞ!</seg>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T124744Z" creationid="nick2" creationdate="20190616T121447Z">
+        <seg>操舵する!</seg>
       </tuv>
     </tu>
     <tu>
@@ -7262,8 +7262,8 @@
       <tuv lang="EN-US">
         <seg>I'll set the course back!</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190616T121811Z" creationid="nick2" creationdate="20190616T121811Z">
-        <seg>進路を元に戻す!</seg>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T124837Z" creationid="nick2" creationdate="20190616T121811Z">
+        <seg>コースを元に戻します!</seg>
       </tuv>
     </tu>
     <tu>
@@ -18121,8 +18121,8 @@
       <tuv lang="EN-US">
         <seg>[name], maintain position!</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190616T121456Z" creationid="nick2" creationdate="20190616T121456Z">
-        <seg>[name]、現在位置を保持!</seg>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T124755Z" creationid="nick2" creationdate="20190616T121456Z">
+        <seg>[name]、位置を保持!</seg>
       </tuv>
     </tu>
     <tu>
@@ -18145,8 +18145,8 @@
       <tuv lang="EN-US">
         <seg>[name], man the helm!</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190616T121426Z" creationid="nick2" creationdate="20190616T121426Z">
-        <seg>[name]、かじを切れ!</seg>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T124723Z" creationid="nick2" creationdate="20190616T121426Z">
+        <seg>[name]、操舵しろ!</seg>
       </tuv>
     </tu>
     <tu>
@@ -18161,16 +18161,16 @@
       <tuv lang="EN-US">
         <seg>[name], man the weapons!</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190616T122503Z" creationid="nick2" creationdate="20190616T122503Z">
-        <seg>[name]、武装準備!</seg>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T124647Z" creationid="nick2" creationdate="20190616T122503Z">
+        <seg>[name]、武器を準備しろ！!</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>[name], navigate onwards!</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190616T121836Z" creationid="nick2" creationdate="20190616T121836Z">
-        <seg>[name]、前進!</seg>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T124844Z" creationid="nick2" creationdate="20190616T121836Z">
+        <seg>[name]、前に移動します</seg>
       </tuv>
     </tu>
     <tu>
@@ -18185,8 +18185,8 @@
       <tuv lang="EN-US">
         <seg>[name], operate the reactor!</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190616T124530Z" creationid="totochan" creationdate="20190616T124521Z">
-        <seg>[name]、リアクタを操作しろ！</seg>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T124621Z" creationid="totochan" creationdate="20190616T124521Z">
+        <seg>[name]、リアクタを操作！</seg>
       </tuv>
     </tu>
     <tu>
@@ -18241,8 +18241,8 @@
       <tuv lang="EN-US">
         <seg>[name], set the course back!</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190616T121815Z" creationid="nick2" creationdate="20190616T121701Z">
-        <seg>[name]、進路を戻せ!</seg>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T124833Z" creationid="nick2" creationdate="20190616T121701Z">
+        <seg>[name]、コースを元に戻します!</seg>
       </tuv>
     </tu>
     <tu>
