@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2627,6 +2627,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Broken devices in [roomname]!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T123915Z" creationid="nick2" creationdate="20190616T123915Z">
+        <seg>[roomname]で機器が破損！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Brown Wire</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T184447Z" creationid="nick2" creationdate="20190609T184447Z">
@@ -3071,6 +3079,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190610T062915Z" creationid="totochan" creationdate="20190610T062915Z">
         <seg>バッテリーを充電</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Charge, Stop charging</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T124231Z" creationid="nick2" creationdate="20190616T124231Z">
+        <seg>充電開始, 充電停止</seg>
       </tuv>
     </tu>
     <tu>
@@ -5644,6 +5660,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fighting the enemy!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T124131Z" creationid="nick2" creationdate="20190616T124131Z">
+        <seg>交戦中！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>File '[filename]' was downloaded successfully.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T133001Z" creationid="nick2" creationdate="20190608T132944Z">
@@ -5824,6 +5848,22 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T202758Z" creationid="nick2" creationdate="20190609T202758Z">
         <seg>消火器ブラケット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fire at will, Hold fire</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T124158Z" creationid="nick2" creationdate="20190616T124158Z">
+        <seg>攻撃開始, 攻撃中止</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fire in [roomname]!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T123748Z" creationid="nick2" creationdate="20190616T123748Z">
+        <seg>[roomname]で火災!</seg>
       </tuv>
     </tu>
     <tu>
@@ -6836,6 +6876,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hostiles in [roomname]!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T123854Z" creationid="nick2" creationdate="20190616T123854Z">
+        <seg>[roomname]に敵だ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hours</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T141057Z" creationid="totochan" creationdate="20190607T141057Z">
@@ -6912,6 +6960,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T111238Z" creationid="kakonya" creationdate="20190607T111238Z">
         <seg>船体に異常</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hull breach in [roomname]!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T123812Z" creationid="nick2" creationdate="20190616T123812Z">
+        <seg>[roomname]で装甲亀裂!</seg>
       </tuv>
     </tu>
     <tu>
@@ -7724,6 +7780,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Intruders in [roomname]!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T123826Z" creationid="nick2" creationdate="20190616T123826Z">
+        <seg>[roomname]に侵入者!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Inventory scale</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113612Z" creationid="kakonya" creationdate="20190607T113549Z">
@@ -8196,6 +8260,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Leak in [roomname]!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T123818Z" creationid="nick2" creationdate="20190616T123818Z">
+        <seg>[roomname]で浸水!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Leaks</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T102142Z" creationid="kakonya" creationdate="20190607T102142Z">
@@ -8584,6 +8656,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112049Z" creationid="kakonya" creationdate="20190607T112049Z">
         <seg>位置を維持</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Maintain position, Navigate back, Navigate to destination</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T124224Z" creationid="nick2" creationdate="20190616T124224Z">
+        <seg>現在地を維持, 戻る, 目標へ向かう</seg>
       </tuv>
     </tu>
     <tu>
@@ -9576,6 +9656,30 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T202354Z" creationid="nick2" creationdate="20190609T202354Z">
         <seg>複数の酸素ボンベを効率よく格納。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Need a medic in [roomname]!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T124043Z" creationid="nick2" creationdate="20190616T124007Z">
+        <seg>[roomname]に医者が必要だ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Need medical assistance in [roomname]!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T124059Z" creationid="nick2" creationdate="20190616T124028Z">
+        <seg>[roomname]に医療援助が必要だ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Need someone to repair devices in [roomname]!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T124032Z" creationid="nick2" creationdate="20190616T123949Z">
+        <seg>[roomname]の機器の修理が必要だ！</seg>
       </tuv>
     </tu>
     <tu>
@@ -10916,6 +11020,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Power up, Shut down</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T124151Z" creationid="nick2" creationdate="20190616T124151Z">
+        <seg>起動, シャットダウン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Powered</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T111336Z" creationid="kakonya" creationdate="20190607T111336Z">
@@ -11176,6 +11288,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T024420Z" creationid="kakonya" creationdate="20190608T024420Z">
         <seg>ポンプ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pump out, Stop pumping</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T124236Z" creationid="nick2" creationdate="20190616T124236Z">
+        <seg>排水開始, 排水停止</seg>
       </tuv>
     </tu>
     <tu>
@@ -11712,6 +11832,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190609T015248Z" creationid="totochan" creationdate="20190609T015248Z">
         <seg>すべての隔壁を修復</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Repair job specific, Repair everything</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T124255Z" creationid="nick2" creationdate="20190616T124255Z">
+        <seg>特定ジョブの修理, 全て修理</seg>
       </tuv>
     </tu>
     <tu>
@@ -13704,6 +13832,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T164526Z" creationid="nick2" creationdate="20190609T164526Z">
         <seg>寄生虫によって支配された</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Taking care of the intruders!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T124123Z" creationid="nick2" creationdate="20190616T124123Z">
+        <seg>侵入者の対処を開始！</seg>
       </tuv>
     </tu>
     <tu>
@@ -17807,6 +17943,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[name], defend the crew!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T124110Z" creationid="nick2" creationdate="20190616T124110Z">
+        <seg>[name]、乗組員を守れ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[name], eliminate all intruders!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T124106Z" creationid="nick2" creationdate="20190616T124106Z">
+        <seg>[name]、すべての侵入者を排除しろ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[name], extinguish the fire!</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190616T122102Z" creationid="nick2" creationdate="20190616T122102Z">
@@ -18067,6 +18219,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T123758Z" creationid="nick2" creationdate="20190608T123636Z">
         <seg>[requiredskill]のスキルがレベル[requiredlevel]分必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[roomname] is on fire!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T123754Z" creationid="nick2" creationdate="20190616T123754Z">
+        <seg>[roomname]が燃えています!</seg>
       </tuv>
     </tu>
     <tu>
