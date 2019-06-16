@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1831,6 +1831,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T195723Z" creationid="nick2" creationdate="20190609T195723Z">
         <seg>AND回路</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>And if nothing’s broken, then it's maintenance, maintenance, maintenance.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T131523Z" creationid="nick2" creationdate="20190616T131523Z">
+        <seg>そして仮に何も壊れていないなら、あなたのスケジュールはメンテナンス、メンテナンス、さらにメンテナンスで埋まっています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6472,6 +6480,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190609T002309Z" creationid="kakonya" creationdate="20190609T002251Z">
         <seg>早く治療してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Getting to the next destination is all that matters, and you’re the one who delivers.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T132015Z" creationid="nick2" creationdate="20190616T132015Z">
+        <seg>"目的地への到達"以外に重要なものはありません。そしてその目標にあなた程密接に関わっているジョブも他にはありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15212,6 +15228,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There are no breaks or rest for you, as everything that can break down, will break down.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T131301Z" creationid="nick2" creationdate="20190616T131241Z">
+        <seg>あなたに休憩なんて言うものは存在しません、機器が故障する確率が少しでもあるなら、それはいずれ"確実に"故障するからです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There aren't any batteries on this boat!</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190616T121232Z" creationid="totochan" creationdate="20190616T121232Z">
@@ -15272,6 +15296,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190616T125325Z" creationid="totochan" creationdate="20190616T124133Z">
         <seg>修理するものは何もありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There’s no thank-yous or respect, just snickering and contempt from your fellow crew members—but that’s okay.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T132243Z" creationid="nick2" creationdate="20190616T132243Z">
+        <seg>他の乗組員から貰えるのは感謝や尊敬の言葉ではなく冷笑や罵倒だけですが、それでもいいのです。</seg>
       </tuv>
     </tu>
     <tu>
