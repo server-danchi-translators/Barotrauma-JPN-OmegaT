@@ -18039,6 +18039,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[itemname] back in order!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T125522Z" creationid="nick2" creationdate="20190616T125522Z">
+        <seg>[itemname] 正常に作動!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[itemname] fixed!</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190616T122124Z" creationid="totochan" creationdate="20190616T122124Z">
