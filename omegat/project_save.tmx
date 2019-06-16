@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5408,6 +5408,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190610T061536Z" creationid="totochan" creationdate="20190610T061536Z">
         <seg>エンジニア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Engineer - The one who harnesses the power of nature.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T133326Z" creationid="nick2" creationdate="20190616T133326Z">
+        <seg>エンジニア - 自然のパワーを利用する者。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11324,6 +11332,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Power and oxygen, it's like that.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T133609Z" creationid="nick2" creationdate="20190616T133609Z">
+        <seg>電力と酸素の事です、まあ似たような物でしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Power up submarine’s reactor</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T024005Z" creationid="kakonya" creationdate="20190608T024005Z">
@@ -12472,6 +12488,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T061910Z" creationid="hiru4" creationdate="20190608T061910Z">
         <seg>プレイヤーの復帰[time]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Responsibilities\n-Maintenance of machinery\n-Repairing leaks</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T132544Z" creationid="nick2" creationdate="20190616T132544Z">
+        <seg>主な仕事\n-機械のメンテナンス\n-浸水修理</seg>
       </tuv>
     </tu>
     <tu>
@@ -15460,6 +15484,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is YOUR survival vessel, and if any of them make it too, well...whoop dee doo for them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T132451Z" creationid="nick2" creationdate="20190616T132451Z">
+        <seg>これは"あなたの"船であり、他の金魚のフン共もついでに生き残ったなら…それはそれでいいでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This job is a good choice for newcomers who want to get a hang of working on board the submarine without taking up tasks that they aren't qualified for.</seg>
       </tuv>
       <tuv lang="JA" changeid="Rasiel" changedate="20190612T063826Z" creationid="Rasiel" creationdate="20190612T063826Z">
@@ -17110,6 +17142,8 @@
       </tuv>
     </tu>
     <tu>
+      <note>自信なし、前後の文節と繋がっているかと思ったが、ピリオドがあるので違う？？
+</note>
       <tuv lang="EN-US">
         <seg>When the plan goes as planned and the gear works is as probable as the human race leaving this shithole.</seg>
       </tuv>
@@ -17291,6 +17325,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190610T205317Z" creationid="nick2" creationdate="20190610T205048Z">
         <seg>迅速な治療なしでは、スフォリン中毒により虚妄の後、急死してしまうでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Without, the ship don’t move and the lungs won’t breathe.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nick2" changedate="20190616T133737Z" creationid="nick2" creationdate="20190616T133737Z">
+        <seg>これらがなければ、船は微動だにせず、肺も動作しません。</seg>
       </tuv>
     </tu>
     <tu>
