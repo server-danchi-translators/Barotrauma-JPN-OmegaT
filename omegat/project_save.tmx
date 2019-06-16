@@ -215,6 +215,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A few more holes to go!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T121544Z" creationid="totochan" creationdate="20190616T121544Z">
+        <seg>他の浸水も修理しましょう！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A former military vessel, WH4-L3 'Humpback' has been outfitted to withstand most of the dangers in deep Europa.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190610T034522Z" creationid="kakonya" creationdate="20190610T034342Z">
@@ -9532,6 +9540,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>One leak fixed in [roomname]!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T121446Z" creationid="totochan" creationdate="20190616T121446Z">
+        <seg> [roomname] で浸水を一箇所修理した!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>One of the most crucial tools on board the submarine.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T112756Z" creationid="kakonya" creationdate="20190608T112756Z">
@@ -11276,6 +11292,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Repairing [roomname].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T121505Z" creationid="totochan" creationdate="20190616T121505Z">
+        <seg>[roomname]にて修理中！.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Repairing devices</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T013941Z" creationid="kakonya" creationdate="20190608T013941Z">
@@ -12704,6 +12728,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190610T062903Z" creationid="totochan" creationdate="20190610T062903Z">
         <seg>操艦</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stopped charging [itemname]!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T121356Z" creationid="totochan" creationdate="20190616T121356Z">
+        <seg> [itemname]の充電を停止しました</seg>
       </tuv>
     </tu>
     <tu>
