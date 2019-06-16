@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5934,8 +5934,8 @@
       <tuv lang="EN-US">
         <seg>Fire at will, Hold fire</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190616T124158Z" creationid="nick2" creationdate="20190616T124158Z">
-        <seg>攻撃開始, 攻撃中止</seg>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T125847Z" creationid="nick2" creationdate="20190616T124158Z">
+        <seg>攻撃開始,攻撃中止</seg>
       </tuv>
     </tu>
     <tu>
@@ -7054,8 +7054,8 @@
       <tuv lang="EN-US">
         <seg>Hull breach in [roomname]!</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190616T123812Z" creationid="nick2" creationdate="20190616T123812Z">
-        <seg>[roomname]で装甲亀裂!</seg>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T125737Z" creationid="nick2" creationdate="20190616T123812Z">
+        <seg>[roomname]で装甲に亀裂!</seg>
       </tuv>
     </tu>
     <tu>
@@ -9782,8 +9782,8 @@
       <tuv lang="EN-US">
         <seg>Need a medic in [roomname]!</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190616T124043Z" creationid="nick2" creationdate="20190616T124007Z">
-        <seg>[roomname]に医者が必要だ！</seg>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T125805Z" creationid="nick2" creationdate="20190616T124007Z">
+        <seg>[roomname]にドクターが必要だ！</seg>
       </tuv>
     </tu>
     <tu>
@@ -11150,8 +11150,8 @@
       <tuv lang="EN-US">
         <seg>Power up, Shut down</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190616T124151Z" creationid="nick2" creationdate="20190616T124151Z">
-        <seg>起動, シャットダウン</seg>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T125843Z" creationid="nick2" creationdate="20190616T124151Z">
+        <seg>起動,停止</seg>
       </tuv>
     </tu>
     <tu>
@@ -11966,8 +11966,8 @@
       <tuv lang="EN-US">
         <seg>Repair job specific, Repair everything</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190616T124330Z" creationid="nick2" creationdate="20190616T124255Z">
-        <seg>専門ジョブの修理, 全て修理</seg>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T125943Z" creationid="nick2" creationdate="20190616T124255Z">
+        <seg>専門分野を修理, 専門外修理(ALL)</seg>
       </tuv>
     </tu>
     <tu>
@@ -18457,8 +18457,8 @@
       <tuv lang="EN-US">
         <seg>[roomname] is on fire!</seg>
       </tuv>
-      <tuv lang="JA" changeid="nick2" changedate="20190616T123754Z" creationid="nick2" creationdate="20190616T123754Z">
-        <seg>[roomname]が燃えています!</seg>
+      <tuv lang="JA" changeid="totochan" changedate="20190616T125733Z" creationid="nick2" creationdate="20190616T123754Z">
+        <seg>[roomname]が炎上中!</seg>
       </tuv>
     </tu>
     <tu>
