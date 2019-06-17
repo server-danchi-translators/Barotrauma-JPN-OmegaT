@@ -8184,8 +8184,8 @@
       <tuv lang="EN-US">
         <seg>It must be readily available during long transits aboard submarines, which is made possible by oxygen generators.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Rasiel" changedate="20190617T125535Z" creationid="Rasiel" creationdate="20190617T125535Z">
-        <seg>酸素は潜水艦の長い航海の中で酸素</seg>
+      <tuv lang="JA" changeid="Rasiel" changedate="20190617T125800Z" creationid="Rasiel" creationdate="20190617T125535Z">
+        <seg>酸素は潜水艦の長い航海の中でも酸素発生器によりすぐに利用できるようにしなければいけません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15690,6 +15690,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190610T195617Z" creationid="nick2" creationdate="20190610T195617Z">
         <seg>今すぐ解毒剤の物資を届けることができれば生還の可能性があるかもしれません...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They pump air through ventilation to different rooms and can be used to refill oxygen tanks.\n\nTo refill oxygen tanks, interact ([InteractType.Use]) with the generator to open its inventory.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Rasiel" changedate="20190617T125944Z" creationid="Rasiel" creationdate="20190617T125944Z">
+        <seg>換気によってさまざまな部屋に空気を送り、酸素タンクを補充するために使用できます。酸素タンクを補充するには、酸素発生器にアクセスして([InteractType.Use])インベントリを開きます。</seg>
       </tuv>
     </tu>
     <tu>
