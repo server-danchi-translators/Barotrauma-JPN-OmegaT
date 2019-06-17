@@ -8182,6 +8182,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It must be readily available during long transits aboard submarines, which is made possible by oxygen generators.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Rasiel" changedate="20190617T125535Z" creationid="Rasiel" creationdate="20190617T125535Z">
+        <seg>酸素は潜水艦の長い航海の中で酸素</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It responds to any fluctuations in grid load, but is considerably slower than a human operator.</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190611T062103Z" creationid="kakonya" creationdate="20190608T022008Z">
