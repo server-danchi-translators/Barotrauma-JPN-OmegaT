@@ -1207,6 +1207,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Advanced Velonaceps calyx infection</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Rasiel" changedate="20190617T123943Z" creationid="Rasiel" creationdate="20190617T123943Z">
+        <seg>発展型Velonaceps calyx感染</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Affects how close the cursor has to be to an item to highlight it.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190608T061232Z" creationid="kakonya" creationdate="20190607T113840Z">
@@ -10478,6 +10486,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>OK</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Rasiel" changedate="20190617T123712Z" creationid="Rasiel" creationdate="20190617T123712Z">
+        <seg>了解</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>OUT</seg>
       </tuv>
       <tuv lang="JA" changeid="Rasiel" changedate="20190617T123648Z" creationid="Rasiel" creationdate="20190617T123648Z">
@@ -16730,6 +16746,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T181132Z" creationid="nick2" creationdate="20190608T181132Z">
         <seg>Velonacepsがく卵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Velonaceps calyx infection</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Rasiel" changedate="20190617T123719Z" creationid="Rasiel" creationdate="20190617T123719Z">
+        <seg>Velonaceps calyx感染</seg>
       </tuv>
     </tu>
     <tu>
