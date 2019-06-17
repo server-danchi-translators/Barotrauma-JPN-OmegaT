@@ -8512,8 +8512,8 @@
       <tuv lang="EN-US">
         <seg>Ladders</seg>
       </tuv>
-      <tuv lang="JA" changeid="Rasiel" changedate="20190617T124833Z" creationid="Rasiel" creationdate="20190617T124833Z">
-        <seg>梯子</seg>
+      <tuv lang="JA" changeid="Rasiel" changedate="20190617T124907Z" creationid="Rasiel" creationdate="20190617T124833Z">
+        <seg>はしご</seg>
       </tuv>
     </tu>
     <tu>
@@ -8738,6 +8738,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190610T033753Z" creationid="kakonya" creationdate="20190610T033753Z">
         <seg>終了する前に、すべての水抜きをしてみましょう</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Let go of the ladder by pressing {3} again.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Rasiel" changedate="20190617T124921Z" creationid="Rasiel" creationdate="20190617T124921Z">
+        <seg>もう一度{3}を押して、はしごから手を離します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10950,6 +10958,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Oxygen</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Rasiel" changedate="20190617T125033Z" creationid="Rasiel" creationdate="20190617T125033Z">
+        <seg>酸素</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Oxygen Detector</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T192332Z" creationid="nick2" creationdate="20190609T192238Z">
@@ -11002,6 +11018,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T001533Z" creationid="nick2" creationdate="20190608T001320Z">
         <seg>酸素発生器には、酸素ボンベを補充するためのドックが付いています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Oxygen is a valuable commodity in underwater Europa.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Rasiel" changedate="20190617T125233Z" creationid="Rasiel" creationdate="20190617T125233Z">
+        <seg>酸素はエウロパの水中では貴重な資源です。</seg>
       </tuv>
     </tu>
     <tu>
