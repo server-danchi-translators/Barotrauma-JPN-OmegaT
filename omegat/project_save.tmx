@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10002,6 +10002,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T210205Z" creationid="nick2" creationdate="20190609T210205Z">
         <seg>ナサノフエイリアンアーティファクト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Natural Formation</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190617T091808Z" creationid="totochan" creationdate="20190617T091808Z">
+        <seg>中間点</seg>
       </tuv>
     </tu>
     <tu>
