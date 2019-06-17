@@ -7094,6 +7094,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hold space to link to a docking port</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Rasiel" changedate="20190617T123506Z" creationid="Rasiel" creationdate="20190617T123506Z">
+        <seg>ドッキングポートに接続するためのスペースを確保する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hold space to link to another waypoint</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T172441Z" creationid="nick2" creationdate="20190609T172441Z">
@@ -7666,6 +7674,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T172937Z" creationid="nick2" creationdate="20190609T172937Z">
         <seg>IDカードタグ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IN</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Rasiel" changedate="20190617T123559Z" creationid="Rasiel" creationdate="20190617T123559Z">
+        <seg>注水</seg>
       </tuv>
     </tu>
     <tu>
@@ -8784,8 +8800,8 @@
       <tuv lang="EN-US">
         <seg>Linked submarine</seg>
       </tuv>
-      <tuv lang="JA" changeid="Rasiel" changedate="20190617T123304Z" creationid="Rasiel" creationdate="20190617T123304Z">
-        <seg>潜水艦と接続</seg>
+      <tuv lang="JA" changeid="Rasiel" changedate="20190617T123431Z" creationid="Rasiel" creationdate="20190617T123304Z">
+        <seg>リンクされた潜水艦</seg>
       </tuv>
     </tu>
     <tu>
@@ -10458,6 +10474,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190611T061824Z" creationid="hiru4" creationdate="20190611T061824Z">
         <seg>最後の衝撃でパワーが半減されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OUT</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Rasiel" changedate="20190617T123648Z" creationid="Rasiel" creationdate="20190617T123648Z">
+        <seg>排水</seg>
       </tuv>
     </tu>
     <tu>
@@ -12254,6 +12278,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reload the linked submarine from the specified file</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Rasiel" changedate="20190617T123446Z" creationid="Rasiel" creationdate="20190617T123446Z">
+        <seg>指定されたファイルからリンクされた潜水艦をリロードします</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Remember to check each limb by selecting them in the medical interface.\n\nMedical supplies are often found in the med bay or storage, along with some basic meds in the supply cabinets scattered throughout the sub.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190610T021801Z" creationid="kakonya" creationdate="20190610T021801Z">
@@ -14042,6 +14074,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T132227Z" creationid="nick2" creationdate="20190608T132227Z">
         <seg>潜水艦 [subname] がサーバーによって選択されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Submarine file [file] not found!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Rasiel" changedate="20190617T123551Z" creationid="Rasiel" creationdate="20190617T123551Z">
+        <seg>潜水艦ファイル[ファイル]が見つかりません!</seg>
       </tuv>
     </tu>
     <tu>
