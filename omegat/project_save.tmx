@@ -8510,6 +8510,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ladders</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Rasiel" changedate="20190617T124833Z" creationid="Rasiel" creationdate="20190617T124833Z">
+        <seg>梯子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lamp</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T184848Z" creationid="nick2" creationdate="20190609T184848Z">
@@ -11289,6 +11297,14 @@
         <seg>Plasma Cutter</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T112820Z" creationid="kakonya" creationdate="20190608T112820Z">
+        <seg>プラズマカッター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Plasma cutter</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Rasiel" changedate="20190617T124802Z" creationid="Rasiel" creationdate="20190617T124802Z">
         <seg>プラズマカッター</seg>
       </tuv>
     </tu>
@@ -14390,6 +14406,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Syringe gun</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Rasiel" changedate="20190617T124724Z" creationid="Rasiel" creationdate="20190617T124724Z">
+        <seg>シリンジガン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tags</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112846Z" creationid="kakonya" creationdate="20190607T112846Z">
@@ -15934,6 +15958,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To grab onto a ladder, press {0}.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Rasiel" changedate="20190617T124849Z" creationid="Rasiel" creationdate="20190617T124849Z">
+        <seg>はしごをつかむには、{0}を押します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To order repairs, click on the “Repair Damaged Systems” button in the list next to the mechanic’s portrait.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190610T023044Z" creationid="kakonya" creationdate="20190610T022940Z">
@@ -16626,6 +16658,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T112737Z" creationid="kakonya" creationdate="20190608T112737Z">
         <seg>血栓が生じる可能性があるので注意して使用してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use {1} and {2} buttons to climb the ladder.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Rasiel" changedate="20190617T124902Z" creationid="Rasiel" creationdate="20190617T124902Z">
+        <seg>はしごを登るには{1}と{2}ボタンを使います。</seg>
       </tuv>
     </tu>
     <tu>
