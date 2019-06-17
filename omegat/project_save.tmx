@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8778,6 +8778,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T113535Z" creationid="kakonya" creationdate="20190607T113535Z">
         <seg>視覚効果のライン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Linked submarine</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Rasiel" changedate="20190617T123304Z" creationid="Rasiel" creationdate="20190617T123304Z">
+        <seg>潜水艦と接続</seg>
       </tuv>
     </tu>
     <tu>
