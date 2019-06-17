@@ -14590,6 +14590,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Hives of [name]</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Rasiel" changedate="20190617T124258Z" creationid="Rasiel" creationdate="20190617T124258Z">
+        <seg>[name]の巣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Moloch has been killed.</seg>
       </tuv>
       <tuv lang="JA" changeid="PalZaxson" changedate="20190610T050853Z" creationid="PalZaxson" creationdate="20190610T044644Z">
@@ -18711,6 +18719,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190616T131548Z" creationid="totochan" creationdate="20190616T131539Z">
         <seg>[name] 採掘所</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[name] Mining Claim</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Rasiel" changedate="20190617T124245Z" creationid="Rasiel" creationdate="20190617T124245Z">
+        <seg>[name]鉱区</seg>
       </tuv>
     </tu>
     <tu>
