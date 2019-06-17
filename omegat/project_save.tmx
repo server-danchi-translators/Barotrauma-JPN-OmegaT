@@ -8046,6 +8046,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Insert an empty oxygen tank into one of the slots to start refilling it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Rasiel" changedate="20190617T130003Z" creationid="Rasiel" creationdate="20190617T130003Z">
+        <seg>酸素を補充し始めるためにスロットの1つに空の酸素タンクをセットしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Insert oxygen tank to refill it</seg>
       </tuv>
       <tuv lang="JA" changeid="Rasiel" changedate="20190616T123816Z" creationid="Rasiel" creationdate="20190616T123816Z">
@@ -17519,6 +17527,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T103638Z" creationid="kakonya" creationdate="20190607T103541Z">
         <seg>潜水艦に浸水したら、ポンプを使用して余分な水を排水する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the tank is full, drag it back to your inventory or into your diving suit/mask.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Rasiel" changedate="20190617T130109Z" creationid="Rasiel" creationdate="20190617T130109Z">
+        <seg>酸素タンクがいっぱいになったら、インベントリまたは潜水服/マスクにドラッグして戻します。</seg>
       </tuv>
     </tu>
     <tu>
