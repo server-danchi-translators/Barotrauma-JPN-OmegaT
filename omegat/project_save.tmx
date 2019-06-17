@@ -3060,6 +3060,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Captain Huskinson</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Rasiel" changedate="20190617T124350Z" creationid="Rasiel" creationdate="20190617T124350Z">
+        <seg>キャプテン・ハスキンソン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Captain and security are harmless, and way below your intelligence.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190616T135923Z" creationid="nick2" creationdate="20190616T135622Z">
@@ -14754,6 +14762,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190610T192217Z" creationid="nick2" creationdate="20190610T192217Z">
         <seg>薬品は無事に配達されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The city of [name]</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Rasiel" changedate="20190617T124432Z" creationid="Rasiel" creationdate="20190617T124400Z">
+        <seg>[name]の都市</seg>
       </tuv>
     </tu>
     <tu>
