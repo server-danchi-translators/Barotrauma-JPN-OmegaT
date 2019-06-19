@@ -1127,6 +1127,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>AI controlled crew members require waypoints to navigate around the sub.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190619T113618Z" creationid="totochan" creationdate="20190619T113618Z">
+        <seg>AI制御の乗組員が潜水艦を移動するには経路の設定がが必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AUTOPILOT ON\nAutopilot is set to navigate towards [locationname].</seg>
       </tuv>
       <tuv lang="JA" changeid="Rasiel" changedate="20190609T021440Z" creationid="Rasiel" creationdate="20190609T020554Z">
@@ -6569,6 +6577,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190609T014248Z" creationid="totochan" creationdate="20190609T014248Z">
         <seg>一般的には、原子炉が故障した場合のバックアップ電源として使用される。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Generate waypoints</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190619T113541Z" creationid="totochan" creationdate="20190619T113541Z">
+        <seg>経路生成Generate waypoints</seg>
       </tuv>
     </tu>
     <tu>
