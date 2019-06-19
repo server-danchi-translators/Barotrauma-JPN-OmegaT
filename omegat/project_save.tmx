@@ -6509,6 +6509,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gaps</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190619T113927Z" creationid="totochan" creationdate="20190619T113927Z">
+        <seg>隙間</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gaps allow water and air to flow between two hulls.</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190619T112717Z" creationid="totochan" creationdate="20190619T112717Z">
@@ -7382,6 +7390,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hulls</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190619T113920Z" creationid="totochan" creationdate="20190619T113920Z">
+        <seg>船体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hulls determine which parts are considered to be 'inside the sub'.</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190619T112619Z" creationid="totochan" creationdate="20190619T112619Z">
@@ -7970,6 +7986,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T015142Z" creationid="nick2" creationdate="20190608T015142Z">
         <seg>もしも同僚の乗組員が他人には見えない幻覚を見たり聞いたりしだした場合、すぐにドクターに報告してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Illegal symbols in filename ([illegalchar])</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190619T114056Z" creationid="totochan" creationdate="20190619T114056Z">
+        <seg>不整合なファイルネーム ([illegalchar])</seg>
       </tuv>
     </tu>
     <tu>
@@ -8986,6 +9010,14 @@
       </tuv>
       <tuv lang="JA" changeid="Rasiel" changedate="20190617T123431Z" creationid="Rasiel" creationdate="20190617T123304Z">
         <seg>リンクされた潜水艦</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Links</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190619T113916Z" creationid="totochan" creationdate="20190619T113916Z">
+        <seg>リンク</seg>
       </tuv>
     </tu>
     <tu>
@@ -10202,6 +10234,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T061950Z" creationid="totochan" creationdate="20190607T141125Z">
         <seg>名前</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name your submarine before saving it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190619T113942Z" creationid="totochan" creationdate="20190619T113935Z">
+        <seg>保存する前に、潜水艦に名前を付けます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13374,6 +13414,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Selected hull volume</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190619T114117Z" creationid="totochan" creationdate="20190619T114117Z">
+        <seg>選択された船体ボリューム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Selected submarine</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T061301Z" creationid="hiru4" creationdate="20190608T061301Z">
@@ -14362,6 +14410,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T061236Z" creationid="hiru4" creationdate="20190608T061236Z">
         <seg>潜水艦選択されていません！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Submarine saved to [filepath].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190619T114018Z" creationid="totochan" creationdate="20190619T114018Z">
+        <seg>潜水艦の保存場所[filepath].</seg>
       </tuv>
     </tu>
     <tu>
@@ -16314,6 +16370,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190610T061311Z" creationid="totochan" creationdate="20190610T061311Z">
         <seg>体幹位置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Total hull volume</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190619T114109Z" creationid="totochan" creationdate="20190619T114109Z">
+        <seg>総船体ボリューム</seg>
       </tuv>
     </tu>
     <tu>
@@ -19559,6 +19623,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190616T122259Z" creationid="totochan" creationdate="20190616T122259Z">
         <seg>苦しい！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>insufficient volume for buoyancy control</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190619T114135Z" creationid="totochan" creationdate="20190619T114135Z">
+        <seg>浮力制御には不十分ボリューム</seg>
       </tuv>
     </tu>
     <tu>
