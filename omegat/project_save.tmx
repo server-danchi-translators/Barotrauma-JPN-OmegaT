@@ -175,6 +175,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A decorative structure with no collision detection.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190619T113158Z" creationid="totochan" creationdate="20190619T113158Z">
+        <seg>衝突検出のない装飾構造.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A decoy that can be deployed via the depth charge launcher.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T205447Z" creationid="nick2" creationdate="20190609T205330Z">
@@ -351,6 +359,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A large horizontal wall with collision detection.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190619T112951Z" creationid="totochan" creationdate="20190619T112951Z">
+        <seg>衝突検出付き大型水平隔壁。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A large swarm of crawlers has been terrorizing vessels traveling between [location1] and [location2].</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190610T184503Z" creationid="nick2" creationdate="20190610T184503Z">
@@ -363,6 +379,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190616T123257Z" creationid="totochan" creationdate="20190616T123257Z">
         <seg>[direction]に大型の目標を確認!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A large vertical wall with collision detection.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190619T113014Z" creationid="totochan" creationdate="20190619T113007Z">
+        <seg>衝突検出を持つ大規模な垂直隔壁</seg>
       </tuv>
     </tu>
     <tu>
@@ -6321,6 +6345,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T062221Z" creationid="hiru4" creationdate="20190608T062146Z">
         <seg>前部バラスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Front.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190619T113038Z" creationid="totochan" creationdate="20190619T113038Z">
+        <seg>前部Front.</seg>
       </tuv>
     </tu>
     <tu>
