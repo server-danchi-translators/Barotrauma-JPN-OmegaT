@@ -1191,6 +1191,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add submarine</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190619T114204Z" creationid="totochan" creationdate="20190619T114204Z">
+        <seg>潜水艦を追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add to whitelist</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T140412Z" creationid="totochan" creationdate="20190607T140412Z">
@@ -10846,6 +10854,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Open...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190619T114158Z" creationid="totochan" creationdate="20190619T114150Z">
+        <seg>開く...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Operate Pumps</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190610T062918Z" creationid="totochan" creationdate="20190610T062918Z">
@@ -11506,6 +11522,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T062022Z" creationid="hiru4" creationdate="20190608T062022Z">
         <seg>指向性ping</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Places another submarine into the current submarine file.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190619T114208Z" creationid="totochan" creationdate="20190619T114208Z">
+        <seg>現在の海底のファイルに別の潜水艦を配置します。</seg>
       </tuv>
     </tu>
     <tu>
