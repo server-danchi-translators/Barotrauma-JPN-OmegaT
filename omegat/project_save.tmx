@@ -4517,6 +4517,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Determines which rooms the crew spawns inside.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190619T112855Z" creationid="totochan" creationdate="20190619T112855Z">
+        <seg>乗務員を内部にスポーンする部屋を決定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Detonator</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T230814Z" creationid="kakonya" creationdate="20190608T230814Z">
@@ -6425,6 +6433,22 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190610T033758Z" creationid="kakonya" creationdate="20190610T033758Z">
         <seg>ガンマデッキ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gap</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190619T112724Z" creationid="totochan" creationdate="20190619T112724Z">
+        <seg>隙間</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gaps allow water and air to flow between two hulls.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190619T112717Z" creationid="totochan" creationdate="20190619T112717Z">
+        <seg>隙間があると、水と空気が2つの隔壁の間を流れます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16778,6 +16802,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190608T170114Z" creationid="nick2" creationdate="20190608T170057Z">
         <seg>様々な医薬品の原料として使用される。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Used by AI characters to navigate inside the submarine.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190619T112744Z" creationid="totochan" creationdate="20190619T112744Z">
+        <seg>潜水艦内をナビゲートするためにAIのキャラクターが使用されます。</seg>
       </tuv>
     </tu>
     <tu>
