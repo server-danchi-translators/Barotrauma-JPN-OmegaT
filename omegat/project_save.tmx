@@ -1651,6 +1651,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Allows you to connect wires between items.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190619T113533Z" creationid="totochan" creationdate="20190619T113533Z">
+        <seg>アイテム間の配線接続をすることがでkます。Allows you to connect wires between items.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Allows you to pick up and use items.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190619T113435Z" creationid="totochan" creationdate="20190619T113435Z">
+        <seg>アイテムを拾うと使用することができます。Allows you to pick up and use items.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alpha Deck</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190610T033756Z" creationid="kakonya" creationdate="20190610T033756Z">
@@ -3264,6 +3280,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190607T104156Z" creationid="totochan" creationdate="20190607T104156Z">
         <seg>キャラクターエディタ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Character mode</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190619T113413Z" creationid="totochan" creationdate="20190619T113413Z">
+        <seg>キャラクターモード</seg>
       </tuv>
     </tu>
     <tu>
@@ -7126,6 +7150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hide in menus</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190619T113309Z" creationid="totochan" creationdate="20190619T113309Z">
+        <seg>メニューを隠す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hide incompatible servers</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190609T012503Z" creationid="kakonya" creationdate="20190609T012503Z">
@@ -8898,6 +8930,14 @@
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T184302Z" creationid="nick2" creationdate="20190609T184302Z">
         <seg>ライト物資</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lighting</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190619T113401Z" creationid="totochan" creationdate="20190619T113401Z">
+        <seg>照明</seg>
       </tuv>
     </tu>
     <tu>
@@ -13110,6 +13150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Save assembly</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190619T113320Z" creationid="totochan" creationdate="20190619T113320Z">
+        <seg>保存アセンブリ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Save name</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T061340Z" creationid="hiru4" creationdate="20190608T061340Z">
@@ -13130,6 +13178,14 @@
       </tuv>
       <tuv lang="JA" changeid="spears" changedate="20190608T101032Z" creationid="spears" creationdate="20190608T101032Z">
         <seg>サーバーのログを保存します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save submarine</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190619T113325Z" creationid="totochan" creationdate="20190619T113325Z">
+        <seg>潜水艦を保存</seg>
       </tuv>
     </tu>
     <tu>
@@ -13566,6 +13622,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Show</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190619T113407Z" creationid="totochan" creationdate="20190619T113407Z">
+        <seg>表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Show folder</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T112926Z" creationid="kakonya" creationdate="20190607T112926Z">
@@ -13929,6 +13993,14 @@
         <seg>Spawnpoint</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190609T172443Z" creationid="nick2" creationdate="20190609T172443Z">
+        <seg>スポーンポイント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Spawnpoints</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190619T113339Z" creationid="totochan" creationdate="20190619T113339Z">
         <seg>スポーンポイント</seg>
       </tuv>
     </tu>
@@ -17294,6 +17366,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Waypoints</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190619T113349Z" creationid="totochan" creationdate="20190619T113349Z">
+        <seg>経路</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We have a crew member here who needs to get to [location2] in a hurry.</seg>
       </tuv>
       <tuv lang="JA" changeid="nick2" changedate="20190610T194335Z" creationid="nick2" creationdate="20190610T194335Z">
@@ -17767,6 +17847,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T023050Z" creationid="kakonya" creationdate="20190608T023050Z">
         <seg>配線</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wiring mode</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190619T113450Z" creationid="totochan" creationdate="20190619T113450Z">
+        <seg>配線モード</seg>
       </tuv>
     </tu>
     <tu>
