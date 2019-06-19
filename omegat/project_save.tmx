@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6469,6 +6469,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Generally every room should be enclosed by a hull.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190619T112453Z" creationid="totochan" creationdate="20190619T112453Z">
+        <seg>一般的には船体すべてを隔壁で囲む必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Generally not very effective against large or heavily armored targets, but ideal for taking down smaller enemies.</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T024752Z" creationid="kakonya" creationdate="20190608T024752Z">
@@ -7246,6 +7254,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hull</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190619T112510Z" creationid="totochan" creationdate="20190619T112408Z">
+        <seg>隔壁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hull breach</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190607T111238Z" creationid="kakonya" creationdate="20190607T111238Z">
@@ -7258,6 +7274,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190616T125737Z" creationid="nick2" creationdate="20190616T123812Z">
         <seg>[roomname]で装甲に亀裂!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hulls determine which parts are considered to be 'inside the sub'.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190619T112619Z" creationid="totochan" creationdate="20190619T112619Z">
+        <seg>隔壁は、 「潜水艦の内部」 とみなされる部分を決定します。</seg>
       </tuv>
     </tu>
     <tu>
