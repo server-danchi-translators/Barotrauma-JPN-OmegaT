@@ -3732,6 +3732,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Config File Output</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190626T095149Z" creationid="totochan" creationdate="20190626T095149Z">
+        <seg>コンフィグファイル出力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Connect the junction boxes</seg>
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190608T023214Z" creationid="kakonya" creationdate="20190608T023054Z">
@@ -7242,6 +7250,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190608T061154Z" creationid="hiru4" creationdate="20190608T061154Z">
         <seg>彼の</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hold Left Alt to adjust cycle speed</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190626T095126Z" creationid="totochan" creationdate="20190626T095126Z">
+        <seg>サイクル速度を調整するためには左Altをホールド</seg>
       </tuv>
     </tu>
     <tu>
