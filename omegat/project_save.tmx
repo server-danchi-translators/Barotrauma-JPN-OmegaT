@@ -4324,6 +4324,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cycle Speed</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190626T095046Z" creationid="totochan" creationdate="20190626T095046Z">
+        <seg>回転速度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DANGEROUS PRESSURE</seg>
       </tuv>
       <tuv lang="JA" changeid="Rasiel" changedate="20190609T020049Z" creationid="Rasiel" creationdate="20190609T020049Z">
@@ -10090,6 +10098,14 @@
       </tuv>
       <tuv lang="JA" changeid="kakonya" changedate="20190610T030345Z" creationid="kakonya" creationdate="20190610T030345Z">
         <seg>前哨地と衝突しないようにゆっくりと慎重に動いてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Movement Speed</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190626T095050Z" creationid="totochan" creationdate="20190626T095050Z">
+        <seg>移動速度</seg>
       </tuv>
     </tu>
     <tu>
@@ -17590,6 +17606,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Welcome to Barotrauma!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190626T094846Z" creationid="totochan" creationdate="20190626T094846Z">
+        <seg>Barotraumaへようこそ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Welcome to [OUTPOSTNAME].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190626T094925Z" creationid="totochan" creationdate="20190626T094925Z">
+        <seg> [OUTPOSTNAME]へようこそ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Welcome.</seg>
       </tuv>
       <tuv lang="JA" changeid="spears" changedate="20190608T102113Z" creationid="spears" creationdate="20190608T102113Z">
@@ -17634,6 +17666,14 @@
       </tuv>
       <tuv lang="JA" changeid="spears" changedate="20190608T085625Z" creationid="nick2" creationdate="20190608T003045Z">
         <seg>溶接ツールはシンプルな仕組みなので誰にも扱うことができますが、訓練を受けたメカニックはより素早く溶接でき、自分自身が怪我をする可能性も低いです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Well done.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190626T094941Z" creationid="totochan" creationdate="20190626T094941Z">
+        <seg>よくやった。</seg>
       </tuv>
     </tu>
     <tu>
